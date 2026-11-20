@@ -19,7 +19,7 @@ CATN = collections.OrderedDict([
  ('01-resolucoes-normativas', 'Resoluções Normativas (RN)'),
  ('02-instrucoes-normativas', 'Instruções Normativas (IN)'),
  ('03-resolucoes-diretoria-colegiada', 'Resoluções de Diretoria Colegiada (RDC) — 2000 a 2002'),
- ('04-resolucoes-consu', 'Resoluções do CONSU — 1998 a 1999'),
+ ('04-resolucoes-consu', 'Resoluções do CONSU — 1998 a 2000'),
  ('05-sumulas-normativas', 'Súmulas Normativas'),
  ('06-resolucoes-regimentais', 'Resoluções Regimentais (RR)'),
  ('07-pareceres-proge', 'Pareceres da PROGE'),

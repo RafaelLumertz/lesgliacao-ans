@@ -7,7 +7,7 @@ Coletados do [Portal de Legislação da ANS](https://componentes-portal.ans.gov.
 | [Resoluções Normativas (RN)](01-resolucoes-normativas/README.md) | 700 | 265 |
 | [Instruções Normativas (IN)](02-instrucoes-normativas/README.md) | 272 | 42 |
 | [Resoluções de Diretoria Colegiada (RDC) — 2000 a 2002](03-resolucoes-diretoria-colegiada/README.md) | 95 | 38 |
-| [Resoluções do CONSU — 1998 a 1999](04-resolucoes-consu/README.md) | 26 | 8 |
+| [Resoluções do CONSU — 1998 a 2000](04-resolucoes-consu/README.md) | 26 | 8 |
 | [Súmulas Normativas](05-sumulas-normativas/README.md) | 32 | 19 |
 | [Resoluções Regimentais (RR)](06-resolucoes-regimentais/README.md) | 39 | 19 |
 | [Pareceres da PROGE](07-pareceres-proge/README.md) | 19 | 19 |
