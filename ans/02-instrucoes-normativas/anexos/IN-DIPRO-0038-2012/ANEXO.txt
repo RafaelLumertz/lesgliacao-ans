@@ -1,0 +1,114 @@
+                                      ANEXO
+                       FICHA TÉCNICA DO INDICADOR
+
+
+                ÍNDICADOR DE RECLAMAÇÕES MOTIVADAS POR
+                      NÃO GARANTIA DE ATENDIMENTO
+
+
+Conceituação
+Representa o total de reclamações de beneficiários, motivadas pela não garantia de
+atendimento, nos termos da Resolução Normativa – RN nº 259, de 17/06/2011, alterada
+pela RN nº 268, de 01/09/2011, para cada 10.000 beneficiários da operadora, no período
+de avaliação.
+
+
+Método de Cálculo
+
+  Número de reclamações de beneficiários originadas por Notificação de
+   Investigação Preliminar – NIP e classificadas no tema “Garantia de
+                Atendimento” no período de avaliação *                          x 10.000
+
+       Média de beneficiários da operadora no período de avaliação
+
+* A ANS utilizará como base as reclamações originadas por Notificação de Investigação
+Preliminar – NIP, instituída pela Resolução Normativa – RN nº 226, de 05/08/2010.
+
+
+
+Definição de termos utilizados no Indicador
+    Numerador – é o número de reclamações de beneficiários referentes à não
+       garantia de atendimento nos termos das regras previstas na RN nº 259, de
+       17/06/2011, alterada pela RN nº 268, de 01/09/2011, por parte das operadoras de
+       seus respectivos planos privados de assistência à saúde, originadas dos meios
+       oficiais de denúncias. Incluem-se nos meios oficiais de denúncias aquelas
+       originadas de Notificação de Investigação Preliminar – NIP da operadora
+       relacionadas à garantia de atendimento e identificadas no Sistema de
+       Informações da Fiscalização – SIF, no período de análise, excluindo as NIP’s
+       que ainda estão em andamento ou que foram classificadas como improcedentes.
+
+
+
+            Anexo da IN nº XXX                                       Página 1
+    Denominador – média dos beneficiários informados pela operadora ao Sistema
+       de Informações de Beneficiários – SIB, no mesmo período de avaliação
+       considerado no numerador.
+
+
+Interpretação do Indicador
+Aponta se a operadora está garantindo o acesso dos beneficiários às coberturas
+contratadas, considerando os tempos de atendimento e as demais regras estabelecidas
+pela Resolução Normativa – RN nº 259, de 17/06/2011, alterada pela RN nº 268, de
+01/09/2011.
+
+
+Usos
+Permite acompanhar e avaliar a atuação das operadoras de planos de assistência à saúde
+e classificá-las em relação à atuação das demais operadoras do mesmo porte e do
+mesmo tipo de atenção prestada, quanto à obrigatoriedade da garantia de atendimento,
+nos termos da RN nº 259, de 17/06/2011, alterada pela RN nº 268, de 01/09/2011.
+Também permite acompanhar e avaliar a evolução da atuação das operadoras de planos
+de assistência à saúde em relação aos seus próprios resultados. Assim, seu uso permite
+acompanhamento e avaliação da atuação da operadora tanto em relação ao setor quanto
+em relação aos seus próprios resultados.
+
+
+Parâmetros, Dados Estatísticos e Recomendações
+Quanto menor o índice da operadora maior o acesso dos beneficiários às coberturas
+contratadas e maior o cumprimento dos tempos de atendimento e dos critérios
+estabelecidos pela Resolução Normativa – RN nº 259, de 17/06/2011, alterada pela RN
+nº 268, de 01/09/2011.
+Para acompanhamento e avaliação da operadora em relação aos resultados do setor,
+considera-se, como parâmetro, a mediana das reclamações de todas as operadoras do
+mesmo porte e tipo de atenção prestada. As operadoras que obtiverem resultado abaixo
+desta mediana serão classificadas na faixa 0. As operadoras que obtiverem resultado
+acima desta mediana serão distribuídas nas faixas: (1) ≤ 25%; (2) > 25% e ≤ 50%; (3) >
+50% e ≤ 75%; e (4) > 75%.
+
+
+
+              Anexo da IN nº XXX                                  Página 2
+Meta
+Não ter reclamação por não garantia de atendimento no período de avaliação.
+
+
+Fontes
+MS/ANS – Sistema de Informações de Fiscalização (SIF)
+MS/ANS – Sistema de Informações de Beneficiários (SIB)
+MS/ANS – Sistema de Cadastro de Operadoras (CADOP)
+MS/ANS – Sistema de Registro de Planos de Saúde (RPS)
+
+
+Limitações e Vieses
+Pode haver sub-registro das reclamações referentes à não garantia de atendimento, tendo
+em vista que muitos beneficiários não fazem queixa na ANS por diversos fatores. Em
+função disso, muitas reclamações são realizadas somente nos órgãos de defesa do
+consumidor. Esta situação poderá levar a ANS a avaliar apenas parte das situações de
+não garantia de atendimento nos termos da RN nº 259, de 2011, no âmbito dos planos
+privados de assistência à saúde.
+
+
+Referências
+Lei nº 9.656, de 03/06/1998, que dispõe sobre os planos e seguros privados de
+assistência à saúde.
+
+
+RN nº 259, de 17/06/2011, alterada pela RN nº 268, de 01/09/2011, que dispõe sobre a
+garantia de atendimento dos beneficiários de plano privado de assistência à saúde e dá
+outras providências.
+
+
+
+
+            Anexo da IN nº XXX                                     Página 3
+

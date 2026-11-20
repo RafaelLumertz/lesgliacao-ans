@@ -1,0 +1,245 @@
+                          ANEXO I
+GLOSSÁRIO A SER UTILIZADO PARA PREENCHIMENTO E ENVIO PELA
+  INTERNET DAS INFORMAÇÕES DE QUE TRATA ESTA INSTRUÇÃO
+                        NORMATIVA.
+
+
+1. Nome do Produto
+Para os produtos contratados após 1º de janeiro de 1999 trata-se do
+nome do produto de acordo com a Resolução Normativa nº 85, de 7 de
+dezembro de 2004, ou norma que vier a sucedê-la. Para os demais
+produtos comercializados anteriormente à data de vigência da Lei nº
+9.656, de 3 de junho de 1998, deverá ser preenchido o nome do
+produto, que deverá ser o mesmo utilizado no Sistema de Cadastro de
+Planos Privados de Assistência à Saúde (SCPA), conforme a Resolução
+Normativa nº 56, de 03 de dezembro de 2003, ou norma que vier a
+sucedê-la.
+
+2. Número de Registro do Produto
+Para os produtos contratados após 1º de janeiro de 1999 trata-se do
+número de registro concedido para cada produto pela Agência Nacional
+de Saúde Suplementar, de acordo com a Resolução Normativa nº 85, de
+2004, ou norma que vier a sucedê-la.
+Para os produtos contratados até 1º de janeiro de 1999, preencher o
+campo com 999999999.
+
+3. Código do Produto na Operadora
+Para os produtos contratados até 1º de janeiro de 1999 e os produtos
+adaptados à Lei nº 9.656, de 1998, refere-se ao código de identificação
+do produto no Sistema de Cadastro de Planos Privados de Assistência à
+Saúde comercializados anteriormente à data de vigência da Lei nº
+9.656, de 1998 (SCPA), conforme a Resolução Normativa nº 56, de 2003,
+ou norma que vier a sucedê-la.
+Para os produtos contratados após 1º de janeiro de 1999, preencher o
+campo com 999999999.
+
+4. Participação Financeira da Pessoa Jurídica Contratante
+O campo deve ser preenchido de acordo com a seguinte codificação:
+Plano
+        Produto coletivo financiado total ou parcialmente pela pessoa
+1
+        jurídica contratante
+        Produto coletivo não financiado pela pessoa jurídica
+2
+        contratante
+
+
+4.1. Produto coletivo financiado total ou parcialmente pela pessoa
+jurídica contratante
+A contraprestação pecuniária do produto coletivo é total ou
+parcialmente financiada pela pessoa jurídica contratante.
+
+4.2. Produto coletivo não financiado pela pessoa jurídica contratante
+A contraprestação pecuniária do produto coletivo não é financiada pela
+pessoa jurídica contratante e é integralmente financiada pelo
+beneficiário.
+
+5. Número do contrato ou apólice
+É o número do contrato ou da apólice firmado entre a operadora e a
+pessoa jurídica contratante.
+Deve ser o número informado na fatura de cobrança com a primeira
+parcela reajustada dos produtos coletivos com patrocinador ou no
+boleto de cobrança com a primeira parcela reajustada dos produtos
+coletivos sem patrocinador.
+No caso das Autogestões, deverá ser utilizado o número identificador
+criado pela operadora para o contrato ou produto.
+Em ambos os casos, o número do contrato ou da apólice deve ser
+conhecido pela empresa contratante e beneficiários.
+
+6. Mês/Ano Início Período de Aplicação
+Mês e ano no qual será iniciado o período de aplicação do reajuste ou
+manutenção sobre o valor da contraprestação pecuniária da
+contratante.
+
+7. Mês/Ano Final Período de Aplicação
+Mês e ano no qual será finalizado o período de aplicação do reajuste ou
+manutenção sobre o valor da contraprestação pecuniária da
+contratante.
+
+8. Mês/Ano Início Período de Análise
+Mês e ano no qual foi iniciado o período de análise do produto para
+definição do percentual aplicado ao valor da contraprestação
+pecuniária da contratante.
+
+9. Mês/Ano Final Período de Análise
+Mês e ano no qual foi finalizado o período de análise do produto para
+definição do percentual aplicado ao valor da contraprestação
+pecuniária da contratante.
+
+10. Linearidade do reajuste
+
+10.1. Reajuste Linear – é aquele aplicado igualmente a todos os
+beneficiários de um mesmo contrato de um determinado produto.
+
+10.2. Reajuste Não Linear – é aquele em que se aplicam percentuais de
+reajuste diferenciados para grupos de beneficiários dentro de um
+mesmo contrato de um determinado produto.
+Preencher com “S” no caso de reajuste linear e “N” no caso contrário.
+
+Linearidade do reajuste
+S           SIM
+N           NÃO
+
+
+11. Percentual Aplicado ao Contrato
+
+É o percentual referente ao reajuste, revisão ou manutenção incidente
+no valor da contraprestação pecuniária da contratante no período de
+aplicação informado.
+
+11.1. No caso de reajuste não linear, o percentual deve ser calculado
+como a média dos reajustes ponderada pelo número de beneficiários
+de acordo com a seguinte fórmula:
+
+
+r = (r1 x b1) + (r2 x b2) + ... + ...+ (rn x bn)
+           Nº de beneficiários total
+
+Onde:
+ - r é o percentual de reajuste total aplicado ao contrato;
+ - n é o número de grupos aos quais foram aplicados reajustes
+ diferenciados dentro de um mesmo contrato e produto;
+ - rn é o percentual aplicado ao n-ésimo grupo de beneficiários do
+ contrato; e
+ - bn é o número de beneficiários do n-ésimo grupo de beneficiários do
+ contrato.
+
+Nesse caso, os grupos de beneficiários, os números de beneficiários por
+grupo e os respectivos percentuais deverão estar discriminados na
+justificativa técnica.
+
+12. Número de Beneficiários
+É o número de beneficiários em cada contrato de um determinado
+produto, mensurado no último dia útil do mês anterior à aplicação do
+reajuste.
+
+13. Unidade Federativa (UF) do Contrato
+Preencher com a UF do contrato e produto caso todos os beneficiários
+de um mesmo contrato e produto tiverem domicílio em uma mesma
+UF, ou com aquela que tiver a maior despesa no período de análise,
+caso existam beneficiários com domicílio em mais de uma UF.
+
+14. Dispersão dos Beneficiários
+Preencher o campo com “E” caso todos os beneficiários de um mesmo
+contrato e produto tiverem domicílio em uma mesma UF, caso
+contrário preencher com “M”.
+
+Dispersão dos Beneficiários
+E       Exclusivamente na UF declarada no item anterior
+M       Majoritariamente na UF declarada no item anterior
+
+
+
+
+15. Característica do reajuste
+
+O campo deve ser preenchido de acordo com o código da característica
+do reajuste aplicado ao contrato, conforme quadro abaixo:
+
+Característica do reajuste
+1       Variação de Custos Assistenciais
+2       Variação no índice de utilização
+3       Sem reajuste
+4       Outra
+Sendo:
+
+Variação de custos assistenciais:
+Variação positiva ou negativa nas despesas assistenciais por exposto do
+contrato e produto, excluídas as recuperações de glosas e
+coparticipações, no período de análise.
+
+Variação no índice de utilização:
+Índice de Utilização é a relação percentual entre as despesas
+assistenciais e a receita de contraprestação pecuniária do período de
+análise. O Índice de Utilização deverá ser obtido considerando-se as
+receitas de contraprestação pecuniária e despesas assistenciais
+referentes ao período de análise.
+
+Sem reajuste:
+Refere-se à manutenção do valor da contraprestação pecuniária após a
+conclusão da negociação anual referente ao aniversário do contrato.
+
+Outra:
+Qualquer outra característica utilizada pela operadora que não se
+enquadre nas hipóteses anteriores, sendo obrigatório seu
+detalhamento no campo "Justificativa Técnica", sem prejuízo ao
+estabelecido no item 17.
+
+16. Alteração de franquia e/ou coparticipação
+Preencher o campo com “S”, caso tenha ocorrido variação positiva ou
+negativa do fator de coparticipação e/ou franquia como complemento
+ou em substituição ao reajuste no período de análise de que trata o
+comunicado. As definições de franquia e coparticipação encontram-se
+no Anexo II da Resolução Normativa nº 85, de 2004, ou norma que vier
+a sucedê-la.
+
+
+Alteração de franquia e/ou
+coparticipação
+S         SIM
+N         NÃO
+
+Caso tenha havido alteração de coparticipação e/ou franquia preencher
+os seguintes campos:
+16.1. Percentual de reajuste acrescido de coparticipação e franquia
+
+Informar o percentual de reajuste que seria aplicado caso não tivesse
+sido alterado o fator moderador (franquia e/ou coparticipação).
+
+16.2. Fator Moderador
+Deverão      ser      informados  os    valores/percentuais   de
+franquia/coparticipação que foram alterados, antes e depois da
+alteração, por itens de despesa.
+Caso sejam cobrados valores/percentuais diferentes dentro de um
+mesmo item de despesa, estes deverão ser informados de forma
+consolidada nas respectivas linhas e especificados no campo
+“Observação”.
+Deverá ser mensurado o fator moderador médio antes e depois da
+alteração, considerando o peso de cada prestador/procedimento no
+item de despesa específico.
+
+16.3. Observações
+Campo de preenchimento obrigatório com a fundamentação técnica da
+metodologia da alteração de franquia/coparticipação e demais
+informações que julgar necessário.
+
+16.4. Item de Cobertura
+Item de cobertura é um subconjunto das coberturas do produto. Não
+deverá ser informada a alteração de franquia/coparticipação da mesma
+cobertura nos campos valor e percentual simultaneamente de forma a
+evitar duplicação de informação.
+A operadora deverá considerar as definições dos itens de despesa
+constantes do Sistema de Informações de Produtos –SIP, conforme
+disposições da Resolução da Diretoria Colegiada nº 85, de 21 de
+setembro de 2001, ou norma que vier a sucedê-la.
+Os campos 16.1 a 16.4 não deverão ser preenchidos caso não tenha
+havido alteração no fator de coparticipação e/ou franquia.
+
+17. Justificativa Técnica
+É a fundamentação técnica do percentual de reajuste, revisão ou
+manutenção incidente no valor da contraprestação pecuniária aplicado
+ao contrato.
+Em caso de reajuste não linear, os grupos de beneficiários, os números
+de beneficiários por grupo e os respectivos percentuais deverão estar
+discriminados na justificativa técnica.
+

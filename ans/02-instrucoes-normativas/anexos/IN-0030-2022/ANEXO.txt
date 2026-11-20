@@ -1,0 +1,60 @@
+                                   ANEXO I
+ Especificações de formatação dos arquivos a serem enviados pelas operadoras
+
+
+
+1. Os arquivos enviados pelas operadoras deverão estar no formato PDF (Portable
+Document Format).
+
+
+2. Os arquivos não poderão exceder ao tamanho máximo indicado na tela de
+inclusão de anexos, do Aplicativo GEAR.
+
+
+3. O padrão de nomenclatura dos arquivos deverá ser REGANS_ASSUNTO_NN.pdf,
+em que:
+
+
+a. REGANS: registro da operadora na ANS, sem hífen ou espaçamento entre os
+números;
+
+
+b. ASSUNTO: de acordo com a solicitação e documento a ser encaminhado à ANS,
+conforme a seguir:
+      - b1. PAGAMENTO_TRC;
+      - b2. ACAO_JUDICIAL_TRC;
+      - b3. COMPROVANTE_SIB;
+      - b4. COMPROVANTE_SIP; e
+      - b5. COMPROVANTE_DIOPS.
+
+
+c. NN: (01,02,03.....) número do documento para controle em caso de envio de mais
+de um arquivo referente ao mesmo assunto.
+4. Abaixo, a nomenclatura e o documento a ser encaminhado para cada tipo de
+solicitação:
+
+
+a. para solicitação de autorização para aplicação de reajuste:
+      a1. nome do arquivo: REGANS_PAGAMENTO_TRC_NN.pdf
+      Documento: cópia digitalizada do comprovante de pagamento de TRC, ou
+      a2. nome do arquivo: REGANS_ACAO_JUDICIAL_TRC_NN.pdf
+      Documento: cópia digitalizada de ação judicial que resulte em suspensão da
+      obrigação de pagamento de TRC, depósito judicial, cópia de liminar ou
+      demais documentos afins.
+
+
+b. para pedido de reconsideração:
+      b1. nome do arquivo: REGANS_COMPROVANTE_SIB_NN.pdf
+      Documento: comprovante de que a operadora estava regular quanto à
+      última informação devida no Sistema de Informações de Beneficiários, antes
+      da data do indeferimento; e/ou
+      b2. nome do arquivo: REGANS_COMPROVANTE_SIP_NN.pdf
+      Documento: comprovante de que a operadora estava regular quanto à
+      última informação devida no Sistema de Informações de Produtos, antes da
+      data do indeferimento; e/ou
+      b3. nome do arquivo: REGANS_COMPROVANTE_DIOPS_NN.pdf
+      Documento: comprovante de que a operadora estava regular quanto à
+      última informação devida no Documento de Informações Periódicas das
+      Operadoras de Planos de Assistência à Saúde, antes da data do
+      indeferimento.
+

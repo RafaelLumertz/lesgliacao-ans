@@ -1,0 +1,1318 @@
+                                              ANEXO I
+
+     INFORMAÇÃO DO REGISTRO DE PRODUTO ATÉ                         RECLASSIFICAÇÃO PELA
+                 A RN 195/2009                                         RN 195/2009
+                                                                                     Vínculo do
+     Tipo de Contratação      Vínculo do Beneficiário     Tipo de Contratação       Beneficiário
+
+
+      Coletivo Empresarial
+                              Com vínculo empregatício                              Com vínculo
+1              ou                                         Coletivo Empresarial
+                                       ativo                                      empregatício ativo
+      Coletivo por Adesão
+
+     Coletivo Empresarial
+                             Com vínculo empregatício                               Com vínculo
+2             ou                                          Coletivo Empresarial
+                                     inativo                                     empregatício inativo
+     Coletivo por Adesão
+
+     Coletivo Empresarial
+                                                                                    Sem vínculo
+3             ou             Sem vínculo empregatício      Coletivo por Adesão
+                                                                                    empregatício
+     Coletivo por adesão
+                                                                                    Com vínculo
+     Coletivo Empresarial    Com vínculo empregatício
+                                                                                 empregatício ativo +
+4             ou               ativo + Com vínculo        Coletivo Empresarial
+                                                                                    Com vínculo
+     Coletivo por Adesão       empregatício inativo
+                                                                                 empregatício inativo
+                              Com vínculo empregatício                              Com vínculo
+                                ativo + Com vínculo                              empregatício ativo +
+5    Coletivo Empresarial                                 Coletivo Empresarial
+                             empregatício inativo + Sem                             Com vínculo
+                                vínculo empregatício                             empregatício inativo
+                              Com vínculo empregatício
+                                ativo + Com vínculo                                 Sem vínculo
+6     Coletivo por Adesão                                  Coletivo por Adesão
+                             empregatício inativo + Sem                             empregatício
+                                vínculo empregatício
+                              Com vínculo empregatício
+                                                                                    Com vínculo
+7    Coletivo Empresarial       ativo + Sem vínculo       Coletivo Empresarial
+                                                                                  empregatício ativo
+                                    empregatício
+                              Com vínculo empregatício
+                                                                                    Sem vínculo
+8     Coletivo por Adesão       ativo + Sem vínculo        Coletivo por Adesão
+                                                                                    empregatício
+                                    empregatício
+                              Com vínculo empregatício
+                                                                                    Com vínculo
+9    Coletivo Empresarial      inativo + Sem vínculo      Coletivo Empresarial
+                                                                                 empregatício inativo
+                                    empregatício
+                              Com vínculo empregatício
+                                                                                    Sem vínculo
+10    Coletivo por Adesão       ativo + Sem vínculo        Coletivo por Adesão
+                                                                                    empregatício
+                                    empregatício
+                                                                                    Com vínculo
+                                                                                 empregatício ativo +
+11   Coletivo Empresarial     Sem marcação de vínculo     Coletivo Empresarial
+                                                                                    Com vínculo
+                                                                                 empregatício inativo
+                                                                                    Sem vínculo
+12    Coletivo por Adesão     Sem marcação de vínculo      Coletivo por Adesão
+                                                                                    empregatício
+                                    ANEXO II
+              MANUAL DE ELABORAÇÃO DOS CONTRATOS DE PLANOS DE SAÚDE
+
+
+              CARACTERÍSTICAS GERAIS DOS CONTRATOS DE PLANOS DE SAÚDE
+
+      O contrato, regulamento ou outro documento que formalize a relação da Operadora com
+beneficiários de Plano de Saúde deve conter dispositivos sobre os temas a seguir relacionados,
+sempre que couber.
+
+      No momento da contratação, a operadora deverá obrigatoriamente entregar ao
+contratante cópia do contrato/regulamento, cuja página inicial deverá conter os itens abaixo,
+conforme o registrado na ANS:
+
+   a) qualificação da operadora:
+
+      -   Razão Social e Nome Fantasia, se houver;
+      -   Inscrição no Cadastro Nacional de Pessoas Jurídicas;
+      -   Registro da operadora na ANS;
+      -   Classificação da operadora na ANS (Observação: nas operadoras classificadas como
+          autogestão conforme artigo 4º c/c artigo 12, II, da RN 137/2006, deverá ser
+          informado se há em sua composição a figura do mantenedor ou patrocinador);
+      -   Endereço completo.
+
+   b) qualificação do contratante:
+
+      Os contratos individuais/familiares e coletivos por autogestões por RH deverão conter os
+      seguintes dados da Pessoa Física contratante (ou seu Representante/Assistente no
+      momento da comercialização):
+
+          -    Nome;
+          -    Filiação;
+          -    Data de nascimento;
+          -    Inscrição no Cadastro de Pessoa Física;
+          -    Cédula de Identidade - Órgão Expedidor;
+          -    Endereço.
+
+      Os contratos coletivos, inclusive por autogestões com patrocinador, deverão conter os
+      dados da Pessoa Jurídica contratante no momento da comercialização:
+
+          -    Razão Social e Nome Fantasia, se houver;
+          -    CNPJ;
+          -    Endereço.
+
+   c) nome comercial e nº de registro do plano na ANS;
+
+   d) tipo de contratação;
+
+   e) segmentação assistencial do plano de saúde;
+
+   f) área geográfica de abrangência do plano de saúde;
+
+   g) área de atuação do plano de saúde;
+   h) padrão de acomodação em internação (Observação: nos contratos/regulamentos de
+      planos registrados com acomodação individual, que sofreram alteração de segmentação
+      para Referência, será garantida a acomodação informada no momento da contratação);
+
+   i) formação do preço; e
+
+   j) serviços e coberturas adicionais.
+
+
+
+      Os contratos/regulamentos de planos privados de assistência à saúde devem estar de
+acordo com as suas características cadastradas na ANS. Não deverá haver no mesmo
+documento (contrato, regulamento ou outra forma) disponibilizado aos beneficiários referência a
+planos com diferentes registros.
+
+
+Tema I - Atributos do Contrato
+
+   A) Indicar que se trata de prestação continuada de serviços ou cobertura de custos
+      assistenciais na forma de plano privado de assistência à saúde prevista no inciso I, do
+      artigo 1º, da Lei 9656/1998, visando à Assistência Médica Hospitalar e/ou Odontológica
+      (de acordo com a segmentação do produto) com a cobertura de todas as doenças da
+      Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde,
+      da Organização Mundial de Saúde, e do Rol de Procedimentos e Eventos em Saúde
+      editado pela ANS, vigente à época do evento.
+
+   B) Indicar que se trata de contrato de adesão, bilateral, que gera direitos e obrigações para
+      ambas as partes, na forma do Código Civil Brasileiro, estando também sujeito às
+      disposições do Código de Defesa do Consumidor. As operadoras classificadas na ANS
+      como autogestão devem mencionar que se trata de um regulamento que traça as
+      diretrizes de plano de assistência à saúde, com características de contrato de adesão.
+
+   C) Nos planos exclusivamente odontológicos, indicar que se trata de prestação continuada de
+      serviços ou cobertura de custos assistenciais na forma de plano privado de assistência à
+      saúde prevista no inciso I, do artigo 1º, da Lei 9656/1998, visando à Assistência
+      Odontológica com a cobertura das doenças da Classificação Estatística Internacional de
+      Doenças e Problemas Relacionados com a Saúde, da Organização Mundial de Saúde, no
+      que se refere à saúde bucal, e do Rol de Procedimentos e Eventos em Saúde editado pela
+      ANS, vigente à época do evento.
+
+
+Tema II - Condições de Admissão
+
+   A) Indicar as condições de admissão dos beneficiários dependentes nos contratos de planos
+      individuais/familiares.
+
+   B) Indicar as condições de admissão dos beneficiários titulares e dependentes nos contratos
+      de planos coletivos, sendo vedadas quaisquer outras exigências para a inscrição como
+      beneficiário titular que não as necessárias para ingressar na pessoa jurídica contratante
+      (artigo 16 da RN 195/2009, alterada pela RN 200/2009).
+
+   C) Nos contratos de planos coletivos empresariais, definir a quem se destina o plano de
+      acordo com o artigo 5º, caput e § 1º, da RN 195/2009, alterada pela RN 200/2009, ou
+      seja: pessoas vinculadas à pessoa jurídica contratante por relação empregatícia ou
+      estatutária, sócios e administradores da pessoa jurídica contratante, demitidos ou
+      aposentados, que tenham sido a ela vinculados anteriormente, ressalvado o disposto no
+      caput dos artigos 30 e 31 da Lei 9.656/1998; agentes políticos, trabalhadores
+      temporários, estagiários e menores aprendizes, bem como o grupo familiar até o terceiro
+      grau de parentesco consanguíneo, até o segundo grau de parentesco por afinidade,
+      cônjuge ou companheiro dos empregados e servidores públicos e demais vínculos acima
+      referidos (artigo 5º, § 1º, VII, da RN 195/2009, alterada pela RN 200/2009).
+
+
+       1. Nos contratos de planos coletivos empresariais, dispor que a adesão do grupo familiar
+dependerá da participação do beneficiário titular no plano privado de assistência à saúde (artigo
+5º, § 2º, da RN 195/2009, alterada pela RN 200/2009).
+
+
+   D) Nos contratos de planos coletivos por adesão, definir a quem se destina o plano de acordo
+      com o artigo 9º, da RN 195/2009, alterada pela RN 200/2009, como pessoas físicas que
+      mantenham vínculo profissional, classista ou setorial com: os conselhos profissionais e
+      entidades de classe nos quais seja necessário o registro para o exercício da profissão; os
+      sindicatos, as centrais sindicais e as respectivas federações e confederações; as
+      associações profissionais legalmente constituídas; as cooperativas que congreguem
+      membros de categorias ou classes de profissões regulamentadas; e as caixas de
+      assistência e fundações de direito privado que se enquadrem nas disposições desta
+      resolução, bem como outras pessoas jurídicas de caráter profissional, classista ou setorial
+      desde que autorizadas pela ANS e as entidades previstas nas Leis 7395 de 31 de outubro
+      de 1985 e 7398, de 04 de novembro de 1985; e o grupo familiar do beneficiário titular
+      até o terceiro grau de parentesco consanguíneo, até o segundo grau de parentesco por
+      afinidade, cônjuge ou companheiro (artigo 9º, I a VII, e § 1º, da RN 195/2009, alterada
+      pela RN 200/2009).
+
+
+       1. Nos contratos de planos coletivos por adesão, dispor que a adesão do grupo familiar
+dependerá da participação do beneficiário titular no plano privado de assistência à saúde (artigo
+9º, § 2º, da RN 195/2009, alterada pela RN 200/2009), e que;
+
+      2. Caberá à operadora de plano de assistência à saúde exigir e comprovar a legitimidade
+da pessoa jurídica contratante e a condição de elegibilidade do beneficiário (artigo 9º, § 3º, da
+RN 195/2009, alterada pela RN 200/2009).
+
+
+   E) Nos contratos de planos de todas as segmentações, especificar a garantia de inscrição do
+      filho adotivo menor de 12 anos, com aproveitamento das carências já cumpridas pelo
+      usuário adotante (artigo 12, VII, da Lei 9656/1998).
+
+   F) Nos contratos de planos hospitalares com cobertura obstétrica, garantir o direito de
+      inscrição do recém-nascido, filho adotivo ou natural, como dependente, com isenção de
+      carência (artigo 12, III, "b", da Lei 9656/1998), sendo vedada qualquer alegação de DLP
+      ou aplicação de CPT ou Agravo (artigo 20 da RN 162/2007).
+
+   G) As operadoras classificadas na ANS como autogestões deverão definir no regulamento
+      para quem se destina o plano, de acordo com o artigo 2º da RN 137/2006, alterada pela
+      RN 148/2007, como: empregados ativos, aposentados, pensionistas e ex-empregados,
+      bem como seus respectivos grupos familiares definidos, de uma ou mais empresas, ou
+      ainda, participantes e dependentes de associações, sindicatos ou entidades de classes
+      profissionais, e grupos familiares dos beneficiários, limitado ao terceiro grau de
+      parentesco, consanguíneo ou afim.
+
+
+Tema III - Coberturas e Procedimentos Garantidos
+
+       As coberturas listadas abaixo, previstas no artigo 12 da Lei 9656/1998, no Rol de
+Procedimentos e Eventos em Saúde e no Rol de Procedimentos Odontológicos são as coberturas
+e procedimentos mínimos a serem garantidos nos planos de saúde, por determinação da
+legislação vigente e sua regulamentação.
+
+      O oferecimento de cobertura mais ampla que a determinada nos normativos mencionados
+caracteriza Cobertura e/ou Serviço Adicional e deverá ser informada no cadastro do plano na
+ANS.
+
+
+   A) Nos contratos de planos de todas as segmentações, dispor sobre:
+
+      1. as coberturas assistenciais contratadas, para todas as doenças da Classificação
+         Estatística Internacional de Doenças e Problemas Relacionados com a Saúde, da
+         Organização Mundial de Saúde (artigo 10 da Lei 9656/1998) e Rol de Procedimentos e
+         Eventos em Saúde ou Rol de Procedimentos Odontológicos vigente à época do evento.
+
+
+   B) Nos contratos de planos médico-hospitalares, dispor sobre:
+
+      1. a cobertura dos atendimentos nos casos de planejamento familiar, de que trata o
+         inciso III do artigo 35-C da Lei 9656/1998, previstos no Anexo I da RN 192/2009;
+
+      2. a participação de profissional médico anestesiologista nos procedimentos listados no
+         Rol de Procedimentos e Eventos em Saúde vigente à época do evento terá sua
+         cobertura assistencial obrigatória, caso haja indicação clínica;
+
+      3. o atendimento, dentro da segmentação e da área de abrangência estabelecida no
+         contrato, deve ser assegurado independentemente do local de origem do evento.
+
+
+   C) Os contratos de Planos que incluem a segmentação Ambulatorial devem dispor sobre:
+
+      1. a cobertura de consultas médicas, em número ilimitado, em clínicas básicas e
+         especializadas, inclusive obstétricas para pré-natal, reconhecidas pelo Conselho
+         Federal de Medicina (artigo 12, I, "a", da Lei 9656/1998 e artigo 14, I, da RN
+         167/2008);
+
+      2. a cobertura de serviços de apoio diagnóstico, tratamentos e demais procedimentos
+         ambulatoriais, incluindo procedimentos cirúrgicos ambulatoriais, solicitados pelo
+         médico assistente, ou cirurgião-dentista devidamente habilitado, mesmo quando
+         realizados em ambiente hospitalar, desde que não se caracterize como internação
+         (artigo 12, I, "b", da Lei 9656/1998, artigo 14, II, da RN 167/2008 e Súmula da
+         Diretoria Colegiada da ANS 11/2007);
+
+      3. a cobertura de consulta e sessões com nutricionista, fonoaudiólogo e terapeuta
+         ocupacional de acordo com o número de sessões estabelecido no Rol de Procedimentos
+         e Eventos em Saúde vigente à época do evento, conforme indicação do médico
+         assistente (artigo 14, III, da RN 167/2008);
+  4. a cobertura de psicoterapia de acordo com o número de sessões estabelecido no Rol
+     de Procedimentos e Eventos em Saúde vigente à época do evento, que poderão ser
+     realizados tanto por psicólogo como por médico devidamente habilitado, conforme
+     indicação do médico assistente (artigo 14, IV, da RN 167/2008);
+
+  5. a cobertura dos procedimentos de fisioterapia listados no Rol de Procedimentos e
+     Eventos em Saúde vigente à época do evento, em número ilimitado de sessões por
+     ano, que poderão ser realizados tanto por fisiatra como por fisioterapeuta, conforme
+     indicação do médico assistente (artigo 14, V, da RN 167/2008);
+
+  6. a cobertura para os seguintes procedimentos considerados especiais (artigo 14, VIII,
+     da RN 167/2008):
+
+     -   hemodiálise e diálise peritonial - CAPD;
+     -   quimioterapia oncológica ambulatorial;
+     -   radioterapia ambulatorial;
+     -   procedimentos de hemodinâmica ambulatoriais;
+     -   hemoterapia ambulatorial;e
+     -   cirurgias oftalmológicas ambulatoriais;
+
+
+
+  7. o atendimento às emergências psiquiátricas, assim consideradas as situações que
+     impliquem em risco de vida ou de danos físicos para o próprio ou para terceiros
+     (incluídas as ameaças e tentativas de suicídio e auto-agressão) e/ou em risco de danos
+     morais e patrimoniais importantes (artigo 2º, I, "a", da Resolução CONSU 11/1998);
+
+  8. a psicoterapia de crise, entendida como o atendimento intensivo prestado por um ou
+     mais profissionais da área da saúde mental, com duração máxima de doze semanas,
+     tendo início imediatamente após o atendimento de emergência e podendo ser limitada
+     a doze sessões por ano de contrato, não cumulativas (artigo 2º, I, "b", da Resolução
+     CONSU 11/1998).
+
+
+
+D) Os contratos de Planos que incluem a segmentação hospitalar, inclusive o do plano
+   referência, devem dispor sobre:
+
+  1. a cobertura de internações hospitalares, vedada a limitação de prazo, valor máximo e
+     quantidade, em clínicas básicas e especializadas, reconhecidas pelo Conselho Federal
+     de Medicina, bem como o acesso à acomodação em nível superior, sem ônus adicional
+     na indisponibilidade de leito hospitalar nos estabelecimentos próprios ou contratados
+     pelo plano, admitindo-se a exclusão dos procedimentos obstétricos, nos planos sem
+     cobertura obstétrica (artigo 12, II, "a" c/c artigo 33, ambos da Lei 9656/1998);
+
+  2. a cobertura de internações hospitalares em centro de terapia intensiva, ou similar,
+     vedada a limitação de prazo, valor máximo e quantidade, a critério do médico
+     assistente (artigo 12, II, "b", da Lei 9656/1998);
+
+  3. a cobertura de despesas referentes a honorários médicos, serviços gerais de
+     enfermagem e alimentação (artigo 12, II, "c", da Lei 9656/1998);
+
+  4. a cobertura de exames complementares indispensáveis para o controle da evolução da
+     doença e elucidação diagnóstica, fornecimento de medicamentos, anestésicos, gases
+    medicinais, transfusões e sessões de quimioterapia e radioterapia, conforme prescrição
+    do médico assistente, realizados ou ministrados durante o período de internação
+    hospitalar (artigo 12, II, "d", da Lei 9656/1998);
+
+ 5. a cobertura de toda e qualquer taxa, incluindo materiais utilizados (artigo 12, II, "e",
+    da Lei 9656/1998);
+
+ 6. a cobertura para remoção do paciente, comprovadamente necessária, para outro
+    estabelecimento hospitalar, dentro dos limites de abrangência geográfica previstos no
+    contrato, em território brasileiro (artigo 12, II, "e", da Lei 9656/1998);
+
+ 7. a cobertura de despesas de acompanhante, no caso de pacientes menores de dezoito
+    anos e com idade igual ou superior a sessenta anos, bem como para aqueles
+    portadores de necessidades especiais, conforme indicação do médico assistente (artigo
+    12, II, "f", da Lei 9656/1998 c/c artigo 16 da Lei 10741/2003 - Estatuto do Idoso e
+    artigo 15, I e II, da RN 167/2008);
+
+ 8. a cobertura de cirurgia odontológica buco-maxilo-facial que necessite de ambiente
+    hospitalar, realizada por profissional habilitado pelo seu Conselho de Classe, incluindo
+    a cobertura de exames complementares solicitados pelo cirurgião-dentista assistente,
+    habilitado pelo respectivo conselho de classe, desde que restritos à finalidade de
+    natureza odontológica, e o fornecimento de medicamentos, anestésicos, gases
+    medicinais, transfusões, assistência de enfermagem e alimentação ministrados durante
+    o período de internação hospitalar (artigo 15, III c/c artigo 17, § 4º, ambos da RN
+    167/2008);
+
+ 9. a cobertura da estrutura hospitalar necessária à realização dos procedimentos
+    odontológicos passíveis de realização em consultório, mas que por imperativo clínico
+    necessitem de internação hospitalar, incluindo a cobertura de exames complementares
+    solicitados pelo cirurgião-dentista assistente, habilitado pelo respectivo conselho de
+    classe, desde que restritos à finalidade de natureza odontológica e o fornecimento de
+    medicamentos, anestésicos, gases medicinais, transfusões, assistência de enfermagem
+    e alimentação ministrados durante o período de internação hospitalar (artigo 15, IV c/c
+    artigo 17, §§ 2º e 4º, ambos da RN 167/2008);
+
+10. a cobertura para os seguintes procedimentos considerados especiais, mesmo quando
+    prestados ambulatorialmente, cuja necessidade esteja relacionada à continuidade da
+    assistência prestada como internação hospitalar (artigo 15, V, da RN 167/2008):
+
+
+    -   hemodiálise e diálise peritonial - CAPD;
+    -   quimioterapia oncológica ambulatorial, como definida no artigo 14, VIII, "b", da RN
+        167/08;
+    -   radioterapia: todos os procedimentos descritos no Rol de Procedimentos e Eventos
+        em Saúde vigente para ambas as segmentações ambulatorial e hospitalar;
+    -   hemoterapia;
+    -   nutrição parenteral ou enteral;
+    -   procedimentos diagnósticos e terapêuticos em hemodinâmica descritos no Rol de
+        Procedimentos e Eventos em Saúde vigente à época do evento;
+    -   embolizações listadas no Rol de Procedimentos e Eventos em Saúde vigente à
+        época do evento;
+    -   radiologia intervencionista;
+    -   exames pré-anestésicos ou pré-cirúrgicos;
+    -   procedimentos de fisioterapia: aqueles listados no Rol de Procedimentos e Eventos
+        em Saúde vigente à época do evento;
+
+11. a cobertura de cirurgia plástica reconstrutiva de mama, utilizando-se de todos os
+    meios e técnicas necessárias, para o tratamento de mutilação decorrente de utilização
+    de técnica de tratamento de câncer (artigo 10-A da Lei 9656/1998, incluído pela Lei
+    10223/2001);
+
+12. a cobertura de cirurgia plástica reparadora de órgãos e funções conforme Rol de
+    Procedimentos e Eventos em Saúde vigente à época do evento;
+
+13. o custeio integral de, pelo menos, trinta dias de internação, por ano de contrato, não
+    cumulativos, em hospital psiquiátrico ou em unidade ou enfermaria psiquiátrica em
+    hospital geral, para portadores de transtornos psiquiátricos em situação de crise
+    (artigo 2º, II, "a", da Resolução CONSU 11/1998, alterado pela Resolução CONSU
+    15/1999);
+
+14. o custeio integral de, pelo menos, quinze dias de internação, por ano de contrato, não
+    cumulativos, em hospital geral, para pacientes portadores de quadros de intoxicação
+    ou abstinência provocados por alcoolismo ou outras formas de dependência química
+    que necessitem de hospitalização (artigo 2º, II, "b", da Resolução CONSU 11/1998,
+    alterado pela Resolução CONSU 15/1999);
+
+    (Observação: o custeio, dentro dos prazos definidos acima, somente poderá ser parcial
+    se houver co-participação ou franquia para as internações referentes às demais
+    especialidades médicas - artigo 2º, II, "c", da Resolução CONSU 11/1998);
+
+15. a cobertura de todos os atendimentos clínicos ou           cirúrgicos decorrentes de
+    transtornos psiquiátricos, aí incluídos os procedimentos médicos necessários ao
+    atendimento das lesões auto-infligidas (artigo 2º, II, parágrafo único, da Resolução
+    CONSU 11/1998);
+
+16. nos casos em que houver limitação para o custeio integral das internações
+    psiquiátricas, na forma prevista no artigo 2º, II, "a" e "b", da Resolução CONSU
+    11/1998, o contrato deve estipular a forma como se dará a cobertura da internação
+    psiquiátrica nos dias excedentes. A regra do artigo 3º da Resolução CONSU 11/1998
+    dá a operadora a faculdade de compartilhar o custeio das internações psiquiátricas em
+    que o(s) período(s) de internação ultrapasse(m) os prazos acima mencionados, no
+    transcorrer de um mesmo ano de contrato, com o beneficiário, mediante a co-
+    participação. O contrato deve estipular ainda que esta co-participação não pode
+    caracterizar o financiamento integral da internação e deve obedecer aos tetos
+    estabelecidos nos normativos vigentes.
+
+    (Observação: a co-participação exclusiva nos dias excedentes em psiquiatria, quando
+    houver, não é fator determinante de característica de plano de saúde, conforme item
+    10 do Anexo II da RN 100/2005, e não deve ser informada no cadastro do plano na
+    ANS);
+
+    (Observação: deverá constar no contrato o campo para preenchimento dos percentuais
+    ou valores de co-participação no momento da comercialização e que obedecerão aos
+    tetos estipulados nos normativos editados pela ANS vigentes à época);
+ 17. a cobertura de oito semanas anuais de tratamento em regime de hospital-dia para os
+     portadores de transtornos psiquiátricos em situação de crise (artigo 5º, I, c/c artigo
+     2º, II, "a" ambos da Resolução CONSU 11/1998);
+
+ 18. para os diagnósticos F00 a F09, F20 a F29, F70 a F79 e F90 a F98 relacionados na
+     Classificação Estatística Internacional de Doenças e Problemas Relacionados com a
+     Saúde, da Organização Mundial de Saúde, a cobertura de tratamento em regime de
+     hospital-dia por cento e oitenta dias por ano (artigo 5º, II, da Resolução CONSU
+     11/1998);
+
+ 19. a cobertura dos transplantes de Rins e Córneas, e dos transplantes autólogos listados
+     no Rol de Procedimentos e Eventos em Saúde vigente à época do evento; (artigo 2º da
+     Resolução CONSU 12/1998 e artigo 15, § 3º, III, da RN 167/2008);
+
+ 20. a cobertura das despesas com os procedimentos vinculados aos transplantes
+     mencionados acima, incluindo todas aquelas necessárias à realização do transplante,
+     no que couber, como: as despesas assistenciais com doadores vivos, os medicamentos
+     utilizados durante a internação, o acompanhamento clínico no pós-operatório imediato
+     e tardio e as despesas com captação, transporte e preservação dos órgãos na forma de
+     ressarcimento ao SUS, sendo admitida a exclusão de medicamentos de manutenção
+     (artigo 2º e parágrafos da Resolução CONSU 12/1998);
+
+ 21. nos casos em que houver garantia de assistência para procedimentos hospitalares na
+     modalidade de hospital-dia, em internações de curta-permanência, deve esclarecer
+     que esta se dará a critério do médico assistente.
+
+
+E) Os contratos de Planos que incluem a segmentação hospitalar com obstetrícia, inclusive o
+   do plano referência, devem dispor sobre:
+
+   1. toda a cobertura definida para os planos com segmentação hospitalar, acrescida dos
+      procedimentos relativos ao pré-natal e da assistência ao parto e puerpério (artigo 16
+      da RN 167/2008);
+
+   2. a cobertura de um acompanhante indicado pela mulher durante o trabalho de parto e
+      pós-parto imediato (artigo 16, I, da RN 167/2008);
+
+   3. a cobertura assistencial ao recém-nascido, filho natural ou adotivo do consumidor,
+      titular ou dependente, durante os primeiros trinta dias após o parto (artigo 12, III, "a",
+      da Lei 9656/1998), sendo vedada qualquer alegação de DLP ou aplicação de CPT ou
+      Agravo (artigo 20, da RN 162/2007). (artigo 16, II, da RN 167/2008).
+
+
+F) Os contratos de Planos que incluem a segmentação odontológica devem dispor sobre:
+
+   1. todas as coberturas e procedimentos previstos no artigo 12, IV, da Lei 9656/1998,
+      incluindo a cobertura do exame clínico, de procedimentos diagnósticos, atendimentos
+      de urgência e emergência odontológicos, exames auxiliares ou complementares,
+      tratamentos e demais procedimentos ambulatoriais solicitados pelo cirurgião-dentista
+      assistente com a finalidade de complementar o diagnóstico do paciente, tais como,
+      procedimentos de prevenção, dentística, endodontia, periodontia e cirurgia e no Rol de
+      Procedimentos Odontológicos vigente à época do evento, especificando nominalmente
+      todos os procedimentos (artigo 17, caput, da RN 167/2008);
+     2. a cobertura dos honorários e materiais utilizados pelo cirurgião-dentista quando, por
+        imperativo clínico, for necessária estrutura hospitalar para a realização de
+        procedimentos listados no Rol de Procedimentos Odontológicos vigente à época do
+        evento (artigo 17, § 3º, da RN 167/2008).
+
+
+  G) Os contratos de Planos Odontológicos em regime de pagamento misto devem observar,
+     além do disposto no item F, as seguintes regras:
+
+     1. discriminar os procedimentos em pré-pagamento estabelecidos no artigo 2º da RN
+        59/2003;
+
+     2. informar que a cobertura assistencial inclui todos os itens definidos pela ANS no Rol de
+        Procedimentos Odontológicos vigente à época do evento, devendo obrigatoriamente
+        ser submetidas a regime de pré-pagamento, sem utilização de mecanismos de
+        regulação financeira, as despesas relativas, no mínimo, aos seguintes procedimentos:
+
+        a) consulta inicial;
+        b) curativo em caso de hemorragia bucal/labial;
+        c) curativo em caso de odontalgia aguda/ pulpectomia/ necrose;
+        d) imobilização dentária temporária;
+        e) recimentação de peça protética;
+        f) tratamento de alveolite;
+        g) colagem de fragmentos;
+        h) incisão e drenagem de abscesso extra-oral;
+        i) incisão e drenagem de abscesso intra-oral;
+        j) reimplante de dente avulsionado;
+        k) orientação de higiene bucal;
+        l) evidenciação de placa bacteriana;
+        m) aplicação tópica de flúor.
+
+        (Observação: os procedimentos não incluídos acima poderão ser submetidos a regime
+        de pós-pagamento, de acordo com as regras estabelecidas no tema XII – Reajuste)
+
+Tema IV - Exclusões de Cobertura
+
+  A) Os contratos devem especificar as exclusões de cobertura à assistência contratada, com
+     vistas ao disposto no artigo 10 da Lei 9656/1998, respeitadas as coberturas mínimas
+     obrigatórias previstas no artigo 12 da Lei 9656/1998 e no Rol de Procedimentos e
+     Eventos em Saúde e de Procedimentos Odontológicos editados pela ANS, vigente à época
+     do evento, dentro da segmentação assistencial à qual o plano pertence.
+  B) As exclusões deverão ser limitadas ao disposto no artigo 10 da Lei 9656/1998, no artigo
+     14, parágrafo único e no artigo 15, § 3º, ambos da RN 167/2008.
+  C) Nos contratos de todas as segmentações, são permitidas as seguintes exclusões
+     assistenciais, observadas as definições previstas no artigo 13 da RN 167/2008:
+
+     1. tratamento clínico ou cirúrgico experimental;
+
+     2. procedimentos clínicos ou cirúrgicos para fins estéticos, bem como órteses e próteses
+        para o mesmo fim;
+
+     3. inseminação artificial;
+
+     4. tratamento de rejuvenescimento ou de emagrecimento com finalidade estética;
+   5. fornecimento de     medicamentos     e   produtos   para   a   saúde   importados   não
+      nacionalizados;
+
+   6. fornecimento de medicamentos para tratamento domiciliar;
+
+   7. fornecimento de próteses, órteses e seus acessórios não ligados ao ato cirúrgico;
+
+   8. tratamentos ilícitos ou antiéticos, assim definidos sob o aspecto médico, ou não
+      reconhecidos pelas autoridades competentes;
+
+   9. casos de cataclismos, guerras e comoções internas, quando declarados pela
+      autoridade competente;
+
+   10.tratamentos em clínicas de emagrecimento, clínicas de repouso, estâncias
+      hidrominerais, clínicas para acolhimento de idosos e internações que não necessitem
+      de cuidados médicos em ambiente hospitalar;
+
+   11.consultas domiciliares.
+
+
+D) Nos contratos de planos coletivos, não é obrigatória a cobertura para procedimentos
+   relacionados com acidentes do trabalho e suas conseqüências, moléstias profissionais,
+   assim como para os procedimentos relacionados com a saúde ocupacional (artigo 11 da
+   RN 167/2008).
+
+E) Não podem ser excluídas em nenhuma hipótese as seguintes coberturas:
+
+   1. doenças constantes na Classificação Estatística Internacional de Doenças e Problemas
+      Relacionados com a Saúde, da Organização Mundial de Saúde;
+
+   2. procedimentos constantes no Rol de Procedimentos e Eventos em Saúde vigente à
+      época do evento, independentemente da causa;
+
+   3. próteses importadas nacionalizadas (registradas na ANVISA) e utilizadas no ato
+      cirúrgico;
+
+   4. cirurgias plásticas reparadoras (artigo 10, II, da Lei 9656/1998);
+
+   5. complicações de procedimentos não cobertos, de acordo com a Súmula Normativa nº
+      10/2006.
+
+
+F) Nos contratos de planos exclusivamente ambulatoriais, podem ser excluídos:
+
+   1. procedimentos de diagnóstico e terapêutica em hemodinâmica que demandem
+      internação e apoio de estrutura hospitalar por período superior a 12 (doze) horas,
+      unidade de terapia intensiva e unidades similares;
+
+   2. procedimentos que exijam forma de anestesia diversa da anestesia local, sedação ou
+      bloqueio;
+
+   3. quimioterapia oncológica intra-tecal ou as que demandem internação;
+
+   4. procedimentos de radioterapia para a segmentação hospitalar;
+
+   5. nutrição enteral ou parenteral;
+     6. embolizações e radiologia intervencionista;
+
+     7. internações hospitalares;
+
+     8. procedimentos para fim de diagnóstico ou terapia que, embora prescindam de
+        internação, demandem o apoio de estrutura hospitalar por mais de 12 horas, ou
+        serviços como de recuperação pós-anestésica, UTI, CETIN e similares.
+
+
+  G) Nos contratos de planos exclusivamente hospitalares, podem ser excluídos:
+
+     1. consultas ambulatoriais e domiciliares;
+
+     2. atendimento pré-natal ambulatorial e hospitalar (quando não incluir a cobertura
+        obstétrica);
+
+     3. transplantes, à exceção de córnea e rim, e dos transplantes autólogos listados no Rol
+        de Procedimentos e Eventos em Saúde vigente à época do evento;
+
+     4. os honorários e materiais utilizados pelo cirurgião-dentista quando, por imperativo
+        clínico, for necessária estrutura hospitalar para a realização de procedimentos listados
+        no Rol de Procedimentos Odontológicos.
+
+
+  H) Nos contratos de planos exclusivamente odontológicos, podem ser excluídos:
+
+     1. os procedimentos não constantes do Rol de Procedimentos Odontológicos vigente à
+        época do evento;
+
+     2. os procedimentos buco-maxilares constantes do Rol de Procedimentos e Eventos em
+        Saúde vigente à época do evento e suas despesas hospitalares;
+
+     3. as despesas com internação hospitalar oriundas da realização de procedimentos
+        odontológicos que, não fosse por imperativo clínico, seriam executados em
+        consultório.
+
+
+Tema V - Duração do Contrato
+
+  A) Nos contratos de planos individuais/familiares:
+
+     1. as operadoras deverão informar que o contrato vigorará por prazo indeterminado,
+        bem como o início da vigência;
+
+     2. considerar-se-á, para início de vigência contratual em planos individuais, a data da
+        assinatura da proposta de adesão, da assinatura do instrumento jurídico em si ou a
+        data de pagamento da mensalidade inicial, o que ocorrer primeiro, de forma a não
+        haver prorrogação indevida dos prazos de carência admitidos pelo inciso V do artigo
+        12 da Lei 9656/1998;
+
+     3. a operadora poderá estipular que o prazo de vigência mínima do contrato será de um
+        ano (artigo 13, parágrafo único, da Lei 9656/1998), observando o disposto no Tema
+        XVII, "a", deste manual, devendo, neste caso, indicar que a renovação automática do
+        contrato será por prazo indeterminado, sendo vedada a cobrança de taxa ou qualquer
+        outro valor.
+  B) Nos contratos de planos coletivos:
+
+     1. as operadoras deverão informar o prazo do contrato, que será indeterminado, bem
+        como o início da vigência (artigo 1º, I, da Lei 9656/1998);
+
+     2. as operadoras poderão estipular prazo de vigência mínima, devendo, nesse caso,
+        indicar que a renovação automática do instrumento jurídico será por prazo
+        indeterminado, sendo vedada a cobrança de taxa ou qualquer outro valor;
+
+     3. a data do início da vigência é a data de assinatura do contrato, para efeito de reajuste
+        anual, de acordo com o artigo 16, II, da Lei 9656/1998. As partes contratantes
+        podem negociar o início da vigência do contrato, desde que até este momento não
+        seja feito nenhum pagamento à operadora;
+
+     4. nos planos operados por autogestão, o início da vigência será a data da aprovação do
+        regulamento ou a data da assinatura do convênio de adesão pelo patrocinador.
+
+
+Tema VI - Períodos De Carência
+
+  A) Especificar nos contratos os períodos de carência, se houver, para consultas, exames,
+     parto, internação, odontologia e demais serviços, conforme o inciso V, do artigo 12 da Lei
+     9656/1998.
+
+  B) Poderá haver previsão de campo, ao lado dos prazos máximos estipulados, para
+     preenchimento de prazo inferior negociado entre as partes.
+
+  C) Nos contratos de planos coletivos empresariais, especificar que não haverá carências nos
+     planos com 30 participantes ou mais (artigo 6º da RN 195/2009, alterada pela RN
+     200/2009), para os beneficiários que formalizarem o pedido de ingresso em até trinta
+     dias da celebração do contrato coletivo ou de sua vinculação à pessoa jurídica
+     contratante.
+
+  D) Nos contratos de planos coletivos por adesão, especificar que não poderá ser exigido o
+     cumprimento de carências se:
+
+     1. a inscrição do beneficiário no plano ocorrer em até trinta dias da celebração do
+        contrato (artigo 11 da RN 195/2009, alterada pela RN 200/2009);
+
+     2. o beneficiário se vincular à contratante após o transcurso do prazo acima e formalizar
+        sua proposta de adesão até trinta dias após a data de aniversário do contrato coletivo
+        (artigo 11, § 1º, da RN 195/2009, alterada pela RN 200/2009).
+
+
+  E) Nos contratos de planos coletivos, havendo carência, estabelecer que a contagem para
+     cada beneficiário se dará a partir de seu ingresso.
+
+
+Tema VII - Doenças E Lesões Preexistentes
+
+  A) Nos contratos de planos individuais/familiares e coletivos, a operadora deverá:
+
+     1. definir corretamente "doença e lesão preexistente", que é aquela de que o
+        beneficiário é sabedor no momento da contratação do plano;
+     2. esclarecer que o beneficiário deverá preencher declaração de saúde, no momento da
+        contratação, na forma dos artigos 5º, 10 e 11 da RN 162/2007, alterada pela RN
+        200/2009);
+
+     3. especificar que, caso a operadora opte pelo não oferecimento de cobertura total,
+        deverá oferecer Cobertura Parcial Temporária (CPT). O oferecimento de CPT neste
+        caso é obrigatório, sendo facultado o oferecimento de agravo como opção à CPT
+        (artigo 6º, § 1º, da RN 162/2007, alterada pela RN 200/2009);
+
+     4. especificar o conceito de Cobertura Parcial Temporária, como a suspensão, por um
+        período ininterrupto de até 24 meses, a partir da data da contratação ou adesão ao
+        plano privado de assistência à saúde, da cobertura de Procedimentos de Alta
+        Complexidade (PAC), leitos de alta tecnologia e procedimentos cirúrgicos, desde que
+        relacionados exclusivamente às doenças ou lesões preexistentes declaradas (artigo
+        2º, II, da RN 162/2007, alterada pela RN 200/2009);
+
+     5. especificar as obrigações e direitos do usuário, esclarecendo que se for identificado
+        indício de fraude, referente à omissão de conhecimento de Doenças e Lesões
+        Preexistentes por ocasião da contratação ou adesão ao plano, a operadora deverá
+        comunicar imediatamente ao consumidor e poderá oferecer as opções de CPT, agravo
+        ou abrir processo administrativo para julgamento da alegação de informação de
+        omissão na declaração de saúde, conforme o disposto no artigo 15 da RN 162/2007,
+        alterada pela RN 200/2009);
+
+     6. deixar claro que não será permitida, sob qualquer alegação, a negativa de cobertura
+        assistencial, assim como a suspensão ou rescisão unilateral de contrato, até a
+        publicação pela ANS do encerramento do processo administrativo (artigo 16, § 3º, da
+        RN 162/2007, alterada pela RN 200/2009);
+
+     7. esclarecer que é vedada a alegação de omissão de informação de DLP quando
+        realizado qualquer tipo de exame ou perícia no beneficiário pela operadora, com
+        vistas à sua admissão no plano privado de assistência à saúde (artigo 5º, § 4º, da RN
+        162/2007, alterada pela RN 200/2009).
+
+
+  B) Nos contratos de planos coletivos empresariais, a operadora deverá, ainda, especificar
+     que não haverá cláusula de Cobertura Parcial Temporária ou Agravo, nos casos de
+     Doença e Lesão Preexistente, quando o número de participantes for igual ou maior que
+     trinta, para os beneficiários que formalizarem o pedido de ingresso em até trinta dias da
+     celebração do contrato coletivo ou de sua vinculação a pessoa jurídica contratante.
+     (artigo 7º da RN 195/2009, alterada pela RN 200/2009).
+
+
+
+Tema VIII – Atendimento de Urgência e Emergência
+
+  A) Os contratos de planos médico-hospitalares devem:
+
+     1. definir urgência e emergência na forma do artigo 35-C da Lei 9656/1998;
+
+     2. dispor sobre o atendimento da situação da urgência e emergência de acordo com a
+        segmentação contratada e a garantia de remoção, quando necessária por indicação
+        médica para outra unidade da operadora ou para o SUS quando não há cobertura
+        para a continuidade do tratamento.
+B) Nos contratos de planos ambulatoriais, a operadora deve dispor sobre a garantia de
+   cobertura nas urgências e emergências por no mínimo doze horas de atendimento ou até
+   que haja necessidade de internação (artigo 2º, caput e parágrafo único da Resolução
+   CONSU 13/1998).
+
+   1. O contrato deve dispor, ainda, que haverá:
+
+              a) garantia de remoção para unidade de atendimento da rede do plano,
+                 depois de realizados os atendimentos classificados como urgência e
+                 emergência, quando caracterizada, pelo médico assistente, a falta de
+                 recursos oferecidos pela unidade para continuidade da atenção ao
+                 paciente;
+              b) garantia de remoção para unidade do SUS, depois de realizados os
+                 procedimentos caracterizados como urgência e emergência, quando
+                 ultrapassadas as primeiras 12 horas ou caracterizada a necessidade de
+                 internação.
+
+C) Nos planos que incluem segmentação hospitalar, excetuado o plano referência, o contrato
+   deve dispor sobre:
+
+   1. a garantia para atendimentos decorrentes de acidentes pessoais, sem restrições,
+      depois de decorridas 24 horas de vigência do contrato (artigo 3º, §2º, da Resolução
+      CONSU 13/1998);
+
+   2. a garantia de que, depois de cumpridas as carências, haverá cobertura dos
+      atendimentos de urgência e emergência que evoluírem para a internação, desde a
+      admissão até a alta, ou que sejam necessários para a preservação da vida, órgãos e
+      funções (artigo 3º da Resolução CONSU 13/1998);
+
+   3. a garantia dos atendimentos de urgência e emergência referentes ao processo
+      gestacional, limitados às primeiras doze horas, nos planos com cobertura obstétrica,
+      durante o cumprimento dos períodos de carência, e nos planos sem cobertura
+      obstétrica. (artigo 4º, caput e parágrafo único da Resolução CONSU 13/1998);
+
+   4. a garantia de atendimento limitado às primeiras doze horas, ou até que ocorra a
+      necessidade de internação, nos casos em que houver acordo de Cobertura Parcial
+      Temporária e que resultem na necessidade de eventos cirúrgicos, leitos de alta
+      tecnologia e procedimentos de alta complexidade relacionados às Doenças e Lesões
+      Preexistentes (artigo 6º da Resolução CONSU 13/1998);
+
+   5. a garantia de atendimento limitado às primeiras doze horas, ou até que ocorra a
+      necessidade de internação, nos casos em que o atendimento de urgência e
+      emergência for efetuado no decorrer dos períodos de carência para internação;
+
+   6. o contrato deve dispor, ainda, que haverá:
+
+
+              a) garantia de remoção para unidade de atendimento da rede do plano,
+                 depois de realizados os atendimentos classificados como urgência e
+                 emergência, quando caracterizada, pelo médico assistente, a falta de
+                 recursos oferecidos pela unidade para continuidade da atenção ao
+                 paciente;
+             b) garantia de remoção para unidade do SUS, depois de realizados os
+                procedimentos caracterizados como urgência e emergência, nos casos do
+                consumidor estar cumprindo período de carência para internação;
+             c) garantia de remoção para unidade do SUS, depois de realizados os
+                atendimentos de urgência e emergência, nos casos em que houver acordo
+                de Cobertura Parcial Temporária e que resultem na necessidade de eventos
+                cirúrgicos, leitos de alta tecnologia e procedimentos de alta complexidade
+                relacionados às Doenças e Lesões Preexistentes.
+
+D) Nos planos da segmentação referência, o contrato deve dispor sobre:
+
+   1. a garantia de cobertura integral, ambulatorial e hospitalar para urgência e
+      emergência (artigo 5º da Resolução CONSU 13/1998);
+
+   2. a garantia de atendimento limitado às primeiras doze horas, ou até que ocorra a
+      necessidade de internação, nos casos em que houver acordo de Cobertura Parcial
+      Temporária e que resultem na necessidade de eventos cirúrgicos, leitos de alta
+      tecnologia e procedimentos de alta complexidade relacionados às Doenças e Lesões
+      Preexistentes (artigo 6º da Resolução CONSU 13/1998);
+
+   3. o contrato deve dispor, ainda, que haverá:
+
+             a) garantia de remoção para unidade de atendimento da rede do plano,
+                depois de realizados os atendimentos classificados como urgência e
+                emergência, quando caracterizada, pelo médico assistente, a falta de
+                recursos oferecidos pela unidade para continuidade de atenção ao
+                paciente;
+             b) garantia de remoção para unidade do SUS, depois de realizados os
+                procedimentos caracterizados como urgência e emergência, nos casos em
+                que houver acordo de Cobertura Parcial Temporária e que resultem na
+                necessidade de eventos cirúrgicos, leitos de alta tecnologia e
+                procedimentos de alta complexidade relacionados às Doenças e Lesões
+                Preexistentes.
+
+E) Nos planos com segmentação odontológica, o contrato deve dispor sobre:
+
+   1. a garantia de cobertura para atendimentos de urgência e emergência citando
+      nominalmente todos os procedimentos de urgência e emergência e definições
+      constantes no Rol de Procedimentos Odontológicos.
+
+
+F) Em planos de todas as segmentações, o contrato deve dispor sobre:
+
+   1. a garantia do reembolso, nos casos de urgência e emergência, quando não for
+      possível a utilização dos serviços próprios ou contratualizados, dentro da área
+      geográfica de abrangência e atuação do plano (artigo 12, VI, da Lei 9656/1998);
+
+   2. a garantia de que o valor do reembolso nas urgências e emergências não seja inferior
+      ao valor praticado pela operadora junto à rede de prestadores do respectivo plano
+      (artigo 12, VI, da Lei 9656/1998);
+
+   3. a relação dos documentos necessários para o reembolso, assegurando que o seu
+      pagamento será efetuado em até trinta dias da entrega destes documentos;
+      4. o prazo de prescrição para o beneficiário apresentar os documentos, observando o
+         mínimo de um ano (Código Civil 2002).
+
+
+   G) O contrato deve dispor sobre as seguintes regras no caso de remoção para uma unidade
+      do SUS:
+
+      1. quando não possa haver remoção por risco de vida, o contratante e o prestador o
+         atendimento deverão negociar entre si a responsabilidade financeira da continuidade
+         da assistência, desobrigando-se, assim, a operadora, desse ônus;
+
+      2. caberá à operadora o ônus e a responsabilidade da remoção do paciente para uma
+         unidade do SUS que disponha dos recursos necessários a garantir a continuidade do
+         atendimento;
+
+      3. na remoção, a operadora deverá disponibilizar ambulância com os recursos
+         necessários a garantir a manutenção da vida, só cessando sua responsabilidade sobre
+         o paciente quando efetuado o registro na unidade SUS;
+
+      4. quando o paciente ou seus responsáveis optarem, mediante assinatura de termo de
+         responsabilidade, pela continuidade do atendimento em unidade diferente daquela
+         definida no item 2, a operadora estará desobrigada da responsabilidade médica e do
+         ônus financeiro da remoção.
+
+
+Tema IX - ACESSO A LIVRE ESCOLHA DE PRESTADORES
+
+Os contratos de planos de saúde que permitem acesso a livre escolha de prestadores devem:
+
+   A) Indicar as coberturas que o consumidor poderá utilizar no sistema de acesso a livre
+      escolha de prestadores não participantes da rede assistencial, própria ou contratualizada,
+      na forma do item 9 do Anexo II da RN 100/2005 e conforme cadastrado na ANS.
+
+   B) Conter cláusula clara com todas as informações necessárias para que o próprio
+      consumidor possa calcular o quanto receberá de reembolso. Deste modo, a operadora
+      deve trazer, conforme o caso; fórmula, juntamente com as descrições de seus
+      componentes tais como: múltiplo de reembolso, unidade de reembolso, textos
+      explicativos a respeito do modo de efetivação do cálculo etc.
+
+   C) A tabela utilizada para o cálculo do valor de reembolso deve ser amplamente divulgada
+      pela operadora, para tanto deverá indicar no contrato:
+
+      1.   além do registro em cartório, pelo menos mais dois meios de divulgação da tabela,
+           dentre os seguintes: acesso à tabela no sítio da operadora na internet;
+           disponibilização da tabela na sede da contratante em planos coletivos, para consulta
+           dos beneficiários; disponibilização da tabela na sede da operadora, para consulta dos
+           beneficiários;
+
+      2.   os meios de esclarecimento desta tabela, por exemplo, através de atendimento por
+           telefone ao consumidor;
+
+      3.   para melhor compreensão dos beneficiários, a operadora poderá ainda estabelecer
+           em seu contrato uma tabela exemplificativa com os valores dos procedimentos mais
+           utilizados.
+   D) Dispor que o valor de reembolso das despesas médicas provenientes do sistema de livre
+      escolha não será inferior ao praticado diretamente na rede credenciada ou referenciada
+      (inciso IX, artigo 2º, Resolução CONSU 08/1998, acrescentado pelo inciso V, artigo 1º, da
+      Resolução CONSU 15/1998).
+
+   E) Estipular prazo de reembolso, observando o prazo máximo de 30 dias após a entrega da
+      documentação adequada (aplicação por analogia do inciso VI, artigo 12, da Lei
+      9656/1998).
+
+   F) Informar como ocorrem os reajustes dos valores de reembolso ou da unidade de serviço,
+      conforme o tipo de tabela utilizado pela operadora.
+
+   G) É vedado o reembolso diferenciado por prestador, uma vez que tal prática restringe a
+      livre escolha de prestadores.
+
+
+Tema X - MECANISMOS DE REGULAÇÃO
+
+Os contratos de planos de saúde devem:
+
+   A) Definir as medidas de gerenciamento para regular a demanda de utilização dos serviços
+      de saúde, observados os preceitos legais, em especial a regulamentação da Lei
+      9656/1998 e a Resolução CONSU 8/1998.
+
+   B) Especificar os mecanismos de Porta de Entrada e Direcionamento, se houver, indicando
+      as regras para o acesso e atendimento.
+
+   C) Especificar, nos casos de co-participação e/ou franquia, na forma dos sub-itens 1 e 2, do
+      item 10 do Anexo II da RN 100/2005, os eventos a que se aplicam e o seu valor
+      monetário ou percentual, observando os limites máximos estabelecidos em normativo
+      vigente.
+
+   D) Estabelecer os valores prefixados de co-participação e/ou franquia nos casos de
+      internação em planos hospitalares que não poderão ser indexados a procedimentos e/ou
+      patologias. Somente para internações em transtornos psiquiátricos a co-participação
+      poderá ser especificada em percentual (artigo 2º, VIII, e artigo 4º, VII da Resolução
+      CONSU 8/1998).
+
+   E) Especificar as condições de atendimento do beneficiário junto à rede de prestadores,
+      contemplando as condições de habilitação, as formas de acesso aos serviços dos diversos
+      tipos e aqueles procedimentos que requerem autorização prévia.
+
+   F) Nos procedimentos que exigem autorização prévia, informar a rotina para a sua obtenção
+      e que a resposta à solicitação de autorização prévia do procedimento será dada, no prazo
+      máximo de um dia útil, a partir do momento da solicitação, ou em prazo inferior, quando
+      caracterizada a urgência (artigo 4º, IV, da Resolução CONSU 8/1998).
+
+   G) Informar que os serviços diagnósticos, tratamentos e demais procedimentos
+      ambulatoriais podem ser solicitados pelo médico assistente ou cirurgião-dentista, não
+      podendo haver restrição aos não pertencentes à rede própria ou contratualizada da
+      operadora referenciados/cooperados/credenciados (artigo 12, I, "b" e artigo 2º, VI, da
+      Resolução CONSU 8/1998 – Súmula da Diretoria Colegiada da ANS 11/2007).
+   H) Informar os meios de divulgação da rede de prestadores de serviços (impresso, telefônico
+      ou eletrônico).
+
+   I) Definir que eventual alteração na rede hospitalar observará o disposto no artigo 17 e
+      parágrafos, da Lei 9656/1998, com a comunicação prévia nos casos de substituição de
+      rede hospitalar ou autorização da ANS nos casos de redimensionamento por redução de
+      rede hospitalar.
+
+   J) Indicar, quando houver, orientações diferenciadas para determinados procedimentos (ex:
+      transplantes de rim e córnea e transtornos psiquiátricos).
+
+   K) Dispor sobre a junta médica para definição de impasses em casos de divergências
+      médicas ou odontológicas, na forma do artigo 4º, V, da Resolução CONSU 8/1998.
+
+
+Tema XI – FORMAÇÃO DO PREÇO E MENSALIDADE
+
+Os contratos de planos de saúde devem:
+
+   A) Definir a forma de se estabelecer os valores a serem pagos pela cobertura assistencial
+      contratada conforme item 11 do Anexo II da RN 100/2005, alterado pela RN 144/2007,
+      ou seja, pré ou pós-estabelecido na forma de custo operacional ou rateio. (Observação:
+      apenas os planos odontológicos podem utilizar a forma de pagamento misto, na forma da
+      RN 59/2003).
+
+   B) Definir as obrigações do contratante relativas ao pagamento da mensalidade.
+
+   C) Nos planos coletivos empresariais, o contrato deve dispor claramente que o pagamento
+      total será feito pela pessoa jurídica contratante, sendo de sua exclusiva responsabilidade,
+      ressalvadas as hipóteses dos artigos 30 e 31 da Lei 9656/1998, as operadoras na
+      modalidade de autogestão ou entes da administração pública direta ou indireta (artigo 8º
+      da RN 195/2009, alterada pela RN 200/2009).
+
+   D) Nos planos coletivos por adesão, o contrato deve:
+
+      1.   dispor claramente que o pagamento das contraprestações pecuniárias dos
+           beneficiários à operadora será de responsabilidade da pessoa jurídica contratante,
+           ressalvadas as hipóteses previstas nos artigos 30 e 31 da Lei 9656/1998, e as
+           operadoras na modalidade de autogestão (artigo 13 da RN 195/2009, alterada pela
+           RN 200/2009);
+
+      2.   conter cláusula específica que discipline os casos de inadimplemento por parte dos
+           beneficiários com a pessoa jurídica contratante, quando houver, bem como as
+           condições e prazos de pagamento (artigo 15 da RN 195/2009, alterada pela RN
+           200/2009).
+
+
+   E) Dispor sobre as conseqüências da mora, se houver, no pagamento da mensalidade,
+      limitadas ao percentual de juros de 1% ao mês (0,033 ao dia) e à multa de 2% sobre o
+      valor do débito em atraso.
+
+   F) As operadoras classificadas como autogestões, deverão especificar o critério e a forma de
+      participação financeira dos beneficiários que contribuem para o custeio do plano, bem
+      como a participação financeira do patrocinador, conforme disposto no artigo 14, I e II, da
+      RN 137/2006, alterada pela RN 148/2007.
+  G) Nos produtos coletivos por custo operacional, esclarecer como se dará o pagamento das
+     despesas assistenciais (RN 100/2005, Anexo II, item 11). Especificar a participação da
+     contratante e do beneficiário no custeio do plano, ressaltando que é vedado o repasse
+     integral aos beneficiários pelo contratante/estipulante (Súmula da Diretoria Colegiada da
+     ANS 9/2005).
+
+  H) Não poderá haver distinção quanto ao valor da contraprestação pecuniária entre os
+     beneficiários que vierem a ser incluídos no contrato e aqueles a este já vinculados (artigo
+     21 da RN 195/2009, alterada pela RN 200/2009).
+
+
+Tema XII - REAJUSTE
+
+  A) Nos contratos de planos médico-hospitalares individuais e familiares, definir que o
+     reajuste ocorrerá anualmente, a partir da data de aniversário do contrato (artigo 9º RN
+     171/2008) e observará o índice autorizado pela ANS (artigos 2º e 8º da RN 171/2008).
+
+  B) Nos contratos de planos médico-hospitalares coletivos com formação de preço pré-
+     estabelecido, definir os critérios de reajuste das contraprestações e a comunicação deste
+     reajuste a ANS (artigos 13, 14 e 15 da RN 171/2008).
+
+  C) Nos contratos de planos exclusivamente odontológicos individuais e familiares, eleger um
+     índice de preços divulgado por instituição externa (artigo 2º da RN 172/2008).
+
+  D) Nos contratos de planos exclusivamente odontológicos coletivos com formação de preço
+     pré-estabelecido, definir os critérios de reajuste das contraprestações e a comunicação
+     deste reajuste à ANS (artigo 14, 15 e 16 da RN 172/2008).
+
+  E) Os contratos de planos exclusivamente odontológicos em regime de pagamento misto,
+     além de observar o disposto para os planos com formação de preço pré-estabelecido,
+     deverão:
+
+     1.   informar as condições e periodicidade de atualização da tabela de preços dos
+          procedimentos sujeitos a pós-pagamento, a qual deverá integrar o contrato (artigo 3º
+          da RN 59/2003);
+
+     2.   deixar claro que as atualizações da tabela serão incorporadas ao contrato a título de
+          aditamento pré-consentido, estabelecido no instrumento inicial, e serão enviadas aos
+          titulares do contrato (parágrafo único, artigo 3º, da RN 59/2003).
+
+
+  F) Nos planos com formação de preço pós-estabelecido, custo operacional e rateio, não há
+     reajuste de mensalidade, não havendo obrigação de enviar comunicado a ANS,
+     entretanto a operadora deverá esclarecer como se dará o reajuste da tabela praticada
+     entre a operadora e prestadores de sua rede e com que periodicidade.
+
+  G) Os contratos de planos coletivos devem ainda prever as seguintes regras para aplicação
+     de reajuste, considerado como qualquer variação positiva na contraprestação pecuniária,
+     inclusive quando decorrente de revisão ou reequilíbrio econômico-atuarial do contrato
+     (artigo 19, § 1º, da RN 195/2009, alterada pela RN 200/2009):
+
+     1.   nenhum contrato poderá receber reajuste em periodicidade inferior a 12 meses,
+          ressalvadas as variações do valor da contraprestação pecuniária em razão de
+          mudança de faixa etária, migração e adaptação do contrato à Lei 9656/98 (artigo 19,
+          da RN 195/2009, alterada pela RN 200/2009);
+     2.    deverá ser informado que o valor das mensalidades e a tabela de preços para novas
+           adesões serão reajustados anualmente, de acordo com a variação do índice eleito
+           pela operadora que será apurado no período de 12 meses consecutivos, e o tempo de
+           antecedência em meses da aplicação do reajuste em relação à data-base de
+           aniversário, considerada esta o mês de assinatura do Contrato;
+
+     3.    na hipótese de se constatar a necessidade de aplicação do reajuste por sinistralidade,
+           este será reavaliado, sendo que o nível de sinistralidade da carteira terá por base a
+           proporção entre as despesas assistenciais e as receitas diretas do plano, apuradas no
+           período de 12 meses consecutivos, anteriores à data base de aniversário considerada
+           como o mês de assinatura do Contrato;
+
+     4.    nos casos de aplicação de reajuste por sinistralidade o mesmo deverá ser procedido
+           de forma complementar ao especificado no item 2;
+
+     5.    independentemente da data de inclusão dos usuários, os valores de suas
+           contraprestações terão o primeiro reajuste integral na data de aniversário de vigência
+           do contrato, entendendo-se esta como data base única;
+
+     6.    não poderá haver aplicação de percentuais de reajuste diferenciados dentro de um
+           mesmo plano em um determinado contrato (artigo 20 da RN 195/2009, alterada pela
+           RN 200/2009);
+
+
+Tema XIII - FAIXAS ETÁRIAS
+
+  A) Nos contratos de planos de saúde devem ser dispostas as variações de faixas etárias, se
+     houver, de acordo com as regras da RN 63/2003:
+
+          I-      0 (zero) a 18 (dezoito) anos;
+          II-     19 (dezenove) a 23 (vinte e três) anos;
+          III-    24 (vinte e quatro) a 28 (vinte e oito) anos;
+          IV-     29 (vinte e nove) a 33 (trinta e três) anos;
+          V-      34 (trinta e quatro) a 38 (trinta e oito) anos;
+          VI-     39 (trinta e nove) a 43 (quarenta e três) anos;
+          VII-    44 (quarenta e quatro) a 48 (quarenta e oito) anos;
+          VIII-   49 (quarenta e nove) a 53 (cinqüenta e três) anos;
+          IX-     54 (cinqüenta e quatro) a 58 (cinqüenta e oito) anos;
+          X-      59 (cinqüenta e nove) anos ou mais.
+
+     Os contratos deverão conter as seguintes regras sobre os percentuais de variação de faixa
+     etária:
+
+     -     o valor fixado para a última faixa etária não poderá ser superior a seis vezes o valor
+           da primeira faixa etária;
+     -     a variação acumulada entre a sétima e a décima faixas não poderá ser superior à
+           variação acumulada entre a primeira e a sétima faixas.
+
+  B) Nos produtos com registro provisório, o contrato deverá trazer dois dispositivos: um, com
+     07 (sete) faixas etárias, para os planos comercializados antes da 01/01/2004 (RN
+     63/2003) e, outro, com 10 (dez) faixas para os planos comercializados após 01/01/2004.
+     A operadora poderá trazer apenas o campo previsão (_____%) para os percentuais a
+     serem aplicados, porém deverá, obrigatoriamente, acrescentar ao texto as regras dos
+     incisos I e II do artigo 3º da RN 63/2003, no caso das 10 faixas etárias e as regras da
+      Resolução CONSU 06/1998, no caso das 7 faixas etárias, dispostas abaixo. Desta forma,
+      poderá ser comercializado o mesmo produto com diferentes variações de percentuais,
+      desde que haja o envio da NTRP correspondente.
+
+          I-     0 (zero) a 17 (dezessete) anos;
+          II-    18 (dezoito) a 29 (vinte e nove) anos;
+          III-   30 (trinta) a 39 (trinta e nove) anos;
+          IV-    40 (quarenta) a 49 (quarenta e nove) anos;
+          V-     50 (cinqüenta) a 59 (cinqüenta e nove) anos;
+          VI-    60 (sessenta) a 69 (sessenta e nove) anos;
+          VII-   70 (setenta) anos de idade ou mais.
+
+     Os contratos deverão conter as seguintes regras sobre os percentuais de variação de faixa
+     etária:
+
+      -    o valor fixado para a última faixa etária não poderá ser superior a seis vezes o valor
+           da primeira faixa etária;
+      -    a variação do valor na contraprestação pecuniária não poderá atingir o usuário com
+           mais de 60 anos de idade que participa de um plano ou seguro a mais de dez anos.
+
+  C) Os contratos deverão, ainda, dispor que a variação do preço em razão da faixa etária
+     somente deverá incidir quando o beneficiário completar a idade limite, ou seja, no mês
+     subseqüente ao de seu aniversário.
+
+
+Tema XIV – BÔNUS – DESCONTOS
+
+Os contratos de plano de saúde que contemplem bônus e/ou descontos devem:
+
+  A) Expor os critérios para concessão de bônus e descontos, respeitando o disposto no artigo
+     3º da Resolução CONSU 6/1998 e Súmula da Diretoria Colegiada da ANS 7/2005.
+
+  B) Observar que é vedada a concessão de bônus que estimulem a redução da utilização dos
+     serviços (Súmula da Diretoria Colegiada da ANS 7/2005).
+
+  C) Observar que é vedada a concessão de descontos ou vantagens especificamente
+     delimitados em prazos contratuais ou em função de idade do consumidor (artigo 3º da
+     Resolução CONSU 6/1998).
+
+
+Tema XV - REGRAS PARA INSTRUMENTOS JURÍDICOS DE PLANOS COLETIVOS
+
+  A) Nos contratos de planos coletivos empresariais, dispor sobre os direitos de permanência
+     no plano aos demitidos sem justa causa e aposentados que contribuírem para o plano,
+     conforme disposto nos artigos 30 e 31 da Lei 9656/1998, observadas as Resoluções
+     CONSU 20/1999 e 21/1999, alteradas pela RN 195/2009, especificando:
+
+      1. o prazo máximo de 30 dias para o exercício da opção assegurada (artigo 2º, § 6º, das
+         Resoluções CONSU 20/1999 e 21/1999);
+
+      2. o período de manutenção da condição de beneficiário (artigo 30, § 1º, e artigo 31,
+         caput e § 1º, da Lei 9656/1998);
+     3. a garantia de extensão do benefício ao grupo familiar do beneficiário demitido ou
+        aposentado, inscrito quando da vigência do contrato de trabalho (artigo 30, § 2º, e
+        artigo 31, § 2º, da Lei 9656/1998);
+
+     4. em caso de morte do titular, a garantia de permanência no plano aos dependentes do
+        beneficiário demitido ou aposentado, nos termos do disposto no artigo 30, da Lei
+        9656/1998 (artigo 30, § 3º e artigo 31, § 2º da Lei 9656/1998);
+
+     5. a garantia de que o benefício dos artigos 30 e 31 da Lei 9656/1998 não exclui
+        vantagens obtidas pelos empregados decorrentes de negociações coletivas de
+        trabalho (artigo 30, § 4º e artigo 31, § 2º da Lei 9656/1998);
+
+     6. que a condição prevista neste artigo deixará de existir quando da admissão do
+        beneficiário em novo emprego (artigo 30, § 5º, e artigo 31, § 2º, da Lei 9656/1998).
+
+
+  B) Observar que nos planos custeados integralmente pela empresa contratante, não é
+     considerada contribuição a co-participação do consumidor, única exclusivamente em
+     procedimentos, como fator de moderação, na utilização dos serviços de assistência
+     médica e/ou hospitalar.
+
+  C) Os contratos de planos Coletivos Empresariais, exceto para operadoras de autogestão,
+     devem garantir a disponibilidade de plano ou seguro de assistência à saúde na
+     modalidade individual/familiar ao universo de beneficiários, no caso de cancelamento do
+     plano coletivo, sem necessidade de cumprimento de novos prazos de carência, conforme
+     disposto na Resolução CONSU 19/1999.
+
+     (Observação: este tema não se aplica aos planos Coletivos por Adesão)
+
+
+Tema XVI - CONDIÇÕES DA PERDA DA QUALIDADE DE BENEFICIÁRIO
+
+  A) Nos planos individuais, especificar em que condições os beneficiários dependentes podem
+     ser excluídos do plano de saúde em contrato que continua vigente.
+
+     1. Especificar que a extinção do vínculo do titular não extingue o contrato, sendo
+        assegurado aos dependentes já inscritos o direito à manutenção das mesmas
+        condições contratuais, com a assunção das obrigações decorrentes (artigo 3º, § 1º,
+        da RN 195/2009, alterada pela RN 200/2009).
+
+     2. O disposto no item anterior não se aplica às hipóteses de rescisão unilateral do
+        contrato por fraude ou não-pagamento da mensalidade (inciso II, do parágrafo único,
+        do artigo 13, da Lei 9656/1998).
+
+
+  B) Nos planos coletivos, especificar em que condições a pessoa jurídica contratante pode
+     solicitar a suspensão ou exclusão dos beneficiários titulares e dependentes do contrato
+     que continua vigente (artigo 18, da RN 195/2009, alterada pela RN 200/2009).
+
+     1. Informar que caberá tão-somente à pessoa jurídica contratante solicitar a suspensão
+        ou exclusão de beneficiários.
+
+     2. Informar que as operadoras de planos de assistência à saúde só poderão excluir ou
+        suspender a assistência à saúde dos beneficiários, sem a anuência da pessoa jurídica
+        contratante, nas seguintes hipóteses:
+         a) fraude; ou
+
+         b) por perda dos vínculos do titular com a pessoa jurídica contratante, ou de
+            dependência, desde que previstos em regulamento ou contrato, ressalvado o
+            disposto nos artigos 30 e 31 da Lei 9656/1998.
+
+
+Tema XVII - RESCISÃO/SUSPENSÃO
+
+  A) Nos contratos de Planos individuais/familiares:
+
+     1. garantir, de acordo com o artigo 13, parágrafo único, II, da Lei 9656/1998, que a
+        rescisão contratual unilateral por parte da Contratada somente pode ocorrer em duas
+        hipóteses:
+
+         a) por fraude comprovada;
+
+         b) por não pagamento da mensalidade por período superior a sessenta dias,
+            consecutivos ou não, nos últimos doze meses de vigência do contrato, desde que
+            o consumidor seja comprovadamente notificado até o 50º dia de inadimplência.
+
+
+     2. a operadora poderá estabelecer multa rescisória nos casos em que o beneficiário
+        titular desejar rescindir o contrato antes de completada a vigência inicial de um ano,
+        que não poderá ser superior a 10% (planos médico-hospitalares) ou 20% (planos
+        odontológicos) das mensalidades restantes para se completar doze meses.
+
+
+  B) Nos contratos de Planos coletivos:
+
+     1. definir as condições para rescisão e suspensão (artigo 17 da RN 195/2009, alterada
+        pela RN 200/2009);
+
+     2. dispor que somente poderão ser rescindidos imotivadamente após a vigência do
+        período de doze meses e mediante prévia notificação da outra parte com
+        antecedência mínima de sessenta dias (artigo 17, parágrafo único, da RN 195/2009,
+        alterada pela RN 200/2009);
+
+     3. especificar as causas que autorizam a rescisão motivada do contrato antes de
+        completar o período de doze meses (artigo 17, parágrafo único, da RN 195/2009,
+        alterada pela RN 200/2009);
+
+     4. especificar a multa negociada entre as partes nos casos de rescisão imotivada
+        requerida antes do período de doze meses.
+
+
+  C) Num plano de empresa de autogestão, não cabe falar em rescisão contratual, tendo em
+     vista que todas as hipóteses são de perda da qualidade de beneficiário. As autogestões
+     deverão informar que o encerramento da operação do plano de saúde se dará de acordo
+     com seu estatuto respeitando as regras estabelecidas, principalmente quanto à instância
+     decisória competente.
+Tema XVIII - DISPOSIÇÕES GERAIS
+
+   A) Dispor sobre todas as condições ou obrigações gerais referentes à relação operadora–
+      consumidor, que não sejam pertinentes a nenhum dos temas específicos elencados neste
+      Manual.
+
+   B) A operadora deverá dispor que fazem parte do contrato quaisquer documentos entregues
+      ao beneficiário que tratem de assuntos pertinentes ao plano de saúde. Dentre esses
+      documentos, incluem-se: proposta de adesão, declaração de saúde, tabela de reembolso,
+      guia do beneficiário, guia de leitura contratual, etc.
+
+
+Tema XIX - ELEIÇÃO DE FORO
+
+Especificar que o foro é o da Comarca do contratante.
+

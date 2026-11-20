@@ -1,0 +1,3009 @@
+            ANEXO I – Instruções para atualizar os dados no SIB/ANS
+
+Seção 1 – Condições para atualizar o SIB/ANS
+
+1.1. Os movimentos de atualização, definidos no inciso III do art. 2º da Resolução
+Normativa n° 187, de 09 de março de 2009, compreendem:
+    a) inclusão de beneficiário: refere-se à inserção de registro de beneficiário que não
+    existia na base de dados da ANS. Os motivos de inclusão são detalhados no campo
+    103 dos itens 1.2.2 e 1.3.2 do Anexo II desta Instrução Normativa;
+    b) alteração de dados cadastrais de beneficiário: refere-se à substituição de dados
+    cadastrais de beneficiário na base de dados da ANS, motivada por mudança dos
+    dados de endereço, por mudança de dados de plano do beneficiário ou de nome do
+    beneficiário, conforme os itens 1.2.3 e 1.3.3 do Anexo II desta Instrução Normativa;
+    c) correção de dados cadastrais de beneficiário: refere-se à substituição de dados
+    cadastrais de beneficiário, feita pela operadora, na base de dados da ANS motivada
+    por erro de informação anteriormente enviada, conforme os itens 1.2.3 e 1.3.3 do
+    Anexo II desta Instrução Normativa;
+    d) exclusão de beneficiário: refere-se à mudança da situação do registro do
+    beneficiário de ativo para inativo. Os motivos de exclusão do beneficiário deverão
+    ser preenchidos no campo 703, conforme os itens 1.2.5 e 1.3.5 do Anexo II desta
+    Instrução Normativa;
+    e) reinclusão de beneficiário: refere-se à mudança da situação do beneficiário de
+    inativo para ativo, conforme os itens 1.2.6 e 1.3.6 do Anexo II desta Instrução
+    Normativa.
+1.2 As alterações ou correções de campos de dados ou de registro de beneficiários são
+realizadas por meio de movimentos de alteração.
+1.3. O método adotado no processo de alteração, correção, exclusão e reinclusão do
+SIB/ANS é de sobreposição de campos de dados, ou seja, a operadora informa o
+respectivo movimento no formato do registro de dados correspondente ao estabelecido
+no Anexo II desta Instrução Normativa e o sistema irá sobrepor este registro ao registro
+existente no cadastro de beneficiários do SIB/ANS, procedendo a distinção entre os
+campos e estabelecendo os controles e as críticas do movimento de atualização
+necessários à fidedignidade das informações.
+
+
+Seção 2 – Criação e finalidade do Código de Controle Operacional (CCO)
+
+2.1 O Código de Controle Operacional (CCO) identifica univocamente cada registro no
+cadastro de beneficiários do SIB/ANS, ou seja, para cada registro existente no cadastro
+de beneficiários do SIB/ANS será gerado um único CCO.
+
+2.2. O CCO é gerado e controlado unicamente pela ANS e deve ser utilizado pelas
+operadoras quando realizarem movimentos de alteração ou correção, exclusão e
+reinclusão de dados.
+2.3. Todos os registros da base cadastral da operadora já existente no cadastro de
+beneficiários do SIB/ANS receberão o CCO e será gerado um Arquivo de Conferência
+específico para informar às operadoras o CCO atribuído para cada registro.
+2.4. Posteriormente à geração do Arquivo de Conferência específico mencionado no item
+anterior desta seção, nos movimentos de inclusão de um novo registro de dados do
+beneficiário no cadastro de beneficiários do SIB/ANS será gerado o CCO pela ANS, que
+será disponibilizado às operadoras de planos privados de assistência à saúde por meio do
+Arquivo de Devolução.
+
+
+Seção 3 - Instruções para incluir registros de beneficiários
+
+
+
+                                                                                       1
+3.1. A inclusão de beneficiários deve conter dados cadastrais que permitam identificar
+plenamente o beneficiário e o plano de saúde por ele contratado. Os dados cadastrais
+devem ser enviados para a ANS por meio do aplicativo do SIB/ANS, utilizando a linha de
+registro do tipo 1 – Inclusão, que obedece ao formato padrão definido nos itens 1.2.2 e
+1.3.2 do Anexo II desta Instrução Normativa.
+3.2. Os dados cadastrais que permitem a identificação do beneficiário obedecem à
+seguinte classificação: dados pessoais; dados de plano privado de assistência à saúde e
+dados de logradouro, e encontram-se relacionados na tabela 1 “Campos de identificação
+do beneficiário”, na tabela 2 “Campos de identificação do plano privado de assistência à
+saúde” e na tabela 3 “Campos de localização do beneficiário”. Essas tabelas estabelecem
+a obrigatoriedade de envio dos dados.
+                                Tabela1 – identificação de beneficiários
+                                                                                Obrigatoriedade de envio
+
+               Campos de identificação do beneficiário                                Dependente Dependente
+                                                                              Titular maior de 18 menor de
+                                                                                         anos     18 anos
+
+101 Número sequencial da linha dentro do arquivo                                X        X          X
+
+102 Indicador de registro tipo detalhe                                          X        X          X
+
+103 Código de motivo de inclusão                                                X        X          X
+
+104 Código de identificação do beneficiário na operadora                        X        X          X
+
+105 Nome do beneficiário                                                        X        X          X
+
+106 Data de nascimento do beneficiário                                          X        X          X
+
+107 Sexo do beneficiário                                                        X        X          X
+
+108 CPF do beneficiário                                                         X        X          C
+
+      Código de identificação do beneficiário titular do plano na operadora
+109                                                                            NA        X          X
+      para beneficiários informados como dependentes (não-titulares)
+
+110 PIS/PASEP do beneficiário                                                   C        C          C
+
+111 Nome da mãe do beneficiário                                                 C        C          C
+
+112 CNS – Cartão Nacional de Saúde do beneficiário                              C        C          C
+
+113 Carteira de Identidade do beneficiário                                      C        C          C
+
+114 Órgão emissor da Carteira de Identidade do beneficiário                     C        C          C
+
+115 Código do país emissor da carteira de identidade do beneficiário            C        C          C
+
+Nota:
+X - dado obrigatório a ser enviado em função da movimentação
+C - dado complementar a ser enviado em função da movimentação
+NA - dado que não se aplica
+
+
+
+                              Tabela 2 – Identificação do plano de saúde
+                                                                                       Obrigatoriedade de
+                                                                                             envio
+              Campos de identificação do plano privado de saúde
+                                                                                        Planos    Planos
+                                                                                        Novos     Antigos
+
+116 Número do código do plano registrado na ANS (RPS)                                        X      NA
+
+117 Código do plano da operadora cadastrado na ANS (SCPA)                                 NA        X
+
+118 Número do código do plano de origem (portabilidade)                                      X      NA
+
+119 Data de adesão ao plano                                                                  X      X
+
+
+
+
+                                                                                                              2
+120 Relação de dependência do beneficiário                                              X       X
+
+121 Indicação de existência de Cobertura Parcial Temporária                             X       X
+
+      Indicação dos itens de procedimentos excluídos da cobertura, para plano
+122                                                                                     X       X
+      contratado antes de 02/01/1999
+
+123 CNPJ da empresa contratante de planos coletivos                                     X       X
+
+124 CEI para planos coletivos                                                           C       C
+
+Nota:
+X - dado obrigatório a ser enviado em função da movimentação
+C - dado complementar a ser enviado em função da movimentação
+NA - dado que não se aplica
+
+
+
+                                Tabela 3 – Localização do Beneficiário
+
+                                                                          Obrigatoriedade de envio
+              Campos de localização do beneficiário                             Dependente Dependente
+                                                                      Titular   maior de 18 menor de
+                                                                                   anos     18 anos
+
+125 Logradouro de residência do beneficiário                             X          X           X
+
+126 Número do logradouro de residência                                   X          X           X
+
+127 Complemento do logradouro                                            X          X           X
+
+128 Bairro do logradouro do beneficiário                                 C          C           C
+
+129 Código do Município de residência do beneficiário                    X          X           X
+
+      Indicação se a residência do beneficiário é no Brasil ou no
+130                                                                      X          X           X
+      exterior
+
+131 CEP da residência do beneficiário                                    X          X           X
+
+Nota:
+X - dado obrigatório a ser enviado em função da movimentação
+C - dado complementar a ser enviado em função da movimentação
+
+
+3.3. Os campos de dados de inclusão são compostos por três algarismos, sendo que o
+primeiro identifica o movimento de atualização, no caso de inclusão, e os outros dois
+identificam o número sequencial dos campos de dados necessários à inclusão de
+beneficiários.
+3.4. Os campos assinalados com “X” nas tabelas 1, 2 e 3 determinam a obrigatoriedade
+de envio, conforme instruções de preenchimento e de validação estabelecidas nos itens
+1.2.2 e 1.3.2 do Anexo II desta Instrução Normativa. O não envio destes campos de
+dados provoca a rejeição do registro de inclusão de dados do beneficiário.
+3.5. Os campos 110 “PIS/PASEP – Programa de Integração Social / Programa de
+Formação do Patrimônio do Servidor Público – do beneficiário”, 111 “Nome da mãe do
+beneficiário” e 112 “CNS – Cartão Nacional de Saúde – do beneficiário” da tabela 1 têm a
+finalidade de tornar plena a identificação do beneficiário, conforme instruções de
+preenchimento e de validação estabelecidas nos itens 1.2.2 e 1.3.2 do Anexo II desta
+Instrução Normativa.
+3.5.1. Para a identificação plena de beneficiários titulares e de dependentes com idade
+superior a 18 anos deve ser informado pelo menos um dos campos mencionados no item
+3.5.
+3.5.2. Para a identificação plena de beneficiários dependentes (não-titulares) com idade
+inferior a 18 anos deve ser informado pelo menos um dos quatro campos: os três
+
+
+
+
+                                                                                                        3
+mencionados no item 3.5 acrescido do campo 108 “CPF - Cadastro de Pessoas Físicas –
+do beneficiário” da tabela 1.
+3.5.3. Se não houver a informação correspondente, nestes casos, o SIB/ANS aceitará o
+registro do beneficiário, gerando inconsistência no registro de dados, devendo a
+operadora proceder à devida complementação.
+
+3.6. Os campos assinalados com “C” nas tabelas 1, 2 e 3 anteriormente descritas devem
+ser informados para complementar a identificação do registro.
+
+3.7. Os campos assinalados com “NA” (não se aplica) indicam que não participam da
+identificação pessoal, do plano de saúde contratado e da localização do beneficiário,
+portanto, não devem ser informados.
+
+
+Seção 4 - Instruções para alterar ou corrigir registros de beneficiários
+
+
+4.1. A alteração ou correção de dados do registro de beneficiários deve ser enviada para
+a ANS por meio do aplicativo do SIB/ANS, utilizando a linha de registro do tipo 2 –
+Alteração, que obedece ao formato padrão definido nos itens 1.2.3 e 1.3.3 do Anexo II
+desta Instrução Normativa.
+4.2. A alteração de dados cadastrais de beneficiários na base de dados da ANS é
+caracterizada quando motivada principalmente por mudança dos dados de endereço, por
+mudança de dados de plano do beneficiário ou por mudança de nome do beneficiário.
+4.3. A correção dos dados do registro de beneficiários é motivada por omissões ou
+incorreções no fornecimento de dados oriundos dos movimentos de inclusão, alteração,
+exclusão ou reinclusão.
+
+
+4.4. Os campos de dados de alteração ou correção são compostos por três algarismos,
+sendo que o primeiro identifica o movimento de alteração ou correção, e os outros dois
+identificam o número sequencial dos campos de dados necessários à alteração ou
+correção de beneficiários.
+
+4.5. Um movimento de alteração ou de correção é caracterizado por um determinado
+motivo correspondente ao campo 203 “Código do motivo de alteração do registro do
+beneficiário” do registro da linha do tipo 2 - Alteração, que direciona o procedimento e
+define os campos de dados que serão alterados ou corrigidos. São eles:
+         “06” – mudança de plano;
+         “11” – plano antigo migrado;
+         “12” – plano antigo adaptado;
+         “43” – alteração do número do código do plano de origem (portabilidade);
+         “51” – correção de dados de beneficiários em registros ativos no Cadastro de
+                Beneficiários do SIB/ANS;
+         “52” – correção de data de exclusão e/ou motivo de exclusão em registros
+                cancelados no Cadastro de Beneficiários do SIB/ANS.
+
+4.6. Se necessário, devem ser gerados tantos registros de alteração para um mesmo
+beneficiário quantos forem os motivos de alteração ou correção utilizados.
+
+4.7. Os campos de dados correspondentes aos motivos de alteração e de correção
+encontram-se relacionados na tabela 4 “Campos de alteração ou de correção do registro
+do beneficiário”, que estabelece a obrigatoriedade de preenchimento.
+
+4.7.1. Para quaisquer movimentos de alteração ou de correção de dados, os campos 201
+“Número sequencial da linha dentro do arquivo”, 202 “Indicador de registro tipo detalhe”,
+203 “Código do motivo de alteração do registro do beneficiário”, 204 “Código de Controle
+Operacional – CCO - do registro” e 205 “Dígito verificador do Código de Controle
+
+
+
+
+                                                                                       4
+          Operacional do registro” são comuns, sendo de preenchimento obrigatório, conforme
+          instruções de preenchimento e de validação estabelecidas no item 1.3.3 do Anexo II.
+          4.7.2. Os campos específicos em cada movimento de alteração ou de correção
+          relacionados na tabela 4 têm seu preenchimento e validação estabelecidos no item 1.3.3
+          do Anexo II.
+          4.7.3. O SIB/ANS somente validará e atualizará os respectivos campos de dados
+          relacionados na tabela 4 correspondentes ao motivo informado no campo 203 “Código do
+          motivo de alteração do registro do beneficiário” e os demais campos não serão validados.
+          4.8. O campo 206 “Nome do Beneficiário” é alterado em função de mudança de nome
+          motivada por condições legais, sendo a mais comum a provocada por mudança do estado
+          civil do beneficiário.
+          4.9. O campo 221 “Relação de Dependência do beneficiário” é alterado quando ocorre
+          uma mudança da situação de titularidade, ou seja, quando o beneficiário muda a sua
+          condição de dependente para titular, ou, ao contrário, conforme situação definida no item
+          1.3.3 do Anexo II desta Instrução Normativa.
+          4.10. Os campos previstos nos motivos “06”, “11”, “12” e “43” são alterados se ocorrer
+          uma nova forma de contratação firmada entre o beneficiário e a operadora de plano de
+          saúde, ou seja, quando ocorrer uma adaptação de plano anterior à Lei nº 9656/98, ou
+          uma migração de plano anterior à Lei para um plano posterior à Lei, ou uma mudança de
+          plano posterior à Lei para um outro também posterior à Lei, ou por portabilidade de
+          carência.
+                          Tabela 4 – Campos de Alteração/Correção de Dados do Beneficiário
+                                                              Motivos de alteração ou de correção
+
+
+
+
+                                                                                           51 -
+                                                                            43 -      alteração ou   52 -
+Campos de alteração ou de correção do registro            11-      12 - alteração do correção de correção
+                                                  6-
+               do beneficiário                           plano    plano nº do código campos de        de
+                                               mudança
+                                                        antigo   antigo   do plano      dados do    dados
+                                               de plano
+                                                        migrado adaptado anterior à beneficiário,     de
+                                                                        portabilidade do plano, de exclusão
+                                                                                       localização
+
+
+
+
+201 Número sequencial da linha dentro do arquivo         X    X       X          X            X       X
+
+202 Indicador de registro tipo detalhe                   X    X       X          X            X       X
+
+203 Código de motivo de alteração/correção               X    X       X          X            X       X
+
+204 Código de Controle Operacional - CCO                 X    X       X          X            X       X
+
+205 Digito verificador do CCO                            X    X       X          X            X       X
+
+206 Nome do beneficiário                                 NA   NA     NA          NA           X      NA
+207 Data de nascimento do beneficiário                   NA   NA     NA          NA           X      NA
+208 Sexo do beneficiário                                 NA   NA     NA          NA           X      NA
+209 CPF do beneficiário                                  NA   NA     NA          NA           X      NA
+
+    Código de identificação do beneficiário titular do
+210 plano na operadora para beneficiários informados     NA   NA     NA          NA           X      NA
+    como dependentes (não-titulares)
+
+211 PIS/PASEP do beneficiário                            NA   NA     NA          NA           X      NA
+212 Nome da mãe do beneficiário                          NA   NA     NA          NA           X      NA
+
+
+
+
+                                                                                                       5
+213 CNS – Cartão Nacional de Saúde do beneficiário      NA   NA   NA      NA          X        NA
+
+214 Carteira de Identidade do beneficiário              NA   NA   NA      NA          X        NA
+    Órgão emissor da Carteira de Identidade do
+215                                                     NA   NA   NA      NA          X        NA
+    beneficiário
+    Código do país emissor da carteira de identidade
+216                                                     NA   NA   NA      NA          X        NA
+    do beneficiário
+    Número do código do plano registrado na ANS
+217                                                     X    X                        X        NA
+    (RPS)                                                         NA       X
+    Código do plano da operadora cadastrado na ANS
+218                                                     NA   NA                       X        NA
+    (SCPA)                                                        X       NA
+    Número do código do plano de origem
+219                                                     NA   NA   NA       X          X        NA
+    (portabilidade)
+220 Data de adesão ao plano                             NA   NA   NA       X          X        NA
+221 Relação de dependência do beneficiário              NA   NA   NA      NA          X        NA
+    Indicação de existência de Cobertura Parcial
+222                                                     X    X    X       NA          X        NA
+    Temporária
+    Indicação dos itens de procedimentos excluídos da
+223 cobertura, para plano contratado antes de           X    X    X       NA          X        NA
+    02/01/1999.
+
+224 CNPJ da empresa contratante de planos coletivos     X    X    X        X          X        NA
+
+225 CEI para planos coletivos                           C    C    C        C          X        NA
+
+      Data de adaptação, migração, mudança ou
+226                                                     X    X    X        X          X        NA
+      portabilidade de planos
+227 Logradouro de residência do beneficiário            NA   NA   NA      NA          X        NA
+228 Número do logradouro de residência                  NA   NA   NA      NA          X        NA
+229 Complemento do logradouro                           NA   NA   NA      NA          X        NA
+230 Bairro do logradouro do beneficiário                NA   NA   NA      NA          X        NA
+
+231 Código do Município de residência do beneficiário   NA   NA   NA      NA          X        NA
+
+      Indicação se a residência do beneficiário é no
+232                                                     NA   NA   NA      NA          X        NA
+      Brasil ou no exterior
+233 CEP da residência do beneficiário                   NA   NA   NA      NA          X        NA
+234 Data de reinclusão do beneficiário no plano         NA   NA   NA      NA          X        NA
+235 Data de cancelamento do beneficiário                NA   NA   NA      NA         NA        X
+    Código do motivo de cancelamento do contrato do
+236                                                     NA   NA   NA      NA         NA        X
+    beneficiário
+            Nota:
+            X - dado obrigatório a ser enviado em função da movimentação
+            C - dado complementar a ser enviado em função da movimentação
+            NA - dado que não se aplica
+
+
+            4.11. Os campos de dados de identificação do plano de saúde e de localização do
+            beneficiário devem ser corrigidos quando informados de forma incorreta ou omissa. Esta
+            incorreção ou omissão é registrada e qualificada no Arquivo de Conferência, conforme
+            especificado no item 1.5.1 do Anexo II desta instrução Normativa.
+            4.12. Os campos assinalados com “X” determinam a obrigatoriedade de envio, conforme
+            instruções de preenchimento e de validação estabelecidas no item 1.3.3 do Anexo II
+            desta Instrução Normativa. O não envio destes campos de dados provoca a rejeição do
+            registro de alteração ou correção de dados do beneficiário.
+            4.13. Os campos assinalados com “NA” (não se aplica) indicam que não participam da
+            identificação pessoal, do plano de saúde contratado e da localização do beneficiário,
+            portanto, não devem ser informados.
+
+
+            Seção 5 - Instruções para quando houver inexistência de beneficiários
+
+
+
+
+                                                                                                6
+5.1. A inexistência de beneficiários é caracterizada quando a operadora ainda não
+comercializa planos de saúde e deve informar essa situação por meio do aplicativo do
+SIB/ANS, utilizando a linha de registro do tipo 6 - Indicação de inexistência de
+beneficiários ou de atualização cadastral que obedece ao formato padrão definido no item
+1.3.4 do Anexo II desta Instrução Normativa, informando a mensagem “NAO EXISTEM
+BENEFICIARIOS CADASTRADOS” no campo 603 “Mensagem de inexistência de
+beneficiários ou de atualização cadastral”.
+5.2. Quando não houver atualização de dados de beneficiários na competência de envio
+do arquivo de atualização, a operadora deve informar essa situação por meio do
+aplicativo do SIB/ANS, utilizando a linha de registro do tipo 6 - Indicação de inexistência
+de beneficiários ou de atualização cadastral que obedece ao formato padrão definido no
+item 1.3.4 do Anexo II desta Instrução Normativa, informando a mensagem “NAO
+HOUVE ATUALIZACAO DE DADOS BENEFICIARIOS” no campo 603 “Mensagem de
+inexistência de beneficiários ou de atualização cadastral”.
+
+
+Seção 6 - Instruções para excluir beneficiários
+
+6.1. A exclusão de beneficiários deve conter dados cadastrais que permitam identificar o
+cancelamento do plano de saúde pelo beneficiário por ele contratado. Os dados
+cadastrais correspondentes devem ser enviados para a ANS por meio do aplicativo do
+SIB/ANS, utilizando a linha de registro do tipo 7 – Exclusão, que obedece ao formato
+padrão definido no item 1.3.5 do Anexo II desta Instrução Normativa.
+6.2. Os campos de dados de exclusão são compostos por três algarismos, sendo que o
+primeiro identifica o movimento de atualização, no caso, de exclusão, e os outros dois
+identificam o número sequencial dos campos de dados necessários à exclusão de
+beneficiários.
+6.3. Os campos assinalados com “X” determinam a obrigatoriedade de envio, conforme
+instruções de preenchimento e de validação estabelecidas no item 1.3.5 do Anexo II
+desta Instrução Normativa. O não envio destes campos de dados provoca a rejeição do
+registro de exclusão de dados do beneficiário.
+6.4. Os campos assinalados com “C” (complementar) devem ser informados em
+situações excepcionais quando os motivos de exclusão forem “07” e “09”.
+6.4.1. A ANS incluirá o registro do beneficiário com o novo código de identificação
+informado pela operadora mantendo o teor do conteúdo dos campos existentes no
+registro excluído.
+6.4.2. Será rejeitada a exclusão de beneficiários se os conteúdos dos campos de dados
+existentes no registro a ser excluído não atender as normas de preenchimento e
+validação estabelecidas nesta Instrução Normativa.
+6.5. Os campos de dados correspondentes aos motivos de exclusão encontram-se
+relacionados na tabela 5 – Campos de Exclusão do registro do beneficiário que estabelece
+a obrigatoriedade de preenchimento.
+
+
+6.5.1. Para quaisquer movimentos de exclusão, os campos 701 “Número sequencial da
+linha dentro do arquivo”, 702 “Indicador de registro tipo detalhe”, 703 “Código do motivo
+de cancelamento do contrato do beneficiário”, 704 “Código de Controle Operacional –
+CCO - do registro” e 705 “Dígito verificador do Código de Controle Operacional do
+registro” são comuns para a tabela 5, sendo de preenchimento obrigatório, conforme
+instruções de preenchimento e de validação estabelecidas no item 1.3.5 do Anexo II
+desta Instrução Normativa.
+
+
+               Tabela 5 – Campos de Exclusão do registro do Beneficiário
+           Campos de exclusão do registro do beneficiário             Obrigatoriedade de envio
+
+
+
+
+                                                                                             7
+                                                                               Dependente Dependente
+                                                                     Titular   maior de 18 menor de
+                                                                                  anos     18 anos
+
+
+701 Número sequencial da linha dentro do arquivo                       X           X          X
+
+702 Indicador de registro tipo detalhe                                 X           X          X
+
+703 Código de motivo de exclusão                                       X           X          X
+
+704 Código de Controle Operacional - CCO                               X           X          X
+
+705 Digito verificador do CCO                                          X           X          X
+
+706 Data de nascimento do beneficiário                                 X           X          X
+
+707 Data de cancelamento do beneficiário                               X           X          X
+
+708 Novo código de identificação do beneficiário na operadora          C           C          C
+
+
+Nota:
+X - dado obrigatório a ser enviado em função da movimentação
+C - dado complementar a ser enviado em função da movimentação
+
+
+Seção 7 – Instruções para reincluir beneficiários
+
+
+7.1. A reinclusão de beneficiários deve conter dados cadastrais que permitam identificar
+a mudança da situação do beneficiário de inativo para ativo. Os dados cadastrais
+correspondentes devem ser enviados para a ANS por meio do aplicativo do SIB/ANS,
+utilizando a linha de registro do tipo 8 – Reinclusão, que obedece ao formato padrão
+definido no item 1.3.6 do Anexo II desta Instrução Normativa.
+7.2. Os campos de dados de Reinclusão são compostos por três algarismos, sendo que o
+primeiro identifica o movimento de Reinclusão e os outros dois identificam o número
+sequencial dos campos de dados necessários à reinclusão de beneficiários.
+7.3. Os campos assinalados com “X” determinam a obrigatoriedade de envio, conforme
+instruções de preenchimento e de validação estabelecidas no item 1.3.6 do Anexo II
+desta Instrução Normativa. O não envio destes campos de dados provoca a rejeição do
+registro de Reinclusão de dados do beneficiário.
+7.4. Somente os motivos de exclusão “01” – rompimento do contrato por iniciativa do
+beneficiário, “02” – término da relação de vinculado a um beneficiário titular, “03” –
+desligamento da empresa (para planos coletivos), “04” – inadimplência, utilizados no
+movimento de exclusão do registro do beneficiário na base de dados do SIB/ANS,
+permitem o movimento de Reinclusão por parte da operadora. Os outros motivos de
+exclusão não permitem o movimento de reinclusão do registro do beneficiário.
+7.5. Os campos de dados correspondentes ao movimento de Reinclusão encontram-se
+relacionados na tabela 6 – Campos de Reinclusão do registro do beneficiário, que
+estabelece a obrigatoriedade de preenchimento.
+7.5.1. Para quaisquer movimentos de reinclusão, os campos 801 “Número sequencial da
+linha dentro do arquivo”, 802 “Indicador de registro tipo detalhe”, 803 “Código de
+Controle Operacional – CCO - do registro” e 804 “Dígito verificador do Código de Controle
+Operacional do registro” são de preenchimento obrigatório, conforme instruções de
+preenchimento e de validação estabelecidas no item 1.3.6 do Anexo II.
+
+
+                  Tabela 6 – Campos de Reinclusão do registro do Beneficiário
+
+
+
+
+                                                                                              8
+                                                        Obrigatoriedade de envio
+
+    Campos de exclusão do registro do beneficiário             Dependente Dependente
+                                                     Titular   maior de 18 menor de
+                                                                  anos     18 anos
+
+
+801 Número sequencial da linha dentro do arquivo       X           X           X
+
+802 Indicador de registro tipo detalhe                 X           X           X
+
+803 Código de Controle Operacional - CCO               X           X           X
+
+804 Digito verificador do CCO                          X           X           X
+
+805 Data de cancelamento do beneficiário               X           X           X
+
+806 Data de reinclusão do beneficiário no plano        X           X           X
+
+
+Nota:
+X - dado obrigatório a ser enviado em função da movimentação
+
+
+
+
+                                                                                       9
+  ANEXO II - Formato e descrição dos arquivos de atualização, devolução e de
+                                conferência.
+
+1.1 – Arquivo de atualização com registros de dados de beneficiários – detalhamento do
+formato.
+
+O arquivo de atualização de dados de beneficiários (arquivo de atualização) será gerado
+em formato texto com a extensão.SIB, identificado por:
+XXXXXXAAAAMMDDHHMMSS.SIB onde,
+XXXXXX corresponderá às 6 (seis) posições do número de registro da operadora na
+ANS,
+AAAA ao ano,
+MM ao mês,
+DD ao dia,
+HH à hora,
+MM aos minutos e
+SS aos segundos relativos à data/horário da geração do arquivo.
+
+Os arquivos de atualização serão processados à medida que forem recepcionados pela
+ANS, cabendo à operadora a geração dos arquivos de atualização, com sequência lógica
+dos registros de: inclusões, alterações ou correções, exclusões e reinclusões, e de envio
+dos arquivos destes para a ANS.
+
+O formato padronizado e a identificação correspondente do arquivo de atualização
+deverão ser obrigatoriamente adotados por todas as operadoras de planos privados de
+assistência à saúde, para fins de validação e transmissão do arquivo de dados para a
+ANS.
+
+O arquivo de atualização deverá ser gerado com o tamanho de até 100.000 (cem mil)
+registros de dados de beneficiários. Quando exceder esse tamanho, a operadora deverá
+gerar outro arquivo obedecendo aos procedimentos aqui definidos.
+
+Os arquivos de atualização enviados para a ANS devem ter identificação unívoca sob
+pena de serem rejeitados e considerados como não envio da informação.
+
+1.2 – Arquivos de atualização podem ser compostos por diversos tipos de registro, sendo
+que o de linha do tipo 0 – registro de header e o de linha do tipo 9 – registro de trailler
+são registros de controle, determinando inicio e fim de arquivo, respectivamente. Os de
+linha do tipo 1 – registro de inclusão, tipo 2 – registro de alteração ou correção, tipo 6 -
+registro de indicação de inexistência de beneficiários ou de atualização cadastral, tipo 7 –
+registro de exclusão e tipo 8 – registro de reinclusão são de conteúdo de dados
+cadastrais.
+
+     1.2.1 – Linha do tipo 0 – registro de header
+             É o primeiro registro do arquivo e é composto pelos seguintes campos:
+             001 – Número sequencial da linha dentro do arquivo;
+             002 – Indicador de registro tipo header;
+             003 – Código do sistema;
+             004 – Data de geração do arquivo;
+             005 – Número do código da operadora na ANS (com o dígito verificador);
+             006 – CNPJ da operadora;
+             007 – Número de sequência do arquivo que está sendo enviado à ANS;
+             008 – Reservado para a ANS;
+             009 – Hora da geração do arquivo;
+             010 – Reservado para expansão.
+
+     1.2.2 – Linha do tipo 1 – registro de inclusão
+
+
+
+
+                                                                                         10
+        O arquivo pode conter inúmeros registros de inclusão de dados de
+        beneficiários que são compostos pelos seguintes campos:
+       101 – Número sequencial da linha dentro do arquivo;
+       102 – Indicador de registro tipo detalhe;
+       103 – Código do motivo de inclusão;
+       dados sobre beneficiário
+       104 - Código de Identificação do beneficiário na operadora;
+       105 - Nome do Beneficiário;
+       106 - Data de nascimento do beneficiário;
+       107 - Sexo do beneficiário;
+       108 – CPF - Cadastro de Pessoas Físicas – do beneficiário;
+        109 - Código de identificação do beneficiário titular do plano na operadora
+        para beneficiários informados como dependentes (não-titulares);
+        110 - PIS/PASEP – Programa de Integração Social / Programa de Formação
+        do Patrimônio do Servidor Público – do beneficiário;
+       111 - Nome da mãe do beneficiário;
+       112 – CNS – Cartão Nacional de Saúde – do beneficiário;
+       113 – Carteira de identidade do beneficiário;
+       114 – Órgão emissor da carteira de identidade do beneficiário;
+       115 – Código do país emissor da carteira de identidade do beneficiário;
+       dados sobre plano
+       116 - Número do código do plano registrado na ANS;
+       117 – Código do plano da operadora cadastrado na ANS;
+       118 – Número do código do plano anterior à portabilidade;
+       119 - Data de adesão ao plano;
+       120 – Relação de dependência do beneficiário;
+       121 – Indicação de existência de Cobertura Parcial Temporária;
+       122 – Indicação de itens de procedimentos excluídos da cobertura;
+       123 – CNPJ – Cadastro Nacional de Pessoa Jurídica – da empresa à
+             qual o beneficiário está vinculado;
+       124 – CEI – Cadastro Específico do INSS – da empresa à qual o
+             beneficiário está vinculado;
+        dados sobre localização do beneficiário
+       125 – Logradouro de residência do beneficiário;
+       126 – Número do logradouro;
+       127 – Complemento do logradouro;
+       128 – Bairro do logradouro do beneficiário;
+       129 – Código do município de residência do beneficiário;
+       130 – Indicação se a residência do beneficiário é no Brasil ou no exterior;
+       131 – CEP – Código de Endereçamento Postal;
+       132 – Reservado para expansão.
+
+1.2.3 – Linha do tipo 2 – registro de alteração ou correção
+        O arquivo pode conter inúmeros registros de alteração de dados de
+        beneficiários que são compostos pelos seguintes campos:
+        201 – Número sequencial da linha dentro do arquivo;
+        202 – Indicador de registro tipo detalhe;
+        203 – Código do motivo de alteração do registro do beneficiário;
+        204 - Código de Controle Operacional – CCO - do registro;
+        205 – Dígito verificador do Código de Controle Operacional do registro;
+        206 - Nome do Beneficiário;
+        207 - Data de nascimento do beneficiário;
+        208 - Sexo do beneficiário;
+        209 – CPF - Cadastro de Pessoas Físicas – do beneficiário;
+         210 - Código de identificação do beneficiário titular do plano na operadora
+         para beneficiários informados como dependentes (não-titulares);
+         211 - PIS/PASEP – Programa de Integração Social / Programa de Formação
+         do Patrimônio do Servidor Público – do beneficiário;
+
+
+
+
+                                                                                 11
+      212 - Nome da mãe do beneficiário;
+      213 – CNS – Cartão Nacional de Saúde – do beneficiário;
+      214 – Carteira de identidade do beneficiário;
+      215 – Órgão emissor da carteira de identidade do beneficiário;
+      216 – Código do país emissor da carteira de identidade do beneficiário;
+      217 - Número do código do plano registrado na ANS;
+      218 – Código do plano da operadora cadastrado na ANS;
+      219 – Número do código do plano anterior à portabilidade;
+      220 - Data de adesão ao plano;
+      221 – Relação de dependência do beneficiário;
+      222 – Indicação de existência de Cobertura Parcial Temporária;
+      223 – Indicação de itens de procedimentos excluídos da cobertura;
+      224 – CNPJ – Cadastro Nacional de Pessoa Jurídica – da empresa à qual o
+            beneficiário está vinculado;
+      225 – CEI – Cadastro Específico do INSS – da empresa à qual o beneficiário
+            está vinculado;
+      226 – Data de adaptação, migração, mudança ou portabilidade de planos;
+      227 – Logradouro de residência do beneficiário;
+      228 – Número do logradouro;
+      229 – Complemento do logradouro;
+      230 – Bairro do logradouro do beneficiário;
+      231 – Código do município de residência do beneficiário;
+      232 – Indicação se a residência do beneficiário é no Brasil ou no exterior;
+      233 – CEP – Código de Endereçamento Postal;
+      234 – Data de reinclusão do beneficiário no plano;
+      235 - Data de cancelamento do beneficiário;
+      236 – Código do motivo de cancelamento do contrato do beneficiário;
+      237 – Reservado para expansão.
+
+1.2.4 – Linha do tipo 6 – registro de indicação de inexistência de beneficiários ou
+de atualização cadastral
+      O arquivo pode conter somente um registro de indicação de inexistência de
+       beneficiários ou de atualização cadastral totalizando 3 (três) registros no
+       arquivo: o registro linha do tipo 0; 1 (um) registro linha do tipo 6 e o
+       registro linha do tipo 9 (registro de trailler).
+      O registro linha do tipo 6 é composto pelos seguintes campos:
+      601 – Número sequencial da linha dentro do arquivo;
+      602 – Indicador de linhas sem movimento;
+       603 – Mensagem de inexistência de beneficiários ou de atualização
+       cadastral.
+
+1.2.5 – Linha do tipo 7 – registro de exclusão
+       O arquivo pode conter inúmeros registros de exclusão que são compostos
+        obrigatoriamente pelos seguintes campos:
+       701 – Número sequencial da linha dentro do arquivo;
+       702 – Indicador de registro tipo detalhe;
+       703 – Código do motivo de cancelamento do contrato do beneficiário;
+       704 - Código de Controle Operacional – CCO - do registro;
+       705 – Dígito verificador do Código de Controle Operacional do registro;
+       706 - Data de nascimento do beneficiário;
+       707 - Data de cancelamento do beneficiário;
+       708 – Novo código de identificação do beneficiário na operadora.
+
+1.2.6 – Linha do tipo 8 – registro de reinclusão
+        O arquivo pode conter inúmeros registros de reinclusão que são compostos
+        obrigatoriamente pelos seguintes campos:
+       801 – Número sequencial da linha dentro do arquivo;
+       802 – Indicador de registro tipo detalhe;
+
+
+
+
+                                                                                 12
+            803 - Código de Controle Operacional – CCO - do registro;
+            804 – Dígito verificador do Código de Controle Operacional do registro;
+            805 – Data de cancelamento do plano;
+            806 – Data de reinclusão do beneficiário no plano.
+
+      1.2.7 – Linha do tipo 9 – registro de trailler
+              É o último registro do arquivo e é composto obrigatoriamente pelos
+              seguintes campos:
+             901 – Número sequencial da linha dentro do arquivo;
+             902 – Registro tipo trailler;
+             903 – Quantidade de registros para inclusão;
+             904 – Quantidade de registros para alteração;
+             905 – Quantidade de registros para indicação de inexistência de
+                   beneficiário ou de atualização cadastral;
+             906 – Quantidade de registros para exclusão;
+             907 – Quantidade de registros para reinclusão;
+             908 – Reservado para expansão.
+
+1.3 – Descrição do formato, tamanho e características dos campos dos registros que
+compõem o arquivo de atualização.
+
+1.3.1 - Linha do tipo 0
+Header do arquivo de atualização com registros de dados de beneficiários.
+
+Tamanho do registro: 88 posições (bytes)
+
+ Número e nome do campo      Formato Posições          Características dos campos
+                                  e
+                             tamanho
+                                 do
+                              campo
+001 – Número sequencial da Numérico 001 a 007 - preenchimento obrigatório.
+linha dentro do arquivo         (07)
+                                                  Conteúdo: “0000001”.
+002 – Indicador de registro Numérico 008 a 008 - preenchimento obrigatório.
+tipo header                     (01)
+                                                  Conteúdo: “0”  zero.
+003 – Código do sistema      Alfabético 009 a 013 - preenchimento obrigatório.
+                                (05)
+                                                  Conteúdo: “BENEF”.
+004 – Data de geração do     Numérico 014 a 021 - preenchimento obrigatório.
+arquivo                         (08)
+                                                  Formato: AAAAMMDD onde,
+                                                  AAAA é o ano,
+                                                  MM é o mês e
+                                                  DD é o dia da geração do arquivo.
+005 – Número do código da    Numérico 022 a 027 - preenchimento obrigatório.
+operadora na ANS (com o         (06)
+dígito verificador)
+006 – CNPJ da operadora      Numérico 028 a 041 - preenchimento obrigatório.
+                                (14)
+007 – Número de sequência do Numérico 042 a 048 - preenchimento obrigatório.
+arquivo que está sendo          (07)
+enviado à ANS                                     O número de sequência do arquivo é de
+                                                  gestão da operadora.
+008 – Reservado para a ANS     Alfan.   049 a 052
+                                (04)
+009 – Hora da geração do     Numérico 053 a 058 - preenchimento obrigatório.
+
+
+
+                                                                                      13
+arquivo                          (06)
+                                                        Formato: HHMMSS onde,
+                                                        HH é a hora,
+                                                        MM os minutos e
+                                                        SS os segundos da geração do arquivo.
+010 – Reservado para            Alfan.      059 a 088
+expansão                         (30)
+
+
+1.3.2 - Linhas do tipo 1
+Inclusão de registros de dados de beneficiários no Cadastro de Beneficiários do
+SIB/ANS.
+
+Tamanho do registro: 533 posições (bytes)
+
+ Número e nome do campo       Formato Posições         Características dos campos
+                                   e
+                              tamanho
+                                  do
+                               campo
+101 – Número sequencial da Numérico 001 a 007 - preenchimento obrigatório.
+linha dentro do arquivo          (07)
+                                                 Conteúdo: “Sequencial da linha anterior
+                                                 mais 1”.
+102 – Indicador de registro Numérico 008 a 008 - preenchimento obrigatório.
+tipo detalhe                     (01)
+                                                 Conteúdo: “1”  para registro de
+                                                 inclusão.
+103 – Código de motivo de     Numérico 009 a 010 - preenchimento obrigatório.
+inclusão                         (02)
+                                                 Validação:
+                                                 - Confrontar com a tabela de Motivos
+                                                 de inclusão, ou seja,
+                                                 “15” – inclusão de novos beneficiários
+                                                 (oriundos do mercado),
+                                                 “16” – inclusão de beneficiários motivada
+                                                 por    transferência     voluntária    de
+                                                 carteira,
+                                                 “17” – inclusão de beneficiários motivada
+                                                 por transferência compulsória de
+                                                 carteira,
+                                                 “31” – inclusão de beneficiários com
+                                                 tempo de data de adesão ao plano
+                                                 superior a 5 (cinco) anos, a partir da
+                                                 última competência (mais recente),
+                                                 “41” – inclusão de beneficiários motivada
+                                                 por portabilidade de carência.
+104 - Código de Identificação   Alfan. 011 a 040 - preenchimento obrigatório.
+do beneficiário na operadora     (30)
+                                                 - A gestão do código de identificação do
+                                                 beneficiário é da operadora, ou seja, a
+                                                 ANS tratará o campo na formatação
+                                                 enviada pela operadora.
+
+
+
+
+                                                                                     14
+105 - Nome do Beneficiário     Alfan.   041 a 110 - preenchimento obrigatório.
+                                (70)
+                                                   Conteúdo: preencher com nome do
+                                                   beneficiário conforme consta no Registro
+                                                   Civil, na Carteira de Identidade ou na
+                                                   Certidão de Casamento.
+
+                                                 Validação:
+                                                 Não serão validados pelo aplicativo do
+                                                 SIB/ANS nomes de beneficiários que
+                                                 apresentarem:
+                                                 1 – Nome com apenas uma palavra;
+                                                 2 – Primeiro nome com apenas uma
+                                                 letra, exceto quando o primeiro nome
+                                                 for: D, I, O, U, Y (com ou sem acento);
+                                                 3 – Último nome com apenas uma letra,
+                                                 exceto      quando     o   último    nome
+                                                 for: I, O, U, Y (com ou sem acento);
+                                                 4 – Nomes que contenham um mais dos
+                                                 números 1, 2, 3, 4, 5, 6, 7, 8, 9 e 0;
+                                                 5 – Nomes que contenham um ou mais
+                                                 dos caracteres especiais
+                                                 @ - (arroba),
+                                                 “ ” - (aspas),
+                                                 * - (asterisco),
+                                                 / - (barra),
+                                                 { } - (chaves),
+                                                 $ - (cifrão),
+                                                 ^ - (circunflexo),
+                                                 [ ] - (colchetes),
+                                                 \ - (contra barra),
+                                                 & - (E comercial),
+                                                 ! - (exclamação),
+                                                 = - (igual),
+                                                 ? - (interrogação),
+                                                 + - (mais),
+                                                 < - (menor que),
+                                                 > - (maior que),
+                                                 ( ) - (parênteses),
+                                                 % - (percentual),
+                                                 . - (ponto),
+                                                 ; - (ponto e vírgula),
+                                                 # - (sustenido),
+                                                 ~ - (til),
+                                                 , - (vírgula).
+106 - Data de nascimento do   Numérico 111 a 118 - preenchimento obrigatório.
+beneficiário                    (08)
+                                                 Formato: AAAAMMDD onde,
+                                                 AAAA é o ano,
+                                                 MM é o mês e
+                                                 DD é o dia.
+
+                                                   Validação:
+                                                   Não serão validadas pelo aplicativo do
+                                                   SIB/ANS datas de nascimento:
+                                                   - anteriores a 01/01/1890;
+                                                   - posteriores à competência de envio do
+                                                   SIB/ANS;
+
+
+
+
+                                                                                 15
+                                                      - posteriores à data de adesão ao plano.
+107 - Sexo do beneficiário         Numérico 119 a 119 - preenchimento obrigatório.
+                                     (01)
+                                                      Validação:
+                                                      Não serão validados pelo aplicativo do
+                                                      SIB/ANS sexo do beneficiário diferente
+                                                      de “1” e de “3”.
+
+                                                    Conteúdo: “1”  masculino ou
+                                                               “3”  feminino
+108 – CPF - Cadastro          de Numérico 120 a 130 -    Para   beneficiário   titular   e
+Pessoas      Físicas –        do   (11)             beneficiário     dependente      (não-
+beneficiário                                        titular) com idade igual ou superior a
+                                                    dezoito anos:
+
+                                                          - preenchimento obrigatório.
+
+                                                          . o campo deve ser preenchido com o
+                                                            CPF do próprio beneficiário.
+
+                                                        - Para beneficiário dependente (não-
+                                                        titular) com idade inferior a dezoito
+                                                        anos:
+
+                                                          - preenchimento complementar.
+
+                                                          . se o campo CPF não for preenchido,
+                                                            então a operadora deve preencher
+                                                            pelo menos 1 (um) dos campos:
+                                                           110 – PIS/PASEP do beneficiário;
+                                                           111 – Nome da mãe do beneficiário;
+                                                           112 – CNS – Cartão Nacional de
+                                                                  Saúde do beneficiário.
+
+                                                          . quando informado, o campo deve ser
+                                                            preenchido com o CPF do próprio
+                                                            beneficiário.
+
+                                                         . quando não informado, preencher o
+                                                           campo com zeros.
+109 - Código de identificação       Alfan.   131 a 160 - Para beneficiário dependente (não-
+do beneficiário titular do plano     (30)              titular).
+na operadora para
+beneficiários informados como                             - preenchimento obrigatório.
+dependentes (não-titulares)
+                                                          Validação:
+                                                           - o código de identificação do
+                                                               beneficiário titular do plano deve
+                                                               constar em registro ativo no
+                                                               Cadastro de Beneficiários do
+                                                               SIB/ANS.
+
+                                                        - Para beneficiário titular.
+
+                                                . não se aplica, ou seja, esse campo
+                                              deve conter espaços em branco.
+110 - PIS/PASEP – Programa Numérico 161 a 171 - preenchimento complementar.
+de Integração Social/Programa (11)
+
+
+
+
+                                                                                       16
+de Formação do Patrimônio do   Validação:
+Servidor     Público –    do   -      Para    beneficiário     titular   e
+beneficiário                   beneficiário        dependente        (não-
+                               titular) com idade igual ou superior a
+                               dezoito anos.
+                                  . Se o campo PIS/PASEP não for pre-
+                                    enchido, então a operadora deve
+                                    preencher pelo menos 1 (um) dos
+                                    campos:
+                                    111 – Nome da mãe do beneficiário;
+                                    112 – CNS – Cartão Nacional de Saú-
+                                           de do beneficiário.
+                                   . Quando não informado, preencher o
+                                     campo com zeros.
+
+                               - Para beneficiário dependente (não-
+                               titular) menor que dezoito anos.
+                                  . se o campo PIS/PASEP não for pre-
+                                    enchido, então a operadora deve pre-
+                                    encher pelo menos 1 (um) dos cam-
+                                    pos:
+                                    108 – CPF do beneficiário;
+                                    111– Nome da mãe do beneficiário;
+                                    112 – CNS – Cartão Nacional de Saú-
+                                          de do beneficiário.
+
+                                 . Quando não informado, preencher o
+                                   campo com zeros.
+
+
+
+
+                                                               17
+111 - Nome da mãe do bene-   Alfan.   172 a 241 - preenchimento complementar.
+ficiário                      (70)
+                                               - quando informado, preencher o campo
+                                               com o nome da mãe do beneficiário
+                                               conforme consta no Registro Civil, na
+                                               Carteira de Identidade ou na Certidão de
+                                               Casamento.
+                                               Não serão validados pelo aplicativo do
+                                               SIB/ANS nomes de beneficiários que
+                                               apresentarem:
+                                               1 – Nome com apenas uma palavra;
+                                               2 – Primeiro nome com apenas uma
+                                               letra, exceto quando o primeiro nome
+                                               for: D, I, O, U, Y. (com ou sem acento);
+                                               3 – Último nome com apenas uma letra,
+                                               exceto      quando     o   último    nome
+                                               for: I, O, U, Y. (com ou sem acento);
+                                               4 – Nomes que contenham um mais dos
+                                               números 1, 2, 3, 4, 5, 6, 7, 8, 9 e 0;
+                                               5 – Nomes que contenham um ou mais
+                                               dos caracteres especiais
+                                               @ - (arroba),
+                                               “ ” - (aspas),
+                                               * - (asterisco),
+                                               / - (barra),
+                                               { } - (chaves),
+                                               $ - (cifrão),
+                                               ^ - (circunflexo),
+                                               [ ] - (colchetes),
+                                               \ - (contra barra),
+                                               & - (E comercial),
+                                               ! - (exclamação),
+                                               = - (igual),
+                                               ? - (interrogação),
+                                               + - (mais),
+                                               < - (menor que),
+                                               > - (maior que),
+                                               ( ) - (parênteses),
+                                               % - (percentual),
+                                               . - (ponto),
+                                               ; - (ponto e vírgula),
+                                               # - (sustenido),
+                                               ~ - (til),
+                                               , - (vírgula).
+
+                                               - em casos excepcionais, quando não
+                                               existir o nome da mãe do beneficiário no
+                                               Registro Civil do beneficiário, informar a
+                                               mensagem “NÃO CONSTA DO REGISTRO
+                                               CIVIL”.
+
+                                               -    Para    beneficiário    titular   e
+                                               beneficiário     dependente        (não-
+                                               titular) com idade igual ou superior a
+                                               dezoito anos.
+                                               . Se o campo Nome da mãe do
+                                               beneficiário não for preenchido então a
+                                               operadora deve preencher pelo menos 1
+
+
+
+
+                                                                               18
+                                                   (um) dos campos:
+                                                     110 – PIS/PASEP do beneficiário;
+                                                     112 – CNS – Cartão Nacional de
+                                                           Saúde do beneficiário.
+
+                                                     . Quando não informado, o campo
+                                                       deve conter espaços em branco.
+
+                                                   - Para beneficiário dependente (não-
+                                                   titular) com idade inferior a dezoito
+                                                   anos.
+                                                      . se o campo Nome da mãe do
+                                                        beneficiário não for preenchido, então
+                                                       a operadora deve preencher pelo
+                                                       menos 1 (um) dos campos:
+                                                       108 – CPF do beneficiário;
+                                                       110 – PIS/PASEP do beneficiário;
+                                                       112 – CNS – Cartão Nacional de
+                                                              Saúde do beneficiário.
+
+                                                    . Quando não informado, o campo
+                                                      deve conter espaços em branco.
+112 – CNS – Cartão Nacional    Numérico 242 a 256 - preenchimento complementar.
+de Saúde – do beneficiário       (15)
+                                                  Validação:
+                                                  - Para beneficiário titular e benefici-
+                                                  ário dependente (não-titular) com
+                                                  idade igual ou superior a dezoito
+                                                  anos.
+                                                    . Se o campo CNS não for preenchido,
+                                                      então a operadora deve preencher
+                                                      pelo menos 1 (um) dos campos:
+                                                     110 – PIS/PASEP;
+                                                     111 – Nome da mãe do beneficiário.
+
+                                                     . Quando não informado, preencher o
+                                                       campo com zeros.
+
+                                                   - Para beneficiário dependente (não-
+                                                   titular) com idade inferior a dezoito
+                                                   anos.
+                                                      . se o campo CNS não for preenchido,
+                                                        então a operadora deve preencher
+                                                        pelo menos 1 (um) dos campos:
+                                                       108 – CPF;
+                                                       110 – PIS/PASEP;
+                                                       111 – Nome da mãe do beneficiário.
+
+                                                     . Quando não informado, preencher o
+                                                       campo com zeros.
+113 – Carteira de identidade    Alfan.   257 a 286 - preenchimento complementar.
+do beneficiário                  (30)              - Utilizar a carteira de identidade do
+                                                   próprio beneficiário.
+
+                                                   Validação:
+                                                   Quando o campo 113 for informado, os
+                                                   campos 114 (órgão emissor da carteira
+                                                   de identidade do beneficiário) e 115
+
+
+
+
+                                                                                   19
+                                                      (código do país emissor da carteira de
+                                                      identidade do beneficiário) também
+                                                      devem        ser      obrigatoriamente
+                                                      preenchidos.
+
+                                                      - Quando não informado, o campo deve
+                                                      conter espaços em branco.
+114 – Órgão emissor da             Alfan.   287 a 316 - preenchimento complementar.
+carteira de identidade do           (30)
+beneficiário                                          Validação:
+                                                      Quando o campo 114 for informado, os
+                                                      campos 113 (carteira de identidade do
+                                                      beneficiário) e 115 (código do país
+                                                      emissor da carteira de identidade do
+                                                      beneficiário)  também      devem   ser
+                                                      obrigatoriamente preenchidos.
+
+                                                     - Quando não informado, o campo deve
+                                                     conter espaços em branco.
+115 – Código do país emissor      Numérico 317 a 319 - Preenchimento complementar.
+da carteira de identidade do        (03)
+beneficiário                                         Validação:
+                                                     Quando o campo 115 for informado, os
+                                                     campos 113 (carteira de identidade do
+                                                     beneficiário) e 114 (órgão emissor da
+                                                     carteira de identidade do beneficiário)
+                                                     também devem ser obrigatoriamente
+                                                     preenchidos.
+
+                                                      - Quando não informado, preencher o
+                                                      campo com zeros.
+116 - Número do código do         Número    320 a 328 - Para planos posteriores à Lei nº
+plano registrado na ANS            (09)               9.656/98 (contratos firmados a partir
+                                                      de 02/01/1999).
+Somente para planos poste-
+riores à Lei nº 9.656/98                                . Preenchimento obrigatório.
+(contratos firmados a partir de
+02/01/1999).                                            Validação:
+                                                        . o conteúdo do campo será confronta-
+                                                          do com a tabela de planos de opera-
+                                                          doras registrados na ANS (RPS);
+                                                        . quando o campo 116 for informado, o
+                                                          campo 117 (código do plano da
+                                                          operadora cadastrado na ANS) não
+                                                          deve ser preenchido, ou seja, deve
+                                                          conter espaços em branco;
+                                                        . Se ambos os campos, o campo 116 e
+                                                          o campo 117, estiverem preenchidos
+                                                          ou não estiverem preenchidos, então
+                                                          o registro não será validado pelo
+                                                          aplicativo do SIB/ANS.
+
+                                                      - Para planos anteriores à Lei nº
+                                                      9.656/98 (contratos firmados antes de
+                                                      02/01/1999).
+
+                                                        . não se aplica, ou seja, preencher
+                                                      esse campo com zeros.
+
+
+
+
+                                                                                   20
+117 – Código do plano da       Alfan.   329 a 348 - Para planos anteriores à Lei nº
+operadora cadastrado na ANS     (20)              9.656/98 (contratos firmados antes de
+                                                  02/01/1999).
+Somente para planos
+anteriores à Lei nº                                 . Preenchimento obrigatório.
+9.656/98 (contratos firmados
+antes de 02/01/1999).                               Validação:
+                                                    . o conteúdo do campo será confronta-
+                                                      do com a tabela de Sistema de
+                                                      Cadastro de Planos Antigos (SCPA).
+                                                    . quando o campo 117 for informado, o
+                                                      campo 116 (Número do código do
+                                                      plano registrado na ANS) deverá ser
+                                                      preenchido com zeros;
+                                                    . Se ambos os campos, o campo 116 e
+                                                      o campo 117, estiverem preenchidos
+                                                      ou não estiverem preenchidos, então
+                                                      o registro não será validado pelo apli-
+                                                      cativo do SIB/ANS.
+
+                                                  - Para planos posteriores à Lei nº
+                                                  9.656/98 (contratos firmados a partir
+                                                  de 02/01/1999).
+
+                                                    . não se aplica, ou seja, esse campo
+                                                  deve conter espaços em branco.
+
+
+
+
+                                                                                  21
+118 – Número do código do Numérico 349 a 357 - Para planos posteriores à Lei nº
+plano         de   origem   (09)             9.656/98 (contratos firmados a partir
+(portabilidade)                              de 02/01/1999) com conteúdo do campo
+                                             103 (Motivo de inclusão) igual a “41”
+                                             (inclusão de beneficiários motivada por
+                                             portabilidade).
+
+                                                      . preenchimento obrigatório.
+
+                                                      Validação:
+                                                      . o conteúdo do campo será
+                                                        confrontado com a tabela de planos
+                                                       de operadoras registrados na ANS
+                                                       (RPS).
+
+                                                        - Para registros com conteúdo do
+                                                        campo 103 (Motivo de inclusão)
+                                                        diferente de “41” (inclusão de
+                                                        beneficiários    motivada     por
+                                                        portabilidade).
+
+                                                     . não se aplica, preencher          esse
+                                                   campo com zeros.
+119 - Data de adesão ao plano   Numérico 358 a 365 - preenchimento obrigatório.
+                                  (08)
+                                                   Formato: AAAAMMDD onde,
+                                                   AAAA é o ano,
+                                                   MM é o mês e
+                                                   DD é o dia.
+
+                                                   Validação:
+                                                   Não serão validadas pelo aplicativo do
+                                                   SIB/ANS datas de adesão ao plano:
+                                                       - anteriores a 01/01/1940;
+                                                       - anteriores à data de nascimento
+                                                           do beneficiário;
+                                                      - posteriores à competência de envio
+                                                         do SIB/ANS.
+120 – Relação de dependência    Numérico 366 a 367 - preenchimento obrigatório.
+do beneficiário                   (02)
+                                                   Validação:
+                                                       - Confrontar com a tabela de
+                                                       Relação de dependência, ou seja,
+                                                   “01” – beneficiário titular,
+                                                   “03” – cônjuge/companheiro,
+                                                   “04” – filho/filha,
+                                                   “06” – enteado/enteada,
+                                                   “08” – pai/mãe,
+                                                   “10” – agregado/outros.
+121 – Indicação de existência   Numérico 368 a 368 - preenchimento obrigatório.
+de Cobertura Parcial              (01)
+Temporária                                         Validação:
+                                                   O conteúdo do campo não será validado
+                                                   pelo aplicativo do SIB/ANS quando for
+                                                   preenchido com valores diferentes de “1”
+                                                   e de “2”.
+
+                                                    “1” – existe cobertura parcial temporária.
+
+
+
+
+                                                                                    22
+                                                   “2” – não existe cobertura parcial
+                                                   temporária.
+122 – Indicação de itens de     Numérico 369 a 369 - preenchimento obrigatório para
+procedimentos excluídos da        (01)             planos anteriores à Lei nº 9.656/98.
+cobertura
+                                                     Validação:
+                                                     . quando informado, o conteúdo do
+                                                     campo não será validado pelo aplicativo
+                                                     do SIB/ANS quando for preenchido com
+                                                     valores diferentes de “1” e de “2”.
+
+                                                   “1” – existe exclusão de cobertura.
+                                                   “2” – não existe exclusão de cobertura.
+123 – CNPJ – Cadastro           Numérico 370 a 383 -      preenchimento         obrigatório
+Nacional de Pessoa Jurídica –     (14)             somente       para    planos    coletivos
+da empresa à qual o                                empresariais ou por adesão.
+beneficiário está vinculado
+                                                   Validação:
+                                                     . Para planos coletivos
+                                                       empresariais e planos coletivos
+                                                       por adesão, a operadora é obrigada
+                                                       a preencher o campo 123 (CNPJ) ou o
+                                                       campo 124 (CEI);
+                                                     . quando se tratar de plano individual
+                                                       ou familiar ou o CNPJ não for
+                                                       informado, preencher esse campo
+                                                       com zeros.
+124 – CEI – Cadastro            Numérico 384 a 397 -       preenchimento        obrigatório
+Específico do INSS – da           (14)             somente       para    planos    coletivos
+empresa à qual o beneficiário                      empresariais ou por adesão.
+está vinculado
+                                                     Validação:
+                                                       .     Para     planos      coletivos
+                                                     empresariais e planos coletivos por
+                                                     adesão a operadora deve preencher o
+                                                     campo 124 (CEI) ou o campo 123
+                                                     (CNPJ).
+                                                       . quando o CEI não for informado,
+                                                     preencher esse campo com zeros.
+125 – Logradouro de              Alfan.    398 a 447 - preenchimento obrigatório.
+residência do beneficiário        (50)
+126 – Número do logradouro       Alfan.    448 a 452 - preenchimento obrigatório.
+                                  (05)
+127 – Complemento do             Alfan.    453 a 467 - preencher quando houver complemento
+logradouro                        (15)               do logradouro.
+128 – Bairro do logradouro do    Alfan.    468 a 497 - preenchimento complementar.
+beneficiário                      (30)
+129 – Código do município de    Numérico   498 a 504 - preenchimento obrigatório.
+residência do beneficiário        (07)
+                                                     - O conteúdo desse campo será
+                                                     confrontado com a tabela de códigos de
+                                                     municípios, elaborada pelo Instituto
+                                                     Brasileiro de Geografia e Estatística –
+                                                     IBGE.
+
+                                                     Validação:
+                                                     - São considerados inconsistentes os
+                                                     códigos de município que não tiverem
+
+
+
+                                                                                  23
+                                                   correspondentes na tabela de códigos de
+                                                   municípios e, nesse caso, o registro será
+                                                   rejeitado pelo aplicativo do SIB/ANS.
+130 – Indicação se a residência Numérico 505 a 505 - preenchimento obrigatório.
+do beneficiário é no Brasil ou    (01)
+no exterior                                        Validação:
+                                                   O conteúdo do campo não será validado
+                                                   pelo aplicativo do SIB/ANS se o conteúdo
+                                                   do campo for diferente de “0” e de “1”.
+
+                                                  “0”  indica que o beneficiário reside no
+                                                  Brasil.
+                                                  “1” – Indica que o beneficiário reside no
+                                                  exterior (fora do Brasil)
+131 – CEP – Código de          Numérico 506 a 513 - preenchimento obrigatório
+Endereçamento Postal             (08)
+132 – Reservado para            Alfan.  514 a 533 - Deve conter espaços em branco.
+expansão                         (20)
+
+
+
+
+1.3.3 - Linhas do tipo 2
+Alteração ou correção de registros de dados de beneficiários no Cadastro de
+Beneficiários do SIB/ANS.
+
+Tamanho do registro: 541 posições (bytes)
+
+
+ Número e nome do campo     Formato Posições         Características dos campos
+                                e
+                            tamanho
+                               do
+                             campo
+201 – Número sequencial da Numérico 001 a 007 - preenchimento obrigatório.
+linha dentro do arquivo       (07)
+                                               Conteúdo: “Sequencial da linha anterior
+                                               mais 1”.
+202 – Indicador de registro Numérico 008 a 008 - preenchimento obrigatório.
+tipo detalhe                  (01)
+                                               Conteúdo: “2”  para registro de
+                                               alteração ou correção.
+203 – Código do motivo de   Numérico 009 a 010     - - Preenchimento obrigatório.
+alteração do registro do      (02)
+beneficiário                                   Validação:
+                                               - Confrontar com a tabela de Motivos
+                                               de alteração, ou seja,
+                                               “06” – mudança de plano;
+                                               “11” – plano antigo migrado;
+                                               “12” – plano antigo adaptado;
+                                               “43” – alteração do número do código do
+                                               plano de origem (portabilidade);
+                                               “51”    –    Correção   de    dados   de
+                                               beneficiários em registros ativos no
+                                               Cadastro de Beneficiários do SIB/ANS;
+                                               “52” – Correção de data de exclusão
+                                               e/ou motivo de exclusão em registros
+                                               cancelados no Cadastro de Beneficiários
+                                               do SIB/ANS.
+
+
+
+                                                                                  24
+204 - Código       de Controle Numérico 011 a 020 - Preenchimento obrigatório.
+Operacional –      CCO - do      (10)
+registro                                          - Conforme definido na Seção 2 do
+                                                  Anexo I desta Instrução Normativa.
+205 – Dígito verificador do    Numérico 021 a 022     - Preenchimento obrigatório.
+Código de Controle Operacional   (02)
+do registro                                       - Conforme definido na Seção 2 do
+                                                  Anexo I desta Instrução Normativa.
+206 - Nome do Beneficiário      Alfan.  023 a 092 - Se o conteúdo do campo Código do
+                                 (70)             motivo de alteração do registro do
+                                                  beneficiário (campo 203) for igual a
+                                                  “51” então o conteúdo do campo Nome
+                                                  do    beneficiário    no    Cadastro   de
+                                                  Beneficiários do SIB/ANS será substituído
+                                                  pelo conteúdo deste campo (campo 206)
+                                                  se validado pelo aplicativo do SIB/ANS.
+
+                                                 - Se o conteúdo do campo Código do
+                                                 motivo de alteração do registro do
+                                                 beneficiário (campo 203) for diferente
+                                                 de “51”, então o conteúdo deste campo
+                                                 (campo 206) será desconsiderado.
+207 - Data de nascimento do   Numérico 093 a 100 - Se o conteúdo do campo Código do
+beneficiário                    (08)             motivo de alteração do registro do
+                                                 beneficiário (campo 203) for igual a
+                                                 “51” então o conteúdo do campo Data
+                                                 de nascimento do beneficiário no
+                                                 Cadastro de Beneficiários do SIB/ANS
+                                                 será substituído pelo conteúdo deste
+                                                 campo (campo 207) se validado pelo
+                                                 aplicativo do SIB/ANS.
+
+                                                 - Se o conteúdo do campo Código do
+                                                 motivo de alteração do registro do
+                                                 beneficiário (campo 203) for diferente
+                                                 de “51”, então o conteúdo deste campo
+                                                 (campo 207) será desconsiderado.
+208 - Sexo do beneficiário    Numérico 101 a 101 - Se o conteúdo do campo Código do
+                                (01)             motivo de alteração do registro do
+                                                 beneficiário (campo 203) for igual a
+                                                 “51” então o conteúdo do campo Sexo
+                                                 do    beneficiário    no    Cadastro   de
+                                                 Beneficiários do SIB/ANS será substituído
+                                                 pelo conteúdo deste campo (campo 208)
+                                                 se validado pelo aplicativo do SIB/ANS.
+
+                                                - Se o conteúdo do campo Código do
+                                                motivo de alteração do registro do
+                                                beneficiário (campo 203) for diferente
+                                                de “51”, então o conteúdo deste campo
+                                                (campo 208) será desconsiderado.
+209 – CPF - Cadastro de Pes- Numérico 102 a 112 - Se o conteúdo do campo Código do
+soas Físicas – do beneficiário (11)             motivo de alteração do registro do
+                                                beneficiário (campo 203) for igual a
+                                                “51” então o conteúdo do campo CPF do
+                                                beneficiário      no     Cadastro      de
+                                                Beneficiários do SIB/ANS será substituído
+                                                pelo conteúdo deste campo (campo 209)
+
+
+
+
+                                                                                 25
+                                                        se validado pelo aplicativo do SIB/ANS.
+
+                                                       - Se o conteúdo do campo Código do
+                                                       motivo de alteração do registro do
+                                                       beneficiário (campo 203) for diferente
+                                                       de “51”, então o conteúdo deste campo
+                                                       (campo 209) será desconsiderado.
+210 - Código de identificação       Alfan.   113 a 142 - Se o conteúdo do campo Código do
+do beneficiário titular do plano     (30)              motivo de alteração do registro do
+na operadora para                                      beneficiário (campo 203) for igual a
+beneficiários informados como                          “51” então o conteúdo do campo
+dependentes (não-titulares)                            Código      de      identificação      do
+                                                       beneficiário titular do plano na
+                                                       operadora        para       beneficiários
+                                                       informados como dependentes (não-
+                                                       titulares) no Cadastro de Beneficiários
+                                                       do SIB/ANS será substituído pelo
+                                                       conteúdo deste campo (campo 210) se
+                                                       validado pelo aplicativo do SIB/ANS.
+
+                                              - Se o conteúdo do campo Código do
+                                              motivo de alteração do registro do
+                                              beneficiário (campo 203) for diferente
+                                              de “51”, então o conteúdo deste campo
+                                              (campo 210) será desconsiderado.
+211 - PIS/PASEP – Programa Numérico 143 a 153 - Se o conteúdo do campo Código do
+de    Integração    Social   / (11)           motivo de alteração do registro do
+Programa de Formação do                       beneficiário (campo 203) for igual a
+Patrimônio do Servidor Público                “51” então o conteúdo do campo
+– do beneficiário                             PIS/PASEP       do    beneficiário  no
+                                              Cadastro de Beneficiários do SIB/ANS
+                                              será substituído pelo conteúdo deste
+                                              campo (campo 211) se validado pelo
+                                              aplicativo do SIB/ANS.
+
+                                                       - Se o conteúdo do campo Código do
+                                                       motivo de alteração do registro do
+                                                       beneficiário (campo 203) for diferente
+                                                       de “51”, então o conteúdo deste campo
+                                                       (campo 211) será desconsiderado.
+212 - Nome da mãe do bene-          Alfan.   154 a 223 - Se o conteúdo do campo Código do
+ficiário                             (70)              motivo de alteração do registro do
+                                                       beneficiário (campo 203) for igual a
+                                                       “51” então o conteúdo do campo Nome
+                                                       da mãe do beneficiário no Cadastro de
+                                                       Beneficiários do SIB/ANS será substituído
+                                                       pelo conteúdo deste campo (campo 212)
+                                                       se validado pelo aplicativo do SIB/ANS.
+
+                                                      - Se o conteúdo do campo Código do
+                                                      motivo de alteração do registro do
+                                                      beneficiário (campo 203) for diferente
+                                                      de “51”, então o conteúdo deste campo
+                                                      (campo 212) será desconsiderado.
+213 – CNS – Cartão Nacional        Numérico 224 a 238 - Se o conteúdo do campo Código do
+de Saúde – do beneficiário           (15)             motivo de alteração do registro do
+                                                      beneficiário (campo 203) for igual a
+                                                      “51” então o conteúdo do campo CNS
+
+
+
+
+                                                                                       26
+                                                    do    beneficiário    no    Cadastro   de
+                                                    Beneficiários do SIB/ANS será substituído
+                                                    pelo conteúdo deste campo (campo 213)
+                                                    se validado pelo aplicativo do SIB/ANS.
+
+                                                   - Se o conteúdo do campo Código do
+                                                   motivo de alteração do registro do
+                                                   beneficiário (campo 203) for diferente
+                                                   de “51”, então o conteúdo deste campo
+                                                   (campo 213) será desconsiderado.
+214 – Carteira de identidade    Alfan.   239 a 268 - Se o conteúdo do campo Código do
+do beneficiário                  (30)              motivo de alteração do registro do
+                                                   beneficiário (campo 203) for igual a
+                                                   “51” então o conteúdo do campo
+                                                   Carteira       de      identidade     do
+                                                   beneficiário      no      Cadastro     de
+                                                   Beneficiários do SIB/ANS será substituído
+                                                   pelo conteúdo deste campo (campo 214)
+                                                   se validado pelo aplicativo do SIB/ANS.
+
+                                                   - Se o conteúdo do campo Código do
+                                                   motivo de alteração do registro do
+                                                   beneficiário (campo 203) for diferente
+                                                   de “51”, então o conteúdo deste campo
+                                                   (campo 214) será desconsiderado.
+215 – Órgão emissor da          Alfan.   269 a 298 - Se o conteúdo do campo Código do
+carteira de identidade do        (30)              motivo de alteração do registro do
+beneficiário                                       beneficiário (campo 203) for igual a
+                                                   “51” então o conteúdo do campo Órgão
+                                                   emissor da carteira de identidade do
+                                                   beneficiário      no      Cadastro     de
+                                                   Beneficiários do SIB/ANS será substituído
+                                                   pelo conteúdo deste campo (campo 215)
+                                                   se validado pelo aplicativo do SIB/ANS.
+
+                                                  - Se o conteúdo do campo Código do
+                                                  motivo de alteração do registro do
+                                                  beneficiário (campo 203) for diferente
+                                                  de “51”, então o conteúdo deste campo
+                                                  (campo 215) será desconsiderado.
+216 – Código do país emissor   Numérico 299 a 301 - Se o conteúdo do campo Código do
+da carteira de identidade do     (03)             motivo de alteração do registro do
+beneficiário                                      beneficiário (campo 203) for igual a
+                                                  “51” então o conteúdo do campo
+                                                  Código do país emissor da carteira
+                                                  de identidade do beneficiário no
+                                                  Cadastro de Beneficiários do SIB/ANS
+                                                  será substituído pelo conteúdo deste
+                                                  campo (campo 216) se validado pelo
+                                                  aplicativo do SIB/ANS.
+
+                                                   - Se o conteúdo do campo Código do
+                                                   motivo de alteração do registro do
+                                                   beneficiário (campo 203) for diferente
+                                                   de “51”, então o conteúdo deste campo
+                                                   (campo 216) será desconsiderado.
+217 - Número do código do      Número    302 a 310 - Se o conteúdo do campo Código do
+plano registrado na ANS         (09)               motivo de alteração do registro do
+
+
+
+
+                                                                                   27
+                                                 beneficiário (campo 203) for igual a
+                                                 “51” ou igual a “06” ou igual a “11” ou
+                                                 igual a “43” então o conteúdo do campo
+                                                 Número       do    código     do    plano
+                                                 registrado na ANS no Cadastro de
+                                                 Beneficiários do SIB/ANS será substituído
+                                                 pelo conteúdo deste campo (campo 217)
+                                                 se validado pelo aplicativo do SIB/ANS.
+
+                                                 - Se o conteúdo do campo Código do
+                                                 motivo de alteração do registro do
+                                                 beneficiário (campo 203) for diferente
+                                                 de “51” e diferente de “06” e diferente
+                                                 de “11” e diferente de “43” então o
+                                                 conteúdo deste campo (campo 217) será
+                                                 desconsiderado.
+218 – Código do plano da      Alfan.   311 a 330 - Se o conteúdo do campo Código do
+operadora cadastrado na ANS    (20)              motivo de alteração do registro do
+                                                 beneficiário (campo 203) for igual a
+                                                 “51” ou igual a “12” então o conteúdo
+                                                 do campo        Código do plano da
+                                                 operadora cadastrado na ANS no
+                                                 Cadastro de Beneficiários do SIB/ANS
+                                                 será substituído pelo conteúdo deste
+                                                 campo (campo 218) se validado pelo
+                                                 aplicativo do SIB/ANS.
+
+                                                 - Se o conteúdo do campo Código do
+                                                 motivo de alteração do registro do
+                                                 beneficiário (campo 203) for diferente
+                                                 de “51” e diferente de “12” então o
+                                                 conteúdo deste campo (campo 218) será
+                                                 desconsiderado.
+
+
+
+
+                                                                                28
+219 – Número do código do Numérico 331 a 339 - Se o conteúdo do campo Código do
+plano anterior à portabilidade (09)          motivo de alteração do registro do
+                                             beneficiário (campo 203) for igual a
+                                             “51” ou igual a “43” então o conteúdo
+                                             do campo       Número do código do
+                                             plano anterior à portabilidade no
+                                             Cadastro de Beneficiários do SIB/ANS
+                                             será substituído pelo conteúdo deste
+                                             campo (campo 219) se validado pelo
+                                             aplicativo do SIB/ANS.
+
+                                                   - Se o conteúdo do campo Código do
+                                                   motivo de alteração do registro do
+                                                   beneficiário (campo 203) for diferente
+                                                   de “51” e diferente de “43” então o
+                                                   conteúdo deste campo (campo 219) será
+                                                   desconsiderado.
+220 - Data de adesão ao plano   Numérico 340 a 347 - Se o conteúdo do campo Código do
+                                  (08)             motivo de alteração do registro do
+                                                   beneficiário (campo 203) for igual a
+                                                   “51” ou igual a “43” então o conteúdo do
+                                                   campo Data de adesão ao plano no
+                                                   Cadastro de Beneficiários do SIB/ANS
+                                                   será substituído pelo conteúdo deste
+                                                   campo (campo 220) se validado pelo
+                                                   aplicativo do SIB/ANS.
+
+                                                   - Se o conteúdo do campo Código do
+                                                   motivo de alteração do registro do
+                                                   beneficiário (campo 203) for diferente
+                                                   de “51” e diferente de “43” então o
+                                                   conteúdo deste campo (campo 220) será
+                                                   desconsiderado.
+221 – Relação de dependência    Numérico 348 a 349 - Se o conteúdo do campo Código do
+do beneficiário                   (02)             motivo de alteração do registro do
+                                                   beneficiário (campo 203) for igual a
+                                                   “51” então o conteúdo do campo
+                                                   Relação       de     dependência      do
+                                                   beneficiário      no      Cadastro     de
+                                                   Beneficiários do SIB/ANS será substituído
+                                                   pelo conteúdo deste campo (campo 221)
+                                                   se validado pelo aplicativo do SIB/ANS.
+
+                                                   - Se o conteúdo do campo Código do
+                                                   motivo de alteração do registro do
+                                                   beneficiário (campo 203) for diferente
+                                                   de “51” então o conteúdo deste campo
+                                                   (campo 221) será desconsiderado.
+222 – Indicação de existência   Numérico 350 a 350 - Se o conteúdo do campo Código do
+de Cobertura Parcial              (01)             motivo de alteração do registro do
+Temporária                                         beneficiário (campo 203) for igual a
+                                                   “51” ou igual a “06” ou igual a “11” ou
+                                                   igual a “12” então o conteúdo do campo
+                                                   Indicação de existência de Cobertura
+                                                   Parcial Temporária no Cadastro de
+                                                   Beneficiários do SIB/ANS será substituído
+                                                   pelo conteúdo deste campo (campo 222)
+                                                   se validado pelo aplicativo do SIB/ANS.
+
+
+
+
+                                                                                  29
+                                                   - Se o conteúdo do campo Código do
+                                                   motivo de alteração do registro do
+                                                   beneficiário (campo 203) for diferente
+                                                   de “51” e diferente de “06” e diferente
+                                                   de “11” e diferente de “12” então o
+                                                   conteúdo deste campo (campo 222) será
+                                                   desconsiderado.
+223 – Indicação de itens de     Numérico 351 a 351 - Se o conteúdo do campo Código do
+procedimentos excluídos da        (01)             motivo de alteração do registro do
+cobertura                                          beneficiário (campo 203) for igual a
+                                                   “51” ou igual a “06” ou igual a “11” ou
+                                                   igual a “12” então o conteúdo do campo
+                                                   Indicação de itens de procedimentos
+                                                   excluídos da cobertura no Cadastro de
+                                                   Beneficiários do SIB/ANS será substituído
+                                                   pelo conteúdo deste campo (campo 223)
+                                                   se validado pelo aplicativo do SIB/ANS.
+
+                                                   - Se o conteúdo do campo Código do
+                                                   motivo de alteração do registro do
+                                                   beneficiário (campo 203) for diferente
+                                                   de “51” e diferente de “06” e diferente
+                                                   de “11” e diferente de “12” então o
+                                                   conteúdo deste campo (campo 223) será
+                                                   desconsiderado.
+224 – CNPJ – Cadastro           Numérico 352 a 365 - (Se o conteúdo do campo Código do
+Nacional de Pessoa Jurídica –     (14)             motivo de alteração do registro do
+da empresa a qual o                                beneficiário (campo 203) for igual a
+beneficiário está vinculado                        “51” ou igual a “06” ou igual a “11” ou
+                                                   igual a “12” ou igual a “43”) e se o tipo
+                                                   de contratação do plano for coletivo
+                                                   então o conteúdo do campo CNPJ da
+                                                   empresa a qual o beneficiário está
+                                                   vinculado no Cadastro de Beneficiários
+                                                   do SIB/ANS será substituído pelo
+                                                   conteúdo deste campo (campo 224) se
+                                                   validado pelo aplicativo do SIB/ANS.
+
+                                                   - Se o conteúdo do campo Código do
+                                                   motivo de alteração do registro do
+                                                   beneficiário (campo 203) for diferente
+                                                   de “51” e diferente de “06” e diferente
+                                                   de “11” e diferente de “12” e diferente
+                                                   de “43” então o conteúdo deste campo
+                                                   (campo 224) será desconsiderado.
+225 – CEI – Cadastro            Numérico 366 a 379 - (Se o conteúdo do campo Código do
+Específico do INSS – da           (14)             motivo de alteração do registro do
+empresa a qual o beneficiário                      beneficiário (campo 203) for igual a
+está vinculado                                     “51” ou igual a “06” ou igual a “11” ou
+                                                   igual a “12” ou igual a “43”) e se o tipo
+                                                   de contratação do plano for coletivo
+                                                   então o conteúdo do campo CEI da
+                                                   empresa a qual o beneficiário está
+                                                   vinculado no Cadastro de Beneficiários
+                                                   do SIB/ANS será substituído pelo
+                                                   conteúdo deste campo (campo 225) se
+                                                   validado pelo aplicativo do SIB/ANS.
+
+
+
+
+                                                                                  30
+                                                 - Se o conteúdo do campo Código do
+                                                 motivo de alteração do registro do
+                                                 beneficiário (campo 203) for diferente
+                                                 de “51” e diferente de “06” e diferente
+                                                 de “11” e diferente de “12” e diferente
+                                                 de “43” então o conteúdo deste campo
+                                                 (campo 225) será desconsiderado.
+226 – Data de adaptação,      Numérico 380 a 387 - (Se o conteúdo do campo Código do
+migração, mudança ou            (08)             motivo de alteração do registro do
+portabilidade de planos                          beneficiário (campo 203) for igual a
+                                                 “51” ou igual a “06” ou igual a “11” ou
+                                                 igual a “12” ou igual a “43”) e se o tipo
+                                                 de contratação do plano for coletivo
+                                                 então o conteúdo do campo Data de
+                                                 adaptação, migração ou mudança de
+                                                 planos no Cadastro de Beneficiários do
+                                                 SIB/ANS será substituído pelo conteúdo
+                                                 deste campo (campo 226) se validado
+                                                 pelo aplicativo do SIB/ANS.
+
+                                                  - Se o conteúdo do campo Código do
+                                                  motivo de alteração do registro do
+                                                  beneficiário (campo 203) for diferente
+                                                  de “51” e diferente de “06” e diferente
+                                                  de “11” e diferente de “12” e diferente
+                                                  de “43” então o conteúdo deste campo
+                                                  (campo 226) será desconsiderado.
+227 – Logradouro de            Alfan.   388 a 437 - Se o conteúdo do campo Código do
+residência do beneficiário      (50)              motivo de alteração do registro do
+                                                  beneficiário (campo 203) for igual a
+                                                  “51” então o conteúdo do campo
+                                                  Logradouro       de     residência    do
+                                                  beneficiário      no      Cadastro     de
+                                                  Beneficiários do SIB/ANS será substituído
+                                                  pelo conteúdo deste campo (campo 227)
+                                                  se validado pelo aplicativo do SIB/ANS.
+
+                                                  - Se o conteúdo do campo Código do
+                                                  motivo de alteração do registro do
+                                                  beneficiário (campo 203) for diferente
+                                                  de “51” então o conteúdo deste campo
+                                                  (campo 227) será desconsiderado.
+228 – Número do logradouro     Alfan.   438 a 442 - Se o conteúdo do campo Código do
+                                (05)              motivo de alteração do registro do
+                                                  beneficiário (campo 203) for igual a
+                                                  “51” então o conteúdo do campo
+                                                  Número do logradouro no Cadastro de
+                                                  Beneficiários do SIB/ANS será substituído
+                                                  pelo conteúdo deste campo (campo 228)
+                                                  se validado pelo aplicativo do SIB/ANS.
+
+                                                  - Se o conteúdo do campo Código do
+                                                  motivo de alteração do registro do
+                                                  beneficiário (campo 203) for diferente
+                                                  de “51” então o conteúdo deste campo
+                                                  (campo 228) será desconsiderado.
+229 – Complemento do logra-    Alfan.   443 a 457 - Se o conteúdo do campo Código do
+
+
+
+
+                                                                                 31
+douro                            (15)               motivo de alteração do registro do
+                                                    beneficiário (campo 203) for igual a
+                                                    “51” então o conteúdo do campo
+                                                    Complemento      do   logradouro  no
+                                                    Cadastro de Beneficiários do SIB/ANS
+                                                    será substituído pelo conteúdo deste
+                                                    campo (campo 229).
+
+                                                   - Se o conteúdo do campo Código do
+                                                   motivo de alteração do registro do
+                                                   beneficiário (campo 203) for diferente
+                                                   de “51” então o conteúdo deste campo
+                                                   (campo 229) será desconsiderado.
+230– Bairro do logradouro do    Alfan.   458 a 487 - Se o conteúdo do campo Código do
+beneficiário                     (30)              motivo de alteração do registro do
+                                                   beneficiário (campo 203) for igual a
+                                                   “51” então o conteúdo do campo Bairro
+                                                   do logradouro do beneficiário no
+                                                   Cadastro de Beneficiários do SIB/ANS
+                                                   será substituído pelo conteúdo deste
+                                                   campo (campo 230).
+
+                                                  - Se o conteúdo do campo Código do
+                                                  motivo de alteração do registro do
+                                                  beneficiário (campo 203) for diferente
+                                                  de “51” então o conteúdo deste campo
+                                                  (campo 230) será desconsiderado.
+231– Código do município de    Numérico 488 a 494 - Se o conteúdo do campo Código do
+residência do beneficiário       (07)             motivo de alteração do registro do
+                                                  beneficiário (campo 203) for igual a
+                                                  “51” então o conteúdo do campo
+                                                  Código do município de residência do
+                                                  beneficiário      no      Cadastro     de
+                                                  Beneficiários do SIB/ANS será substituído
+                                                  pelo conteúdo deste campo (campo 231)
+                                                  se validado pelo aplicativo do SIB/ANS.
+
+                                                   - Se o conteúdo do campo Código do
+                                                   motivo de alteração do registro do
+                                                   beneficiário (campo 203) for diferente
+                                                   de “51” então o conteúdo deste campo
+                                                   (campo 231) será desconsiderado.
+232 – Indicação se a residência Numérico 495 a 495 - Se o conteúdo do campo Código do
+do beneficiário é no Brasil ou    (01)             motivo de alteração do registro do
+no exterior                                        beneficiário (campo 203) for igual a
+                                                   “51” então o conteúdo do campo
+                                                   Indicação      se   a   residência    do
+                                                   beneficiário é no Brasil ou no
+                                                   exterior no Cadastro de Beneficiários do
+                                                   SIB/ANS será substituído pelo conteúdo
+                                                   deste campo (campo 232) se validado
+                                                   pelo aplicativo do SIB/ANS.
+
+                                                    - Se o conteúdo do campo Código do
+                                                    motivo de alteração do registro do
+                                                    beneficiário (campo 203) for diferente
+                                                    de “51” então o conteúdo deste campo
+                                                    (campo 232) será desconsiderado.
+
+
+
+
+                                                                                 32
+233 – CEP – Código de Endere- Numérico 496 a 503 - Se o conteúdo do campo Código do
+çamento Postal                  (08)             motivo de alteração do registro do
+                                                 beneficiário (campo 203) for igual a
+                                                 “51” então o conteúdo do campo CEP no
+                                                 Cadastro de Beneficiários do SIB/ANS
+                                                 será substituído pelo conteúdo deste
+                                                 campo (campo 233) se validado pelo
+                                                 aplicativo do SIB/ANS.
+
+                                                 - Se o conteúdo do campo Código do
+                                                 motivo de alteração do registro do
+                                                 beneficiário (campo 203) for diferente
+                                                 de “51” então o conteúdo deste campo
+                                                 (campo 233) será desconsiderado.
+234 – Data de reinclusão do   Numérico 504 a 511 - Se o conteúdo do campo Código do
+beneficiário no plano           (08)             motivo de alteração do registro do
+                                                 beneficiário (campo 203) for igual a
+                                                 “51” então o conteúdo do campo Data
+                                                 de reinclusão do beneficiário no
+                                                 plano no Cadastro de Beneficiários do
+                                                 SIB/ANS será substituído pelo conteúdo
+                                                 deste campo (campo 234) se validado
+                                                 pelo aplicativo do SIB/ANS.
+
+                                                 - Se o conteúdo do campo Código do
+                                                 motivo de alteração do registro do
+                                                 beneficiário (campo 203) for diferente
+                                                 de “51” então o conteúdo deste campo
+                                                 (campo 234) será desconsiderado.
+235 - Data de cancelamento do Numérico 512 a 519 - Se o conteúdo do campo Código do
+beneficiário                    (08)             motivo de alteração do registro do
+                                                 beneficiário (campo 203) for igual a
+                                                 “52” então o conteúdo do campo Data
+                                                 de cancelamento do beneficiário no
+                                                 Cadastro de Beneficiários do SIB/ANS
+                                                 será substituído pelo conteúdo deste
+                                                 campo (campo 235) se validado pelo
+                                                 aplicativo do SIB/ANS.
+
+                                                 - Se o conteúdo do campo Código do
+                                                 motivo de alteração do registro do
+                                                 beneficiário (campo 203) for diferente
+                                                 de “52” então o conteúdo deste campo
+                                                 (campo 235) será desconsiderado.
+236 – Código do motivo de     Numérico 520 a 521 - Se o conteúdo do campo Código do
+cancelamento do contrato do     (02)             motivo de alteração do registro do
+beneficiário                                     beneficiário (campo 203) for igual a
+                                                 “52” então o conteúdo do campo
+                                                 Código do motivo de cancelamento
+                                                 do contrato do beneficiário no
+                                                 Cadastro de Beneficiários do SIB/ANS
+                                                 será substituído pelo conteúdo deste
+                                                 campo (campo 236) se validado pelo
+                                                 aplicativo do SIB/ANS.
+
+                                                  - Se o conteúdo do campo Código do
+                                                  motivo de alteração do registro do
+                                                  beneficiário (campo 203) for diferente
+
+
+
+
+                                                                              33
+                                                      de “52” então o conteúdo deste campo
+                                                      (campo 236) será desconsiderado.
+237 – Reservado para              Alfan.    522 a 541 - Deve conter espaços em branco.
+expansão                           (20)
+
+
+1.3.4 - Linha do tipo 6
+Indicação de inexistência de beneficiários ou de atualização cadastral.
+
+Tamanho do registro: 68 posições (bytes)
+
+
+ Número e nome do campo          Formato Posições        Características dos campos
+                                      e
+                                 tamanho
+                                     do
+                                  campo
+601 – Número sequencial da Numérico 001 a 007 - preenchimento obrigatório.
+linha dentro do arquivo             (07)
+                                                    Conteúdo: “Sequencial da linha anterior
+                                                    mais 1”.
+602 – Indicador de linhas sem Numérico 008 a 008 - preenchimento obrigatório.
+movimento                           (01)
+                                                    Conteúdo: “6”
+603     –     Mensagem        de   Alfan. 009 a 068 - Preenchimento obrigatório.
+inexistência de beneficiários ou    (60)
+de atualização cadastral.                           Validação:
+                                                    Não serão validadas pelo aplicativo do
+                                                    SIB/ANS as mensagens diferentes de:
+                                                    - “NAO HOUVE ATUALIZACAO DE DADOS
+                                                    BENEFICIARIOS” ;
+                                                    -   “NAO    EXISTEM    BENEFICIARIOS
+                                                    CADASTRADOS”
+
+
+
+1.3.5 - Linha do tipo 7
+Exclusão de registros de dados de beneficiários no Cadastro de Beneficiários do
+SIB/ANS.
+
+Tamanho do registro: 68 posições (bytes)
+
+ Número e nome do campo     Formato Posições         Características dos campos
+                                e
+                            tamanho
+                               do
+                             campo
+701 – Número sequencial da Numérico 001 a 007 - preenchimento obrigatório.
+linha dentro do arquivo       (07)
+                                               Conteúdo: “Sequencial da linha anterior
+                                               mais 1”.
+702 – Indicador de registro Numérico 008 a 008 - preenchimento obrigatório.
+tipo detalhe                  (01)
+                                               Conteúdo: “7”  registro para exclusão.
+703 – Código do motivo de   Numérico 009 a 010     - - Preenchimento obrigatório.
+exclusão do beneficiário      (02)
+                                               Validação:
+                                               - O conteúdo do campo será confrontado
+
+
+
+
+                                                                                 34
+                                                  com      a   tabela    de    Motivos   de
+                                                  cancelamento, ou seja,
+                                                  “01” – rompimento do contrato por
+                                                  iniciativa do beneficiário,
+                                                  “02” – término da relação de vinculado a
+                                                  um beneficiário titular,
+                                                  “03” – desligamento da empresa (para
+                                                  planos coletivos),
+                                                  “04” – inadimplência,
+                                                  “05” – óbito,
+                                                  “07” – exclusão decorrente de mudança
+                                                  de      código   de      identificação  de
+                                                  beneficiário, motivada pela adaptação de
+                                                  sistema da operadora,
+                                                  “08” – transferência de carteira,
+                                                  “09” – alteração individual do código do
+                                                  beneficiário,
+                                                  “13” – inclusão indevida de beneficiário,
+                                                  “14” – fraude (art. 13 da Lei nº
+                                                  9.656/98),
+                                                  “32” – exclusão de beneficiários com
+                                                  tempo de data de cancelamento do plano
+                                                  superior a 5 (cinco) anos, a partir da
+                                                  última competência (mais recente),
+                                                  “42” – exclusão de beneficiários motiva-
+                                                  da por portabilidade.
+704 - Código de Controle Numérico 011 a 020 - Preenchimento obrigatório.
+Operacional – CCO - do           (10)
+registro                                          - A gestão do Código de Controle
+                                                  Operacional do registro é da ANS. A
+                                                  operadora pode acessá-lo por intermédio
+                                                  do arquivo de devolução ou do arquivo
+                                                  de conferência, conforme instrução na
+                                                  Seção 2 do Anexo I desta Instrução
+                                                  Normativa.
+705 – Dígito verificador do    Numérico 021 a 022     - - Preenchimento obrigatório.
+Código de Controle Operacional   (02)
+do registro
+706 - Data de nascimento do    Numérico 023 a 030     - - Preenchimento obrigatório.
+beneficiário                     (08)
+                                                  Formato: AAAAMMDD onde,
+                                                  AAAA é o ano,
+                                                  MM é o mês e
+                                                  DD é o dia.
+
+                                                 Validação:
+                                                 A data informada deve ser igual à data
+                                                 que consta no registro a ser cancelado
+                                                 no   Cadastro   de    Beneficiários do
+                                                 SIB/ANS.
+707 - Data de cancelamento do Numérico 031 a 038    - - Preenchimento obrigatório.
+beneficiário                    (08)                -
+                                                 Formato: AAAAMMDD onde,
+                                                 AAAA é o ano,
+                                                 MM é o mês e
+                                                 DD é o dia.
+
+                                                    Validação:
+
+
+
+
+                                                                                  35
+                                                       Não serão validadas pelo aplicativo do
+                                                       SIB/ANS datas de cancelamento:
+                                                       - anterior à data de adesão ao plano;
+                                                       - anterior à data de última reinclusão do
+                                                       beneficiário no plano, caso haja;
+                                                       - posterior à competência de envio do
+                                                       SIB.
+708 – Novo código de               Afilam.   039 a 068     -    Preenchimento         obrigatório
+identificação do beneficiário na    (30)                   quando o conteúdo do campo 03
+operadora                                                  (código do motivo de cancelamento
+                                                           do contrato do beneficiário) for “07”
+Somente para código do                                     (exclusão decorrente de mudança de
+motivo de cancelamento                                     código      de     identificação    de
+“07” e “09”.                                               beneficiário, motivada pela adaptação
+                                                           de sistema da operadora) ou “09”
+                                                           (alteração individual do código do
+                                                           beneficiário).
+
+                                                           Nesse caso, será gerados pelo próprio
+                                                           SIB/ANS um novo registro com esse
+                                                           novo código de identificação do
+                                                           beneficiário   na   operadora,    com
+                                                           motivo de inclusão “18” (inclusão de
+                                                           beneficiários motivada por mudança
+                                                           de    código   de   identificação   de
+                                                           beneficiário na operadora em função
+                                                           de troca de sistema de informação),
+                                                           contendo os mesmos dados do
+                                                           registro cancelado.
+
+                                                        Validação:
+                                                        . Antes de excluir o registro, a operadora
+                                                        deve observar se os campos do registro
+                                                        a ser cancelado estão adequados para
+                                                        serem submetidos às críticas de inclusão
+                                                        de registro. Os campos que não
+                                                        estiverem adequados devem, antes da
+                                                        exclusão, ser alterados ou corrigidos pela
+                                                        operadora.
+                                                        . A gestão do novo código de
+                                                        identificação    do     beneficiário    na
+                                                        operadora é da operadora, ou seja, a
+                                                        ANS tratará o campo na formatação
+                                                        enviada pela operadora.
+                                                        . quando não informado, o campo deve
+                                                        conter espaços em branco.
+
+1.3.6 - Linha do tipo 8
+Reinclusão de registros de dados de beneficiários no Cadastro de Beneficiários do
+SIB/ANS.
+
+Tamanho do registro: 36 posições (bytes)
+
+
+
+
+                                                                                       36
+ Número e nome do campo        Formato Posições         Características dos campos
+                                   e
+                               tamanho
+                                  do
+                                campo
+801 – Número sequencial da Numérico 001 a 007 - preenchimento obrigatório.
+linha dentro do arquivo          (07)
+                                                  Conteúdo: “Sequencial da linha anterior
+                                                  mais 1”.
+802 – Indicador de registro Numérico 008 a 008 - preenchimento obrigatório.
+tipo detalhe                     (01)
+                                                  Conteúdo:    “8”       registro   para
+                                                  reinclusão.
+803 - Código de Controle Numérico 009 a 018 - Preenchimento obrigatório.
+Operacional – CCO - do           (10)
+registro                                          - A gestão do Código de Controle
+                                                  Operacional do registro é da ANS. A
+                                                  operadora pode acessá-lo por intermédio
+                                                  do arquivo de devolução ou do arquivo
+                                                  de conferência, conforme instrução na
+                                                  Seção 2 do Anexo I desta Instrução
+                                                  Normativa.
+804 – Dígito verificador do    Numérico 019 a 020     - Preenchimento obrigatório.
+Código de Controle Operacional   (02)
+do registro
+805 – Data de cancelamento     Numérico 021 a 028 - Preenchimento obrigatório.
+do plano                         (08)
+                                                  Formato: AAAAMMDD onde,
+                                                  AAAA é o ano,
+                                                  MM é o mês e
+                                                  DD é o dia.
+
+                                                 Validação:
+                                                 A data informada deve ser igual à data
+                                                 que consta no registro cancelado no
+                                                 Cadastro de Beneficiários do SIB/ANS.
+806 – Data de reinclusão do   Numérico 029 a 036 - Preenchimento obrigatório
+beneficiário no plano           (08)
+                                                 Formato: AAAAMMDD onde,
+                                                 AAAA é o ano,
+                                                 MM é o mês e
+                                                 DD é o dia.
+
+                                                  Validação:
+                                                   - Não serão validadas pelo aplicativo do
+                                                  SIB/ANS datas de          reinclusão do
+                                                  beneficiário no plano:
+                                                     . anteriores à data do último can-
+                                                  celamento do plano (campo 05);
+                                                     . posteriores à competência de envio
+                                                  do SIB.
+
+                                                  - registros com tempo de data de
+                                                  cancelamento do plano superior a 5
+                                                  (cinco) anos em relação à última
+                                                  competência não poderão ser reincluídos.
+
+                                                  -   Os   registros   somente   podem   ser
+
+
+
+
+                                                                                  37
+                                                       reincluidos quando cancelados pelos
+                                                       seguintes motivos de cancelamento:
+                                                       “01” – rompimento do contrato por
+                                                       iniciativa do beneficiário; “02” – término
+                                                       da relação de vinculado a um beneficiário
+                                                       titular; “03” – desligamento da empresa
+                                                       (para planos coletivos) e “04” –
+                                                       inadimplência.
+
+
+1.3.7 - Linha do tipo 9
+Trailler do arquivo de transmissão com registros de dados de beneficiários.
+
+Tamanho do registro: 78 posições (bytes)
+
+ Número e nome do campo      Formato Posições               Características
+                                 e
+                             tamanho
+                                do
+                              campo
+901 – Número sequencial da Numérico 001 a 007 - preenchimento obrigatório.
+linha dentro do arquivo        (07)
+                                                Conteúdo: “Sequencial da linha anterior
+                                                mais 1”.
+902 – Registro tipo trailler Numérico 008 a 008 - preenchimento obrigatório.
+                               (01)
+                                                Conteúdo: “9”  registro tipo trailler.
+
+903 – Quantidade de registros Numérico 009 a 015 Validação:
+para inclusão                   (07)             . Deve conter o total de registros para
+                                                 inclusão, ou seja, o total de linhas do
+                                                 tipo “1”.
+                                                 . o arquivo será rejeitado pelo aplicativo
+                                                 do SIB/ANS caso o quantitativo de linhas
+                                                 do tipo “1” existente no arquivo de
+                                                 atualização diferir do informado nesse
+                                                 campo.
+904 – Quantidade de registros Numérico 016 a 022 Validação:
+para alteração                  (07)             . Deve conter o total de registros para
+                                                 alteração, ou seja, o total de linhas do
+                                                 tipo “2”.
+                                                 . o arquivo será rejeitado pelo aplicativo
+                                                 do SIB/ANS caso o quantitativo de linhas
+                                                 do tipo “2” existente no arquivo de
+                                                 atualização diferir do informado nesse
+                                                 campo.
+905 – Quantidade de registros Numérico 023 a 029 Validação:
+para indicação de inexistên-    (07)             . Deve conter o total de registros para
+cia de beneficiário ou de a-                     indicação de inexistência de beneficiário
+tualização cadastral                             ou de atualização cadastral, ou seja, o
+                                                 total de linhas do tipo “6”.
+                                                 . o arquivo será rejeitado pelo aplicativo
+                                                 do SIB/ANS caso o quantitativo de linhas
+                                                 do tipo “6” existente no arquivo de
+                                                 atualização diferir do informado nesse
+                                                 campo.
+906 – Quantidade de registros Numérico 030 a 036 Validação:
+para exclusão                   (07)             . Deve conter o total de registros para
+
+
+
+
+                                                                                      38
+                                                 exclusão, ou seja, o total de linhas do
+                                                 tipo “7”.
+                                                 . o arquivo será rejeitado pelo aplicativo
+                                                 do SIB/ANS caso o quantitativo de linhas
+                                                 do tipo “7” existente no arquivo de
+                                                 atualização diferir do informado nesse
+                                                 campo.
+907 – Quantidade de registros Numérico 037 a 043 Validação:
+para reinclusão                 (07)             . Deve conter o total de registros para
+                                                 reinclusão, ou seja, o total de linhas do
+                                                 tipo “8”.
+                                                 . o arquivo será rejeitado pelo aplicativo
+                                                 do SIB/ANS caso o quantitativo de linhas
+                                                 do tipo “8” existente no arquivo de
+                                                 atualização diferir do informado nesse
+                                                 campo.
+908    –    Reservado   para   Alfan.  044 a 078 - deve conter espaços em branco.
+expansão                        (35)
+
+
+
+
+1.4 – Arquivo de Devolução
+O arquivo de devolução será gerado pela ANS e disponibilizado às operadoras com a
+identificação    do   arquivo     de      atualização   de     dados    de   beneficiários
+(XXXXXXAAAAMMDDHHMMSS.SIB), modificada apenas a extensão do arquivo para
+“.DVL”,     ou    seja,    o    arquivo      de    devolução     terá   a    identificação
+XXXXXXAAAAMMDDHHMMSS.DVL.
+Este arquivo é composto por três arquivos:
+1 – arquivo com identificação XXXXXXAAAAMMDDHHMMSS.PTC, extensão “.PTC”, que
+contém o protocolo de encerramento do ciclo de atualização do Cadastro de Beneficiários
+do SIB/ANS e a síntese das incorreções ocorridas no processamento do arquivo, caso
+existam, por mensagem de erro;
+2 - arquivo com identificação XXXXXXAAAAMMDDHHMMSS.ERR, extensão “.ERR”, que
+contém os registros enviados pela operadora, no respectivo arquivo de atualização, que
+apresentaram incorreções e suas respectivas mensagens de erro.
+3 - arquivo com identificação XXXXXXAAAAMMDDHHMMSS.CCO, extensão “.CCO”, que
+contém os registros de inclusão, enviados pela operadora no respectivo arquivo de
+atualização, que não apresentaram incorreções, acrescido do Código de Controle
+Operacional – CCO do registro e de seu dígito verificador.
+
+
+1.4.1 – formato do arquivo XXXXXXAAAAMMDDHHMMSS.PTC
+
+
+MS - MINISTÉRIO DA SAÚDE
+ANS - AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR
+SIB - Sistema de Informações de Beneficiários
+Operadora : XXXXXX CNPJ: XX.XXX.XXX/XXXX-XX
+
+
+
+
+                                                                                       39
+Razão Social :
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+PROTOCOLO DE ENCERRAMENTO DO CICLO DE ATUALIZAÇÃO DO CADASTRO DE
+BENEFICIÁRIOS DO SIB/ANS.
+
+Resultado do processamento do arquivo XXXXXXAAAAMMDDHHMMSS.SIB
+       REGISTROS               Total  Processados Recusados   % de
+                                                             acerto
+Inclusão (Linha do tipo 1)  9.999.999  9.999.999   9.999.999 999,99
+Alteração (Linha do tipo 2) 9.999.999  9.999.999   9.999.999 999,99
+Exclusão (Linha do tipo 7)  9.999.999  9.999.999   9.999.999 999,99
+ Reinclusão (Linha do tipo  9.999.999  9.999.999   9.999.999 999,99
+            8)
+           Total            9.999.999  9.999.999  9.999.999  999,99
+
+                                 Total     registros in-        Recusados        % de
+                                           cluídos com                           acerto
+                                           motivo de in-
+                                           clusão “18”
+Total de registros excluídos   9.999.999     9.999.999          9.999.999        999,99
+com motivo de
+cancelamento igual a “07”
+– exclusão decorrente de
+mudança de código de
+identificação de
+beneficiário, motivada pela
+adaptação de sistema da
+operadora
+Total de registros excluídos   9.999.999         9.999.999      9.999.999        999,99
+com motivo de
+cancelamento igual a “09”
+– alteração individual do
+código do beneficiário.
+            Total              9.999.999         9.999.999      9.999.999        999,99
+
+
+
+Síntese das incorreções ocorridas no processamento do arquivo
+Código da              Descrição da mensagem              Ocorrência
+mensagem
+  xxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 9.999.999
+    xxx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 9.999.999
+    xxx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 9.999.999
+    xxx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 9.999.999
+    xxx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 9.999.999
+
+
+ATENÇÃO:
+- Havendo necessidade de esclarecimentos adicionais, solicitamos entrar em contato com
+o Disque ANS, por meio do telefone (21) 0800-701-9656 ou pelo serviço de
+comunicação     “Fale   Conosco”,   disponível     no   sítio   da   ANS    no   endereço
+http://www.ans.gov.br/portal/site/faleconosco/faleconosco.asp?secao= Operadoras.
+
+
+
+
+                                                                                          40
+- Verifique o sítio da ANS para baixar versão atualizada do SIB/ANS.
+
+
+1.4.2 – formato do arquivo XXXXXXAAAAMMDDHHMMSS.ERR
+O arquivo XXXXXXAAAAMMDDHHMMSS.ERR será composto por registros de controle
+(linhas do tipo 0 e 9) e de conteúdo (linhas do tipo 1, 2, 6, 7 e 8), conforme
+discriminados no item 1.2 desta Instrução Normativa que apresentarem incorreções e
+por registros que discriminam as respectivas mensagens de erro.
+
+
+1.4.2.1-
+Registros de controle e de conteúdo que apresentam incorreções de campos.
+
+Tamanho do registro: 533 posições (bytes)
+
+
+ Número e nome do campo       Formato Posições          Características do campo
+                                  e
+                              tamanho
+                                 do
+                               campo
+01 – Registros de controle ou   Alfan. 001 a 533 - Registro para recepcionar quaisquer
+de conteúdo                     (533)            registros de controle ou de conteúdo.
+
+
+1.4.2.2 –
+Registro de mensagem de erro de registros de controle e de conteúdo que apresentam
+incorreções de campos.
+
+Tamanho do registro: 205 posições (bytes)
+
+ Número e nome do campo          Formato Posições                 Características
+                                     e
+                                 tamanho
+                                    do
+                                  campo
+01 – Número sequencial da Numérico 001 a 007 - Deve conter o número sequencial da
+linha dentro do arquivo.           (07)             linha,       dentro       do       arquivo
+                                                    XXXXXXAAAAMMDDHHMMSS.SIB,               do
+                                                    registro que apresentou incorreção.
+02 – Indicador de registro tipo Numérico 008 a 008 - Deve conter o mesmo indicador de
+detalhe para registros de          (01)             registro tipo de detalhe do registro que
+controle ou de conteúdo                             apresentou incorreção.
+03 - Código de Controle Numérico 009 a 018 - Deve conter o mesmo Código de
+Operacional – CCO - do             (10)             Controle Operacional do registro que
+registro                                            apresentou incorreção.
+                                                    - Para registro de Linha do tipo 01
+                                                    (registro de inclusão) este campo deve
+                                                    ser preenchido com zeros.
+04 – Dígito verificador do Códi- Numérico 019 a 020 - Deve conter o mesmo dígito verificador
+go de Controle Operacional do      (02)             do Código de Controle Operacional do
+registro                                            registro que apresentou incorreção.
+                                                        - - Para registro de Linha do tipo 01
+                                                            (registro de inclusão) este campo
+                                                            deve ser preenchido com zeros.
+05 – Número do campo do re-      Numérico 021 a 022     - - Deve ser respeitado o disposto
+gistro de controle ou de con-      (02)                     no item 1.3 – Descrição do
+
+
+
+                                                                                    41
+teúdo que apresentou erro –                                    formato,        tamanho        e
+referente ao registro de Linha                                 características dos campos dos
+do tipo 1 (registro de inclusão)                               registros que compõem o arquivo
+                                                               de atualização.
+06 - Conteúdo do campo do           Alfan    023 a 092     -   - Deve conter o conteúdo do
+registro de controle ou de          (70)                       campo do registro que apresentou
+conteúdo que apresentou erro                                   incorreção, conforme indicado no
+                                                               campo 05.
+07 – Código da mensagem de         Numérico 093 a 095      -   - Código da mensagem de erro,
+erro                                 (03)                      do campo que apresentou erro.
+                                                           -   - mensagem contida na tabela
+                                                               de mensagens de erro.
+08 – Descrição da mensagem          Alfan.   096 a 135     -   - Descrição da mensagem de erro
+de erro                              (40)                      do campo que apresentou erro.
+09 – Descrição da causa do          Alfan.   136 a 205     -   - Descrição da causa que motivou
+erro                                 (70)                      o erro.
+
+
+1.4.3 – Formato do arquivo XXXXXXAAAAMMDDHHMMSS.CCO
+
+Tamanho do registro: 160 posições (bytes)
+
+ Número e nome do campo   Formato Posições         Características dos campos
+                              e
+                          tamanho
+                             do
+                           campo
+01 – Número sequencial da Numérico 001 a 007 - quando o conteúdo do campo 03
+linha dentro do arquivo     (07)             (código do motivo de inclusão) for
+                                             diferente de “18” então o campo deve
+                                             conter o número sequencial da linha
+                                             dentro do arquivo de atualização, ou
+                                             seja,             do           arquivo
+                                             XXXXXXAAAAMMDDHHMMSS.SIB.
+
+                                                   - quando o conteúdo do campo 03
+                                                   (código do motivo de inclusão) igual a
+                                                   “18” então o campo deve conter zeros.
+02 – Indicador de registro tipo Numérico 008 a 008 - Deve conter “1”  para registro de
+detalhe                           (01)             inclusão.
+03 – Código do motivo de in-    Numérico 009 a 010 - quando o conteúdo deste campo for
+clusão                            (02)             diferente de “18” então o Código do
+                                                   motivo de inclusão foi informado pela
+                                                   operadora no arquivo de atualização
+                                                   XXXXXXAAAAMMDDHHMMSS.SIB.
+
+                                                       - quando o conteúdo deste campo for
+                                                       igual a “18” então o registro foi gerado
+                                                       pela ANS em substituição a um registro
+                                                       cancelado pela operadora por motivo de
+                                                       cancelamento “07” ou “09”.
+04 - Código de Identificação do     Alfan.   011 a 040 - quando o conteúdo do campo 03
+beneficiário na operadora            (30)              (código do motivo de inclusão) for
+                                                       diferente de “18” então este campo foi
+                                                       informado pela operadora no arquivo
+                                                       XXXXXXAAAAMMDDHHMMSS.SIB                em
+                                                       registro de Linha do tipo 1 (inclusão).
+
+
+
+
+                                                                                       42
+                                                      - quando o conteúdo do campo 03
+                                                      (código do motivo de inclusão) for igual a
+                                                      “18” então este campo foi informado
+                                                      pela      operadora        no      arquivo
+                                                      XXXXXXAAAAMMDDHHMMSS.SIB                em
+                                                      registro de Linha do tipo 7 (exclusão) por
+                                                      motivo de cancelamento “07” ou “09”..
+05 - Nome do Beneficiário          Alfan.   041 a 110 - quando o conteúdo do campo 03
+                                    (70)              (código do motivo de inclusão) for
+                                                      diferente de “18” então este campo foi
+                                                      informado pela operadora no arquivo
+                                                      XXXXXXAAAAMMDDHHMMSS.SIB                em
+                                                      registro de Linha do tipo 1 (inclusão).
+
+                                              - quando o conteúdo do campo 03
+                                              (código do motivo de inclusão) for igual a
+                                              “18” então este campo é oriundo de
+                                              registro que foi cancelado pela operadora
+                                              no                                 arquivo
+                                              XXXXXXAAAAMMDDHHMMSS.SIB                em
+                                              registro de Linha do tipo 7 (exclusão) por
+                                              motivo de cancelamento “07” ou “09”.
+06 - Data de nascimento do Numérico 111 a 118 - quando o conteúdo do campo 03
+beneficiário                 (08)             (código do motivo de inclusão) for
+                                              diferente de “18” então este campo foi
+                                              informado pela operadora no arquivo
+                                              XXXXXXAAAAMMDDHHMMSS.SIB                em
+                                              registro de Linha do tipo 1 (inclusão).
+
+                                                      - quando o conteúdo do campo 03
+                                                      (código do motivo de inclusão) for igual a
+                                                      “18” então este campo é oriundo de
+                                                      registro que foi cancelado pela operadora
+                                                      no                                 arquivo
+                                                      XXXXXXAAAAMMDDHHMMSS.SIB                em
+                                                      registro de Linha do tipo 7 (exclusão) por
+                                                      motivo de cancelamento “07” ou “09”.
+07 – Código anterior de            Alfan.   119 a 148 - quando o conteúdo do campo 03
+identificação do beneficiário na    (30)              (código do motivo de inclusão) for
+operadora                                             diferente de “18” então este campo foi
+                                                      informado pela operadora no arquivo
+                                                      XXXXXXAAAAMMDDHHMMSS.SIB                em
+                                                      registro de Linha do tipo 1 (inclusão).
+
+                                                 - quando o conteúdo do campo 03
+                                                 (código do motivo de inclusão) for igual a
+                                                 “18” então este campo é oriundo de
+                                                 registro que foi cancelado pela operadora
+                                                 no                                 arquivo
+                                                 XXXXXXAAAAMMDDHHMMSS.SIB               em
+                                                 registro de Linha do tipo 7 (exclusão) por
+                                                 motivo de cancelamento “07” ou “09”.
+08 - Código       de Controle Numérico 149 a 158 - Contém o Código de Controle
+Operacional –     CCO - do      (10)             Operacional – CCO – instituído pela ANS
+registro                                         para este registro.
+
+                                                       Para    quaisquer    modificações   deste
+                                                       registro:    alteração,    exclusão    ou
+
+
+
+
+                                                                                      43
+                                                    reinclusão, no Cadastro de Beneficiários
+                                                    do SIB/ANS, a operadora deverá utilizar,
+                                                    obrigatoriamente,     este  CCO      como
+                                                    identificador do registro.
+09 – Dígito verificador do Códi- Numérico 159 a 160 - Contém o dígito verificador do Código
+go de Controle Operacional do      (02)             de Controle Operacional do registro.
+registro
+
+
+1.5 - Arquivo de Conferência de dados de beneficiários
+
+
+O arquivo de conferência contém a situação cadastral dos beneficiários, registrada na
+base de dados da ANS até o último movimento de atualização cadastral enviado pelas
+operadoras e processado com êxito pela ANS.
+O arquivo de conferência será gerado com tamanho máximo de até 500.000 (quinhentos
+mil) registros de dados de beneficiários e será identificado por:
+
+
+
+
+ArqConfXXXXXXMMAAAAYYZZ.ZIP onde:
+XXXXXX corresponderá às 6 (seis) posições do número de registro da operadora na
+ANS, MM ao mês e
+AAAA ao ano relativos à geração do arquivo,
+YY quantidade total de arquivos gerados e
+ZZ numero seqüencial do arquivo.
+
+
+1.5.1 - Linha de dados do Arquivo de Conferência
+
+Tamanho do registro = 669 posições (bytes)
+
+
+       nome do campo               Formato Posições                 Características
+                                       e
+                                   tamanho
+                                      do
+                                    campo
+01 – Número sequencial da          Numérico 001 a 007
+linha dentro do arquivo de           (07)
+conferência
+02 – Indicador de registro         Numérico 008 a 008 “1”  registro ativo
+ativo ou inativo                     (01)             “3”  registro inativo
+03 – Código do motivo de in-       Numérico 009 a 010
+clusão                               (02)
+04 - Código de Controle            Numérico 011 a 020
+Operacional – CCO - do               (10)
+registro
+05 – Dígito verificador do Códi-   Numérico   021 a 022
+go de Controle Operacional do        (02)
+registro
+06 – Código de identificação do     Alfan.    023 a 052
+beneficiário na operadora            (30)
+07 – Nome do beneficiário           Alfan.    053 a 122
+
+
+
+                                                                                      44
+                                      (70)
+08 – Data de nascimento do          Numérico   123 a 130
+beneficiário                          (08)
+09 – Sexo do beneficiário           Numérico   131 a 131
+                                      (01)
+10 – CPF - Cadastro de Pes-         Numérico   132 a 142
+soas Físicas – do beneficiário        (11)
+11 - Código de identificação do      Alfan.    143 a 172
+beneficiário titular do plano na      (30)
+operadora para beneficiários
+informados como dependentes
+(não-titulares)
+12 - PIS/PASEP – Programa de        Numérico 173 a 183
+Integração Social / Programa          (11)
+de Formação do Patrimônio do
+Servidor     Público      –    do
+beneficiário
+13 - Nome da mãe do bene-            Alfan.    184 a 253
+ficiário                              (70)
+14– CNS – Cartão Nacional de        Numérico   254 a 268
+Saúde – do beneficiário               (15)
+15 – Carteira de identidade do       Alfan.    269 a 298
+beneficiário                          (30)
+16 – Órgão emissor da carteira       Alfan.    299 a 328
+de identidade do beneficiário         (30)
+17 – Código do país emissor da      Numérico   329 a 331
+carteira de identidade do             (03)
+beneficiário
+18 - Número do código do pla-       Numérico 332 a 340
+no na ANS                             (09)
+19 – Código do plano da              Alfan.  341 a 370
+operadora cadastrado na ANS           (30)
+20 – Número do código do            Numérico 371 a 379
+plano anterior à portabilidade        (09)
+21 - Data de adesão ao plano        Numérico 380 a 387
+                                      (08)
+22 – Relação de dependência         Numérico 388 a 389
+do beneficiário                       (02)
+23 – Indicação de existência        Numérico 390 a 390
+de Cobertura Parcial                  (01)
+Temporária
+24 – Indicação de itens de          Numérico 391 a 391
+procedimentos excluídos da            (01)
+cobertura
+25 – Data de adaptação,             Numérico 392 a 399
+migração, mudança ou                  (08)
+portabilidade de planos
+26 – CNPJ – Cadastro Nacional       Numérico 400 a 413
+de Pessoa Jurídica – da empre-        (14)
+sa a qual o beneficiário está
+vinculado
+27 – CEI – Cadastro Específico      Numérico 414 a 427
+do INSS – da empresa a qual o         (14)
+beneficiário está vinculado
+28 – Logradouro de residência        Alfan.    428 a 477
+do beneficiário                       (50)
+29 – Número do logradouro            Alfan.    478 a 482
+
+
+
+
+                                                           45
+                                      (05)
+30 – Complemento do logra-           Alfan.     483 a 497
+douro                                 (15)
+31– Bairro do logradouro do          Alfan.     498 a 527
+beneficiário                          (30)
+32 – Código do município de        Numérico     528 a 534
+residência do beneficiário            (07)
+33 – Unidade da federação          Alfabético   535 a 536
+                                      (02)
+34 - Indicação se a residência     Numérico     537 a 537
+do beneficiário é no Brasil ou        (01)
+no exterior
+35 – CEP – Código de Endere-       Numérico 538 a 545
+çamento Postal                       (08)
+36 - Data de cancelamento          Numérico 546 a 553
+contrato                             (08)
+37 – Código do motivo de           Numérico 554 a 555
+cancelamento do contrato do          (02)
+beneficiário
+38 – Data de reinclusão do be-     Numérico 556 a 563
+neficiário no plano                  (08)
+39 – Data da última alteração      Numérico 564 a 571
+do registro                          (08)
+40– Código do motivo de            Numérico 572 a 573
+alteração do registro do             (02)
+beneficiário
+41 - Data de inclusão do regis-    Numérico 574 a 581
+tro - data em que o registro foi     (08)
+incluído no Cadastro de Benefi-
+ciários na ANS
+42 – Data de exclusão do re-       Numérico 582 a 589
+gistro – data em que o registro      (08)
+foi excluído no Cadastro de Be-
+neficiários na ANS
+43 – Data da última reinclusão     Numérico 590 a 597
+do registro – data em que o          (08)
+registro foi reincluído no
+Cadastro de Beneficiários do
+SIB/ANS
+44 – RESERVADO PARA A ANS       Alfan.  598 a 626
+                                 (29)
+45 – situação do nome do       Numérico 627 a 627 Conteúdo:
+beneficiário (campo 07)          (01)             “0” (zero) – nome válido;
+                                                  “1” – nome inválido
+46 – situação da data de nas-  Numérico 628 a 628 Conteúdo:
+cimento do beneficiário (campo   (01)             “0” (zero) – data de nascimento válida
+08)                                               “1” – data de nascimento menor que
+                                                  01/01/1902
+                                                  “2” – data de nascimento maior que data
+                                                  de competência do envio do SIB
+                                                  “3” – data de nascimento maior que data
+                                                  de adesão ao plano
+47 – situação do sexo do bene- Numérico 629 a 629 Conteúdo:
+ficiário (campo 09)              (01)             “0” (zero) – código do sexo igual a 1 ou
+                                                  3;
+                                                  “1” – código do sexo diferente de 1 e de
+                                                  3.
+
+
+
+
+                                                                                46
+48 – situação do CPF do bene-     Numérico 630 a 630 Conteúdo:
+ficiário (campo 10)                 (01)             “0” (zero) – CPF preenchido e válido;
+                                                     “1” – CPF preenchido e inválido;
+                                                     “2” – CPF não preenchido.
+49 – situação do código de        Numérico 631 a 631 Conteúdo:
+identificação do beneficiário       (01)             “0” (zero) – código preenchido e válido;
+titular do plano na operadora                        observação: sendo o registro de bene-
+para beneficiários informados                              ficiário titular, considerar o código
+como dependentes (não-titula-                              válido sem verificar a existência do
+res) (campo 11)                                            código no Cadastro de Beneficiários
+                                                           na ANS.
+                                                     “1” – código preenchido e inválido
+                                                           (código do beneficiário titular não
+                                                            existe no Cadastro de Beneficiários
+                                                            na ANS);
+                                                     “2” – código não preenchido
+50 – situação do PIS/PASEP do     Numérico 632 a 632 Conteúdo:
+beneficiário (campo 12)             (01)             “0” (zero) – PIS/PASEP preenchido e
+                                                     válido;
+                                                     “1” – PIS/PASEP preenchido e inválido;
+                                                     “2” – PIS/PASEP não preenchido.
+51 – situação do nome da mãe      Numérico 633 a 633 Conteúdo:
+do beneficiário (campo 13)          (01)             “0” (zero) – nome da mãe preenchido e
+                                                     válido;
+                                                     “1” – nome da mãe preenchido e
+                                                     inválido;
+                                                     “2” – Nome da mãe não preenchido.
+52 – situação do CNS do           Numérico 634 a 634 Conteúdo:
+beneficiário (campo 14)             (01)             “0” (zero) – CNS preenchido e válido;
+                                                     “1” – CNS preenchido e inválido;
+                                                     “2” – CNS não preenchido.
+53 – situação da carteira de      Numérico 635 a 635 Conteúdo:
+identidade do beneficiário          (01)             “0” (zero) – carteira de identidade
+(campo 15)                                           preenchida;
+                                                     “1” – carteira de identidade não preen-
+                                                     chida.
+54 – situação do órgão emissor    Numérico 636 a 636 Conteúdo:
+da carteira de identidade do        (01)             “0” (zero) – órgão emissor da carteira de
+beneficiário (campo 16)                              identidade preenchido;
+                                                     “1” – órgão emissor da carteira de
+                                                     identidade não preenchido.
+55 – situação do código do pa-    Numérico 637 a 637 Conteúdo:
+ís emissor do carteira de iden-     (01)             “0” (zero) – código do país emissor da
+tidade do beneficiário (campo                        carteira de identidade preenchido;
+17)                                                  “1” – código do país emissor da carteira
+                                                     de identidade não preenchido.
+56 – situação do número do        Numérico 638 a 638 Conteúdo:
+código do plano registrado na       (01)             “0” (zero) – número do código do plano
+ANS (campo 18)                                       existe na tabela de planos (RPS) e
+                                                     pertence à operadora;
+                                                     “1” – número do código do plano existe
+                                                     na tabela de planos (RPS) e não
+                                                     pertence à operadora;
+                                                     “2” – número do código do plano não
+                                                     existe na tabela de planos (RPS);
+                                                     “3” – número do código de plano existe
+                                                     na tabela de planos (RPS), pertence à
+                                                     operadora e está cancelado, porém o
+
+
+
+                                                                                     47
+                                                        beneficiário está ativo;
+                                                        “4” – número do código do plano não
+                                                        preenchido.
+57 – situação do código do pla-    Numérico 639 a 639   Conteúdo:
+no na operadora (campo 19)           (01)               “0” (zero) – código do plano existe na
+                                                        tabela de planos (SCPA) e pertence à
+                                                        operadora;
+                                                        “1” – código do plano não existe na
+                                                        tabela de planos (SCPA);
+                                                        “2” – código do plano não preenchido.
+58 – situação do Número do         Numérico 640 a 640   Conteúdo:
+código do plano anterior à           (01)               “0” (zero) – código do plano preenchido
+portabilidade (campo 20)                                e existe na tabela de planos (RPS);
+                                                        “1” – código do plano preenchido e não
+                                                        existe na tabela de planos (RPS);
+                                                        “2” – código do plano não preenchido.
+59 – situação da data de ade-      Numérico 641 a 641   Conteúdo:
+são ao plano (campo 21)              (01)               “0” – data de adesão válida;
+                                                        “1” – data de adesão menor que
+                                                        01/01/1940;
+                                                        “2” – data de adesão maior que data de
+                                                        cancelamento;
+                                                        “3” – data de adesão menor que data de
+                                                        nascimento.
+60 – situação da relação de        Numérico 642 a 642   Conteúdo:
+dependência do beneficiário          (01)               “0” (zero) – vínculo do beneficiário
+(campo 22)                                              preenchido;
+                                                        “1” – vínculo do beneficiário         não
+                                                        preenchido.
+61 – situação da indicação de      Numérico 643 a 643   Conteúdo:
+existência de Cobertura Parcial      (01)               “0” (zero) – indicação de existência de
+Temporária (campo 23)                                   Cobertura         Parcial     Temporária
+                                                        preenchida;
+                                                        “1” – indicação de existência de
+                                                        Cobertura Parcial Temporária          não
+                                                        preenchida.
+62– situação da indicação de       Numérico 644 a 644   Conteúdo:
+itens de procedimentos excluí-       (01)               “0” (zero) – indicação de itens de
+dos da cobertura (campo 24)                             procedimentos excluídos da cobertura
+                                                        preenchida;
+                                                        “1”    –    indicação     de   itens   de
+                                                        procedimentos excluídos da cobertura
+                                                        não preenchida.
+63 – situação da data de adap-     Numérico 645 a 645   Conteúdo:
+tação, migração, mudança ou          (01)               “0” (zero) – data preenchida e válida;
+portabilidade de planos                                 “1” – data preenchida e (data <
+(campo 25)                                              01/01/2000 ou data < data de adesão);
+                                                        “2” – data não preenchida.
+64 – situação do CNPJ da em-       Numérico 646 a 646   Conteúdo:
+presa a qual o beneficiário está     (01)               “0” (zero) – CNPJ preenchido e válido;
+vinculado (campo 26)                                    “1” – CNPJ preenchido e inválido;
+                                                        “2” – CNPJ não preenchido.
+65 – situação do CEI da em-        Numérico 647 a 647   Conteúdo:
+presa a qual o beneficiário está     (01)               “0” (zero) – CEI preenchido e contém
+vinculado (campo 27)                                    apenas caracteres numéricos;
+                                                        “1” – CEI preenchido e contém carac-
+                                                        teres não numéricos;
+                                                        “2” – CNPJ não preenchido.
+
+
+
+                                                                                      48
+66 – situação do código do        Numérico 648 a 648 Conteúdo:
+município de residência do          (01)             “0” (zero) – código do município
+beneficiário (campo 32)                              preenchido e válido;
+                                                     “1” – código do município preenchido e
+                                                     inválido;
+                                                     “2”    –   código   do   município     não
+                                                     preenchido.
+67 – situação da Unidade da       Numérico 649 a 649 Conteúdo:
+Federação (campo 33)                (01)             “0” (zero) – Unidade da Federação
+                                                     preenchida e válida;
+                                                     “1” – Unidade da Federação preenchida e
+                                                     inválida;
+                                                     “2” – Unidade da Federação não
+                                                     preenchida.
+68 – situação da indicação se a   Numérico 650 a 650 Conteúdo:
+residência do beneficiário é no     (01)             “0” (zero) – indicação se a residência do
+Brasil ou no exterior (campo                         beneficiário é no Brasil ou no exterior
+34)                                                  preenchida e válida;
+                                                     “1” – indicação se a residência do
+                                                     beneficiário é no Brasil ou no exterior
+                                                     preenchida e inválida;
+                                                     “2” – indicação se a residência do
+                                                     beneficiário é no Brasil ou no exterior
+                                                     não preenchida.
+69 – situação do CEP (campo       Numérico 651 a 651 Conteúdo:
+35)                                 (01)             “0”     (zero)    –    CEP     preenchido
+                                                     corretamente;
+                                                     “1” – CEP preenchido e inválido;
+                                                     “2” – CEP não preenchido.
+70 – situação da data de          Numérico 652 a 652 Conteúdo:
+cancelamento do contrato            (01)             “0” – data de cancelamento válida;
+(campo 36)                                           “1” – data de cancelamento posterior à
+                                                     data de competência do envio do
+                                                     SIB/ANS;
+                                                     “2” – data de cancelamento igual a
+                                                     30/12/1899 e o beneficiário está ativo;
+                                                     “3” – data de cancelamento anterior à
+                                                     data de adesão ao plano;
+                                                     “4” – data de cancelamento posterior à
+                                                     data de reinclusão e o beneficiário está
+                                                     ativo;
+                                                     “5” – data de cancelamento não
+                                                     preenchida e o beneficiário está inativo.
+71 – situação do código do        Numérico 653 a 653 Conteúdo:
+motivo de cancelamento do           (01)             “0” – código do motivo de cancelamento
+contrato (campo 37)                                  preenchido e válido;
+                                                     “1” – código do motivo de cancelamento
+                                                     preenchido e inválido;
+                                                     “2” – código do motivo de cancelamento
+                                                     não preenchido.
+72 – situação da data de          Numérico 654 a 654 Conteúdo:
+reinclusão do beneficiário          (01)             “0” – data de reinclusão preenchida e
+(campo 38)                                           válida;
+                                                     “1” – data de reinclusão não preenchida
+                                                     e a data de cancelamento está
+                                                     preenchida e o beneficiário está ativo.
+73 – situação do código do        Numérico 655 a 655 Conteúdo:
+motivo de alteração do registro     (01)             “0” – código do motivo de alteração
+
+
+
+
+                                                                                    49
+do beneficiário (campo 40)                          preenchido e válido;
+                                                    “1” – código do motivo de alteração
+                                                    preenchido e inválido;
+                                                    “2” – código do motivo de alteração não
+                                                    preenchido.
+74 - reservado para expansão   Alfan.   656 a 669
+                                (14)
+
+
+
+
+                                                                                50
+ ANEXO III - Calendário de eventos de encaminhamento de dados cadastrais de
+      beneficiários e de retirada de arquivos de devolução e conferência
+
+                      EVENTOS                                       PRAZO
+
+1. Primeiro encaminhamento do arquivo de                 Até 60 dias depois de
+atualização, quando da concessão do Registro da          concedido o registro da
+Operadora pela ANS.                                      operadora pela ANS.
+
+2. Encaminhamento mensal dos arquivos de                 Até o dia 05 de cada mês,
+atualização referentes aos eventos (inclusões,           considerando o horário de
+alterações, correções, exclusões ou, reinclusões)        Brasília/DF.
+ocorridos até o último dia do mês imediatamente
+anterior.
+
+Nota: Data limite para encaminhar a retificação dos      Até o dia 05 de cada mês,
+registros recusados, identificados no arquivo DVL.       considerando o horário de
+                                                         Brasília/DF.
+
+3. Retirada do arquivo de devolução, conforme            Em até 05 (cinco) dias a
+formato especificado no Anexo I, item 1.4.               partir da recepção dos
+                                                         arquivos de atualização
+                                                         enviados pelas operadoras
+                                                         para a ANS
+
+Nota: Ficarão disponíveis às operadoras as três
+últimas edições dos arquivos de devolução.
+
+
+4. Solicitação e Retirada do arquivo de conferência, a   Em até 05 (cinco) dias a
+qualquer momento, realizada no aplicativo do             partir da solicitação.
+SIB/ANS.
+
+
+Nota: Limitando-se a 01 (um) arquivo de conferência
+por operadora, por competência.
+
+
+
+
+                                                                                     51
+

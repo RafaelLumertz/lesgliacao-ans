@@ -1,0 +1,23 @@
+Anexo II-A - Dados Estatísticos da Nota Técnica de Registro de Produto
+CNPJ da Operadora:
+Período de Análise: ____/_______ a ____/_______
+Abrangência do preço do produto : _____________________
+Região: _______________
+
+
+Tabela de Itens de Despesa
+
+
+                                                           Dados do Plano                                                                             Item de Despesa Assistencial:__________________
+                                                                                   Faixas Etárias                                                                                                      Valor Médio do Item de   Despesa Assistencial
+        N.º de Linha
+                                 Nome do Plano    N.º de Registro do Plano Idade Inicial   Idade Final   N.º de Expostos   N.º de Eventos   Freqüência de Utilização   Total de Despesa Assistencial    Despesa Assistencial       por Exposto
+                                      A                      B                    C             D              E                 F                 G=F/E                            H                         I=H/F              J=GxI=H/E
+                             1
+                             2
+                             3
+                             4
+                             5
+                             6
+                             7
+

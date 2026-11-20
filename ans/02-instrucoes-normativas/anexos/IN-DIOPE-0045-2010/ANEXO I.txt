@@ -1,0 +1,1110 @@
+                                   ANEXO I
+          PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+ SOBRE A PROVISÃO DE EVENTOS/SINISTROS A LIQUIDAR - DIOPS/ANS
+
+                             Data-base do DIOPS: ____ trimestre de _______.
+
+
+1 – DIOPS Financeiro e Balancete
+
+1.1     - Com base no balancete de verificação devidamente assinado pelo
+Contabilista e pelo Diretor responsável da Operadora, elaborado para a data-base
+sob exame, preencher o quadro abaixo com o saldo final das classes e grupos de
+contas identificados, que serão informados no DIOPS:
+
+                              Contas                              Saldo – R$
+1 - Ativo
+12 – Ativo Circulante
+13 – Ativo Não Circulante
+2 - Passivo
+21 – Passivo Circulante
+23 – Passivo Não Circulante
+25 – Patrimônio Líquido / Patrimônio Social
+3 - Receita
+31 – Contraprestações Efetivas/Prêmios Ganhos de Planos de
+Assist. à Saúde
+32 – (-) Tributos Diretos de Operações de Assistência à Saúde
+33 Outras Receitas Operacionais
+34 – Receitas Financeiras
+35 – Receitas Patrimoniais
+4 – Despesa
+41 – Eventos Indenizáveis / Sinistros Retidos
+43 – Despesas de Comercialização
+44 – Outras Despesas Operacionais
+45 – Despesas Financeiras
+46 – Despesas Administrativas
+47 – Despesas Patrimoniais
+61 – Impostos e Participações sobre o Lucro
+69 – Apuração do Resultado
+
+
+
+2 - EVENTOS / SINISTROS A LIQUIDAR
+
+      Controle Gerencial (Relatório analítico)
+
+2.1 – A operadora dispõe dos seguintes controles gerenciais obrigatórios para
+comprovar as operações registradas na contabilidade:
+
+Registro de Eventos/Sinistros Conhecidos ou Avisados             Sim?    Não?
+                                                                 ( )     ( )
+
+
+                                       1
+                                    ANEXO I
+          PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+ SOBRE A PROVISÃO DE EVENTOS/SINISTROS A LIQUIDAR - DIOPS/ANS
+
+Registro de Eventos/Sinistros Ressarcidos ou Recuperados             Sim?     Não?
+                                                                     ( )      ( )
+
+2.1.1 - O saldo de Eventos/Sinistros Conhecidos ou Avisados, demonstrado no
+Controle Gerencial (analítico), confere com o saldo apresentado no balancete
+contábil da data-base analisada?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+      Contabilização, Competência e Plano de Contas Padrão
+
+2.2 – Obter o saldo do Livro Razão e preencher o quadro abaixo com os valores
+que serão informados no DIOPS:
+
+
+                          Contas                                Saldo Total
+
+
+Provisão de Eventos a Liquidar
+(2111791+2112791)                                             R$ __________
+
+
+Provisão de Sinistros a Liquidar
+(2111792+2112792)                                             R$ __________
+
+
+
+2.2.1 e 2.2.2 – Teste de Eventos/Sinistros a Liquidar
+
+2.2.1 – Eventos/Sinistros a Liquidar - com base no Controle Gerencial
+(relatório analítico) de Eventos/Sinistros Conhecidos ou Avisados, para a data-base
+analisada, selecione, aleatoriamente, observando a distribuição abaixo, 15 (quinze)
+contas de eventos/sinistros médico-hospitalares e 15 (quinze) contas de
+eventos/sinistros odontológicos e aplique os procedimentos 2.2.1.1 a 2.2.1.4.
+
+    Distribuição das contas médico-hospitalares
+    - 10 (dez) contas médico-hospitalares de prestador pessoa física; e
+    - 5 (cinco) contas médico-hospitalares de prestador pessoa jurídica.
+
+    Distribuição das contas odontológicas
+    - 10 (dez) contas odontológicas de prestador pessoa física; e
+    - 5 (cinco) contas odontológicas de prestador pessoa jurídica.
+
+
+
+
+                                        2
+                                    ANEXO I
+          PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+ SOBRE A PROVISÃO DE EVENTOS/SINISTROS A LIQUIDAR - DIOPS/ANS
+
+2.2.1.1 – Os eventos / sinistros a liquidar estão suportados por documentos
+referentes à despesa médico-hospitalar / odontológica com o beneficiário do plano
+de saúde da operadora (nota fiscal, fatura ou boleto bancário), que fundamentam
+os valores a pagar ao prestador do serviço assistencial?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.2.1.2 - Os eventos/sinistros a liquidar foram contabilizados na data da
+apresentação/aviso, ou seja, na data em que a OPS tomou conhecimento do gasto
+assistencial?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.2.1.3 - A despesa (evento/sinistro) foi reconhecida pelo valor total da conta
+médica ou odontológica, sendo eventuais glosas ou co-participações,
+contabilizadas, posteriormente, como recuperação da despesa assistencial?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.2.1.4 - A escrituração contábil, no Livro Razão, está de acordo com o Plano de
+Contas Padrão da ANS, quanto a:
+
+2.2.1.4.1 - Codificação das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.2.1.4.2 - Descrição das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.2.1.4.3 - A contabilização do evento/sinistro, na data do aviso, foi a crédito da
+conta de Provisão de Eventos/Sinistros a Liquidar (21117/21127) e a débito de
+Eventos/Sinistros Conhecidos ou Avisados (411) ?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+2.2.2 - Eventos Subsequentes - com base no relatório de pagamentos
+(movimento de caixa, extrato bancário ou outro controle que demonstre os
+pagamentos efetuados) do mês subsequente a data-base analisada, selecione,
+aleatoriamente, 10 (dez) pagamentos de eventos efetuados para prestador
+
+
+                                        3
+                                   ANEXO I
+          PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+ SOBRE A PROVISÃO DE EVENTOS/SINISTROS A LIQUIDAR - DIOPS/ANS
+
+pessoa jurídica e 5 (cinco) pagamentos de eventos efetuados para prestador
+pessoa física e aplique os procedimentos 2.2.2.1 a 2.2.2.3:
+
+
+2.2.2.1 – Os pagamentos selecionados referem-se a serviço médico-
+hospitalar/odontológico prestado a beneficiário de plano de saúde da operadora?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.2.2.2 - Os eventos/sinistros que originaram os pagamentos selecionados haviam
+sido contabilizados na conta de Provisão para Eventos/Sinistros a Liquidar na data
+da apresentação/aviso, ou seja, na data em que a OPS tomou conhecimento do
+custo assistencial?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.2.2.3 - As despesas (eventos/sinistros) referentes aos pagamentos selecionados
+foram reconhecidas pelo valor total da conta médico-hospitalar ou odontológica,
+sendo eventuais glosas ou co-participações, contabilizadas, posteriormente, como
+recuperação da despesa assistencial?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.2.2.4 – Os eventos/sinistros selecionados conforme o item 2.2.1 e 2.2.2 acima,
+foram escriturados no Registro Auxiliar, mensal, por credor, contendo a data de
+aviso e o saldo da Provisão de Eventos/Sinistros a Liquidar, em atenção a RN n.º
+227, de 2010?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+3 - SEGREGAÇÃO POR DATA DE AVISO DOS EVENTOS/SINISTROS A
+LIQUIDAR
+
+3.1 – Registro Auxiliar - A OPS dispõe do Registro Auxiliar obrigatório, mensal,
+por credor, contendo a data de aviso e o saldo da Provisão de Eventos/Sinistros a
+Liquidar, em conformidade com a RN n.º 227, de 2010?
+( ) Sim.
+( ) Não. Solicitar à Administração da OPS as explicações para ausência do referido
+relatório.
+
+
+
+
+                                        4
+                                              ANEXO I
+          PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+ SOBRE A PROVISÃO DE EVENTOS/SINISTROS A LIQUIDAR - DIOPS/ANS
+
+3.2 – Confrontar o saldo do balancete contábil, a ser informado no DIOPS sob
+análise, com o saldo do Registro Auxiliar (Controle Gerencial) e preencher o
+demonstrativo abaixo:
+
+
+                                                                         Saldo
+    Provisão de Eventos/Sinistros a Liquidar                                     Registro     Diferença
+                                                               Balancete         Auxiliar
+                                                                Contábil           R$              R$
+                                                                  R$
+                                                                                                  (a)
+Provisão de Eventos a Liquidar
+(2111791+2112791)
+
+                                                                                                  (b)
+Provisão de Sinistros a Liquidar
+(2111792+2112792)
+
+
+Obter da Administração da OPS explicação para as eventuais diferenças,
+descrevendo-a de forma sucinta:
+   (a) _____________________________________________________________
+          ___________________________;
+   (b) _____________________________________________________________
+          _______________________________.
+
+
+3.3 – Segregação – Demonstrar, no quadro abaixo, o saldo da Provisão de
+Eventos/Sinistros a Liquidar a ser informado no DIOPS sob análise, em
+eventos/sinistros avisados nos últimos 30 dias e em eventos/sinistros avisados há
+mais de 30 dias:
+
+                                    Descrição                                             Valor
+                                                                                           R$
+Eventos/sinistros conhecidos ou avisados nos últimos 30 dias (*)
+
+Eventos/sinistros conhecidos ou avisados há mais de 30 dias
+
+
+                              Total da provisão
+
+(*) considerar os 30 dias que antecedem a data-base do trimestre sob análise, inclusive o último dia.
+
+
+
+3.3.1 – Teste de segregação do saldo de eventos/sinistros a liquidar
+
+
+
+                                                    5
+                                     ANEXO I
+          PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+ SOBRE A PROVISÃO DE EVENTOS/SINISTROS A LIQUIDAR - DIOPS/ANS
+
+Amostra: Com base no Registro Auxiliar (*) de Eventos/Sinistros a Liquidar do
+         último mês do trimestre sob análise, selecione, aleatoriamente, 20
+         (vinte) contas médico-hospitalares e 20 (vinte) contas odontológicas
+         classificadas em ‘avisadas nos últimos 30 dias’, observando a
+         seguinte distribuição:
+            (*) Caso a OPS não prepare o Registro Auxiliar obrigatório (RN n.º
+            227/2010), a seleção das contas deve ser com base no Livro Razão.
+
+         Contas médico-hospitalares
+         - 10 (dez) contas médico-hospitalares de prestador pessoa física; e
+         - 10 (dez) contas médico-hospitalares de prestador pessoa jurídica.
+
+         Contas odontológicas
+         - 10 (dez) contas odontológicas de prestador pessoa física; e
+         - 10 (dez) contas odontológicas de prestador pessoa jurídica.
+
+Para as contas selecionadas, executar os seguintes procedimentos:
+
+3.3.1.1 – verificar se a obrigação está reconhecida na data de aviso da conta
+médica /odontológica.
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as mesmas.
+
+3.3.1.2 - confirmar se estão corretamente classificadas, de acordo com a data de
+aviso, em eventos conhecidos ou avisados nos últimos 30 dias e há mais de 30
+dias?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as mesmas.
+
+4 - Garantia de Eventos/Sinistros por Depósito Judicial
+
+4.1 – A OPS possui, para a data-base analisada, eventos/sinistros contabilizados e
+ainda não pagos contabilizados na Provisão de Eventos/Sinistros a Liquidar
+garantidos por depósito judicial?
+( ) Sim. Neste caso, obter, com a Administração da OPS, as informações e
+Preencher o quadro abaixo.
+( ) Não.
+
+                              Descrição                                      R$
+
+Montante de eventos/sinistros a liquidar garantido por depósito
+judicial
+Valor do depósito judicial
+
+                                          -/-
+
+
+                                          6
+                                    ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+
+                             Data-base do DIOPS: ___ trimestre de ________.
+
+1 – DIOPS Financeiro e Balancete de Verificação
+
+1.1 - Com base no balancete de verificação devidamente assinado pelo
+Contabilista e pelo Diretor responsável da Operadora, elaborado para a data-base
+sob exame, preencher o quadro abaixo com o saldo final de ATIVO, PASSIVO,
+RECEITA e DESPESA, das classes e grupos de contas 1, 2, 3, 4 e 61 e 69,
+respectivamente, que serão informados no DIOPS:
+
+                           Contas                                Saldo – R$
+1 - Ativo
+2 - Passivo
+3 - Receita
+4 - Despesa
+61 – Impostos e Participações sobre o Lucro
+69 – Apuração do Resultado
+
+
+
+2 - CONTRAPRESTAÇÃO PECUNIÁRIA/PRÊMIO A RECEBER
+
+      Controle Gerencial (relatório analítico)
+
+2.1 – A operadora dispõe dos seguintes Controles Gerenciais, obrigatórios, para
+comprovar as operações registradas na contabilidade:
+
+Registro de Contratos e Contraprestações Emitidas / Prêmios       Sim?   Não?
+Emitidos                                                          ( )    ( )
+Registro de Contratos e Contraprestações Emitidas / Prêmios       Sim?   Não?
+Recebidos                                                         ( )    ( )
+Registro de Contratos e Contraprestações Canceladas / Prêmios     Sim?   Não?
+Cancelados                                                        ( )    ( )
+
+
+      Contabilização, Competência e Plano de Contas Padrão
+
+2.2 – Com base no balancete contábil, preencher o quadro abaixo, informando o
+saldo total de contraprestações/prêmios a receber na data-base sob análise,
+distribuído em a receber de contratos individuais e a receber de contratos
+coletivos:
+                                            Contratos  Contratos
+                 Contas                    Individuais Coletivos      Total
+                                               R$         R$           R$
+Contraprestação/ Prêmios a Receber de
+Assistêcia Médico-Hospitalar:
+
+
+                                        1
+                                  ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+(1231111+1231112+1231113+1231114+
+1231115+ 1231116)
+Contraprestação/ Prêmios a Receber de
+Assistência Odontológica:
+(1231211+1231212+1231213+1231214+
+1231215+ 1231216)
+
+2.3 a 2.8 – Teste de Contraprestação/Prêmios a Receber
+
+Amostra: Com base na análise individualizada de contraprestações/prêmios a
+        receber, para a data-base analisada, selecione, aleatoriamente, 20
+        (vinte) contraprestações/prêmios a receber relativos a contratos
+        individuais e 5 (cinco) contraprestações/prêmios a receber relativos a
+        contratos coletivos e efetue os procedimentos 2.3 a 2.8 a seguir:
+
+2.3 – As contraprestações/prêmios a receber estão suportados por notas fiscais,
+faturas e/ou boletos de cobrança que representam os valores a receber de
+beneficiários de planos de saúde?
+
+Contratos individuais:
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+Contratos coletivos:
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.4 - As contraprestações/prêmios a receber estão escrituradas contabilmente em
+função da modalidade de pagamento contratada com o beneficiário, a preço pré-
+estabelecido e a preço pós-estabelecido?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.5 - As contraprestações/prêmios a receber emitidas antes do período de
+cobertura do risco estão contabilizadas como faturamento antecipado?
+
+Contratos individuais:
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+( ) N/A. Resposta aplicável para as situações que a OPS não emite
+contraprestação/ prêmio antes do período de cobertura.
+
+Contratos coletivos:
+
+
+                                       2
+                                  ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+( ) N/A. Resposta aplicável para as situações que a OPS não emite
+contraprestação / prêmio antes do período de cobertura.
+
+
+2.6 - A receita de contraprestações/prêmios está apropriada ao resultado pelo
+critério pro rata dia em função do período de cobertura do risco?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.7 - O eventual recebimento financeiro de contraprestações/prêmios antes do
+inicio do período de cobertura do risco do plano de saúde, foi contabilizado como
+uma obrigação para com o beneficiário, a crédito da conta própria, no passivo?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+( ) N/A. Resposta aplicável para as situações que a OPS não recebeu
+contraprestação / prêmio antes do período de cobertura.
+
+2.8 - A escrituração no balancete contábil, está de acordo com o Plano de Contas
+Padrão da ANS, quanto a:
+
+2.8.1 - Codificação das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.8.2 - descrição das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+3 - CRÉDITOS A RECEBER DE PRESTAÇÃO DE SERVIÇOS DE ASSISTÊNCIA
+   MÉDICO-HOSPITALAR E ODONTOLÓGICA NÃO RELACIONADA COM
+   PLANOS DE SAÚDE DA OPERADORA
+
+3.1 – Contas a Receber (124119100+124219100)
+
+      Relatório analítico (controle gerencial)
+
+3.1.1 – A operadora dispõe de relatório analítico que compõe o saldo de contas a
+receber de serviços de assistência médico-hospitalar e/ou odontológico não
+relacionado com planos de saúde da OPS registrado no balancete contábil?
+
+
+                                       3
+                                   ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+( ) Sim.
+( ) Não. Solicitar à Administração da OPS as explicações para ausência do referido
+relatório.
+
+
+    Contabilização,       Competência,      Plano    de    Contas    Padrão     e
+Documentação Hábil
+
+3.1.2 a 3.1.5 – Teste de Contas a Receber
+
+   Amostra:
+   Com base na análise individualizada de contas a receber de serviços médico-
+   hospitalar/odontológico não relacionados a planos de saúde da OPS, contas
+   124119100 e 124219100, para a data-base analisada, selecione,
+   aleatoriamente, 15 (quinze) títulos e aplique os procedimentos 3.1.2 a 3.1.5 a
+   seguir:
+
+3.1.2 – As contas a receber de serviços médico-hospitalar/odontológico não
+relacionados a planos de saúde da OPS estão suportadas por notas fiscais, faturas
+e/ou boletos de cobrança?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+3.1.3 - As contas a receber emitidas antes da efetiva entrega do serviço ao
+contratante estão contabilizadas como faturamento antecipado?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+3.1.4 - A receita de serviços médico-hospitalar/odontológico não relacionados a
+planos de saúde da OPS está apropriada corretamente ao resultado, observando o
+regime de competência?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+3.1.5 - A escrituração contábil, no balancete contábil, está de acordo com o Plano
+de Contas Padrão da ANS, quanto a:
+
+3.1.5.1 - Codificação das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+3.1.5.2 - Descrição das contas
+( ) Sim?
+
+
+                                        4
+                                  ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+3.2 – Outros Créditos Operacionais de Prestação de Serviço Médico-
+Hospitalar/Odontológico (124189100+124289100)
+
+      Relatório analítico (controle gerencial)
+
+3.2.1 – A operadora dispõe de relatório analítico que compõe o saldo de contas a
+receber de classificadas como “Outros Créditos Operacionais de Prestação de
+Serviço Médico-Hospitalar/Odontológico” não relacionado com planos de saúde da
+OPS registrado no Balancete de Verificação?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+    Contabilização,      Competência,      Plano    de    Contas    Padrão     e
+Documentação Hábil
+
+3.2.2 a 3.2.5 – Teste de Outros Créditos Operacionais de Prestação de Serviço
+Médico-Hospitalar/Odontológico (124189100+124289100)
+
+   Amostra:
+   Com base na análise individualizada de contas a receber classificadas como
+   Outros Créditos Operacionais de Prestação de Serviço Médico-Hospitalar/
+   Odontológico não relacionado a planos de saúde da OPS, para a data-base
+   analisada, selecione, aleatoriamente, 10 (dez) títulos e aplique os
+   procedimentos 3.2.2 a 3.2.5 a seguir:
+
+
+3.2.2 – As contas a receber de serviços médico-hospitalar/odontológico não
+relacionados a planos de saúde da OPS estão suportadas por notas fiscais, faturas
+e/ou boletos de cobrança?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+3.2.3 - As contas a receber classificadas como Outros Créditos Operacionais de
+Prestação de Serviço Médico-Hospitalar/ Odontológico não relacionado a planos de
+saúde da OPS emitidas antes da efetiva entrega do serviço ao contratante estão
+contabilizadas como faturamento antecipado?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+
+
+                                       5
+                                    ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+3.2.4 - A receita de serviços médico-hospitalar/odontológico não relacionados a
+planos de saúde da OPS está apropriada corretamente ao resultado, observando o
+regime de competência?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+3.2.5 - A escrituração contábil, no balancete contábil, está de acordo com o Plano
+de Contas Padrão da ANS, quanto a:
+
+3.2.5.1 - Codificação das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+3.2.5.2 - Descrição das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+4 - PROVISÃO PARA PERDAS SOBRE CRÉDITOS – PPSC
+
+4.1 – PPSC sobre Créditos de Planos de Saúde da Operadora
+
+4.1.1 - Planos individuais a preço pré-estabelecido
+
+Em havendo pelo menos uma parcela vencida há mais de 60 dias para os planos
+individuais com preço pré-estabelecido, a totalidade do contrato está provisionada?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+4.1.2 - Demais planos de saúde
+
+Em havendo pelo menos uma parcela vencida há mais de 90 dias para os demais
+planos de saúde, a totalidade do contrato está provisionada?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+4.2 – PPSC sobre Créditos de Operações Não Relacionadas com Planos de
+Saúde da Operadora
+
+
+
+
+                                         6
+                                   ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+Em havendo pelo menos uma parcela vencida há mais de 90 dias para os créditos
+de operações não relacionadas com planos de saúde, a totalidade do contrato está
+provisionada?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+4.3 - A escrituração contábil da PPSC, no Livro Razão, está de acordo com o Plano
+de Contas Padrão da ANS, quanto a:
+
+4.3.1 - Codificação das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+4.3.2 - Descrição das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+5 - DESPESA DE COMERCIALIZAÇÃO DIFERIDA
+
+5.1 a 5.4 – Teste de Despesa de Comercialização Diferida
+
+   Amostra:
+   Com base nos controles gerenciais da OPS, para a data-base analisada,
+   selecione, aleatoriamente, a documentação suporte referente a 5 (cinco)
+   operações que deram origem à despesa de comercialização/agenciamento
+   diferida e aplique os procedimentos 5.1 a 5.4 a seguir:
+
+
+5.1 - A despesa de comercialização/agenciamento é diferida para:
+
+Planos Coletivos                                       ( ) Sim?       ( ) Não?
+Planos Individuais (a)                                 ( ) Sim?       ( ) Não?
+Outras Operações Comerciais (b)                        ( ) Sim?       ( ) Não?
+
+(a) Em caso positivo, obter com a Administração da OPS explicações que
+justificam esse diferimento, descrevendo-as a seguir:
+__________________________________________________________________
+__________________ .
+
+(b) Neste caso, se a resposta for positiva, obter as informações da Administração
+da OPS e descrever qual é a operação que deu origem ao diferimento:
+
+
+
+                                        7
+                                  ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+__________________________________________________________________
+________________________ .
+
+
+5.2 - A classificação entre ativo circulante e não circulante está correta?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+( ) N/A. Resposta aplicável para situações que a OPS não difere esta despesa.
+
+5.3 – Está correta a apropriação dessa despesa diferida ao resultado de acordo
+com o regime de competência?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+( ) N/A. Resposta aplicável para situações que a OPS não difere esta despesa.
+
+5.4 - A escrituração contábil, no Livro Razão, está de acordo com o Plano de
+Contas Padrão da ANS, quanto a:
+
+5.4.1 - Codificação das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+( ) N/A. Resposta aplicável para situações que a OPS não difere esta despesa.
+
+5.4.2 - Descrição das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+( ) N/A. Resposta aplicável para situações que a OPS não difere esta despesa.
+
+
+6 - DÉBITOS A PRESTADORES DE SERVIÇOS DE ASSISTÊNCIA À SAÚDE -
+MÉDICO-HOSPITALAR E ODONTOLÓGICA NÃO RELACIONADOS COM
+PLANOS DE SAÚDE DA OPERADORA (2141)
+
+      Relatório analítico (controle gerencial)
+
+6.1 – A operadora dispõe de um relatório analítico das contas a pagar a
+prestadores de serviços de assistência médico-hospitalar e/ou odontológico não
+relacionado com planos de saúde da OPS, classificados na conta 2141?
+( ) Sim.
+( ) Não. Solicitar à Administração da OPS as explicações e relatar o motivo que
+justifica a falta desse controle.
+
+
+
+
+                                       8
+                                   ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+    Contabilização, Competência e Plano de Contas Padrão
+
+6.2 – Obter o Livro Razão, para a data-base sob exame, e preencher o quadro
+abaixo com o valor a ser informado no DIOPS:
+
+                           Conta                                  Saldo Total
+
+Débitos a Prestadores de Serviços de Assistência à Saúde -
+Contas a Pagar (214119100)                                 R$ __________
+
+6.2.2 a 6.2.4 – Teste de Contas a Pagar a Prestadores de Serviços Assistenciais
+Não Relacionados com Planos de Saúde da OPS
+
+   Amostra:
+   Com base no relatório analítico de contas a pagar a prestadores de serviços
+   médico-hospitalar/odontológico NÃO relacionados a planos de saúde da OPS,
+   para a data-base analisada, selecione, aleatoriamente, 10 (dez) títulos e
+   aplique os procedimentos 6.2.2 a 6.2.4 a seguir:
+
+6.2.2    –  As    contas    a    pagar   a   prestadores   de   serviços médico-
+hospitalar/odontológico não relacionados a planos de saúde da OPS estão
+suportadas por notas fiscais, faturas e/ou boletos de cobrança?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as mesmas.
+
+6.2.3 - A despesa com serviços médico-hospitalar/odontológico não relacionados a
+planos de saúde da OPS está apropriada corretamente ao resultado, observando o
+regime de competência?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as mesmas.
+
+6.2.4 - A escrituração contábil, no Livro Razão, está de acordo com o Plano de
+Contas Padrão da ANS, quanto a:
+
+6.2.4.1 - Codificação das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as mesmas.
+
+6.2.4.2 - Descrição das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para mesmas.
+
+
+
+
+                                       9
+                                    ANEXO II
+               PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                          SOBRE O DIOPS/ANS
+
+7 - OBRIGAÇÕES LEGAIS – TRIBUTOS
+
+7.1 - a OPS contabilizou, para a data-base analisada, os tributos obrigatórios:
+
+                      Tributos                                              (*)
+Imposto de Renda – Pessoa Jurídica                   ( ) Sim   ( ) Não    ( ) N/A
+Contribuição Social sobre o Lucro Líquido - CSLL     ( ) Sim   ( ) Não    ( ) N/A
+PIS                                                  ( ) Sim   ( ) Não    ( ) N/A
+COFINS                                               ( ) Sim   ( ) Não    ( ) N/A
+ISS                                                  ( ) Sim   ( ) Não    ( ) N/A
+(*) Não Aplicável
+
+Para os casos de resposta negativa, solicitar à Administração da OPS as
+explicações sobre o que motivou a não contabilização:
+__________________________________________________________________
+_________________ .
+
+7.2 - Tributos questionados judicialmente - os tributos sob questionamento
+judicial  estão    contabilizados    pelo   valor total   da   obrigação    legal,
+independentemente da probabilidade de êxito na causa?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+7.3 - A escrituração contábil, no Livro Razão, está de acordo com o Plano de
+Contas Padrão da ANS, quanto a:
+
+7.3.1 - Codificação das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+7.3.2 - Descrição das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+8 - OBRIGAÇÕES LEGAIS – RESSARCIMENTO AO SUS
+
+8.1 a 8.5 – Teste de Ressarcimento ao SUS
+
+   Amostra:
+   Com base na relação dos Avisos de Beneficiários Identificados – ABIs, para a
+   data-base analisada, selecione, aleatoriamente, 20 (vinte) avisos e aplique os
+   procedimentos 8.1 a 8.5 a seguir:
+
+
+
+                                         10
+                                  ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+8.1 - a OPS contabilizou, para a data-base analisada, o Ressarcimento ao SUS
+como Provisão de Eventos/Sinistros a Liquidar?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+8.2 - o reconhecimento contábil do evento foi efetuado de forma imediata, no
+momento do aviso, com base na notificação dos Avisos de Beneficiários
+Identificados – ABIs?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+8.3 – durante o período de apuração do processo de ressarcimento ao SUS, pela
+ANS, o valor reconhecido como obrigação foi, no mínimo, pelo valor historicamente
+devido pela OPS?
+( ) Sim.
+( ) Não. Relatar as divergências existentes e solicitar à Administração da OPS as
+explicações para as mesmas.
+
+8.4 – após o período de apuração do processo de ressarcimento, foram efetuados
+os acertos para mais ou para menos em relação ao valor provisionado conforme
+previsto no item anterior (8.3)?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+8.5 - A escrituração contábil, no Livro Razão, está de acordo com o Plano de
+Contas Padrão da ANS, quanto a:
+
+8.5.1 - Codificação das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+8.5.2 - Descrição das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+
+8.6 – Ressarcimento ao SUS questionado judicialmente
+
+8.6.1 – existe, na data-base sob análise, obrigação legal com ressarcimento ao
+SUS questionada judicialmente?
+( ) Sim.
+( ) Não.
+
+
+
+                                       11
+                                   ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+8.6.2 – o ressarcimento ao SUS questionado judicialmente está contabilizado pelo
+valor total da obrigação, independentemente da probabilidade de êxito na causa?
+( ) N/A. (Responder N/A no caso de resposta negativa para o item 8.6.1).
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+
+ 9 - PROVISÕES TÉCNICAS (EXCETO PROVISÃO DE EVENTOS/SINISTROS A
+LIQUIDAR)
+
+9.1 - Existe, para a data-base sob análise, provisões técnicas calculadas com base
+em Nota Técnica Atuarial de Provisões?
+( ) Sim. Relatar quais são essas provisões técnicas.
+( ) Não.
+
+9.2 – A(s) NTAP(s) foi(foram) aprovada(s) pela ANS?
+( ) Sim.
+( ) Não.
+
+9.3 - No que tange às provisões técnicas baseadas em metodologia própria
+aprovada pela ANS, o valor contabilizado está de acordo com o calculado pelo
+Atuário responsável?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+9.4 – Existe a memória de cálculo, disponível, que suporte a estimativa e o valor
+contabilizado para as provisões técnicas?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+9.5 - As provisões técnicas contabilizadas (baseadas em metodologia própria ou
+não) obedecem ao menos, o valor mínimo exigido pela ANS?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+9.6 - A segregação das provisões técnicas contabilizadas entre circulante e não
+circulante está correta?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências
+
+9.7 – Para o caso de provisões técnicas classificadas no plano de contas padrão
+como “Outras Provisões Técnicas”, existe NTAP autorizada pela ANS?
+
+
+                                       12
+                                   ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+( ) Sim.
+( ) Não.
+
+9.8 - A escrituração contábil, no Livro Razão, está de acordo com o Plano de
+Contas Padrão da ANS, quanto a:
+
+9.8.1 - Codificação das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+9.8.2 - Descrição das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+
+10 - ATIVOS GARANTIDORES
+
+10.1 - Suficiência – Obtenha a análise da Administração da OPS relativa aos
+ativos garantidores e execute os procedimentos 10.1.1 e 10.1.2:
+
+10.1.1 - Há suficiência de ativos garantidores (vinculados e não vinculados), na
+data-base sob analise, em face das provisões técnicas?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+( ) N/A. Resposta aplicável para os casos que a OPS não está obrigada a constituir
+provisão técnica.
+
+10.1.2 - Há suficiência de ativos garantidores (vinculados e não vinculados), na
+data-base sob análise, em face da receita dos contratos coletivos em que a
+administradora de benefícios é estipulante conforme regulamentação vigente?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+( ) N/A. Resposta aplicável para os casos que não se trata de administradora de
+benefícios.
+
+10.2 – Vinculação - O montante de ativos garantidores vinculados à ANS em
+fundos dedicados e centrais de custódia está compatível com o saldo contabilizado
+de Aplicações Vinculadas, na data-base analisada?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+
+
+
+                                       13
+                                   ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+10.3 – Administradora de Benefícios
+
+10.3.1 – Conforme exigido pela regulamentação vigente, a Administradora de
+Benefícios possui um relatório trimestral dos contratos coletivos estipulados,
+demonstrando a apuração do montante de ativos garantidores vinculados à ANS?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+10.3.2 – Conforme exigido pela regulamentação vigente, o relatório de ativos
+garantidores vinculados à ANS pela Administradora de Benefícios, demonstra: (i) o
+faturamento mensal dos contratos estipulados contendo o valor total, subtotais por
+operadora e por tipo de contrato, nessa estrutura hierárquica; e (ii) o montante
+mensal de inadimplência total e por operadora?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+
+11) IDADE DE SALDOS – Contas a Receber e Contas a Pagar
+
+11.1 – Idade de Saldos de Contas a Receber
+
+11.1.1 - O demonstrativo de Distribuição dos Saldos de Contas a Receber
+(idade de saldos), no DIOPS do período sob exame, está preenchido conforme os
+saldos do balancete contábil, para as respectivas contas?
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+11.1.2 - Os saldos das contas a receber estão corretamente distribuídos em:
+
+a vencer                                                  (   ) Sim     (   ) Não
+vencidos até 30 dias                                      (   ) Sim     (   ) Não
+vencidos de 31 a 60 dias                                  (   ) Sim     (   ) Não
+vencidos de 61 a 90 dias                                  (   ) Sim     (   ) Não
+vencidos de 91 a 120 dias                                 (   ) Sim     (   ) Não
+vencidos há mais de 120 dias                              (   ) Sim     (   ) Não
+
+Para os casos em desacordo, obter explicações da Administração da OPS e relatar
+o que está incorreto:
+__________________________________________________________________
+____________________________ .
+
+
+11.2 – Idade de Saldos das Contas a Pagar
+
+
+
+                                       14
+                                  ANEXO II
+            PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                       SOBRE O DIOPS/ANS
+
+
+11.2.1 – O demonstrativo de Distribuição dos Saldos de Contas a Pagar (idade
+de saldos), no DIOPS do período sob exame, está preenchido conforme os saldos
+do balancete contábil, para as respectivas contas?
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS
+as explicações para as referidas divergências.
+
+11.2.2 - Os saldos das contas a pagar estão corretamente distribuídos em:
+
+a vencer                                                 (   ) Sim    (     ) Não
+vencidos até 30 dias                                     (   ) Sim    (     ) Não
+vencidos de 31 a 60 dias                                 (   ) Sim    (     ) Não
+vencidos de 61 a 90 dias                                 (   ) Sim    (     ) Não
+vencidos de 91 a 120 dias                                (   ) Sim    (     ) Não
+vencidos há mais de 120 dias                             (   ) Sim    (     ) Não
+
+Para os casos em desacordo, obter explicações da Administração da OPS e relatar
+o que está incorreto:
+__________________________________________________________________
+____________________________ .
+
+                                      -/-
+
+
+
+
+                                      15
+

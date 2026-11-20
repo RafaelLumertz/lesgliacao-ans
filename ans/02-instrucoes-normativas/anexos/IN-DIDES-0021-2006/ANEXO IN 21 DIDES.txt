@@ -1,0 +1,2654 @@
+                           ANEXO I
+
+ ESTRUTURA FÍSICA DOS CAMPOS DAS GUIAS E DOS
+               DEMONSTRATIVOS
+
+
+
+
+Padrão TISS – versão 2.0             Página 1 - 1
+            1. Documentos preenchidos pelos prestadores e encaminhados às
+            operadoras
+
+
+            1.1. Guia de Consulta
+
+
+
+
+           Logo da Operadora
+                                                                             GUIA DE CONSULTA                                                    2- Nº             123456789012
+1 - Registro ANS                                  3 - Data de Emissão da Guia
+
+
+                                                   |___|___| / |___|___| / |___|___|
+Dados do Beneficiário
+4 - Número da Carteira                                                                                   5 - Plano                             6 - Validade da Carteira
+
+
+|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|_                                                                   |___|___| / |___|___| / |___|___|
+__|
+7 - Nome                                                                                                                              8 - Número do Cartão Nacional de Saúde
+
+
+                                                                                                                                      |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
+
+Dados do Contratado
+9 - Código na Operadora / CNPJ / CPF                                         10- Nome do Contratado                                                                                     11 - Código CNES
+
+  |___|___|___|___|___|___|___|___|___|___|___|___|___|___|
+
+12-T.Log     13-14-15 - Logradouro - Número - Complemento                                             16 - Município                                     17 - UF     18 - Código IBGE      19 - CEP
+
+
+
+
+20 - Nome do Profissional Executante                                                                   21 - Conselho Profissional          22-Número no Conselho            23 - UF     24 - Código CBO S
+
+
+
+
+Hipótese Diagnóstica
+25 -Tipo de Doença                26 -Tempo de Doença                                 27 - Indicação de Acidente
+
+ |___| A-Aguda C-Crônica           |___|___| - |__| A-Anos M-Meses D-Dias             |___| 0 - Acidente ou doença relacionado ao trabalho            1 - Trânsito 2 - Outros
+28 - CID Principal          29 - CID (2)                 30 - CID (3)                31 - CID (4)
+
+
+ |___|___|___|___|___| |___|___|___|___|___| |___|___|___|___|___| |___|___|___|___|___|
+Dados do Atendimento / Procedimento Realizado
+32 - Data do Atendimento                   33-Codigo Tabela             34-Código Procedimento
+
+ |___|___| / |___|___| / |___|___|                  |___|___|            |___|___|___|___|___|___|___|___|___|___|
+
+35 - Tipo de Consulta                                                   36 - Tipo de Saída
+
+
+ |___| - 1-Primeira        2-Seguimento       3-Pré-Natal               |___| - 1-Retorno       2-Retorno SADT         3-Referência   4-Internação       5-Alta
+37 - Observação
+
+
+ ______________________________________________________________________________________________________________________________________________
+
+ ______________________________________________________________________________________________________________________________________________
+
+ ______________________________________________________________________________________________________________________________________________
+38-Data e Assinatura do Médico                                                                              39-Data e Assinatura do Beneficiário ou Responsável
+
+
+
+  |___|___| / |___|___| / |___|___|                                                                          |___|___| / |___|___| / |___|___|
+
+
+
+
+            Padrão TISS – versão 2.0                                                                                                                               Página 2 - 2
+       1.1.1. Legenda da guia de consulta
+
+
+Núm. do                                                                    Formato /
+            Nome do campo                     Descrição                                 Obrigatório
+ Campo                                                                     Tamanho
+   1       Registro ANS           Registro da operadora na ANS            String (6)           SIM
+   2       Número da guia         Número da guia                          String (20)          SIM
+           Data de emissão da                                             DD/MM/AA             SIM
+   3                          Data de emissão da guia
+           guia
+Dados do beneficiário
+   4       Número da carteira Número do cartão do beneficiário            String (20)          SIM
+   5       Plano                  Nome do plano do beneficiário           String (40)          SIM
+   6       Validade da carteira Validade da carteira do beneficiário      DD/MM/AA             NÃO
+   7       Nome                   Nome do beneficiário                    String (70)          SIM
+           Número do Cartão       Número do Cartão Nacional de            String (15)          NÃO
+   8
+           Nacional de Saúde      Saúde do beneficiário
+Dados do contratado
+           Código na          Código na operadora ou CNPJ ou String (14)                       SIM
+   9
+           operadora/CNPJ/CPF CPF do contratado
+  10       Nome do contratado Nome do contratado                          String (70)          SIM
+                                  Código     CNES        do   prestador                        NÃO
+  11       Código CNES                                                    String (7)
+                                  contratado
+                                  Tipo de Logradouro conforme tabela String (3)                NÃO
+  12       Tipo de logradouro
+                                  de domínio
+                                  Nome do logradouro do endereço do String (40)                NÃO
+  13       Logradouro
+                                  executante
+  14       Número                 Número do endereço do contratado        String (5)           NÃO
+                                  Complemento       do    endereço    do String (15)           NÃO
+  15       Complemento
+                                  contratado
+  16       Município              Município do contratado                 String (40)          NÃO
+                                  Sigla da Unidade       Federativa   do String (2)            NÃO
+  17       UF
+                                  contratado
+           Código IBGE do         Código IBGE       do    município   do String (7)            NÃO
+  18
+           município              contratado
+  19       CEP                    CEP de residência do contratado         String (8)           NÃO
+                                  Nome do profissional executante.                             NÃO
+           Nome do
+                                  Obrigatório apenas quando o nome
+  20       profissional                                            String (70)
+                                  do contratado no campo 10 se
+           executante
+                                  referir à pessoa jurídica
+                                  Sigla do conselho profissional do                            SIM
+           Conselho
+  21                              executante conforme tabela de String (7)
+           profissional
+                                  domínio
+                              Número no conselho profissional do String (15)                   SIM
+  22       Número no conselho executante conforme tabela de
+                              domínio
+           UF conselho            Sigla da Unidade Federativa do                               SIM
+  23                                                                  String (2)
+                                  Conselho Profissional do executante
+
+
+
+
+       Padrão TISS – versão 2.0                                                 Página 3 - 3
+Núm. do                                                                  Formato /
+            Nome do campo                       Descrição                              Obrigatório
+ Campo                                                                   Tamanho
+                                  Código    da  especialidade        do String (5)           NÃO
+  24       Código CBO-S           contratado conforme tabela         de
+                                  domínio
+Hipótese diagnóstica
+                                  Código do Tipo de Doença:                                  NÃO
+  25       Tipo de Doença         Aguda = “A”                           String (1)
+                                  Crônica = “C”
+                                  Tempo da doença referido pelo         QTDE =
+           Tempo de doença        paciente e unidade de tempo:          Integer
+  26       referida pelo paciente “A”= anos; “M”=meses; “D”=dias        Unidade de           NÃO
+                                                                        Tempo =
+                                                                        string (1)
+                                  Indica se houve:
+                                  acidente de trabalho ou doença
+           Indicação de
+  27                              relacionada ao trabalho = 0           Integer (1)          NÃO
+           Acidente
+                                  acidente de trânsito= 1
+                                  outros acidentes = 2
+                                  Código CID10 do diagnóstico                                NÃO
+  28       CID10 Principal                                              String (5)
+                                  principal
+                                  Código CID10 do segundo
+  29       CID10 (2)                                                    String (5)           NÃO
+                                  diagnóstico
+                                  Código CID10 do terceiro
+  30       CID10 (3)                                                    String (5)           NÃO
+                                  diagnóstico
+  31       CID10 (4)              Código CID10 do quarto diagnóstico String (5)              NÃO
+Dados do atendimento/ Procedimento realizado
+           Data do                Data de realização do atendimento     DD/MM/AA             SIM
+  32       atendimento
+                                  Código da Tabela utilizada para
+  33       Código da Tabela       descrever os procedimentos            String (2)           SIM
+                                  conforme tabela de domínio
+           Código do
+  34                              Código do procedimento realizado      String (10)          SIM
+           procedimento
+                                  Código do tipo de consulta                                 SIM
+                                  Primeira consulta=”1”
+  35       Tipo de consulta                                             String (1)
+                                  Seguimento=”2”
+                                  Pré-Natal=”3”
+                                  Código do tipo de saída
+                                  Retorno= 1
+                                  Retorno com SADT= 2
+  36       Tipo de saída                                                Integer (1)          SIM
+                                  Referência = 3
+                                  Internação = 4
+                                  Alta= 5
+  37       Observação             Observações                           String (240)         NÃO
+           Data e assinatura
+  38                         Data e assinatura do médico                                     NÃO
+           do medico
+           Data e assinatura
+                             Data e assinatura do beneficiário /
+  39       do beneficiário /                                                                 NÃO
+                             responsável
+           responsável
+
+
+
+
+       Padrão TISS – versão 2.0                                               Página 4 - 4
+1.2. Guia de Serviço Profissional / Serviço Auxiliar Diagnóstico e Terapia
+(SP/SADT)
+
+
+
+
+Padrão TISS – versão 2.0                                    Página 5 - 5
+Padrão TISS – versão 2.0   Página 6 - 6
+                           Verso
+
+
+
+
+Padrão TISS – versão 2.0    Página 7 - 7
+    1.2.1. Legenda da Guia de Serviço Profissional / Serviço Auxiliar Diagnóstico e
+    Terapia (SP/SADT)
+
+
+Núm. do       Nome do                                               Formato /
+                                          Descrição                                  Obrigatório
+ Campo         campo                                                Tamanho
+Dados da autorização
+   1      Registro ANS         Registro da operadora na ANS        String (6)            SIM
+   2      Número da guia       Número da guia                      String (20)           SIM
+                                                                                   SIM, quando se
+          Número da guia                                                               tratar de
+          principal                                                                 solicitação de
+   3                           Número da guia principal            String (20)
+          (Paciente                                                                   SADT em
+          internado)                                                                   paciente
+                                                                                      internado
+          Data da              Data da autorização                 DD/MM/AA              NÃO
+   4
+          autorização
+   5      Senha                Senha de autorização                String (20)           NÃO
+          Validade da
+   6                           Data de validade da senha           DD/MM/AA              NÃO
+          Senha
+          Data de emissão Data de emissão da guia                  DD/MM/AA              SIM
+   7
+          da guia
+Dados do beneficiário
+          Número da            Número do cartão do beneficiário String (20)              SIM
+   8
+          carteira
+   9      Plano                Nome do plano do beneficiário       String (40)           SIM
+          Validade da          Validade     da    carteira     do DD/MM/AA               NÃO
+   10
+          carteira             beneficiário
+   11     Nome                 Nome do beneficiário                String (70)           SIM
+          Número do            Número do Cartão Nacional de String (15)                  NÃO
+   12     Cartão Nacional      Saúde do beneficiário
+          de Saúde
+Dados do contratado solicitante
+          Código na       Código na operadora ou CNPJ ou String (14)                     SIM
+   13     operadora/CNPJ/ CPF do contratado solicitante
+          CPF
+          Nome do              Nome do contratado solicitante                            SIM
+   14                                                              String (70)
+          contratado
+                               Código   CNES     do    prestador                         NÃO
+   15     Código CNES                                              String (7)
+                               executante
+          Nome do              Nome do profissional solicitante                          NÃO
+   16     profissional                                             String (70)
+          solicitante
+          Conselho             Sigla do conselho profissional String (7)                 SIM
+   17
+          profissional         conforme tabela de domínio
+          Número no            Número no conselho profissional String (15)               SIM
+   18
+          conselho
+                               Sigla da Unidade Federativa do String (2)                 SIM
+   19     UF conselho
+                               Conselho Profissional
+
+
+    Padrão TISS – versão 2.0                                                    Página 8 - 8
+Núm. do       Nome do                                                  Formato /
+                                            Descrição                                   Obrigatório
+ Campo         campo                                                   Tamanho
+                               Código     da      especialidade                             NÃO
+   20     Código CBO-S                                          String (5)
+                               conforme tabela de domínio
+Dados da solicitação/procedimentos/exames solicitados
+          Data/ hora da        Data/ hora da solicitação              DD/MM/AA
+                                                                                            NÃO
+   21     solicitação                                                 HH:MM
+                               Código do caráter da solicitação                             SIM
+          Caráter da
+   22                          Eletivo= “E”                           String (1)
+          solicitação
+                               Urgência/Emergência =”U”
+                                                                                       SIM, obrigatório
+                                                                                      se solicitação de
+                               Código CID10       do    diagnóstico                   pequena cirurgia,
+   23     CID10                                                       String (5)
+                               principal                                                 terapias, ou
+                                                                                        procedimentos
+                                                                                           em série
+                                                                                      SIM, obrigatório
+                                                                                       preenchimento
+                               Deve     ser    preenchido     pelo
+   24     Indicação clínica                                           String (500)    se solicitação de
+                               profissional solicitante
+                                                                                      pequena cirurgia
+                                                                                        e ou terapias
+                           Código da tabela utilizada para
+                           descrever    os   procedimentos
+   25     Código da tabela                                 String (2)                       NÃO
+                           solicitados conforme tabela de
+                           domínio
+          Código do            Código       do     procedimento
+   26                                                                 String (10)           NÃO
+          procedimento         solicitado
+                                                                                     SIM, pelo menos
+          Descrição do         Descrição     do    procedimento                      um procedimento
+   27                                                                 String (60)
+          procedimento         solicitado                                             solicitado deve
+                                                                                      ser informado
+          Quantidade           Quantidade solicitada de um
+   28                                                      Integer (3)                      SIM
+          solicitada           mesmo serviço/procedimento
+          Quantidade           Quantidade autorizada de um
+   29                                                      Integer (3)                      SIM
+          autorizada           mesmo serviço/procedimento
+Dados do contratado executante
+          Código na
+                          Código na operadora ou CNPJ ou
+   30     Operadora/CNPJ/                                String (14)                        SIM
+                          CPF do contratado executante
+          CPF
+          Nome do
+   31                          Nome do contratado                     String (70)           SIM
+          contratado
+          Tipo de              Tipo de Logradouro conforme
+   32                                                                 String (3)            NÃO
+          logradouro           tabela de domínio
+   33     Logradouro           Nome do logradouro                     String (40)           NÃO
+                               Número do endereço do
+   34     Número                                                      String (5)            NÃO
+                               prestador executante
+                               Complemento do endereço do
+   35     Complemento                                                 String (15)           NÃO
+                               prestador executante
+                               Município do prestador
+   36     Município                                                   String (40)           NÃO
+                               executante
+
+
+
+
+    Padrão TISS – versão 2.0                                                       Página 9 - 9
+Núm. do         Nome do                                           Formato /
+                                          Descrição                                Obrigatório
+ Campo           campo                                            Tamanho
+                               Sigla da UF do prestador
+   37     UF                                                     String (2)            NÃO
+                               executante
+          Código IBGE do       Código IBGE do município do
+   38                                                            String (7)            NÃO
+          município            prestador executante
+   39     CEP                  CEP de residência do executante String (8)              NÃO
+                                                                                     SIM, se
+                               Código CNES do prestador                             prestador
+   40     Código CNES                                            String (7)
+                               executante                                         executante for
+                                                                                     hospital
+                          Nome do profissional executante
+          Nome         do
+                          /   complementar.       Obrigatório
+          profissional
+   41                     apenas quando o nome do String (70)                          NÃO
+          executante    /
+                          contratado no campo 31 se
+          complementar
+                          referir a pessoa jurídica
+                               Sigla do conselho profissional do String (7)
+          Conselho
+   42                          solicitante conforme tabela de                          SIM
+          profissional
+                               domínio
+                               Número no conselho profissional String (15)
+          Número no
+   43                          do solicitante conforme tabela de                       SIM
+          conselho
+                               domínio
+                               Sigla da Unidade Federativa do String (2)
+   44     UF conselho          Conselho     Profissional   do                          SIM
+                               solicitante
+                               Código da especialidade do String (5)
+   45     Código CBO-S         solicitante conforme tabela de                          NÃO
+                               domínio
+Dados do atendimento
+                               Código do tipo de atendimento     Integer (1)
+                               da guia de SP/SADT
+                               Remoção=1
+                               Pequena Cirurgia=2
+                               Terapia=3
+                               Consulta=4
+          Tipo de                                                                SIM, selecionar
+   46                          Exame=5
+          atendimento                                                            uma das opções
+                               Atendimento Domiciliar=6
+                               SADT Internado=7
+                               Quimioterapia=8
+                               Radioterapia=9
+                               TRS Terapia Renal
+                               Substitutiva=10
+                               Indica se houve
+                               acidente ou doença relacionado
+          Indicação de
+   47                          ao trabalho = 0                   Integer (1)           NÃO
+          Acidente
+                               trânsito= 1
+                               outros = 2
+
+
+
+
+    Padrão TISS – versão 2.0                                                  Página 10 - 10
+Núm. do       Nome do                                           Formato /
+                                          Descrição                              Obrigatório
+ Campo         campo                                            Tamanho
+                               Código do tipo de saída:
+                               Retorno= 1
+                               Retorno com SADT= 2
+   48     Tipo de saída        Referência = 3                  Integer (1)           SIM
+                               Internação = 4
+                               Alta= 5
+                               Óbito=6
+Consulta de Referência
+                               Código do Tipo de Doença:       String (1)            NÃO
+   49     Tipo de Doença       Aguda = “A”
+                               Crônica = “C”
+                          Tempo da doença referido pelo        QTDE =
+          Tempo de doença
+                          paciente e unidade de tempo:         Integer
+          referida pelo
+   50                     “A”= anos; “M”=meses;                Unidade de            NÃO
+          paciente
+                          “D”=dias                             Tempo =
+                                                               string (1)
+Procedimentos e exames realizados
+                               Data de realização do
+   51     Data                                                 DD/MM/AA              SIM
+                               procedimento
+                               Hora inicial de realização do
+   52     Hora inicial                                         HH:MM                 NÃO
+                               procedimento
+                               Hora final de realização do
+   53     Hora final                                           HH:MM                 NÃO
+                               procedimento
+                                                                               SIM Pelo menos
+                           Código da tabela utilizada para
+                                                                              um procedimento
+   54     Código da tabela descrever os procedimentos          String (2)
+                                                                                  deve ser
+                           conforme tabela de domínio
+                                                                                 informado
+                                                                               SIM Pelo menos
+          Código do            Código do procedimento                         um procedimento
+   55                                                          String (10)
+          procedimento         realizado                                          deve ser
+                                                                                 informado
+                                                                              SIM, pelo menos
+          Descrição do         Descrição do procedimento                      um procedimento
+   56                                                          String (60)
+          procedimento         solicitado                                      solicitado deve
+                                                                               ser informado
+                               Quantidade em cobrança de um
+          Quantidade
+   57                          mesmo serviço/procedimento      Integer (2)           SIM
+          realizada
+                               realizado
+                               Código da via de acesso
+                               Única= “U”
+   58     Via de acesso                                        String (1)            NÃO
+                               Mesma via=”M”
+                               Diferentes vias= “D”
+                            Código da técnica utilizada
+   59     Técnica utilizada Convencional= “C”                  String (1)            NÃO
+                            Vídeolaparoscopia=”V”
+                           % de redução/ acréscimo no
+          % de
+                           caso de cirurgia
+   60     redução/acréscim                                     Double (3,2)          NÃO
+                           múltipla/radiologia de múltiplas
+          o
+                           áreas
+
+
+
+
+    Padrão TISS – versão 2.0                                                Página 11 - 11
+Núm. do       Nome do                                               Formato /
+                                          Descrição                                Obrigatório
+ Campo         campo                                                Tamanho
+          Valor Unitário       Valor unitário em R$ do
+   61                                                               Double (5,2)       NÃO
+          (R$)                 procedimento/serviço realizado
+                               Valor total em R$ dos
+   62     Valor total (R$)                                      Double (5,2)           NÃO
+                               procedimentos/serviços realizado
+          Data e assinatura
+          dos
+   63                                          -                          -             -
+          procedimentos
+          em série
+   64     Observação           Observações                          String (240)       NÃO
+          Total
+   65                          Valor em R$ de procedimentos         Double (7,2)       NÃO
+          Procedimentos
+          Total Taxas e
+   66                          Valor em R$ de taxas e aluguéis Double (7,2)            NÃO
+          Aluguéis
+   67     Total Materiais      Valor em R$ de materiais             Double (7,2)       NÃO
+          Total
+   68                          Valor em R$ de medicamentos          Double (7,2)       NÃO
+          Medicamentos
+   69     Total Diárias        Valor em R$ de diárias               Double (7,2)       NÃO
+          Total Gases
+   70                          Valor em R$ de gases medicinais Double (7,2)            NÃO
+          Medicinais
+          Total Geral da
+   71                          Valor em R$ do total geral           Double (8,2)       NÃO
+          guia
+OPM solicitadas
+                               Código da Tabela de OPM
+   72     Código da Tabela                                String (2)                   NÃO
+                               conforme tabela de domínio
+   73     Código OPM           Código da OPM solicitada             String (10)        NÃO
+   74     Descrição OPM        Descrição OPM solicitada             String (60)        NÃO
+   75     Qtde de OPM          Quantidade de OPM solicitadas        Integer (2)        NÃO
+                               Nome do Fabricante da          OPM
+   76     Fabricante OPM                                            String (40)        NÃO
+                               solicitada
+          Valor Unitário       Valor unitário em R$ da OPM
+   77                                                      Double (6,2)                NÃO
+          (R$)                 utilizada
+OPM utilizadas
+                               Código da Tabela de OPM
+   78     Código da Tabela                                String (2)                   NÃO
+                               conforme tabela de domínio
+   79     Código OPM           Código da OPM utilizada              String (10)        NÃO
+   80     Descrição OPM        Descrição da OPM utilizada           String (60)        NÃO
+   81     Qtde de OPM          Quantidade utilizada de OPM          Integer (2)        NÃO
+                           Código de barra identificador da                            NÃO
+   82     Código de Barras                                  String (20)
+                           OPM utilizada
+          Valor Unitário       Valor unitário em R$ da OPM
+   83                                                      Double (6,2)                NÃO
+          (R$)                 utilizada
+                               Valor total   em    R$    da   OPM
+   84     Valor Total (R$)                                          Double (6,2)       NÃO
+                               utilizada
+          Valor Total OPM
+   85                          Valor total de OPM em R$             Double (7,2)       NÃO
+          (R$)
+
+
+
+
+    Padrão TISS – versão 2.0                                                  Página 12 - 12
+Núm. do      Nome do                      Formato /
+                              Descrição                Obrigatório
+ Campo        campo                       Tamanho
+          Data e assinatura
+  86                              -           -            NÃO
+          do solicitante
+          Data e assinatura
+  87      do responsável          -           -            NÃO
+          pela autorização
+          Data e assinatura
+  88      do beneficiário         -           -            NÃO
+          ou responsável
+          Data e assinatura
+  89      do prestador            -           -            NÃO
+          executante
+
+
+
+
+   Padrão TISS – versão 2.0                       Página 13 - 13
+1.3. Guia de Solicitação de internação
+
+
+
+
+                                     Frente
+
+
+
+
+Padrão TISS – versão 2.0                      Página 14 - 14
+                           Verso
+
+
+
+
+Padrão TISS – versão 2.0           Página 15 - 15
+1.3.1. Legenda da Guia de Solicitação de Internação
+
+ Núm.
+                                                           Formato /
+  do  Nome do campo                 Descrição                             Obrigatório
+                                                           Tamanho
+Campo
+         Registro ANS      Registro da operadora na       String (6)           SIM
+   1
+                           ANS
+         Número da guia    Número da guia de              String (20)          SIM
+   2
+                           solicitação
+         Data da           Data que a autorização foi
+   3                                                  DD/MM/AA                NÃO
+         autorização       concedida
+   4     Senha             Senha de autorização           String (20)         NÃO
+         Validade da
+   5                       Data de validade da senha      DD/MM/AA            NÃO
+         Senha
+         Data de emissão Data de emissão da guia          DD/MM/AA             SIM
+   6
+         da guia
+Dados do beneficiário
+         Número da         Número do cartão do            String (20)          SIM
+   7
+         carteira          beneficiário
+                           Nome do plano do                                    SIM
+   8     Plano                                            String (40)
+                           beneficiário
+         Validade da       Validade da       carteira   do DD/MM/AA           NÃO
+   9
+         carteira          beneficiário
+   10    Nome              Nome do beneficiário           String (70)          SIM
+         Número do         Número do Cartão Nacional String (15)              NÃO
+   11    Cartão Nacional   de Saúde do beneficiário
+         de Saúde
+Dados do contratado solicitante
+         Código na                                                             SIM
+                          Código na operadora ou
+   12    operadora / CNPJ                                 String (14)
+                          CNPJ ou CPF do solicitante
+         / CPF
+         Nome do           Nome       do      profissional String (70)         SIM
+   13
+         contratado        solicitante
+                           Código CNES do contratado                          NÃO
+   14    Código CNES                                 String (7)
+                           solicitante
+                           Nome       do     profissional
+         Nome do           solicitante.      Obrigatório
+   15    profissional      apenas quando o nome do String (70)                NÃO
+         solicitante       contratado no campo 13 se
+                           referir a pessoa jurídica
+         Conselho          Sigla      do        conselho String (7)            SIM
+   16
+         profissional      profissional
+         Número no         Número       no      conselho String (15)           SIM
+   17
+         conselho          profissional
+                           Sigla da Unidade Federativa
+   18    UF conselho                                   String (2)              SIM
+                           do Conselho Profissional
+                           Código da especialidade
+   19    Código CBO-S                                 String (5)              NÃO
+                           conforme tabela de domínio
+Dados do contratado solicitado/ Dados da internação
+
+
+Padrão TISS – versão 2.0                                                 Página 16 - 16
+ Núm.
+                                                            Formato /
+  do  Nome do campo                   Descrição                            Obrigatório
+                                                            Tamanho
+Campo
+                             Código     do     prestador
+         Código na
+   20                        autorizado ou CNPJ do String (14)                 NÃO
+         Operadora/CNPJ
+                             prestador autorizado
+         Nome do             Nome       do      prestador
+   21                                                       String (70)        NÃO
+         Prestador           autorizado
+                             Caráter   da  internação:
+         Caráter da
+   22                        Eletiva      =         “E” String (1)              SIM
+         internação
+                             Urgência/Emergência = “U”
+                             Código tipo de internação
+                             Clínica=1
+         Tipo de             Cirúrgica=2
+   23                                                       Integer (1)         SIM
+         internação          Obstétrica=3
+                             Pediátrica=4
+                             Psiquiátrica=5
+                             Código regime de
+                             internação
+         Regime de
+   24                        Hospitalar=1                   Integer (1)         SIM
+         internação
+                             Hospital-dia=2
+                             Domiciliar=3
+         Qtde diárias        Quantidade de diárias          Integer (3)         SIM
+   25
+         solicitadas         solicitadas
+                             Texto livre preenchido pelo
+   26    Indicação clínica   profissional          médico String (500)          SIM
+                             solicitante da internação
+Hipóteses diagnósticas
+                             Código do Tipo de Doença: String (1)              NÃO
+   27    Tipo de Doença      Aguda = “A”
+                             Crônica = “C”
+                             Quantidade e unidade de        QTDE =
+         Tempo de doença     tempo de doença referida       Integer
+   28    referida pelo       pelo paciente                  Unidade de         NÃO
+         paciente            “A”= anos; “M”=meses;          Tempo =
+                             “D”=dias                       string (1)
+                             Indica se houve:
+                             acidente ou doença
+         Indicador de
+   29                        relacionada ao trabalho = 0 Integer (1)           NÃO
+         Acidente
+                              trânsito= 1
+                             outros = 2
+                             Código CID10 do                                    SIM
+         CID10 Principal                                    String (5)
+   30                        diagnóstico principal
+                             Código CID10 do segundo
+   31    CID10 (2)                                          String (5)         NÃO
+                             diagnóstico
+                             Código CID10 do terceiro
+   32    CID10 (3)                                          String (5)         NÃO
+                             diagnóstico
+                             Código CID10 do quarto
+   33    CID10 (4)                                          String (5)         NÃO
+                             diagnóstico
+Procedimentos solicitados
+
+
+
+
+Padrão TISS – versão 2.0                                                  Página 17 - 17
+ Núm.
+                                                            Formato /
+  do  Nome do campo                 Descrição                              Obrigatório
+                                                            Tamanho
+Campo
+                          Código da Tabela utilizada
+                          para     descrever        os
+   34    Código da Tabela                              String (2)              NÃO
+                          procedimentos    solicitados
+                          conforme tabela de domínio
+         Código do          Código do procedimento
+   35                                                       String (10)        NÃO
+         Procedimento       solicitado
+                                                                            SIM - pelo
+                                                                            menos um
+                                                                           procedimento
+   36    Descrição          Descrição do procedimento String (60)
+                                                                              solicitado
+                                                                              deve ser
+                                                                             informado
+                                                                            SIM - pelo
+                                                                            menos um
+                            Quantidade de
+   37    Qtde solicitada                                    Integer (2)    procedimento
+                            procedimentos solicitados
+                                                                              deve ser
+                                                                             informado
+                                                                            SIM – caso
+                            Quantidade de
+                                                                           exista algum
+   38    Qtde Autorizada    procedimentos autorizados Integer (2)
+                                                                           procedimento
+                            pela operadora
+                                                                             informado
+OPM solicitadas
+                            Código da Tabela de OPM
+   39    Código da Tabela                              String (2)              NÃO
+                            conforme tabela de domínio
+   40    Código OPM         Código da OPM solicitada        String (10)        NÃO
+   41    Descrição OPM      Descrição OPM solicitada        String (60)        NÃO
+                            Quantidade solicitada de
+   42    Qtde de OPM                                        Integer (2)        NÃO
+                            OPM
+                            Nome do Fabricante         da
+   43    Fabricante OPM                                     String (40)        NÃO
+                            OPM solicitada
+         Valor Unitário     Valor unitário em R$ da
+   44                                               Double (9,2)               NÃO
+         (R$)               OPM utilizada
+Dados da autorização
+         Data provável da
+                          Data provável da admissão
+   45    admissão                                   DD/MM/AA                    SIM
+                          no hospital
+         hospitalar
+         Qtde diárias       Número de dias autorizados
+   46                                                  Integer (3)              SIM
+         autorizadas        para a internação
+         Tipo da            Código    do     tipo    da
+   47    acomodação         acomodação       autorizada String (2)             NÃO
+         autorizada         conforme tabela de domínio
+                            Código     do     prestador
+         Código na
+   48                       autorizado ou CNPJ do String (14)                   SIM
+         Operadora/CNPJ
+                            prestador autorizado
+         Nome do            Nome       do     prestador
+   49                                                       String (70)         SIM
+         Prestador          autorizado
+                            Código CNES do prestador
+   50    Código CNES                                 String (7)                NÃO
+                            executante
+
+
+
+Padrão TISS – versão 2.0                                                  Página 18 - 18
+ Núm.
+                                                              Formato /
+  do  Nome do campo                   Descrição                               Obrigatório
+                                                              Tamanho
+Campo
+   51    Observação           Observações                     String (240)        NÃO
+         Data e assinatura
+   52    do médico                          -
+         solicitante
+         Data e assinatura
+   53    do beneficiário ou                 -
+         responsável
+         Data e assinatura
+   54    do responsável                     -
+         pela autorização
+Prorrogações
+   55    Data                 Data da prorrogação             DD/MM/AA             SIM
+   56    Senha                Senha da prorrogação            String (20)         NÃO
+         Responsável pela     Nome do responsável pela
+   57                                                  String (70)                 SIM
+         prorrogação          prorrogação
+                              Tipo     da    acomodação
+         Tipo da
+   58                         autorizada conforme tabela String (2)               NÃO
+         acomodação
+                              de domínio
+   59    Acomodação           Descrição da acomodação         String (40)         NÃO
+   60    Qtde autorizada      Quantidade autorizada           String (2)           SIM
+                          Código da Tabela utilizada
+                          para     descrever        os
+   61    Código da Tabela                              String (2)                 NÃO
+                          procedimentos    solicitados
+                          conforme tabela de domínio
+         Código do            Código do     procedimento
+   62                                                         String (10)         NÃO
+         Procedimento         solicitado
+                                                                               SIM - pelo
+                                                                               menos um
+                                                                              procedimento
+   63    Descrição            Descrição do procedimento String (60)
+                                                                                 solicitado
+                                                                                 deve ser
+                                                                                informado
+                                                                               SIM - pelo
+                                                                               menos um
+                              Quantidade de
+   64    Qtde solicitada                                      Integer (2)     procedimento
+                              procedimentos solicitados
+                                                                                 deve ser
+                                                                                informado
+                                                                               SIM - pelo
+                                                                               menos um
+                              Quantidade de
+   65    Qtde. Autorizada                               Integer (2)           procedimento
+                              procedimentos autorizados
+                                                                                 deve ser
+                                                                                informado
+                              Código da Tabela de OPM
+   66    Código da Tabela                                String (2)               NÃO
+                              conforme tabela de domínio
+   67    Código da OPM        Código da OPM solicitada        String (10)         NÃO
+   68    Descrição da OPM Descrição da OPM solicitada String (60)                 NÃO
+                              Quantidade    solicitada   de
+   69    Qtde de OPM                                          Integer (2)         NÃO
+                              OPM
+
+
+Padrão TISS – versão 2.0                                                     Página 19 - 19
+ Núm.
+                                                      Formato /
+  do  Nome do campo               Descrição                          Obrigatório
+                                                      Tamanho
+Campo
+                           Nome do Fabricante    da
+   70    Fabricante OPM                               String (40)        NÃO
+                           OPM solicitada
+         Valor Unitário    Valor unitário em R$ da
+   71                                              Double (6,2)          NÃO
+         (R$)              OPM utilizada
+
+
+
+
+Padrão TISS – versão 2.0                                            Página 20 - 20
+1.4. Guia de Resumo de Internação
+
+
+
+
+Padrão TISS – versão 2.0            Página 21 - 21
+                           Frente
+
+Padrão TISS – versão 2.0     Página 22 - 22
+                           Verso
+
+
+
+Padrão TISS – versão 2.0    Página 23 - 23
+       1.4.1. Legenda da guia de resumo de internação
+
+Núm. do                                                                      Formato /
+            Nome do campo                     Descrição                                   Obrigatório
+ Campo                                                                       Tamanho
+   1       Registro ANS           Registro da operadora na ANS              String (6)        SIM
+   2       Número da guia         Número da guia                            String (20)       SIM
+   3       Nº Guia Solicitação    Número da guia de solicitação.            String (20)      NÃO
+   4       Data da autorização Data de emissão da autorização               DD/MM/AA         NÃO
+   5       Senha                  Número da senha de autorização            String (20)      NÃO
+           Data Validade da       Data de validade        da   senha   de DD/MM/AA           NÃO
+   6
+           Senha                  autorização
+           Data de emissão da Data de emissão da referida guia              DD/MM/AA          SIM
+   7
+           guia
+Dados do beneficiário
+   8       Número da carteira Número do cartão do beneficiário              String (20)       SIM
+   9       Plano                  Nome do plano do beneficiário             String (40)       SIM
+  10       Validade da carteira Validade da carteira do beneficiário        DD/MM/AA         NÃO
+  11       Nome                   Nome do beneficiário                      String (70)       SIM
+           Número do Cartão       Número do Cartão         Nacional    de String (15)        NÃO
+  12
+           Nacional de Saúde      Saúde do beneficiário
+Dados do contratado Executante
+           Código na          Código na operadora ou CNPJ ou String (14)                      SIM
+  13
+           operadora/CNPJ/CPF CPF do contratado executante
+           Nome do contratado Nome do contratado executante                 String (70)       SIM
+  14
+           executante
+                                  Código    CNES      do        prestador
+  15       Código CNES                                                      String (7)        SIM
+                                  executante
+                                  Tipo do logradouro de acordo com a String (3)              NÃO
+  16       Tipo Logradouro
+                                  tabela de domínio
+  17       Logradouro             Nome completo do logradouro               String (40)      NÃO
+  18       Número                 Número do endereço                        String (5)       NÃO
+  19       Complemento            Complemento do endereço                   String (15)      NÃO
+  20       Município              Nome do município / localidade            String (40)      NÃO
+  21       UF                     Sigla da unidade federativa               String (2)       NÃO
+                                  Código do município da Tabela do String (7)                NÃO
+  22       Código IBGE
+                                  IBGE
+                                  CEP do endereço        do    contratado String (8)         NÃO
+  23       CEP
+                                  executante
+Dados da Internação
+                                 Caráter da internação de acordo String (1)                   SIM
+           Caráter            da com a tabela de domínio
+  24
+           Internação            Eletivo = “E”
+                                 Urgência / Emergência = “U”
+           Tipo de Acomodação Tipo da acomodação autorizada String (2)                        SIM
+  25       Autorizada         para internação de acordo com
+                              tabela de domínio
+
+
+
+       Padrão TISS – versão 2.0                                                   Página 24 - 24
+Núm. do                                                                   Formato /
+            Nome do campo                      Descrição                               Obrigatório
+ Campo                                                                    Tamanho
+           Data e hora         da Data e hora do início da internação. DD/MM/AA            SIM
+  26
+           internação                                                  HH:MM
+           Data e hora da                                                DD/MM/AA         NÃO
+  27                           Data e hora da alta da internação
+           saída da internação                                           HH:MM
+                                   Tipo da internação realizada     de String (1)          SIM
+  28       Tipo da Internação
+                                   acordo com a tabela de domínio
+           Regime              da Regime da internação de acordo String (1)                SIM
+  29
+           Internação             com tabela de domínio
+                                   Campos a serem preenchidos para o String (1)        SIM, no caso
+           Internação              caso da internação obstétrica                        de ser uma
+  30
+           Obstétrica                                                                   internação
+                                                                                         obstétrica
+                              Condição da mulher em caso de String (1)                    NÃO
+                              óbito:
+                              1 – grávida
+  31       Se óbito em mulher 2 – até 42 dias apos termino
+                              gestação
+                              3 – de 43 dias a 12 meses após
+                              termino da gestação.
+                                   Em caso de óbito neonatal, informar
+           Se óbito neonatal
+                                   as quantidades referentes
+           Qtde óbito neonatal Número de óbitos neonatal precoce Integer (1)              NÃO
+  32       precoce
+
+           Qtde óbito neonatal Número de óbitos neonatal tardio          Integer (1)      NÃO
+           tardio
+           Nº da declaração Número       da          declaração     de String (15)        NÃO
+  33
+           dos nascidos vivos nascimento
+           Quantidade     de Quantidade de nascidos vivos                Integer (2)      NÃO
+  34       nascidos vivos a
+           termo
+           Quantidade              Quantidade de nascidos mortos         Integer (2)      NÃO
+  35
+           Nascidos mortos
+           Quantidade              Quantidade de nascidos prematuro      Integer (2)      NÃO
+  36       Nascidos        vivos
+           prematuro
+Dados da Saída da Internação
+                                   Código Internacional de     doença String (5)           SIM
+  37       CID-10 Principal        principal   responsável       pela
+                                   internação
+                                   Código Internacional de doença String (5)              NÃO
+  38       CID-10 (2)
+                                   responsável pela internação
+                                   Código Internacional de doença String (5)              NÃO
+  39       CID-10 (3)
+                                   responsável pela internação
+                                   Código Internacional de doença String (5)              NÃO
+  40       CID-10 (4)
+                                   responsável pela internação
+
+
+
+
+       Padrão TISS – versão 2.0                                                Página 25 - 25
+Núm. do                                                                        Formato /
+             Nome do campo                     Descrição                                     Obrigatório
+ Campo                                                                         Tamanho
+                                   Indica           se           houve: String (1)              NÃO
+                                   acidente de trabalho ou doença
+            Indicador de
+   41                              relacionada ao trabalho = 0
+            Acidente
+                                   acidente     de      trânsito=    1
+                                   outros acidentes = 2
+                                   Código do motivo da saída da String (2)                       SIM
+   42       Motivo Saída           internação de acordo com tabela de
+                                   domínio
+                                   Código Internacional de Doença String (5)                 SIM, apenas
+   43       CID-10 Óbito           responsável pelo óbito do paciente                        para caso de
+                                                                                                óbito
+                                   Número da declaração de óbito do String (7)               SIM, apenas
+            Nº Declaração de
+   44                              paciente                                                  para o caso
+            Óbito
+                                                                                               de óbito
+Procedimentos e exames realizados
+   45       Data                   Data de realização do procedimento DD/MM/AA                   SIM
+                                   Horário inicial   da   realização    do
+   46       Hora Inicial                                                      HH:MM             NÃO
+                                   procedimento
+                                   Horário final     da   realização    do
+   47       Hora Final                                                        HH:MM             NÃO
+                                   procedimento
+                                   Código da tabela de codificação dos String (2)                SIM
+   48       Tabela
+                                   procedimentos
+            Código do
+   49                              Código do procedimento realizado           String (10)        SIM
+            Procedimento
+                                   Descrição       do      procedimento
+   50       Descrição                                                         String (60)        SIM
+                                   realizado
+                                   Quantidade       realizada           do
+   51       Quantidade                                                        Integer (2)        SIM
+                                   procedimento apresentado
+                                   Via de acesso de acordo com a
+   52       Via de acesso                                        String (1)                     NÃO
+                                   tabela de domínio
+                                   Técnica utilizada de acordo com a
+   53       Técnica utilizada                                        String (1)                 NÃO
+                                   tabela de domínio
+                                   Percentual de redução ou acréscimo
+            % Redução /
+   54                              sobre o valor do procedimento Double (3,2)                   NÃO
+            Acréscimo
+                                   realizado
+                                   Valor    monetário        de        cada
+   55       Valor unitário                                                    Double (5,2)      NÃO
+                                   procedimento
+                                   Valor monetário do procedimento
+   56       Valor total            levando-se em consideração a Double (5,2)                    NÃO
+                                   quantidade executada
+Identificação da Equipe
+            Seqüencial             Número seqüencial do procedimento
+   57                                                                String (2)                  SIM
+            Referência             que relaciona à equipe executante
+                                 Grau de participação do profissional
+   58       Grau de Participação na equipe médica de acordo com a String (2)                     SIM
+                                 tabela de domínio
+            Código na              Código do profissional na Operadora
+   59                                                                  String (12)               SIM
+            Operadora / CPF        ou CPF do profissional
+
+
+
+
+        Padrão TISS – versão 2.0                                                    Página 26 - 26
+Núm. do                                                                   Formato /
+            Nome do campo                      Descrição                                Obrigatório
+ Campo                                                                    Tamanho
+           Nome do                Nome do profissional executante do
+  60                                                                 String (70)            SIM
+           Profissional           procedimento
+           Conselho               Código do conselho profissional
+  61                                                                     String (7)         SIM
+           Profissional
+           Número no              Número       da   identificação    do
+  62                                                                    String (15)         SIM
+           Conselho               profissional no conselho profissional
+                                  Sigla identificadora    da   unidade
+  63       UF                                                            String (2)         SIM
+                                  federativa
+                                  Número do CPF do profissional
+  64       CPF                                                  String (11)                 NÃO
+                                  participante da equipe médica
+OPM Utilizada
+  65       Tabela                 Código da tabela de OPMs               String (2)
+  66       Código OPM             Código da OPM utilizada                String (10)    SIM, se OPMs
+  67       Descrição OPM          Descrição das OPMs                     String (60)      utilizadas
+  68       Quantidade             Quantidade de OPMs utilizadas          Integer (2)
+                                  Código de barra identificador da String (20)              NÃO
+  69       Código de Barras
+                                  OPM utilizada
+  70       Valor Unitário         Valor monetário de cada OPM            Double (6,2)       NÃO
+                                  Valor monetário da OPM levando-se
+  71       Valor Total OPM        em consideração a quantidade Double (6,2)                 NÃO
+                                  executada
+                                  Valor total da guia incluindo todos Double (7,2)          NÃO
+  72       Total Geral
+                                  os procedimentos executados
+                                  Indica se o faturamento é do tipo                         SIM
+  73       Tipo Faturamento       parcial ou total segundo tabela de String (1)
+                                  domínio
+                                  Valor total dos procedimentos.                            NÃO
+                                  Somatório de todos os itens de
+  74       Total Procedimento                                    Double (6,2)
+                                  procedimentos      levando  em
+                                  consideração a quantidade
+                                  Valor total das diárias. Somatório de                     NÃO
+  75       Total Diárias          todos os itens de diária levando em Double (6,2)
+                                  consideração a quantidade
+                                  Valor total das taxas/aluguéis.                           NÃO
+           Total Taxas /          Somatório de todos os itens das
+  76                                                              Double (6,2)
+           Aluguéis               taxas/aluguéis     levando  em
+                                  consideração a quantidade
+                                  Valor total dos materiais. Somatório                      NÃO
+                                  de todos os itens de materiais
+  77       Total Materiais                                             Double (6,2)
+                                  levando     em    consideração     a
+                                  quantidade
+                              Valor total dos medicamentos.                                 NÃO
+                              Somatório de todos os itens de
+  78       Total Medicamentos                                Double (6,2)
+                              medicamentos       levando  em
+                              consideração a quantidade
+                                  Valor total dos Gases Medicinais.                         NÃO
+           Total Gases            Somatório de todos os itens de
+  79                                                                Double (6,2)
+           Medicinais             Gases    Medicinais   levando em
+                                  consideração a quantidade
+
+
+       Padrão TISS – versão 2.0                                                Página 27 - 27
+Núm. do                                                             Formato /
+            Nome do campo                       Descrição                         Obrigatório
+ Campo                                                              Tamanho
+                                  Somatório de todos os valores                      NÃO
+                                  totais. Procedimento + Diárias +
+  80       Total Geral                                             Double (7,2)
+                                  Taxas / Aluguéis + Materiais +
+                                  Medicamentos + Gases Medicinais
+  81       Observação             Observações                      String (240)      NÃO
+           Data e Assinatura
+  82                                                                                 NÃO
+           do contratado
+           Data e Assinatura
+  83       do auditor da                                                             NÃO
+           operadora
+
+
+
+
+       Padrão TISS – versão 2.0                                          Página 28 - 28
+1.5. Guia de Honorário Individual
+
+
+
+
+Padrão TISS – versão 2.0            Página 29 - 29
+Padrão TISS – versão 2.0   Página 30 - 30
+       1.5.1. Legenda da Guia de Honorário Individual
+
+Núm. do                                                                    Formato /
+            Nome do campo                     Descrição                                 Obrigatório
+ Campo                                                                     Tamanho
+   1       Registro ANS           Registro da operadora na ANS            String (6)        SIM
+   2       Número da guia         Número da guia                          String (20)       SIM
+   3       Nº Guia Solicitação    Número da guia de solicitação.          String (20)       SIM
+           Data de emissão da Data de emissão da guia                     DD/MM/AA
+   4                                                                                        SIM
+           guia
+Dados do beneficiário
+   5       Número da carteira Número do cartão do beneficiário            String (20)       SIM
+   6       Plano                  Nome do plano do beneficiário           String (40)       SIM
+   7       Validade da carteira Validade da carteira do beneficiário      DD/MM/AA         NÃO
+   8       Nome                   Nome do beneficiário                    String (70)       SIM
+           Número do Cartão       Número do Cartão         Nacional   de String (15)
+   9                                                                                       NÃO
+           Nacional de Saúde      Saúde do beneficiário
+Dados do contratado (onde foi executado o procedimento)
+           Código na          Código na operadora ou CNPJ ou String (14)                    SIM
+  10
+           operadora/CNPJ/CPF CPF do contratado
+  11       Nome do contratado Nome do contratado                          String (70)       SIM
+                                                                                          SIM, se
+                                  Código     CNES     do      prestador                  prestador
+  12       Código CNES                                                    String (7)
+                                  contratado                                            executante
+                                                                                        for hospital
+Dados do contratado Executante
+           Código na          Código na operadora ou CNPJ ou String (14)
+  13                                                                                        SIM
+           operadora/CNPJ/CPF CPF do contratado executante
+                              Nome do contratado executante.
+           Nome do contratado Obrigatório apenas quando o nome
+  14                                                           String (70)                  SIM
+           executante         do contratado no campo 11 se
+                              referir a pessoa jurídica
+                                                                                          SIM, se
+                                  Código    CNES      do      prestador                  prestador
+  15       Código CNES                                                    String (7)
+                                  executante                                            executante
+                                                                                        for hospital
+           Tipo da acomodação Tipo de acomodação              conforme String (2)
+  16                                                                                       NÃO
+           autorizada         tabela de domínio.
+                                  Grau de participação do profissional
+           Grau de
+  17                              na equipe médica executante do String (2)                 SIM
+           participação
+                                  serviço conforme tabela de domínio.
+           Nome do                Nome do profissional que executou String (70)
+  18       Profissional           o serviço.                                               NÃO
+           executante
+                                  Sigla do conselho profissional do
+           Conselho
+  19                              executante conforme tabela de String (7)                  SIM
+           profissional
+                                  domínio
+                                  Número no conselho profissional do String (15)
+  20       Número no conselho                                                               SIM
+                                  executante tabela de domínio
+
+
+       Padrão TISS – versão 2.0                                                 Página 31 - 31
+Núm. do                                                                       Formato /
+            Nome do campo                       Descrição                                   Obrigatório
+ Campo                                                                        Tamanho
+                                  Sigla da Unidade Federativa do String (2)
+  21       UF conselho                                                                         SIM
+                                  Conselho Profissional do executante
+                                  Número do CPF do          profissional String (11)
+  22       Número do CPF                                                                       NÃO
+                                  executante do serviço
+Dados do atendimento/ Procedimento realizado
+  23       Data                   Data de realização do procedimento DD/MM/AA                  SIM
+                                  Horário inicial   da   realização    do
+  24       Hora Inicial                                                      HH:MM             NÃO
+                                  procedimento
+                                  Horário final     da   realização    do
+  25       Hora Final                                                        HH:MM             NÃO
+                                  procedimento
+                                  Código da tabela de codificação dos
+  26       Tabela                                                     String (2)               SIM
+                                  procedimentos
+           Código do
+  27                              Código do procedimento realizado           String (10)       SIM
+           Procedimento
+                                  Descrição       do      procedimento
+  28       Descrição                                                         String (60)       SIM
+                                  realizado
+                                  Quantidade       realizada           do
+  29       Quantidade                                                        Integer (2)       SIM
+                                  procedimento apresentado
+                                  Via de acesso conforme tabela de
+  30       Via de acesso                                           String (1)                  NÃO
+                                  domínio
+                                  Técnica utilizada conforme tabela de
+  31       Técnica utilizada                                           String (1)              NÃO
+                                  domínio
+                                  Percentual de redução ou acréscimo
+           % Redução /
+  32                              sobre o valor do procedimento Double (3,2)                   NÃO
+           Acréscimo
+                                  realizado
+                                  Valor    monetário        de        cada
+  33       Valor unitário                                                    Double (5,2)      NÃO
+                                  procedimento
+                                  Valor monetário do procedimento
+  34       Valor total            considerando    a    quantidade Double (5,2)                 NÃO
+                                  executada
+                                  Valor final do honorário médico
+           Total Geral
+  35                              considerando o somatório do campo Double (7,2)               NÃO
+           Honorário
+                                  ‘valor total’
+  36       Observação             Observações                                String (240)      NÃO
+                                  Campos    destinados    para   data
+  37       Data / Assinatura                                                       -           NÃO
+                                  completa e assinatura do prestador
+                                  Campos      destinados   para       data
+  38       Data / Assinatura      completa       e    assinatura        do         -           NÃO
+                                  beneficiário / responsável
+
+
+
+
+       Padrão TISS – versão 2.0                                                    Página 32 - 32
+1.6. Guia de Outras Despesas
+
+
+
+
+Padrão TISS – versão 2.0       Página 33 - 33
+Padrão TISS – versão 2.0   Página 34 - 34
+       1.6.1. Legenda da Guia de Outras Despesas
+
+Núm. do                                                                      Formato /
+            Nome do campo                     Descrição                                    Obrigatório
+ Campo                                                                       Tamanho
+   1       Registro ANS           Registro da operadora na ANS              String (6)        SIM
+           Número da guia         Número da guia referenciada às String (20)                  SIM
+   2       referenciada           despesas adicionais. Número da
+                                  guia principal
+Dados do contratado executante
+           Código na          Código na operadora ou CNPJ ou String (14)                      SIM
+   3
+           operadora/CNPJ/CPF CPF do contratado executante
+   4       Nome do contratado Nome do contratado executante                 String (70)       SIM
+                                                                                             SIM, se
+                                  Código    CNES         do     prestador                   prestador
+   5       Código CNES                                                      String (7)
+                                  executante                                               executante
+                                                                                           for hospital
+
+
+                                  Código da natureza da despesa.
+                                  1 – Gases Medicinais
+                                  2 – Medicamento
+   6       Código da Despesa      3 – Material                              String (1)        SIM
+                                  4 – Taxas Diversas
+                                  5 – Diárias
+                                  6 – Aluguéis
+   7       Data                   Data de realização das despesas           DD/MM/AA          SIM
+                                  Horário inicial   da realização das
+   8       Hora Inicial                                                     HH:MM             NÃO
+                                  despesas
+                                  Horário final     da   realização   das
+   9       Hora Final                                                       HH:MM             NÃO
+                                  despesas
+                                  Código da tabela de codificação das String (2)              SIM
+  10       Tabela
+                                  despesas
+  11       Código do item         Código das despesas realizadas            String (10)       SIM
+  12       Descrição              Descrição da despesa realizada            String (60)       SIM
+                                  Quantidade realizada da despesa
+  13       Quantidade                                             Double (3,2)                SIM
+                                  apresentada
+           % Redução /            Percentual de redução ou acréscimo
+  14                                                                 Double (3,2)             NÃO
+           Acréscimo              sobre o valor da despesa realizada
+  15       Valor unitário         Valor monetário de cada despesa           Double (6,2)      NÃO
+                                  Valor   monetário       da      despesa
+  16       Valor total            considerando     a           quantidade Double (6,2)        NÃO
+                                  executada
+                                  Valor final de gases medicinais
+           Total Gases
+  17                              considerando o somatório do campo Double (7,2)              NÃO
+           Medicinais
+                                  ‘valor total’
+                              Valor     final de  medicamentos
+  18       Total Medicamentos considerando o somatório do campo Double (7,2)                  NÃO
+                              ‘valor total’
+
+
+
+
+       Padrão TISS – versão 2.0                                                   Página 35 - 35
+Núm. do                                                                 Formato /
+            Nome do campo                     Descrição                                 Obrigatório
+ Campo                                                                  Tamanho
+                                  Valor      final  de     materiais
+  19       Total Materiais        considerando o somatório do campo Double (7,2)               NÃO
+                                  ‘valor total’
+                                  Valor final de taxas diversas
+           Total Taxas
+  20                              considerando o somatório do campo Double (7,2)               NÃO
+           Diversas
+                                  ‘valor total’
+                                  Valor final de diárias considerando o
+  21       Total Diárias                                                Double (7,2)           NÃO
+                                  somatório do campo ‘valor total’
+                                  Valor final de aluguéis considerando
+  22       Total Aluguéis                                              Double (7,2)            NÃO
+                                  o somatório do campo ‘valor total’
+                                  Valor final do honorário médico
+  23       Total Geral            considerando o somatório do campo Double (7,2)               NÃO
+                                  ‘valor total’
+
+       Observação: Os campos hachuriados devem estar                 contidos    nas   guias    e
+       representam campos de preenchimento não obrigatórios.
+
+
+
+
+       Padrão TISS – versão 2.0                                                 Página 36 - 36
+2. Documentos preenchidos pelas Operadoras e encaminhados aos
+Prestadores
+
+
+2.1. Demonstrativo de Análise de Conta Médica
+
+
+
+
+Padrão TISS – versão 2.0                         Página 37 - 37
+                                                 DEMONSTRATIVO DE ANÁLISE DA CONTA MÉDICA
+
+    1.Registro ANS      2. Nome da operadora                                    3.CNPJ operadora    4.Número do          5.Data emissão do
+                                                                                                    demonstrativo        demonstrativo
+
+    Dados do prestador
+    6. Código Prestador 7. Nome                                                                                              8. Código CNES
+    / CNPJ / CPF
+    Dados da Conta
+    9. Número da Fatura
+
+    10.Número do lote      11.Data de envio do     12. Número do    13. Valor Protocolo     14. Valor Glosa Protocolo 15. Código Glosa
+                           lote                    protocolo        (R$)                    (R$)                      Protocolo
+
+    16. Número da guia/Senha                 17.Nome do beneficiário                                                   18.Código do beneficiário
+
+
+    19.Data       20.Descrição do serviço           21. Código 22.Código     23. Grau de 24.Qtde 25.Valor     26.Valor      27.Valor   28.Código
+    realização                                      Tabela     Serviço       participação executad processado liberado      glosa       glosa
+                                                                                          a        (R$)       (R$)          (R$)
+
+
+
+
+    Total Guia 29. Valor processado guia     30.Valor liberado guia (R$)           31.Valor glosa guia (R$)         32. Código glosa guia
+               (R$)
+
+
+    Total        33. Valor processado fatura (R$)            34. Valor liberado fatura (R$)                     35. Valor glosa fatura (R$)
+    Fatura
+
+
+    Total        36. Valor processado geral (R$)             37.Valor liberado geral (R$)                       38.Valor glosa geral (R$)
+    Geral
+
+
+
+
+Padrão TISS – versão 2.0                                                   Página 38 - 38
+2.1.1. Legenda do Demonstrativo de Análise de Conta Médica
+
+  Núm. do       Nome do                             Formato /
+                                   Descrição                      Obrigatório
+   Campo         campo                              Tamanho
+Dados da operadora
+                                 Registro      da
+       1         Registro ANS    operadora     na String (6)          SIM
+                                 ANS
+                 Nome da         Nome          da
+       2                                          String (70)         SIM
+                 operadora       operadora
+                 CNPJ            Número CNPJ
+       3                                          String (14)         SIM
+                 operadora       da operadora
+                                 Número
+                 Número do
+       4                         identificador do String (12)         SIM
+                 demonstrativo
+                                 demonstrativo
+              Data emissão       Data          de
+      5       do                 emissão       do DD/MM/AAAA          SIM
+              demonstrativo      demonstrativo
+Dados do Prestador
+                                 Código
+                                 identificador do
+                 Código
+                                 prestador     na
+       6         Prestador /                      String (14)         SIM
+                                 operadora
+                 CNPJ / CPF*
+                                 CNPJ          do
+                                 prestador
+                 Nome do         Nome          da
+       7                                          String (70)         SIM
+                 Prestador       operadora
+                                                                    SIM, se
+                                 Código    CNES
+       8         Código CNES                    String (7)         prestador
+                                 do prestador
+                                                                   hospitalar
+Dados do Lote
+                                 Número
+                                 identificador
+                 Número da
+       9                         das faturas que String (12)          NÃO
+                 fatura
+                                 compõem        o
+                                 lote
+                                 Número do lote
+      10         Número do lote                   String (12)         SIM
+                                 processado
+                                 Data em que o
+      11         Data envio lote lote foi enviado DD/MM/AAAA          SIM
+                                 à operadora
+                                 Número        do
+                 Número do       protocolo     de
+      12                                          String (12)         SIM
+                 protocolo       recebimento do
+                                 lote
+                                 Valor total do
+      13         Valor Protocolo                  Double (9,2)        SIM
+                                 Protocolo
+                                 Valor total da
+                 Valor Glosa
+      14                         glosa         do Double (9,2)        SIM
+                 Protocolo
+                                 protocolo
+                                 Código        de
+                                 glosa         de
+                 Código Glosa
+      15                         protocolo.       String (2)          NÃO
+                 Protocolo
+                                 Aceita         N
+                                 valores     para
+
+Padrão TISS – versão 2.0                                         Página 39 - 39
+                                 um        mesmo
+                                 protocolo.
+                                 Número
+                                 identificador
+                 Número da
+      16                         das guias que String (20)             SIM
+                 guia / Senha
+                                 compõem        o
+                                 lote
+                                 Nome          do
+                 Nome do         beneficiário dos
+      17                                           String (70)         NÃO
+                 beneficiário    serviços
+                                 prestados
+                                 Código
+                 Código do       identificador do
+      18                                           String (20)         SIM
+                 beneficiário    beneficiário na
+                                 operadora
+                                 Data          de
+      19         Data realização realização    do DD/MM/AAAA           SIM
+                                 serviço
+                                 Descrição     do
+                 Descrição do
+      20                         serviço           String (70)         NÃO
+                 serviço
+                                 realizado
+                                 Código
+                                 identificador da
+      21         Código Tabela                     String (2)          SIM
+                                 tabela        de
+                                 valoração
+                                 Código
+                                 identificador do
+      22         Código Serviço                    String (20)         SIM
+                                 serviço
+                                 realizado
+                                 Código        da
+                 Grau de         posição       do
+      23                                           String (2)          NÃO
+                 participação    profissional na
+                                 equipe
+                                 Quantidade
+      24         Qtde executa    executada     do Integer (3)          SIM
+                                 serviço
+                                 Valor      usado
+                                 como        base
+                 Valor
+      25                         para           o Double (9,2)         SIM
+                 processado
+                                 processamento
+                                 de valores
+                                 Valor liberado
+                                 previsto    para
+      26         Valor liberado  pagamento         Double (9,2)        SIM
+                                 pela operadora
+                                 sem impostos
+                                 Valor    glosado
+      27         Valor glosa                       Double (9,2)        SIM
+                                 pela operadora
+                                 Código        da
+                                 glosa         (N
+      28         Código glosa    valores     para String (2)           NÃO
+                                 um        mesmo
+                                 protocolo)
+                 Valor total     Valor       total
+      29         processado na usado        como Double (9,2)          SIM
+                 guia            base para o
+
+
+
+Padrão TISS – versão 2.0                                          Página 40 - 40
+                                  processamento
+                                  de valores na
+                                  guia
+                                  Valor       total
+                                  previsto    para
+                 Valor total
+                                  pagamento
+      30         liberado na                        Double (9,2)        SIM
+                                  pela operadora
+                 guia
+                                  nesta guia sem
+                                  impostos
+                                  Valor       total
+                 Valor total      glosada     pela
+      31                                            Double (9,2)        SIM
+                 glosa na guia    operadora     na
+                                  guia
+                                  Código        de
+                                  glosa de guia (
+                 Código Glosa
+      32                          N valores para String (2)             NÃO
+                 Guia
+                                  um       mesmo
+                                  protocolo)
+                                  Valor       total
+                                  usado      como
+                 Valor total
+                                  base para o
+      33         processado na                      Double (9,2)        SIM
+                                  processamento
+                 fatura
+                                  de valores na
+                                  fatura
+                                  Valor       total
+                                  previsto    para
+                 Valor total
+                                  pagamento
+      34         liberado na                        Double (9,2)        SIM
+                                  pela operadora
+                 fatura
+                                  na fatura sem
+                                  impostos
+                                  Valor       total
+                 Valor total
+                                  glosado     pela
+      35         glosado na                         Double (9,2)        SIM
+                                  operadora     no
+                 fatura
+                                  lote
+                                  Valor       total
+                                  usado      como
+                 Valor total
+                                  base para o
+      36         processado no                      Double (9,2)        SIM
+                                  processamento
+                 lote
+                                  de valores da
+                                  fatura
+                                  Valor       total
+                                  liberado    para
+                 Valor total      pagamento
+      37                                            Double (9,2)        SIM
+                 liberado no lote pela operadora
+                                  no lote sem
+                                  impostos
+                                  Valor       total
+                 Valor total      glosada     pela
+      38                                            Double (9,2)        SIM
+                 glosa no lote    operadora     no
+                                  lote
+
+
+
+
+Padrão TISS – versão 2.0                                           Página 41 - 41
+2.2. Demonstrativo de Pagamento
+
+
+
+
+Padrão TISS – versão 2.0          Página 42 - 42
+                                                    DEMONSTRATIVO DE PAGAMENTO
+
+  1.Registro ANS     2. Nome da operadora                             3.CNPJ operadora        4.Número do           5.Data emissão do
+                                                                                              demonstrativo         demonstrativo
+
+  Dados do prestador
+  6. Código                7. Nome                                                                                   8. Código CNES
+  Prestador/CNPJ/CPF
+  Dados do pagamento
+  9.Data do pagamento      10.Forma de Pagamento                                 11. Banco    12. Agência   13.Número da conta/Cheque
+                             Crédito em Conta       Carteira   Boleto Bancário
+
+  Dados do Resumo
+  14. Número 15.Número do        16.Data de    17. Número do 18. Valor               19. Valor processado 20.Valor      21.Valor da
+  da fatura  Lote                envio do lote protocolo     informado (R$)          (R$)                 liberado (R$) glosa (R$)
+
+
+
+
+  Total geral 22.Total geral valor informado (R$)     23.Total geral valor processado    24.Total geral valor     25.Total geral glosa
+                                                     (R$)                                liberado (R$)           (R$)
+
+
+
+  26. Total Valor
+  27. Demais descontos
+
+
+
+
+  28. Total Valor Liberado
+
+Padrão TISS – versão 2.0                                            Página 44 - 44
+2.2.1. Legenda de Demonstrativo de Pagamento
+
+ Núm. do                                                Formato /
+              Nome do campo           Descrição                         Obrigatório
+  Campo                                                 Tamanho
+Dados da operadora
+            Registro ANS           Registro      da  String (6)             SIM
+    1                              operadora     na
+                                   ANS
+               Nome da operadora   Nome          da String (70)             SIM
+      2
+                                   operadora
+               CNPJ operadora      Número CNPJ da
+      3                                              String (14)            SIM
+                                   operadora
+               Número do           Número
+      4        demonstrativo       identificador do String (12)             SIM
+                                   demonstrativo
+               Data emissão do     Data de emissão
+      5        demonstrativo       do               DD/MM/AAAA              SIM
+                                   demonstrativo
+Dados do prestador
+            Código                 Código
+            Prestador/CNPJ/CPF     identificador do
+                                   prestador      na
+      6                            operadora      ou    String (14)         SIM
+                                   identificador de
+                                   pessoa física ou
+                                   pessoa jurídica
+               Nome do Prestador   Nome           do
+      7                                                 String (70)         SIM
+                                   prestador
+                                   Código         do
+                                   Cadastro                               SIM, se
+      8        Código CNES         Nacional        de   String (7)       prestador
+                                   estabelecimentos                      hospitalar
+                                   de saúde
+Dados do pagamento
+                                   Data          para
+      9        Data do pagamento   previsão        do DD/MM/AAAA            SIM
+                                   pagamento
+                                   Indicador       da
+                                   forma     que    o
+                                   pagamento       se
+               Forma de            realizará.      1-
+     10                                                Integer (1)          SIM
+               pagamento           Crédito em conta
+                                   2- Carteira
+                                   3- Boleto
+                                   bancário
+                                   Código
+                                   identificador do
+     11        Banco               banco no qual String (10)                NÃO
+                                   prestador
+                                   receberá a fatura
+                                   Código          da
+                                   agência na qual
+     12        Agência                                 String (10)          NÃO
+                                   o        prestador
+                                   receberá a fatura
+     13        Número da conta /   Número da conta String (20)              NÃO
+
+Padrão TISS – versão 2.0                                              Página 45 - 45
+               Cheque                corrente na qual
+                                     o       prestador
+                                     receberá        a
+                                     fatura. No caso
+                                     de pagamentos
+                                     em        cheque
+                                     informar número
+                                     do mesmo.
+Dados do resumo
+                                   Número            do
+     14        Número da fatura                           String (12)         NÃO
+                                   documento fiscal
+                                   Número
+                                   identificador do
+                                   lote. O lote é um
+                                   número          que
+                                   identifica       um
+                                   conjunto          de
+     15        Número do Lote                             String (12)         SIM
+                                   guias     para     o
+                                   prestador,
+                                   enviado através
+                                   das mensagens
+                                   eletrônicas        à
+                                   Operadora.
+                                   Data de envio do
+               Data de envio do
+     16                            lote            pelo   DD/MM/AAAA          SIM
+               lote
+                                   prestador.
+                                   Número            do
+                                   protocolo         de
+     17        Número do protocolo                        String (12)         SIM
+                                   recebimento do
+                                   lote.
+                                   Valor informado
+     18        Valor informado                            Double (9,2)        SIM
+                                   na fatura
+                                   Valor processado
+     19        Valor processado    na fatura pela         Double (9,2)        SIM
+                                   operadora
+                                   Valor      liberado
+     20        Valor liberado      para pagamento         Double (9,2)        SIM
+                                   pela operadora
+     21        Valor da glosa      Valor da glosa         Double (9,2)        SIM
+               Total geral valor   Total geral valor
+     22                                                   Double (9,2)        SIM
+               informado (R$)      informado (R$)
+               Total geral valor   Total geral valor
+     23                                                   Double (9,2)        SIM
+               processado (R$)     processado (R$)
+               Total geral valor   Total geral valor
+     24                                                   Double (9,2)        SIM
+               liberado (R$)       liberado (R$)
+               Total geral glosa   Total geral glosa
+     25                                                   Double (9,2)        SIM
+               (R$)                (R$)
+                                   Total          valor
+                                   liberado = Geral
+                                   valor liberado –
+                                   total geral de
+     26        Total valor         glosas          sem    Double (9,2)        SIM
+                                   considerar
+                                   valores           de
+                                   impostos           e
+                                   demais
+
+
+
+Padrão TISS – versão 2.0                                                Página 46 - 46
+                                      descontos.
+                                      Demais
+                                      descontos        a
+                                      serem debitados
+                                      do           valor
+                                      liberado.    Itens
+     27        Demais descontos                          Double (9,2)     SIM
+                                      devem        estar
+                                      devidamente
+                                      descritos        e
+                                      valorados linha a
+                                      linha.
+                                      Total        valor
+                                      subtraído       de
+                                      todos           os
+     28        Total valor liberado                      Double (9,2)     SIM
+                                      descontos. Valor
+                                      final           do
+                                      demonstrativo.
+
+
+
+
+Padrão TISS – versão 2.0                                            Página 47 - 47
+3. Tabelas de Domínio
+
+3.1. Tipo de logradouro
+
+    Código                 Descrição
+
+   001        Acesso
+   002        Adro
+   004        Alameda
+   005        Alto
+   007        Atalho
+   008        Avenida
+   009        Balneario
+   010        Belvedere
+   011        Beco
+   012        Bloco
+   013        Bosque
+   014        Boulevard
+   015        Baixa
+   016        Cais
+   017        Caminho
+   019        Chapadão
+   020        Conjunto
+   021        Colônia
+   022        Corredor
+   023        Campo
+   024        Córrego
+   027        Desvio
+   028        Distrito
+   030        Escada
+   031        Estrada
+   032        Estação
+   033        Estádio
+   036        Favela
+   037        Fazenda
+   038        Ferrovia
+   039        Fonte
+   040        Feira
+   043        Forte
+   045        Galeria
+   046        Granja
+   050        Ilha
+   052        Jardim
+   053        Ladeira
+
+
+
+
+Padrão TISS – versão 2.0               Página 48 - 48
+    Código                    Descrição
+
+   054        Largo
+   055        Lagoa
+   056        Loteamento
+   059        Morro
+   060        Monte
+   062        Paralela
+   063        Passeio
+   064        Pátio
+   065        Praça
+   067        Parada
+   070        Praia
+   071        Prolongamento
+   072        Parque
+   073        Passarela
+   074        Passagem
+   076        Ponte
+   077        Quadra
+   079        Quinta
+   081        Rua
+   082        Ramal
+   087        Recanto
+   088        Retiro
+   089        Reta
+   090        Rodovia
+   091        Retorno
+   092        Sítio
+   094        Servidão
+   095        Setor
+   096        Subida
+   097        Trincheira
+   098        Terminal
+   099        Trevo
+   100        Travessa
+   101        Via
+   103        Viaduto
+   104        Vila
+   105        Viela
+   106        Vale
+   108        Zigue-zague
+   452        Trecho
+   453        Vereda
+   465        Artéria
+   468        Elevada
+
+
+
+Padrão TISS – versão 2.0                  Página 49 - 49
+    Código                           Descrição
+
+   469        Porto
+   470        Balão
+   471        Paradouro
+   472        Área
+   473        Jardinete
+   474        Esplanada
+   475        Quintas
+   476        Rotula
+   477        Marina
+   478        Descida
+   479        Circular
+   480        Unidade
+   481        Chácara
+   482        Rampa
+   483        Ponta
+   484        Via de pedestre
+   485        Condomínio
+   486        Habitacional
+   487        Residencial
+   495        Canal
+   496        Buraco
+   497        Módulo
+   498        Estância
+   499        Lago
+   500        Núcleo
+   501        Aeroporto
+   502        Passagem Subterrânea
+   503        Complexo Viário
+   504        Praça de Esportes
+   505        Via Elevada
+   506        Rotatória
+   507        1ª Travessa
+   508        2ª Travessa
+   509        3ª Travessa
+   510        4ª Travessa
+   511        5ª Travessa
+   512        6ª Travessa
+   513        7ª Travessa
+   514        8ª Travessa
+   515        9ª Travessa
+   516        10ª Travessa
+   517        11ª Travessa
+   518        12ª Travessa
+
+
+
+Padrão TISS – versão 2.0                         Página 50 - 50
+    Código                   Descrição
+
+   519        13ª Travessa
+   520        14ª Travessa
+   521        15ª Travessa
+   522        16ª Travessa
+   523        1º Alto
+   524        2º Alto
+   525        3º Alto
+   526        4º Alto
+   527        5º Alto
+   528        1º Beco
+   529        2º Beco
+   530        3º Beco
+   531        4º Beco
+   532        5º Beco
+   533        1ª Paralela
+   534        2ª Paralela
+   535        3ª Paralela
+   536        4ª Paralela
+   537        5ª Paralela
+   538        1ª Subida
+   539        2ª Subida
+   540        3ª Subida
+   541        4ª Subida
+   542        5ª Subida
+   543        6ª Subida
+   544        1ª Vila
+   545        2ª Vila
+   546        3ª Vila
+   547        4ª Vila
+   548        5ª Vila
+   549        1º Parque
+   550        2º Parque
+   551        3º Parque
+   552        1ª Rua
+   553        2ª Rua
+   554        3ª Rua
+   555        4ª Rua
+   556        5ª Rua
+   557        6ª Rua
+   558        7ª Rua
+   559        8ª Rua
+   560        9ª Rua
+   561        10ª Rua
+
+
+
+Padrão TISS – versão 2.0                 Página 51 - 51
+    Código                          Descrição
+
+   562        11ª Rua
+   563        12ª Rua
+   564        Estacionamento
+   565        Vala
+   566        Rua de Pedestre
+   567        Túnel
+   568        Variante
+   569        Rodo Anel
+   570        Travessa Particular
+   571        Calçada
+   572        Via de Acesso
+   573        Entrada Particular
+   645        Acampamento
+   646        Via Expressa
+
+
+
+
+Padrão TISS – versão 2.0                        Página 52 - 52
+3.2. Conselho profissional
+
+
+    Código                                Descrição
+
+   CRAS        Conselho Regional de Assistência Social
+   COREN       Conselho Federal de Enfermagem
+   CRF         Conselho Regional de Farmácia
+   CREFITO     Conselho Regional de Fisioterapia e Terapia Ocupacional
+   CRM         Conselho Regional de Medicina
+   CRV         Conselho Regional de Medicina Veterinária
+   CRN         Conselho Regional de Nutrição
+   CRO         Conselho Regional de Odontologia
+   CRP         Conselho Regional de Psicologia
+   OUT         Outros Conselhos
+
+
+
+
+3.3. Tipo de internação
+
+
+    Código                                Descrição
+         1     Clínica
+         2     Cirúrgica
+         3     Obstétrica
+         4     Pediátrica
+         5     Psiquiátrica
+
+
+
+3.4. Regime de Internação
+
+
+    Código                                Descrição
+         1     Hospitalar
+         2     Hospital–dia
+         3     Domiciliar
+
+
+
+
+Padrão TISS – versão 2.0                                           Página 53 - 53
+3.5. Tabelas
+
+
+    Código                                Descrição
+
+       01      Lista de Procedimentos Médicos AMB 90
+       02      Lista de Procedimentos Médicos AMB 92
+       03      Lista de Procedimentos Médicos AMB 96
+
+       04      Tabela Brasíndice
+       05      Classificação Brasileira Hierarquizada de Procedimentos Médicos
+       06      Tabela CIEFAS-93
+       07      Rol de Procedimentos ANS
+       08      Tabela de Procedimentos Ambulatoriais SUS
+       09      Tabela de Procedimentos Hospitalares SUS
+       10      Tabela SIMPRO
+       11      Tabela TUNEP
+       12      Tabela VRPO
+       13      Tabela de Intercâmbio Sistema Uniodonto
+       00      Outras Tabelas
+       99      Tabela Própria
+
+
+3.6. Tipo de consulta
+
+
+    Código                                Descrição
+       1       Primeira Consulta
+       2       Seguimento
+       3       Pré-natal
+
+
+
+3.7. Tipo de doença
+
+
+    Código                                Descrição
+       A       Aguda
+       C       Crônica
+
+
+
+
+Padrão TISS – versão 2.0                                            Página 54 - 54
+3.8. Unidade de tempo de doença referida pelo paciente
+
+
+    Código                               Descrição
+       A      Anos
+       M      Meses
+       D      Dias
+
+
+
+3.9. Indicador de Acidente
+
+
+    Código                               Descrição
+       0      Acidente ou doença relacionada a trabalho
+       1      Acidente ou doença relacionada a trânsito
+       2      Outros
+
+
+
+3.10. Tipo de atendimento
+
+
+    Código                               Descrição
+       1      Remoção
+       2      Pequena Cirurgia
+       3      Terapias
+       4      Consulta
+       5      Exames
+       6      Atendimento Domiciliar
+       7      SADT Internado
+       8      Quimioterapia
+       9      Radioterapia
+       10     Terapia Renal Substitutiva (TRS)
+
+
+
+
+Padrão TISS – versão 2.0                                  Página 55 - 55
+3.11. Tipo de saída na Guia de SP/SADT
+
+
+    Código                                Descrição
+       1      Retorno
+       2      Retorno SADT
+       3      Referência
+       4      Internação
+       5      Alta
+       6      Óbito
+
+
+
+3.12. Tipo de saída na guia de consulta
+
+    Código                                Descrição
+       1      Retorno
+       2      Retorno SADT
+       3      Referência
+       4      Internação
+       5      Alta
+
+
+
+
+3.13. Tipo de acomodação
+
+
+    Código                                Descrição
+       1      Enfermaria
+       2      Quarto particular
+       3      UTI
+       4      Enfermaria dois leitos
+       5      One Day clinic
+       6      Unidade intermediaria
+       7      Apartamento
+       8      Ambulatório
+       11     Apartamento luxo
+       12     Apartamento Simples
+       13     Apartamento Standard
+       14     Apartamento Suíte
+       15     Apartamento com alojamento conjunto
+       21     Berçário normal
+       22     Berçário patológico / prematuro
+
+
+
+
+Padrão TISS – versão 2.0                              Página 56 - 56
+    Código                                 Descrição
+       23     Berçário patológico com isolamento
+       31     Enfermaria (3 leitos)
+       32     Enfermaria (4 ou mais leitos)
+       33     Enfermaria com alojamento conjunto
+       34     Hospital Dia
+       35     Isolamento
+       41     Quarto Coletivo (2 leitos)
+       42     Quarto privativo
+       43     Quarto com alojamento conjunto
+       51     UTI Adulto
+       52     UTI Pediátrica
+       53     UTI Neo-Natal
+       54     TSI - Unidade de Terapia semi-Intensiva
+       55     Unidade coronariana
+       61     Outras diárias
+
+
+
+
+3.14. Motivo de saída da internação
+
+
+    Código                                 Descrição
+   Em caso de alta
+      10     Para complementação em internação domiciliar
+      11     Curado
+      12     Melhorado
+      13     Inalterado
+      14     A pedido
+      15     Internado para diagnóstico
+      16     Administrativa
+      17     Por indisciplina
+      18     Por evasão
+      19     Para completar tratamento
+   Em caso de permanência
+       21     Por características da doença
+       22     Por intercorrência
+       23     Por motivo social
+       24     Por doença crônica
+       25     Por impossibilidade de convívio sócio-familiar
+
+
+
+Padrão TISS – versão 2.0                                       Página 57 - 57
+   Em caso de transferência
+       31     Para tisiologia
+       32     Para psiquiatria
+       33     Para clínica médica
+       34     Para cirurgia
+       35     Para obstetrícia
+       36     Para berçário
+       37     Para pediatria
+       38     Para isolamento
+       39     Para outros (CTI, radioterapia, etc..)
+   Em caso de óbito com necrópsia
+       41     Até 24 horas da internação
+       43     Ocorreu após 48 horas da internação
+              Óbito de parturiente, com necrópsia, com permanência do recém-
+       44     nascido
+       45     De 24 ate 48h de internação, paciente chegou agônico
+       46     De 24 ate 48h de internação, paciente não chegou agônico
+   Em caso de óbito sem necrópsia
+       51     Nas primeiras 48 horas, chegou agônico
+       52     Nas primeiras 48 horas, não chegou agônico
+       53     Ocorreu após 48 horas de internação
+              Óbito de parturiente, com necrópsia, com permanência do recém-
+       54     nascido
+   Em caso de reoperação
+       61     Em politraumatizado c/menos 24hs da 1ª Cirurgia
+       62     Em politraumatizado 24 a 48hs após 1ª Cirurgia
+       63     Em politraumatizado 48 a 72hs após 1ª Cirurgia
+       64     Em politraumatizado acima 72hs após 1ª Cirurgia
+       65     Em cirurgia de emergência c/menos 24hs após 1ª Cirurgia
+       66     Em cirurgia de emergência 24 a 48hs após 1ª Cirurgia
+       67     Em cirurgia de emergência 48 a 72hs após 1ª Cirurgia
+       68     Em cirurgia emergência acima 72h após 1ª cirurgia
+       69     Alta da parturiente com permanência do recém-nascido
+   Em caso de alta da parturiente com permanência do recém nascido
+              Em caso de alta da parturiente com permanência do recém
+       71
+              nascido
+
+
+
+
+Padrão TISS – versão 2.0                                             Página 58 - 58
+3.15. Óbito em mulher
+
+
+    Código                               Descrição
+       1      Grávida no momento
+       2      Até 42 dias após o termino da gestação
+       3      De 43 dias até 12 meses após o término da gestação
+
+
+3.16. Tipo de Faturamento
+
+
+    Código                               Descrição
+       T      Total
+       P      Parcial
+
+
+
+
+3.17. Via de acesso
+
+
+    Código                               Descrição
+
+       U      Única
+       M      Mesma via
+       D      Diferentes vias
+
+
+3.18. Técnica utilizada
+
+
+    Código                               Descrição
+       C      Convencional
+       V      Videolaparoscopia
+
+
+
+3.19. Posição do profissional na equipe
+
+
+    Código                               Descrição
+       0      Cirurgião
+       1      Primeiro Auxiliar
+       2      Segundo Auxiliar
+       3      Terceiro Auxiliar
+       4      Quarto Auxiliar
+       5      Instrumentador
+       6      Anestesista
+       7      Auxiliar de Anestesista
+       8      Consultor
+
+
+
+Padrão TISS – versão 2.0                                           Página 59 - 59
+       9      Perfusionista
+       10     Pediatra na sala de parto
+       11     Auxiliar SADT
+       12     Clínico
+
+
+
+
+3.20. Faces do dente
+
+
+    Código                                Descrição
+       V      Vestibular
+       L      Lingual
+       M      Mesial
+       D      Distal
+
+
+
+3.21. Status do protocolo
+
+
+    Código                                Descrição
+       1      Recebido
+       2      Em análise
+       3      Liberado para pagamento
+       4      Encerrado sem pagamento
+       5      Analisado e aguardando liberação para o pagamento
+
+
+
+3.22. CBO-S (especialidade)
+
+
+    Código                                Descrição
+   06158      Médico acupunturista
+   06133      Médico alergista/imunologista
+   06114      Médico anatomopatologista
+   06115      Médico anestesista
+   06175      Médico angiologista
+   06116      Médico broncoesofalogista
+   06159      Médico cancerologista
+   06117      Médico cardiologista
+   06120      Médico cirurgião cardiovascular
+   06161      Médico cirurgião de mão
+   06146      Médico cirurgião de cabeça e pescoço
+   06163      Médico cirurgião do aparelho digestivo
+
+
+
+
+Padrão TISS – versão 2.0                                          Página 60 - 60
+   06112      Médico cirurgião pediátrico
+   06180      Médico cirurgião plástico
+   06154      Médico cirurgião torácico
+   06118      Médico cirurgião vascular
+   06110      Médico cirurgião em geral
+   06153      Médico citopatologista
+   06177      Médico de medicina esportiva
+   06113      Médico de perícias médicas
+   06141      Médico de saúde da família
+   06119      Médico dermatologista
+   06122      Médico do trabalho
+   06125      Médico endocrinologista
+   06127      Médico endoscopista
+   06128      Médico fisiatra
+   06123      Médico gastroenterologista
+   06143      Médico geneticista clinico
+   06151      Médico geral comunitário
+   06134      Médico geriatra
+   06132      Médico ginecologista
+   06149      Médico ginecologista / obstetra
+   06136      Médico hansenologista
+   06124      Médico hematologista
+   06148      Médico homeopata
+   06135      Médico hemoterapeuta
+   06144      Médico infectologista
+   06166      Médico intensivista
+   06137      Médico legista
+   06139      Médico mastologista
+   06138      Médico nefrologista
+   06131      Médico neurocirurgião
+   06142      Médico neurologista
+   06126      Médico nuclear
+   06145      Médico obstetra
+   06147      Médico oftalmologista
+   06168      Médico oncologista cirúrgico
+   06129      Médico oncologista clinico
+   06121      Médico oncologista pediátrico
+   06150      Médico ortopedista
+   06152      Médico otorrinolaringologista
+
+
+
+Padrão TISS – versão 2.0                        Página 61 - 61
+   06172      Médico patologista clinico
+   06155      Médico pediatra
+   06164      Médico plantonista
+   06157      Médico pneumotisiologista
+   06160      Médico proctologista
+   06162      Médico psiquiatra
+   06165      Médico radiologista
+   06167      Médico radioterapeuta
+   06130      Médico reumatologista
+   06140      Médico sanitarista
+   06156      Médico ultrasonografista
+   06170      Médico urologista
+   06105      Médico em geral (clinico geral)
+   06190      Outros médicos
+   07915      Acupunturista
+   07310      Assistente social em geral
+   05250      Bacteriologista
+   05110      Biologista em geral (biólogo biomédico)
+   05230      Bioquímico
+   06340      Cirurgião dentista (endodontia)
+   06350      Cirurgião dentista (patologia bucal)
+   06355      Cirurgião dentista (pediatria)
+   06370      Cirurgião dentista (periodontia)
+   06360      Cirurgião dentista (prótese)
+   06365      Cirurgião dentista (radiologia)
+   06330      Cirurgião dentista (saúde pública)
+   06335      Cirurgião dentista (traumatologia buco maxilo facial)
+   06345      Cirurgião dentista (ortodontia)
+   06310      Cirurgião dentista em geral
+   07110      Enfermeiro do PACS
+   07112      Enfermeiro do PSF
+   07155      Enfermeiro de terapia intensiva
+   07150      Enfermeiro de centro cirúrgico
+   07140      Enfermeiro do trabalho
+   07110      Enfermeiro em geral
+   07145      Enfermeiro obstetra
+   07165      Enfermeiro psiquiátrico
+   07160      Enfermeiro peuricultor e pediátrico
+   07130      Enfermeiro sanitarista
+
+
+
+Padrão TISS – versão 2.0                                              Página 62 - 62
+   06710       Farmacêutico em geral
+   05270       Farmacologista
+   01280       Físico nuclear
+   07620       Fisioterapeuta
+   07914       Foniatra
+   07925       Fonoaudiólogo
+   06510       Médico veterinário em geral
+   06810       Nutricionista em geral
+   07525       Ortoptista
+   07530       Ótico
+   05290       Outros bacteriologistas e trabalhadores assemelhados
+   04945       Pedagogo
+   07410       Psicólogo em geral
+   07550       Técnico em orientação e mobilidade de cegos e deficientes visuais
+   07630       Terapeuta ocupacional
+   07690       Terapeutas em geral (outros terapeutas)
+   06540       Zootecnista
+   19998       Outros profissionais de nível superior
+   31120       Agente Administrativo
+
+
+
+3.23. Glosas
+
+
+    Código                                   Descrição
+       1       Valor total do Protocolo diferente do valor total
+       2       Quantidade de guias informada no protocolo diferente das
+               cadastradas
+       3       Código do prestador inválido
+       4       Tipo de guia inválido
+       5       Protocolo é de reapresentação
+       6       Protocolo não é de reapresentação
+       7       Número do Cartão Inválido
+       8       Número do Cartão Nacional de Saúde Inválido
+       9       Número do CNES inválido
+       10      CBO Saúde inválido
+       11      Código do tipo da guia incompatível com o número da guia
+       12      Não existe o número da guia principal informado
+       13      Atendimento anterior à inclusão do credenciado
+       14      Atendimento após o desligamento do credenciado
+       15      Atendimento anterior à inclusão do Beneficiário
+
+
+
+Padrão TISS – versão 2.0                                              Página 63 - 63
+       16     Atendimento após o desligamento do Beneficiário
+       17     Tipo de doença invalida
+       18     Tempo de evolução da doença inválido
+       19     Indicador de Acidente Inválido
+       20     Tipo de consulta inválido
+
+
+
+
+Padrão TISS – versão 2.0                                        Página 64 - 64
+

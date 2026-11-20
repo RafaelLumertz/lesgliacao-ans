@@ -1,0 +1,25 @@
+                                       ANEXO
+
+Instruções para o preenchimento do formulário destinado ao recolhimento à conta da
+Agência Nacional de Saúde Suplementar, das receitas de que trata o Art. 17, inciso III,
+da Lei n.º 9.961, de 28 de janeiro de 2000. (PREENCHER À MÁQUINA OU EM
+LETRA DE FORMA)
+
+1 - no campo "Agência (pref./dv)": 3602-1;
+
+2 - no campo "N .o da conta/dv": 170.500-8;
+
+3 - no campo "Nome do cliente": A sigla "ANS", e o n.º do Processo ou da Notificação
+a que se refere o Recolhimento;
+
+4 - no campo "Em dinheiro - R$": importância a ser recolhida, caso o depósito seja feito
+em dinheiro;
+
+5 - no campo "Em cheques - R$": importância a ser recolhida, caso o depósito seja feito
+em cheque;
+
+6 - no campo "Depositado por": empresa, o CNPJ e o endereço e telefone;
+
+7 - no campo            "Depósito    identificado   (código-dv)/Finalidade,    registrar:
+25300336213301-9.
+

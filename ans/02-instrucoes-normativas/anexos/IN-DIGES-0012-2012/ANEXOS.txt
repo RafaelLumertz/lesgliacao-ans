@@ -1,0 +1,168 @@
+Pesquisa de Satisfação dos Beneficiários
+
+
+                                                   ANEXO I
+                                              QUESTIONÁRIO
+
+Código da Operadora:
+
+CCO do Beneficiário:                              Tel do Beneficiário:   ( )    -
+
+
+
+Bom dia / Boa tarde / Boa noite!
+Poderia falar com Sr(a) __________________________________
+                               (nome do beneficiário)
+
+
+
+Meu nome é __________________, estou a serviço da ______________________. Atendendo a
+                                                                         (nome da operadora)
+
+uma determinação da Agência Nacional de Saúde Suplementar – órgão que regula os planos de
+Saúde, estamos realizando uma pesquisa para avaliar seu grau de satisfação com a
+_______________________. Esta ligação está sendo gravada e asseguramos que os seus dados
+     (nome da operadora)
+permanecerão em sigilo absoluto. O senhor (a) concorda em participar? A pesquisa é rápida, serão
+menos de 5 minutos.
+
+
+1. O(a) Sr(a) utilizou seu plano de saúde nos últimos doze meses?
+    ( ) Sim                                                ( ) Não sabe/Não quis responder (NÃO LER)
+    ( ) Não
+
+
+
+Para as próximas perguntas, dê uma nota de 1 a 5, considerando que 1 é a nota mínima e 5 a nota máxima.
+Qual o seu grau de satisfação:
+
+
+2. Com o preço do seu plano em relação aos serviços oferecidos, ou seja,                 1     2   3   4   5   NS
+
+    com o custo-benefício:
+
+3. Com as opções de rede de atendimento, como hospitais, consultórios                    1     2   3   4   5   NS
+
+    e clínicas oferecidas pelo seu plano:
+
+4. Com a qualidade dos serviços prestados pelos hospitais, consultórios e                1     2   3   4   5   NS
+    clínicas credenciadas ao seu plano:
+
+5. Os prazos para autorização de exames, consultas e outros procedimentos                1     2   3   4   5   NS
+    cobertos pelo seu plano:
+
+6. A facilidade em se comunicar com sua operadora pelos canais de                        1     2   3   4   5   NS
+    atendimento que ela oferece, como, por exemplo, telefone e e-mail.
+7. Ainda na escala de “1” a “5”, atribua uma nota para sua satisfação geral com seu plano de saúde:
+
+                                        1     2   3   4   5    NS
+
+
+
+
+Para as próximas perguntas, responda “SIM” ou “NÃO”:
+
+
+8. Os serviços oferecidos pelo seu plano superaram suas expectativas?
+   ( ) Sim                                            ( ) Não sabe/Não quis responder (NÃO LER)
+   ( ) Não
+
+
+9. O(a) Sr(a) recomendaria seu plano de saúde?
+   ( ) Sim                                            ( ) Não sabe/Não quis responder (NÃO LER)
+   ( ) Não
+
+
+10. Como você classifica seu estado de saúde atual:
+    ( ) Muito ruim                                    ( ) Não sabe/Não quis responder (NÃO LER)
+    ( ) Ruim
+    ( ) Regular
+    ( ) Bom
+    ( ) Muito bom
+
+
+11. Qual é a sua escolaridade?
+    ( ) ensino fundamental (antigo 1º grau)           ( ) Não sabe/Não quis responder (NÃO LER)
+    ( ) ensino médio (antigo 2º grau)
+    ( ) ensino superior
+
+
+
+
+                          Muito obrigado! Agradecemos a sua colaboração.
+                                                  ANEXO II
+
+
+               INDICADOR DA DIMENSÃO SATISFAÇÃO DE BENEFICIÁRIOS
+                       PESQUISA DE SATISFAÇÃO DOS BENEFICIÁRIOS
+
+
+
+
+Conceituação
+
+
+O indicador expressa o grau de satisfação dos beneficiários de uma operadora, obtido através
+dos questionários da Pesquisa de Satisfação promovida pela ANS.
+
+
+Método de Cálculo
+
+
+                                              Pontuação obtida na pesquisa
+Pesquisa de Satisfação dos Beneficiários =
+                                             Pontuação máxima da pesquisa
+
+
+Definição de termos utilizados no Indicador
+
+
+Pontuação obtida na pesquisa: Somatório da pontuação obtida através dos questionários.
+
+
+Pontuação máxima da pesquisa: Como a pontuação máxima de cada questionário é 1 (um)
+ponto, a pontuação máxima da pesquisa corresponde ao número de beneficiários da amostra,
+estabelecido de acordo com o porte da operadora.
+
+
+
+
+Interpretação do Indicador
+O indicador tem o objetivo de aferir diretamente a satisfação dos beneficiários com suas
+operadoras de plano de saúde.
+
+
+
+
+Parâmetros e Dados Estatísticos
+É recomendável que a pontuação obtida pelo indicador seja utilizada para comparações entre
+operadoras de mesmo segmento e porte.
+
+
+
+
+Meta
+100% de beneficiários satisfeitos, ou seja, V = 1
+Pontuação
+
+
+
+             Resultado obtido pela operadora                            Pontuação
+                                                                               Peso
+         Pesquisa de satisfação de beneficiários             Valor de 0 a 1
+                                                                                3
+
+          Não realizou a pesquisa em conformidade                   0           0
+
+               Situado no intervalo entre 0 e 1                 0<V<1          3xV
+
+                        Resultado = 1                               1           3
+
+
+Onde, V é o valor obtido no indicador.
+
+
+Fonte de Dados
+Pesquisa de Satisfação dos Beneficiários, estabelecida na Instrução Normativa Nº 12 de Junho
+de 2012, da Diretoria de Gestão – DIGES.
+

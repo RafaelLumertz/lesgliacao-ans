@@ -1,0 +1,65 @@
+Anexo II-B - Dados Estatísticos da Nota Técnica de Registro de Produto - Total
+CNPJ da Operadora:
+Período de Análise: ____/_______ a ____/_______
+Abrangência do preço do produto : _____________________
+Região: _______________
+
+
+
+TABELA DE TOTAIS
+
+
+        N.º de Linha                                             Dados do Plano                                                                                                            Total dos Itens de Despesa
+
+                                                                                            Faixas Etárias
+
+
+                                                                                                                                                                                                                                                                     Despesa Assistêncial
+                                                                                                                                                                                               Recuperação de
+                                                                                                                    Despesa Assistencial   Recuperação de Co-                                                        Despesa Assistencial Margem de Segurança      Líquida por Exposto com
+                                   Nome do Plano         Nº de Registro do Plano                                                                                  Recuperação de Seguro        Resseguro e Co-
+                                                                                                                       por Exposto            participação                                                           Líquida por Exposto Estatística por Exposto    Margem de Segurança
+                                                                                   Idade Inicial      Idade Final                                                                                  seguro
+                                                                                                                                                                                                                                                                    Estatística por Exposto
+
+
+
+
+                                         A                         B                    C                    D               E                     F                        G                         H                 I=E-F-G-H                   J                     K=I+J
+             1
+             2
+             3
+             4
+             5
+             6
+             7
+
+
+
+
+        N.º de Linha                                             Dados do Plano                                                                                                         Total dos Itens de Despesa                                                          Lucro                         Mensalidade
+
+                                                                                            Faixas Etárias                                              Despesas não Assistenciais por Beneficiário
+
+                                                                                                                                               Demais Despesas da Carteira de Planos
+                                                                                                                    N.º de Beneficiários                                                                             Prestação de outros
+                                                                                                                                                                                                                                            Despesa Total por      Valor da Margem de Lucro            Valor Comercial da
+                                   Nome do Plano         Nº de Registro do Plano                                                                                                             Despesas Adminis-          Serviços por                                                          Ajuste
+                                                                                                                                                                                                                                              Beneficiário              por Beneficiário                  Mensalidade
+                                                                                   Idade Inicial      Idade Final                             Despesas de                                       trativas por            Beneficiário
+                                                                                                                                                               Outras Despesas da Carteira
+                                                                                                                                           Comercialização por                                  Beneficiário
+                                                                                                                                                                de Planos por Beneficiário
+                                                                                                                                              Beneficiário
+
+
+                                         A                         B                    C                    D               L                     M                        N                         O                       P            Q=K+M+N+O+P                        R                 S        T=Q+R+S
+
+             1
+             2
+             3
+             4
+             5
+             6
+             7
+

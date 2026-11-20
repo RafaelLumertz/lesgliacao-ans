@@ -1,0 +1,2088 @@
+                                          ANEXOS
+
+ANEXO I - Calendário de eventos de encaminhamento de dados cadastrais de beneficiários e
+de retirada de arquivos de devolução e de conferência.
+
+ANEXO II - Orientações para o encaminhamento de informações e transmissão de arquivos
+de dados do cadastro de beneficiários:
+
+2.1. Orientações para obtenção de senhas individuais;
+
+2.2. Orientações para obtenção e instalação do aplicativo do Sistema de Informações de
+Beneficiários – SIB;
+
+2.3. Orientações para utilização do aplicativo do Sistema de Informações de Beneficiários –
+SIB;
+
+2.4. Orientações para a retirada dos arquivos de devolução e solicitação e retirada do arquivo
+de conferência;
+
+2.5. Orientações para verificação da base de dados do SIB
+
+ANEXO III - Formato e descrição dos arquivos de atualização, de devolução e de
+conferência:
+
+3.1. Do arquivo de transmissão com o registro de dados de beneficiários;
+
+3.2. Do arquivo de devolução de registro de dados de beneficiários;
+
+3.3. Do arquivo de conferência de registro de dados de beneficiários
+
+ANEXO IV – Glossário.
+
+
+
+
+                                             -1-
+                                             ANEXO I
+Calendário de eventos de encaminhamento de dados cadastrais de beneficiários e de
+retirada de arquivos de devolução e conferência
+
+
+EVENTOS                                             PRAZO
+
+1. Primeiro encaminhamento do arquivo de atualização Até 60 dias após concedido o registro da operadora
+                                                     pela ANS.
+
+2. Encaminhamento mensal dos arquivos de Até o dia 10 de cada mês.
+atualização referentes aos eventos (alterações,
+correções, inclusões, reinclusões ou exclusões)
+ocorridos ou não até o último dia do mês
+imediatamente anterior.
+
+3. Retirada mensal do arquivo de devolução          Imediatamente, em caso de o arquivo de atualização
+                                                    de dados ser rejeitado por não obedecer à formatação
+                                                    definida no Anexo 3 desta Instrução Normativa
+                                                    (arquivo com extensão .TXT).
+                                                    Entre o dia 20 e o último dia de cada mês, em caso
+                                                    de o arquivo de atualização estar conforme com a
+                                                    formatação definida no Anexo III desta Instrução
+                                                    Normativa (arquivos com extensões .TXT e .RER).
+                                                    Nota: Ficarão disponíveis às operadoras as três últimas
+                                                    edições dos arquivos de devolução.
+
+4. Retirada do arquivo de conferência, quando Até o terceiro dia útil após a solicitação.
+solicitado pela operadora.
+                                              Recomenda-se não proceder solicitação no período de
+                                              11 a 20 de cada mês.
+
+
+
+                                             ANEXO II
+Orientações para o encaminhamento de informações e transmissão de arquivos de dados
+do cadastro de beneficiários
+2.1. Orientações para obtenção de senhas individuais
+Para obter a senha individual a operadora deverá encaminhar solicitação formal por escrito à
+Diretoria de Desenvolvimento Setorial da ANS – DIDES/ANS, com identificação da
+operadora pela razão social, pelos números do CNPJ e do registro junto à ANS, com endereço
+completo e assinada pelo representante legal da operadora junto à ANS.
+A DIDES/ANS, no prazo de 3 (três) dias úteis após protocolada a solicitação, enviará ao
+representante legal, por Aviso de Recebimento, a senha.
+Em caso de perda ou necessidade de alteração da senha, solicitar nova senha, procedendo de
+acordo com as orientações acima.
+2.2. Orientações para obtenção e instalação do aplicativo do Sistema de Informações de
+Beneficiários – SIB
+O arquivo contendo o aplicativo do SIB encontra-se disponível no endereço
+http://www.ans.gov.br na Internet. Para proceder à instalação do aplicativo do SIB, a
+operadora deverá cumprir os seguintes passos:
+                                                 -2-
+ baixar os arquivos que contém o aplicativo do SIB – programa INSTALA_SIB.ZIP e,
+sendo a primeira instalação, os arquivos ADO também deverão ser baixados;
+ descompactar os arquivos; e
+ executar o programa INSTALA_SIB.EXE no diretório onde foi baixado o arquivo. Esse
+programa realizará automaticamente as seguintes rotinas:
+−criação de um diretório ARQUIVO DE PROGRAMAS\ANS\SIB, no local de destino; e
+−instalação dos programas de digitação de dados, geração e transmissão de arquivos e outros
+programas auxiliares, no diretório criado.
+O aplicativo do SIB poderá ser utilizado logo após a sua instalação.
+2.3. Orientações para utilização do aplicativo do Sistema de Informações de
+Beneficiários – SIB
+O aplicativo do SIB é constituído por quatro funções principais:
+ Cadastro – para a digitação e gravação de dados de beneficiários da operadora, bem como
+   para definir a operadora que vai atualizar os dados de beneficiários no aplicativo do SIB.
+ Relatório – para a emissão de relatórios informativos dos dados dos beneficiários da
+   operadora;
+ Conclusão – para a geração, validação, transmissão de arquivos de dados e retirada de
+    arquivos da ANS. É de uso obrigatório para validação, transmissão de arquivos e retirada de
+    arquivos e
+ Utilitários – para adequar os dados dos beneficiários armazenados no aplicativo para o
+    aplicativo do SIB versão 2.0 e permitir o reprocessamento de atualização de dados de
+    competências anteriores. Permite também acesso às funções de Calendário e de Caculadora
+    do sistema Windows.
+2.3.1. A função Cadastro poderá ser utilizada pela operadora para digitar e gravar os dados
+dos beneficiários e as correspondentes atualizações cadastrais, quando for o caso, dispensado
+o seu uso para todas as operadoras que utilizarem aplicativos próprios de cadastramento.
+Inicialmente deve-se definir a operadora que irá fornecer e manipular os dados de
+beneficiários, conforme estabelecido nesta Instrução Normativa. Se houver mais de uma
+operadora utilizando o aplicativo do SIB, este trata a movimentação de dados e as respectivas
+bases de dados distintamente.
+Para utilizar a função Cadastro para a digitação e gravação de dados de beneficiários, a
+operadora (somente para aquelas que não utilizam aplicativos próprios de cadastramento)
+deverá selecionar a subfunção Cadastrar Beneficiário, e informar:
+ código do beneficiário na operadora;
+ tipo de vínculo do beneficiário - titular ou vinculado (dependente, agregado ou outra
+   forma de vínculo);
+ opção de atualização cadastral:
+ inclusão – para novos registros de dados cadastrais de beneficiários;
+ alteração – para as correções, e alterações de dados de beneficiários já cadastrados;
+ cancelamento – para o cancelamento ou suspensão dos registros de dados de beneficiários
+   já cadastrados;
+                                              -3-
+ reinclusão – para reincluir registros de dados previamente cancelado (preenchimento da
+   data de reinclusão de um registro de dados de beneficiário suspenso ou cancelado);
+ exclusão – para excluir registros de dados de beneficiário cadastrado indevidamente na base
+   de dados da operadora e que ainda não tenha sido transmitido à ANS. Neste caso, o
+   registro será eliminado da base de dados da operadora.
+ demais dados cadastrais do beneficiário, de acordo com o formato e descrição especificados
+   no Anexo III desta Instrução Normativa.
+Após a digitação dos dados, selecionar a subfunção Verificar Preenchimento dos Campos para
+realizar crítica dos dados digitados. O aplicativo do SIB apresentará mensagens relativas aos
+erros de preenchimento dos campos que porventura tenham ocorrido para que a operadora
+proceda as correções correspondentes. Findada a verificação, os dados serão automaticamente
+gravados no banco de dados (diretório ARQUIVO DE PROGRAMAS/ANS/SIB) e se
+concluirá a utilização da função Cadastro.
+2.3.2. Para utilizar a função Relatório a operadora deverá selecionar o relatório desejado e
+executar as opções disponíveis.
+2.3.3. Para utilizar a função Conclusão a operadora deverá proceder:
+A – Geração de arquivo de dados para a ANS
+Esta subfunção é necessária para a transmissão de arquivos de dados e é obrigatória para todas
+as operadoras que utilizarem a função Cadastro, dispensado o seu uso para as operadoras que
+utilizarem aplicativos próprios de cadastramento.
+Para gerar um arquivo de dados:
+ selecionar a subfunção Geração de arquivo de dados para a ANS;
+ optar por Operadora e
+ confirmar a geração do arquivo.
+O aplicativo do SIB identificará automaticamente no banco de dados (diretório ARQUIVO
+DE PROGRAMAS/ANS/SIB) se há ou não códigos de beneficiários, ou de atualizações
+cadastrais ainda não transmitidos à ANS.
+Quando não houver atualização cadastral, código de beneficiário cadastrado, o aplicativo do
+SIB disponibilizará mensagem informando uma dessas ocorrências e solicitará à operadora a
+confirmação da ocorrência.
+Findada a identificação será gerado automaticamente um arquivo de dados para transmissão
+(arquivo de atualização), em formato padronizado de acordo com as especificações descritas
+no Anexo 3 desta Instrução Normativa, a ser validado e posteriormente transmitido à ANS.
+Este arquivo será gravado em diretório a ser criado pela operadora para este fim.
+O arquivo de dados para transmissão (arquivo de atualização) será gerado em formato texto
+com a extensão.SIB, identificado por XXXXXXAAAAMMDDHHMMSS.SIB onde
+XXXXXX corresponderá às 6 (seis) posições do número de registro da operadora na ANS, e
+AAAA o ano, MM o mês, DD o dia, HH a hora, MM os minutos e SS os segundos relativos
+à data/horário da geração do arquivo.
+O formato padronizado e a identificação correspondente do arquivo de atualização deverão
+ser obrigatoriamente adotados por todas as operadoras que não utilizarem as funções Cadastro
+e Geração de arquivo de dados para a ANS do aplicativo do SIB, para fins de validação e
+transmissão do arquivo de dados para a ANS.
+
+                                             -4-
+Os arquivos enviados à ANS deve ter identificação unívoca sob pena de ser rejeitado e
+considerado como não envio da informação.
+B – Validação do arquivo TXT
+A subfunção Validação do arquivo TXT é de uso obrigatório para todas as operadoras e é
+condição para a transmissão de dados para a ANS.
+Para utilizá-la, a operadora deverá proceder:
+ selecionar a subfunção Validação do arquivo TXT;
+ indicar qual o arquivo de dados a ser validado (arquivo de atualização) ou apontar para o
+   arquivo de dados criado na aplicação da subfunção Geração de arquivo de dados para a
+   ANS e
+ confirmar a validação do arquivo.
+Se não houver erros no processo de validação, o aplicativo emitirá mensagem indicando que o
+arquivo está pronto para ser submetido à subfunção Transmitir para ANS. Se houver erros no
+processo de validação, o aplicativo emitirá relatório com os erros identificados, conforme
+mensagem correspondente, que devem ser acertados.
+C - Transmitir para ANS
+Essa subfunção é de uso obrigatório para todas as operadoras. Só poderão ser transmitidos à
+ANS arquivos de dados submetidos com sucesso à subfunção Validação do arquivo TXT.
+Para utilizá-la, a operadora deverá proceder:
+ selecionar a subfunção Transmitir para ANS;
+ digitar a SENHA individual;
+ indicar, no diretório criado anteriormente, o arquivo de atualização validado a ser
+   transmitido para a ANS e
+ confirmar a transmissão do arquivo.
+Finalizada a transmissão, será disponibilizado mensagem com informações sobre a data e o
+tamanho do arquivo recebido pela ANS.
+O formato e o conteúdo do arquivo serão submetidos à crítica na ANS.
+Ressalta-se, que somente após a operadora retirar o arquivo de devolução
+correspondente ao arquivo de atualização, conforme calendário definido no Anexo I
+desta Instrução Normativa, é que o processo de atualização mensal dos dados de
+beneficiários se cumprirá legalmente.
+2.3.4. Para utilizar a função Utilitários:
+2.3.4.1 – Adequação da Base de Dados
+As operadoras que utilizam o aplicativo SIB até a versão 1.011 deverão realizar a adequação
+dos dados dos beneficiários armazenados na base de dados desse aplicativo para a base de
+dados do aplicativo do SIB versão 2.0 ou superior.
+Para realizar a adequação, a operadora deverá proceder:
+ selecionar a subfunção Adequação da Base de Dados;
+ confirmar o início da adequação e executar a subfunção.
+
+
+                                                -5-
+A função Utilitários procederá a gravação da nova base de dados validada no banco de dados
+do aplicativo do SIB (diretório ARQUIVO DE PROGRAMA ANS\SIB.
+2.3.4.2 – Reprocessamento de Competências Anteriores
+As operadoras podem utilizar o aplicativo do SIB para reenviar registros de dados de
+beneficiários que tenham sido anteriormente incluídos e foram rejeitados pela ANS, por
+inconsistência de formato ou de conteúdo.
+Para realizar o reprocessamento, a operadora deverá proceder:
+ selecionar a subfunção Reprocessamento de Competências Anteriores;
+ confirmar o início da adequação e executar a subfunção, selecionando o período ou os
+   beneficiários.
+2.4 Orientações para a retirada dos arquivos de devolução e solicitação e retirada do
+arquivo de conferência
+Os arquivos de devolução e de conferência serão fornecidos em formato texto pela ANS.
+O arquivo de devolução terá o mesmo nome do arquivo de atualização transmitido à ANS,
+sendo composto por dois grupos de informação: um contendo os registros de dados de
+beneficiários que foram rejeitados pela crítica do SIB realizada pela ANS, seguido da
+extensão .RER, o outro contém a relação de erros de formatação do arquivo ou dos campos
+no registro de dados, seguido da extensão.TXT.
+O arquivo de conferência será identificado por ArqConfXXXXXXMMAAAA.zip, onde
+XXXXXX corresponderá às 6 (seis) posições do número de registro da operadora na ANS,
+MM o mês e AAAA o ano, relativos ao mês e ano da geração do arquivo.
+O arquivo de conferência somente será disponibilizado após solicitado pela operadora, por
+meio da sub função Solicitar Arquivos à ANS. Visando facilitar solicitação de arquivos de
+dados de outros sistemas, as operadoras poderão utilizar-se desse mesmo aplicativo. .
+Para solicitar o arquivo de conferência ou arquivos de dados de outros sistemas, a operadora
+deve proceder:
+ utilizar a função Conclusão e a subfunção Solicitar Arquivos à ANS ;
+ realizar a solicitação;
+ automaticamente será emitido um protocolo de solicitação correspondente.
+O prazo de execução e de liberação do arquivo de conferência será de 03 (três) dias úteis após
+a solicitação, respeitando o calendário definido no item 4 do anexo I.
+Para retirar o arquivo de conferência, a operadora deverá proceder:
+ acessar a área de dados da ANS por meio do aplicativo SIB, utilizando a função Conclusão
+   e a subfunção Receber Arquivos da ANS;
+ digitar a SENHA individual;
+ selecionar o arquivo de escolha e
+ baixar o arquivo escolhido no diretório desejado.
+Para obter os arquivos de devolução, a operadora deverá proceder:
+ acessar a área de dados da ANS por meio do aplicativo SIB, utilizando a função Conclusão
+   e a subfunção Receber Arquivos da ANS;
+
+                                             -6-
+ digitar a SENHA individual;
+ selecionar o arquivo de escolha e
+ baixar o arquivo escolhido no diretório desejado.
+O ANEXO 3 desta Instrução Normativa define o formato e a descrição dos campos dos
+arquivos de devolução e de conferência.
+2.5 Orientações para verificação da base de dados do SIB
+Essa orientação se aplica somente às operadoras que utilizam o SIB também como cadastro.
+Permite a operadora realizar a comparação entre o arquivo de conferência fornecido pela ANS
+e a base de dados da operadora.
+Para realizar a verificação a operadora deverá retirar o arquivo de conferência conforme
+orientado no item 2.4 acima e proceder:
+ acessar a função do aplicativo do SIB Utilitários/Verificação da Base de Dados do SIB;
+ informar o diretório de localização do arquivo de conferência;
+ clicar no botão de execução da função.
+O sistema realizará o batimento entre as bases de dados e fornecerá relatório com as
+divergências encontradas. A operadora deverá proceder as correções necessárias na próxima
+competência.
+                                            ANEXO III
+Formato e descrição dos arquivos de atualização, de devolução e de conferência
+Contém as especificações do formato e descrição dos campos dos arquivos de dados de
+beneficiários, de devolução e de conferência relativas às funções do aplicativo do SIB.
+3.1. Arquivo de Transmissão com Registro de Dados de Beneficiários - detalhamento do
+formato
+3.1.1 Linha do tipo - Header do Arquivo de transmissão com registros de dados de
+beneficiários
+Tamanho do registro de header = 374 bytes
+
+                        Campo                              Tipo       Tamanho       Posição
+
+01. Número seqüencial da linha dentro do arquivo         Numérico       07         001 a 007
+Valor: "0000001"
+
+02. Indicador de registro tipo header                    Numérico       01         008 a 008
+Valor: "0"
+
+03. Código do sistema, preencher com o valor "BENEF"     Alfabético     05         009 a 013
+
+04. Data da geração do arquivo, no formato               Numérico       08         014 a 021
+AAAAMMDD, onde AAAA é o ano, MM o mês e DD o
+dia da geração do arquivo.
+
+05. Número de código da operadora na ANS com o           Numérico       06         022 a 027
+dígito verificador
+
+
+
+                                                   -7-
+        06. CNPJ da operadora                                           Numérico             14          028 a 041
+
+        07. Número de seqüência do arquivo que está sendo               Numérico             07          042 a 048
+        enviado à ANS
+
+        08. Reservado para a ANS; a versão do programa será           Alfanumérico           03          049 a 051
+        colocada pelo programa de crítica. Preencher com o valor
+                                                                                       (valor fixo)
+        fixo “V01”
+
+        09. Identificação da modalidade da operadora                  Alfanumérico           01          052 a 052
+        Valores: “O” – Operadoras com outra classificação
+
+        10. Hora da geração do arquivo, no formato HHMMSS,              Numérico             06          053 a 058
+        onde HH é a hora, MM os minutos e SS os segundos
+        relativos ao horário da geração do arquivo.
+
+        11. Reservado à ANS                                             Numérico             01          059 a 059
+
+        12. Reservado para expansão                                   Alfanumérico           266         060 a 325
+
+        13. Conteúdo ignorado pela ANS; pode ser utilizado pela       Alfanumérico           49          326 a 374
+        operadora
+
+
+
+        3.1.2 Linhas dos tipos 1 – Inclusão de registros de dados de beneficiários no Cadastro de
+        Beneficiários da ANS
+        Tamanho do registro do beneficiário = 553 bytes
+
+
+                          Segmento Médico-Hospitalar               Segmento exclusivamente
+                                                                   Odontológico
+
+        Campo               Plano        Plano        Plano     Plano            Plano         Plano     Formato     Posições
+                          Individual    Coletivo     Coletivo Individual        Coletivo      Coletivo     do
+                                        Adesão      Empresari                   Adesão       Empresari   Campo
+                                                        al                                       al
+
+01 - Número               Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico            001 a
+seqüencial da linha                                                                                 (07)               007
+dentro do arquivo
+Valor: “Seqüencial da
+linha anterior mais 1”.
+
+02 - Indicador de         Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico            008 a
+registro tipo detalhe                                                                               (01)
+                                                                                                                       008
+Valor: “1” – Inclusão.
+
+03 - Código de            Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório        Alfanum      009 a
+Identificação do
+                                                                                                           (30)        038
+beneficiário na
+operadora
+
+04 - Nome do              Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório        Alfanum      039 a
+Beneficiário
+
+                                                            -8-
+Beneficiário                                                                                        (70)      108
+Deve ser informado
+conforme consta no
+Registro Civil ou na
+Carteira de Identidade.
+Deve conter caracteres
+alfanuméricos sem
+repetição nas 3
+primeiras posições.
+
+
+
+05 - Data de               Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico   109 a
+nascimento do                                                                                        (08)
+                                                                                                              116
+beneficiário.
+Formato
+AAAAMMDD, onde
+AAAA é o ano, MM é o
+mês e DD é o dia.
+Deve ser menor que ou
+igual à data de envio do
+arquivo e menor que ou
+igual à data de adesão.
+
+06 - Sexo do               Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico   117 a
+beneficiário                                                                                         (01)
+                                                                                                              117
+Validar Valores:
+“1” – masculino;
+“3” – feminino.
+
+07 - CPF – Cadastro de     Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico   118 a
+Pessoas Físicas – do                                                                                 (11)
+                                                                                                              128
+beneficiário
+Quando informado,
+validar o dígito
+verificador do CPF.
+Exceção 1: O
+beneficiário titular
+estrangeiro, que não
+possuir CPF, deve
+preencher o campo 30 –
+Carteira de identidade
+do beneficiário.
+Exceção 2: O
+beneficiário titular
+brasileiro idoso
+(conforme definido no
+Estatuto do Idoso), que
+não possuir CPF, deve
+preencher o campo
+30 – Carteira de
+identidade do
+beneficiário.
+Exceção 3: O
+
+                                                          -9-
+beneficiário vinculado
+que não possuir CPF
+deve preencher o campo
+34 – Código do titular
+do plano.
+Exceção 4: Para o
+beneficiário titular
+menor de idade que não
+possuir CPF, o campo
+deve ser preenchido
+com o CPF do
+responsável
+
+08 - PIS/PASEP –            Opcional    Opcional     Obrigatório     Opcional   Opcional     Obrigatório Numérico   129 a
+Programa de Integração                                                                                     (11)      139
+Social/ Programa de
+Formação do
+Patrimônio do Servidor
+Público – do
+beneficiário Quando
+informado, validar o
+dígito verificador do
+PIS/PASEP.
+Exceção 1: O
+beneficiário titular
+estrangeiro, que não
+possuir PIS/PASEP,
+deve
+preencher o campo 30 –
+Carteira de identidade
+do beneficiário.
+Exceção 2: O
+beneficiário titular
+brasileiro idoso
+(conforme definido no
+Estatuto do Idoso), que
+não possuir PIS/PASEP,
+deve preencher o campo
+30 – Carteira de
+identidade do
+beneficiário.
+
+09 - Nome da mãe do        Obrigatório Obrigatório    Opcional     Obrigatório Obrigatório    Opcional   Alfanum    140 a
+beneficiário                               (*)                                     (*)
+                                                                                                           (70)     209
+Deve ser informado
+conforme consta no
+Registro Civil ou na
+Carteira de Identidade.
+Deve conter caracteres
+alfanuméricos sem
+repetição nas 3
+primeiras posições.
+Em caso de não existir o
+nome da mãe no
+Registro Civil, informar
+a mensagem “NÃO
+
+                                                            - 10 -
+CONSTA DO
+REGISTRO CIVIL”.
+(*) – Para plano
+coletivo por adesão, se o
+beneficiário titular
+informar CPF ou
+PIS/PASEP, o nome da
+mãe do beneficiário
+pode ser opcional.
+
+10 - Número do código Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico             210 a
+do plano na ANS para                                                                            (09)
+                                                                                                                   218
+planos posteriores à Lei
+nº 9.656/98.
+(contratados a partir de
+02/01/1999)
+Quando informado,
+validar contra a tabela
+de planos de operadoras
+cadastrados na ANS.
+
+11 - Data de adesão ao      Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico       219 a
+plano para planos                                                                                     (08)
+                                                                                                                   226
+posteriores à Lei nº
+9.656/98 (contratados a
+partir de 02/01/1999) e
+anteriores à Lei nº
+9.656/98 (contratados
+antes de
+02/01/1999)
+Formato
+AAAAMMDD, onde
+AAAA é o ano, MM é o
+mês e DD é o dia.
+Deve ser menor que ou
+igual a data de envio do
+arquivo e maior que ou
+igual a data de
+nascimento do
+beneficiário.
+
+12 - Data de                  Não se      Não se      Não se         Não se      Não se      Não se     Numérico   227 a
+cancelamento ou de           aplica na   aplica na   aplica na      aplica na   aplica na   aplica na     (08)
+                                                                                                                   234
+suspensão do contrato        inclusão    inclusão    inclusão       inclusão    inclusão    inclusão
+Formato
+AAAAMMDD, onde
+AAAA é o ano, MM é o
+mês e DD é o dia.
+
+13 - Data de reinclusão       Não se      Não se      Não se         Não se      Não se      Não se     Numérico   235 a
+do beneficiário no           aplica na   aplica na   aplica na      aplica na   aplica na   aplica na     (08)
+                                                                                                                   242
+plano                        inclusão    inclusão    inclusão       inclusão    inclusão    inclusão
+Formato
+AAAAMMDD, onde
+AAAA é o ano, MM é o
+mês e DD é o dia.
+
+                                                           - 11 -
+14 – Logradouro do           Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório   Alfanum    243 a
+beneficiário                                                                                            (50)      292
+Pode conter além de
+letras e números:
+Vírgula, ponto, barra (/),
+aspas (“), hífen (-) e
+apóstrofe (‘).
+
+15 - Número do                Opcional    Opcional    Opcional       Opcional   Opcional   Opcional    Alfanum    293 a
+endereço de residência
+                                                                                                         (5)      297
+do beneficiário
+
+
+16 – Complemento do           Opcional    Opcional    Opcional       Opcional   Opcional   Opcional    Alfanum    298 a
+logradouro do
+                                                                                                        (15)      312
+beneficiário
+
+
+17 - Bairro do                Opcional    Opcional    Opcional       Opcional   Opcional   Opcional    Alfanum    313 a
+logradouro do
+                                                                                                        (30)      342
+beneficiário
+
+
+18 – Município de            Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Alfabético   343 a
+residência do
+                                                                                                        (30)      372
+beneficiário
+Validar contra a tabela
+de municípios da ANS.
+
+19 - Unidade da              Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Alfabético   373 a
+Federação
+                                                                                                         (2)      374
+Validar tabela de siglas
+das UFs ou “EX”
+quando o beneficiário
+for residente no
+exterior.
+
+20 - CEP – Código de         Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico     375 a
+Endereçamento Postal                                                                                   (08)
+                                                                                                                  382
+
+
+
+21 – Segmentação             Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico     383 a
+assistencial da                                                                                        (2)
+                                                                                                                  384
+cobertura do plano
+para planos anteriores à
+lei pela Lei nº 9.656/98
+(contratados antes de
+02/01/1999), quando
+não cadastrados na ANS
+Quando informado,
+validar valores:
+“01” – ambulatorial;
+“02” – hospitalar c/
+
+                                                            - 12 -
+obstetrícia;
+“03” – hospitalar s/
+obstetrícia;
+“04” – odontológico;
+“06” – ambulatorial +
+hospitalar c/ obstetrícia;
+“07” – ambulatorial +
+hospitalar s/ obstetrícia;
+“08” – ambulatorial +
+odontológico;
+“10” – hospitalar c/
+obstetrícia +
+odontologico;
+“11” – hospitalar s/
+obstetrícia +
+odontológico;
+“13” – ambulatorial +
+hospitalar c/ obstetrícia
++ odontológico;
+“14” – ambulatorial +
+hospitalar s/ obstetrícia
++ odontológico.
+
+22 – Abrangência         Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico   385 a
+Geográfica da                                                                                      (01)      385
+cobertura do plano
+para planos anteriores à
+Lei nº 9.656/98
+(contratados antes de
+02/01/1999) Obrigatório
+para planos contratados
+antes de 02/01/1999,
+quando não cadastrados
+na ANS.
+Validar valores:
+“1” – nacional;
+“2” – grupo de estados;
+“3” – estadual;
+“4” – grupo de
+municípios;
+“5” – municipal;
+
+23 – Tipo de             Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico   386 a
+contratação do plano                                                                               (01)
+                                                                                                            386
+para planos anteriores à
+Lei pela Lei nº 9.656/98
+(contratados antes de
+02/01/1999) Obrigatório
+para planos contratados
+antes de 02/01/1999,
+quando não cadastrados
+na ANS.
+
+                                                      - 13 -
+Validar valores:
+“1” – individual ou
+familiar;
+“3” – coletivo por
+adesão com patrocínio;
+“4” – coletivo por
+adesão sem patrocínio.
+“5”- coletivo
+empresarial com
+patrocínio
+“6”- coletivo
+empresarial sem
+patrocínio
+
+24 - Vínculo do            Obrigatório    Obrigatório    Obrigatório    Obrigatório    Obrigatório    Obrigatório Numérico    387 a
+beneficiário para          (a partir da   (a partir da   (a partir da   (a partir da   (a partir da   (a partir da  (02)
+                                                                                                                              388
+planos posteriores à Lei   competênci     competênci     competênci     competênci     competênci     competênci
+nº 9.656/98 (contratados   a 04/2005)     a 04/2005)     a 04/2005)     a 04/2005)     a 04/2005)     a 04/2005)
+a partir de 02/01/1999)
+e anteriores à Lei
+(contratados antes de
+02/01/1999)
+Validar Valores:
+“01” – beneficiário
+titular;
+“03” – Cônjuge;
+“04” – Filho;
+“05” – Filha;
+“06” – Enteado;
+“07” – Enteada;
+“08” – Pai;
+“09” – Mãe;
+“10” – Agregado
+“11” – Titular menor
+utilizando CPF do
+responsável
+
+25 - Motivo de               Não se         Não se         Não se          Não se        Não se         Não se     Numérico   389 a
+cancelamento ou de          aplica na      aplica na      aplica na       aplica na     aplica na      aplica na     (2)       390
+suspensão do contrato       inclusão       inclusão       inclusão        inclusão      inclusão       inclusão
+ou da migração ou
+adaptação ou
+mudança de planos
+
+26 – Indicação de          Obrigatório    Obrigatório    Obrigatório    Obrigatório    Obrigatório    Obrigatório Numérico    391 a
+existência de              (a partir da   (a partir da   (a partir da   (a partir da   (a partir da   (a partir da  (1)
+                                                                                                                              391
+Cobertura Parcial          Competênc      Competênc      Competênc      Competênc      Competênc      Competênc
+Temporária para            ia 04/2005)    ia 04/2005)    ia 04/2005)    ia 04/2005)    ia 04/2005)    ia 04/2005)
+planos posteriores à Lei
+nº 9.656/98 (contratados
+a partir de 02/01/1999)
+e anteriores à Lei
+
+                                                                 - 14 -
+(contratados antes de
+02/01/1999)
+ATENÇÃO:
+Preenchimento
+obrigatório a partir da
+competência abril de
+2005.
+Validar valores:
+“1” – existe cobertura
+parcial temporária;
+“2” – não existe
+cobertura parcial
+temporária.
+Nota: Se existir
+cobertura parcial
+temporária, o registro de
+dados do tipo 4 – Dados
+de Cobertura Parcial
+Temporária deve estar
+informado.
+
+27 - Indicação de           Obrigatório    Obrigatório    Obrigatório    Obrigatório    Obrigatório    Obrigatório Numérico   392 a
+existência de               (a partir da   (a partir da   (a partir da   (a partir da   (a partir da   (a partir da  (1)
+                                                                                                                              392
+coparticipação ou           Competênc      Competênc      Competênc      Competênc      Competênc      Competênc
+franquia nas despesas       ia 04/2005)    ia 04/2005)    ia 04/2005)    ia 04/2005)    ia 04/2005)    ia 04/2005)
+de atendimento para
+planos posteriores à Lei
+nº 9.656/98 (contratado
+a partir de 02/01/1999)
+e anteriores à Lei
+(contratado antes de
+02/01/1999)
+ATENÇÃO:
+Preenchimento
+obrigatório a
+partir da competência
+abril de 2005, para
+planos não cadastrados
+na ANS.
+Validar valores:
+“1” – existe co-
+participação do
+beneficiário;
+“2” – não existe co-
+participação do
+beneficiário;
+“3” – existe franquia da
+operadora;
+“4” – não existe
+franquia da operadora.
+
+28 – Número do código Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório                      Alfanum    393 a
+do plano na operadora (a partir da (a partir da (a partir da (a partir da (a partir da (a partir da
+                                                                                                                     (30)     422
+para planos anteriores à Competênc Competênc Competênc Competênc Competênc Competênc
+
+                                                                  - 15 -
+Lei nº 9.656/98            ia 04/2005) ia 04/2005) ia 04/2005) ia 04/2005) ia 04/2005) ia 04/2005)
+(contratado antes de
+02/01/1999)
+ATENÇÃO:
+Preenchimento
+obrigatório a partir da
+competência abril de
+2005.
+
+29 - CNS – Cartão           Opcional    Opcional    Opcional       Opcional   Opcional   Opcional    Numérico   423 a
+Nacional de Saúde – do                                                                                 (15)
+                                                                                                                437
+beneficiário para planos
+posteriores à Lei nº
+9.656/98 (contratado a
+partir de 02/01/1999) e
+anteriores à Lei
+(contratado antes de
+02/01/1999)
+Quando Informado,
+utilizar o CNS do
+próprio beneficiário.
+
+30 – Carteira de            Opcional    Opcional    Opcional       Opcional   Opcional   Opcional    Alfanum    438 a
+identidade do
+                                                                                                       (30)     467
+beneficiário para
+planos posteriores à Lei
+nº 9.656/98 (contratado
+a partir de 02/01/1999)
+e anteriores à Lei
+(contratado antes de
+02/01/1999)
+Quando obrigatório,
+para os beneficiários
+vinculados, preencher
+com a Carteira de
+identidade do titular.
+Quando informado, os
+campos 31 – Órgão
+emissor da carteira de
+identidade do
+beneficiário e 32–
+Código do país emissor
+da carteira de
+identidade do
+beneficiário também
+devem ser preenchidos.
+
+31 – Órgão emissor da       Opcional    Opcional    Opcional       Opcional   Opcional   Opcional    Alfanum    468 a
+carteira de identidade
+                                                                                                       (30)     497
+do beneficiário
+Quando informado, os
+campos 30 – Carteira
+de identidade do
+beneficiário e 32 –
+Código do país emissor
+da carteira de
+identidade do
+
+                                                          - 16 -
+beneficiário também
+devem ser preenchidos.
+
+32 – Código do país         Opcional    Opcional     Opcional        Opcional      Opcional       Opcional   Numérico   498 a
+emissor da carteira de                                                                                         (03)
+                                                                                                                        500
+identidade do
+beneficiário
+Validar contra a tabela
+de países da ANS.
+Quando informado, os
+campos 30 – Carteira
+de identidade do
+beneficiário e 31 –
+Órgão emissor da
+carteira de identidade
+do beneficiário também
+devem ser preenchidos.
+
+33 – CNPJ – Cadastro         Não se      Não se     Obrigatório       Não se        Não se       Obrigatório Numérico   501 a
+Nacional de Pessoa           aplica      aplica                       aplica        aplica                     (14)
+                                                                                                                        514
+Jurídica – da empresa
+onde trabalha o
+beneficiário titular
+para planos posteriores
+à Lei nº 9.656/98
+(contratado a partir de
+02/01/1999) e anteriores
+à Lei (contratado antes
+de 02/01/1999)
+Quando informado,
+validar o dígito
+verificador do CNPJ
+
+34 - Código de             Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório           Alfanum    515 a
+identificação do
+                                                                                                               (30)     544
+beneficiário titular do
+plano na operadora
+para beneficiários
+informados como
+dependentes para
+planos posteriores à Lei
+nº 9.656/98 (contratado
+a partir de 02/01/1999)
+e anteriores à Lei
+(contratado antes de
+02/01/1999)
+
+35 – Indicação de itens Obrigatório Obrigatório     Obrigatório    Obrigatório    Obrigatório    Obrigatório Numérico   545 a
+de procedimentos        (a partir da (a partir da   (a partir da   (a partir da   (a partir da   (a partir da  (1)
+                                                                                                                        545
+excluídos da            competênci competênci       competênci     competênci     competênci     competênci
+Cobertura para planos a 04/2005) a 04/2005)         a 04/2005)     a 04/2005)     a 04/2005)     a 04/2005)
+anteriores à Lei nº
+9.656/98 (contratados
+antes de 02/01/1999).
+ATENÇÃO:
+Preenchimento
+obrigatório a partir da
+competência abril de
+
+                                                            - 17 -
+2005, para planos não
+cadastrados na ANS.
+Validar valores:
+“1” – existe exclusão de
+cobertura
+Nota: Se existir itens de
+procedimento excluídos
+da cobertura, o registro
+de dados do tipo 5 –
+Dados de Exclusão de
+Cobertura deve estar
+informado.
+“2” – não existe
+exclusão de cobertura.
+
+36 – Data de                  Não se                                                                  Numérico    546 a
+adaptação ou                 aplica na                                                                  (08)       553
+migração ou mudança          inclusão
+de planos anteriores à
+Lei 9.656/98
+
+
+
+        3.1.3 - Linhas dos tipo 2 – Alteração, correção e reinclusão de registros de dados de
+        beneficiários no Cadastro de Beneficiários da ANS
+        Tamanho do registro do beneficiário = 553 bytes
+        Observação: Os campos em branco do presente formato, quando não sofrerem alteração,
+        deverão estar em conformidade com os campos correspondentes do registro incluído – tipo
+        1
+
+
+                            Segmento Médico-Hospitalar          Segmento exclusivamente
+                                                                Odontológico
+
+        Campo                 Plano       Plano       Plano     Plano         Plano         Plano     Formato    Posições
+                            Individual   Coletivo    Coletivo Individual     Coletivo      Coletivo     do
+                                         Adesão     Empresari                Adesão       Empresari   Campo
+                                                        al                                    al
+
+01 - Número                 Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico      001 a
+seqüencial da linha                                                                                   (07)
+                                                                                                                   007
+dentro do arquivo
+Valor: “Seqüencial da
+linha anterior mais 1”.
+
+02 - Indicador de           Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico      008 a
+registro tipo detalhe                                                                                 (01)
+                                                                                                                   008
+Valor: “2” – Alteração.
+
+03 - Código de              Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório   Alfanum     009 a
+Identificação do
+                                                                                                        (30)       038
+beneficiário na
+operadora
+
+
+                                                           - 18 -
+Deve ser informado
+conforme consta no
+Cadastro de
+Beneficiários do SIB.
+
+
+
+04 - Nome do               Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório   Alfanum    039 a
+Beneficiário
+                                                                                                       (70)     108
+Deve ser informado
+conforme consta no
+Cadastro de
+Beneficiários do SIB.
+Deve conter caracteres
+alfanuméricos sem
+repetição nas 3
+primeiras posições.
+
+05 - Data de               Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico     109 a
+nascimento do                                                                                        (08)
+                                                                                                                116
+beneficiário.
+Formato
+AAAAMMDD, onde
+AAAA é o ano, MM é o
+mês e DD é o dia.
+Deve ser menor que ou
+igual à data de envio do
+arquivo e menor que ou
+igual à data de adesão.
+
+06 - Sexo do                                                                                         Numérico   117 a
+beneficiário                                                                                           (01)
+                                                                                                                117
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+07 - CPF – Cadastro de                                                                               Numérico   118 a
+                                                                                                       (11)
+Pessoas Físicas – do                                                                                            128
+beneficiário
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+08 - PIS/PASEP –                                                                                     Numérico   129 a
+Programa de Integração                                                                                 (11)
+                                                                                                                139
+Social/
+Programa de Formação
+do Patrimônio do
+Servidor Público – do
+beneficiário
+Se modificado
+As regras para alterar
+                                                          - 19 -
+são as mesmas
+utilizadas para incluir.
+
+09 - Nome da mãe do                                                                                   Alfanum    140 a
+beneficiário
+                                                                                                        (70)     209
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+10 - Número do código                                                                                 Numérico   210 a
+do plano na ANS                                                                                         (09)
+                                                                                                                 218
+para planos posteriores
+à Lei nº 9.656/98
+(contratados a partir de
+02/01/1999)
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+11 - Data de adesão ao        Não         Não         Não            Não         Não         Não      Numérico   219 a
+plano                      procede     procede     procede        procede     procede     procede       (08)      226
+                              para        para        para           para        para        para
+para planos posteriores
+                           alteração   alteração   alteração      alteração   alteração   alteração
+à Lei nº 9.656/98
+(contratados a partir de
+02/01/1999) e anteriores
+à Lei nº 9.656/98
+(contratados antes de
+02/01/1999)
+
+12 - Data de                Não se      Não se      Não se         Não se      Não se      Não se     Numérico   227 a
+cancelamento ou de         aplica na   aplica na   aplica na      aplica na   aplica na   aplica na     (08)
+                                                                                                                 234
+suspensão do contrato      alteração   alteração   alteração      alteração   alteração   alteração
+
+13 - Data de reinclusão                                                                               Numérico   235 a
+                                                                                                        (08)      242
+para planos
+regulamentados
+(contratados a partir de
+02/01/1999) e anteriores
+à Lei nº 9.656/98
+(contratados antes de
+02/01/1999) pela Lei nº
+9.656/98.
+Se preenchido deve ser
+maior do que a data de
+cancelamento ou de
+suspensão do contrato e
+menor que ou igual à
+data de envio do
+arquivo.
+Formato
+AAAAMMDD, onde
+AAAA é o ano, MM é o
+mês e DD é o dia.
+
+                                                         - 20 -
+14 – Logradouro do                  Alfanum      243 a
+beneficiário
+                                       (50)      292
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+15 - Número do                      Alfanum      293 a
+endereço de residência
+                                       (5)       297
+do beneficiário
+
+16 – Complemento do                 Alfanum      298 a
+logradouro do
+                                       (15)      312
+beneficiário
+
+17 - Bairro do                      Alfanum      313 a
+logradouro do
+                                       (30)      342
+beneficiário
+
+18 – Município de                   Alfabético   343 a
+residência do
+                                       (30)      372
+beneficiário
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+19 - Unidade da                     Alfabético   373 a
+Federação
+                                       (2)       374
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+20 - CEP – Código de                Numérico     375 a
+Endereçamento Postal                  (08)
+                                                 382
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+21 – Segmentação                    Numérico     383 a
+assistencial da                       (2)         384
+cobertura do plano
+para planos anteriores à
+Lei nº 9.656/98
+(contratados antes de
+02/01/1999)
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+
+
+                           - 21 -
+22 – Abrangência                                                                                      Numérico   385 a
+Geográfica da                                                                                           (01)
+                                                                                                                 385
+cobertura do plano
+para planos anteriores à
+Lei nº 9.656/98
+(contratados antes de
+02/01/1999)
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+23 – Tipo de                                                                                          Numérico   386 a
+contratação do plano                                                                                    (01)      386
+para planos anteriores à
+Lei nº 9.656/98
+(contratados antes de
+02/01/1999)
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+24 - Vínculo do                                                                                       Numérico   387 a
+beneficiário                                                                                            (02)
+                                                                                                                 388
+para planos posteriores
+à Lei nº 9.656/98
+(contratados a partir de
+02/01/1999) e anteriores
+à Lei nº 9.656/98
+(contratados antes de
+02/01/1999)
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+25 - Motivo de              Procede     Procede     Procede        Procede     Procede     Procede    Numérico   389 a
+cancelamento ou de            para        para        para           para        para        para       (02)
+                                                                                                                 390
+suspensão do contrato      adaptação   adaptação   adaptação      adaptação   adaptação   adaptação
+ou da migração ou              ou          ou          ou             ou          ou          ou
+adaptação ou               migração    migração    migração       migração    migração    migração
+mudança de planos              ou          ou          ou             ou          ou          ou
+                           mudança     mudança     mudança        mudança     mudança     mudança
+Se preenchido validar
+valores:
+“06” – Mudança de
+plano
+“11” – Plano antigo
+migrado
+“12” – Plano antigo
+adaptado
+Atenção:
+
+                                                         - 22 -
+1.Este campo se aplica
+somente para informar o
+motivo de migração ou
+adaptação ou mudança
+de contratos.
+2. Não pode ocorrer
+motivo 12 – Plano
+antigo adaptado – após
+haver ocorrido motivo
+11 – Plano antigo
+migrado.
+3. Migração e
+adapatação referem-se a
+planos anteriores à Lei
+9.656/98.
+
+26 – Indicação de                   Numérico   391 a
+existência de                         (1)       391
+Cobertura Parcial
+Temporária
+Para planos posteriores
+à Lei nº 9.656/98
+(contratados a partir de
+02/01/1999) e anteriores
+à Lei nº 9.656/98
+(contratados antes de
+02/01/1999)
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+27 - Indicação de                   Numérico   392 a
+existência de                         (1)       392
+coparticipação ou
+franquia nas despesas
+de atendimento
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+28 – Número do código               Alfanum    393 a
+do plano na operadora
+                                      (30)     422
+para planos anteriores à
+Lei nº 9.656/98
+(contratado antes de
+02/01/1999)
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+29 - CNS – Cartão                   Numérico   423 a
+Nacional de Saúde – do                (15)      437
+
+                           - 23 -
+beneficiário                          (15)     437
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+30 – Carteira de                    Alfanum    438 a
+identidade do                                   467
+                                      (30)
+beneficiário
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+31 – Órgão emissor da               Alfanum    468 a
+carteira de identidade                          497
+                                      (30)
+do beneficiário
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+32 - Código do país                 Numérico   498 a
+emissor da carteira de                (03)      500
+identidade do
+beneficiário
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+33 – CNPJ – Cadastro                Numérico   501 a
+Nacional de Pessoa                    (14)      514
+Jurídica - da empresa
+onde trabalha o
+beneficiário titular
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+34. Código do titular               Alfanum    515 a
+do plano para                                   544
+                                      (30)
+beneficiários
+informados como
+dependentes.
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+35. Indicação de itens              Numérico   545 a
+de procedimentos                      (1)
+excluídos da
+                           - 24 -
+Cobertura                                                                                                        545
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+
+36. Data da adaptação       Procede     Procede     Procede        Procede     Procede     Procede    Numérico   546 a
+ou de migração ou da          para        para        para           para        para        para                 553
+                                                                                                        (08)
+mudança do plano           adapatção   adapatção   adapatção      adapatção   adapatção   adapatção
+                               ou          ou          ou             ou          ou          ou
+ATENÇÃO:
+                           migração    migração    migração       migração    migração    migração
+Preenchimento
+                               ou          ou          ou             ou          ou          ou
+obrigatório a partir da
+                           mudança     mudança     mudança        mudança     mudança     mudança
+competência abril de
+2005.
+Se modificado
+As regras para alterar
+são as mesmas
+utilizadas para incluir.
+Atenção:
+1.Este campo se aplica
+somente para informar
+data de migração ou
+adaptação ou mudança
+de contratos.
+2. Não pode ocorrer
+motivo 12 – Plano
+antigo adaptado - após
+haver ocorrido motivo
+11 – Plano antigo
+migrado.
+3. Migração e
+adapatação referem-se a
+planos anteriores à Lei
+9.656/98.
+4. A data de migração
+ou de mudança de plano
+informada será
+considerada como a data
+de cancelamentodo
+plano de saúde anterior
+a que o registro de
+dados referir.
+
+
+
+         3.1.4 - Linhas dos tipo 3 – Exclusão de registros de dados de beneficiários no Cadastro de
+         Beneficiários da ANS
+         Tamanho do registro do beneficiário = 553 bytes
+         Observação: Os campos em branco do presente formato, quando não sofrerem alteração,
+         deverão estar em conformidade com os campos correspondentes do registro incluído – tipo
+         1
+
+
+
+                                                         - 25 -
+                           Segmento Médico-Hospitalar         Segmento exclusivamente
+                                                              Odontológico
+
+        Campo                Plano       Plano       Plano     Plano        Plano         Plano     Formato   Posições
+                           Individual   Coletivo    Coletivo Individual    Coletivo      Coletivo     do
+                                        Adesão     Empresari               Adesão       Empresari   Campo
+                                                       al                                   al
+
+01      -     Número Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico          001 a
+seqüencial da linha                                                                            (07)             007
+dentro do arquivo
+Valor: “Seqüencial da
+linha anterior mais 1”.
+
+02 - Indicador de Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico 008                 a
+registro tipo detalhe                                                                     (01)     008
+Valor: “3” – Exclusão
+
+03 - Código           de Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Alfanum      009      a
+Identificação         do                                                                                      038
+                                                                                                 (30)
+beneficiário          na
+operadora
+Deve ser informado
+conforme consta no
+Cadastro              de
+Beneficiários do SIB.
+
+04    -    Nome       do Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Alfanum      039      a
+Beneficiário                                                                                                  108
+                                                                                                    (70)
+Deve ser informado
+conforme consta no
+Cadastro              de
+Beneficiários do SIB.
+
+05    -     Data      de Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico 109          a
+nascimento            do                                                                         (08)     116
+beneficiário.
+Formato
+AAAAMMDD,         onde
+AAAA é o ano, MM é o
+mês e DD é o dia.
+Deve ser informado
+conforme consta no
+Cadastro              de
+Beneficiários do SIB.
+
+06    -     Sexo      do Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico 117          a
+beneficiário                                                                                     (01)     117
+Deve ser informado
+conforme consta no
+Cadastro             de
+Beneficiários da ANS.
+
+07 - CPF – Cadastro de                                                                              Numérico 118       a
+Pessoas Físicas – do                                                                                (11)     128
+beneficiário
+                                                         - 26 -
+beneficiário
+
+08 - PIS/PASEP –                                                                               Numérico 129       a
+Programa de Integração                                                                         (11)     139
+Social/Programa     de
+Formação            do
+Patrimônio do Servidor
+Público      –      do
+beneficiário
+
+09 - Nome da mãe do                                                                            Alfanum    140     a
+beneficiário                                                                                              209
+                                                                                               (70)
+
+10 - Número do código                                                                          Numérico 210       a
+do plano na ANS                                                                                (09)     218
+Para planos posteriores
+à Lei nº 9.656/98
+(contratados a partir de
+02/01/1999)
+
+11 - Data de adesão ao Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico 219       a
+plano                                                                                          (08)     226
+Para planos posteriores
+à Lei nº 9.656/98
+(contratados a partir de
+02/01/1999) e anteriores
+à Lei nº 9.656/98
+(contratados antes de
+02/01/1999)
+Deve ser informado
+conforme consta no
+Cadastro              de
+Beneficiários do SIB.
+
+12     -    Data      de Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico 227 a
+cancelamento ou de                                                                               (08)
+                                                                                                          234
+suspensão do contrato
+para planos posteriores
+à Lei nº 9.656/98
+(contratados a partir de
+02/01/1999) e anteriores
+à Lei nº 9.656/98
+(contratados antes de
+02/01/1999)
+Deve ser maior do que a
+data de adesão ao plano
+e menor ou igual a data
+de envio do arquivo.
+Formato
+AAAAMMDD,         onde
+AAAA é o ano, MM é o
+mês e DD é o dia.
+
+13 - Data de reinclusão                                                                        Numérico 235       a
+para             planos                                                                        (08)     242
+regulamentados
+
+                                                      - 27 -
+(contratados a partir de
+02/01/1999) e anteriores
+à Lei nº 9.656/98
+(contratados antes de
+02/01/1999) pela Lei nº
+9.656/98.
+
+14 – Logradouro do                  Alfanum   243     a
+beneficiário                                  292
+                                    (50)
+
+15 - Número do                      Alfanum   293     a
+endereço de residência                        297
+                                    (5)
+do beneficiário
+
+16 – Complemento do                 Alfanum   298 a
+logradouro       do
+                                    (15)      312
+beneficiário
+
+17    -    Bairro    do             Alfanum   313     a
+logradouro           do                       342
+                                    (30)
+beneficiário
+
+18 – Município de                   Alfabético 343    a
+residência     do                              372
+                                    (30)
+beneficiário
+
+19 - Unidade         da             Alfabético 373    a
+Federação                                      374
+                                    (2)
+
+20 - CEP – Código de                Numérico 375      a
+Endereçamento Postal                (08)     382
+
+21      –    Segmento               Numérico 383      a
+assistencial         da             (2)      384
+cobertura do plano
+para planos anteriores à
+Lei      nº    9.656/98
+(contratados antes de
+02/01/1999)
+
+22 – Abrangência                    Numérico 385      a
+Geográfica           da             (01)     385
+cobertura do plano
+para planos anteriores à
+Lei      nº    9.656/98
+(contratados antes de
+02/01/1999)
+
+23     –    Tipo      de            Numérico 386      a
+contratação do plano                (01)     386
+para planos anteriores à
+Lei      nº    9.656/98
+(contratados antes de
+02/01/1999)
+
+24 - Vínculo do                     Numérico 387 a
+beneficiário        para            (02)
+                                             388
+planos posteriores à Lei
+
+                           - 28 -
+nº 9.656/98 (contratados
+a partir de 02/01/1999)
+e anteriores à Lei nº
+9.656/98 (contratados
+antes de 02/01/1999)
+
+25 - Motivo de Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Obrigatório Numérico 389    a
+cancelamento ou de                                                                     (02)     390
+suspensão do contrato
+ou da migração ou
+adaptação             ou
+mudança de planos
+para planos posteriores
+à Lei nº 9.656/98
+(contratados a partir de
+02/01/1999) e anteriores
+à Lei nº 9.656/98.
+(contratados antes de
+02/01/1999)      validar
+valores:
+“01” – rompimento do
+contrato por iniciativa
+do beneficiário;
+“02” – término da
+relação de vinculado a
+um beneficiário titular;
+“03” – desligamento da
+empresa (para planos
+coletivos);
+“04” – inadimplência;
+“05” – óbito;
+“07”      –     exclusão
+decorrente de mudança
+de       código       de
+beneficiário, motivada
+pela    adaptação     de
+sistema da operadora;
+“08” – transferência de
+carteira;
+“09”     –     alteração
+individual do código do
+beneficiário;
+“13”      –     Inclusão
+indevida              de
+beneficiários
+Atenção: Este campo se
+aplica somente para
+informar    data     de
+cancelamento         ou
+suspensão de contratos.
+
+26 – Indicação de                                                                     Numérico 391 a
+existência      de                                                                    (1)
+                                                                                               391
+Cobertura   Parcial
+Temporária    para
+
+                                                 - 29 -
+planos posteriores à Lei
+nº 9.656/98 (contratados
+a partir de 02/01/1999)
+e anteriores à Lei nº
+9.656/98 (contratados
+antes de 02/01/1999)
+
+27 - Indicação de                                                                                     Numérico 392    a
+existência         de                                                                                 (1)      392
+coparticipação     ou
+franquia nas despesas
+de atendimento.
+
+28 – Número do código                                                                                 Alfanum   393   a
+do plano na operadora                                                                                           422
+                                                                                                      (30)
+para planos anteriores à
+Lei      nº    9.656/98
+(contratado antes de
+02/01/1999)
+
+29 - CNS – Cartão                                                                                     Numérico 423    a
+Nacional de Saúde –                                                                                   (15)     437
+do beneficiário
+
+30 – Carteira        de                                                                               Alfanum   438   a
+identidade           do                                                                                         467
+                                                                                                      (30)
+beneficiário
+
+31 – Órgão emissor da                                                                                 Alfanum   468   a
+carteira de identidade                                                                                          497
+                                                                                                      (30)
+do beneficiário
+
+32 - Código do país                                                                                   Numérico 498    a
+emissor da carteira de                                                                                (03)     500
+identidade          do
+beneficiário.
+
+33 – CNPJ – Cadastro                                                                                  Numérico 501    a
+Nacional de Pessoa                                                                                    (14)     514
+Jurídica - da empresa
+onde     trabalha    o
+beneficiário titular
+
+34 - Código do titular                                                                                Alfanum   515   a
+do      plano    para                                                                                           544
+                                                                                                      (30)
+beneficiários
+informados      como
+dependentes.
+
+35 - Indicação de itens                                                                               Numérico 545    a
+de      procedimentos                                                                                 (1)      545
+excluídos            da
+Cobertura
+
+36 - Data da adaptação      Não se      Não se      Não se         Não se      Não se      Não se     Numérico 546    a
+ou de migração ou de       aplica na   aplica na   aplica na      aplica na   aplica na   aplica na            553
+                                                                                                      (08)
+mudança.                   exclusão    exclusão    exclusão       exclusão    exclusão    exclusão
+
+
+
+                                                         - 30 -
+3.1.5 Linha do Tipo 4 – Dados de Cobertura Parcial Temporária
+Tamanho do registro = 55 bytes
+
+
+                                       Campo                                       Formato   Posições
+                                                                                  do Campo
+
+01. Número seqüencial da linha dentro do arquivo                                  Numérico   01 a 07
+Valor: “Seqüencial da linha anterior mais 1” (07)
+
+02. Indicador de código tipo Cobertura Parcial Temporária                         Numérico   08 a 08
+Valor: "4”                                                                        (01)
+
+
+
+03. Código do beneficiário na operadora                                           Alfanum    09 a 38
+                                                                                  (30)
+
+04. Número seqüencial da linha de Cobertura Parcial Temporária para o mesmo Numérico         39 a 40
+beneficiário
+                                                                            (02)
+
+05. Indicação dos itens do Rol de Procedimentos da ANS, que são excluídos da Numérico        41 a 47
+cobertura, quando da existência de Cobertura Parcial Temporária.
+                                                                             (07)
+Validar contra a tabela de Rol de Procedimentos da ANS
+
+06. Data de término da Cobertura Parcial Temporária formato AAAAMMDD, Numérico               48 a 55
+onde AAAA é o ano, MM o mês e DD o dia.
+                                                                      (08)
+
+
+
+Observação: Deverá ser remetida uma linha para cada grupo de patologias listado na tabela
+Rol de Procedimentos da ANS, quando estiver previsto em cláusula contratual.
+3.1.6 - Linha do Tipo 5 – Dados dos Itens dos Procedimentos Excluídos da Cobertura de
+Planos contratados antes de 02/01/1999
+Tamanho do registro = 47 bytes
+
+
+                                       Campo                                       Formato   Posições
+                                                                                  do Campo
+
+01. Número seqüencial da linha dentro do arquivo                                  Numérico    01 a 07
+Valor: “Seqüencial da linha anterior mais 1”                                         (07)
+
+02. Indicador de código tipo Itens de Procedimentos excluídos da cobertura        Numérico    08 a 08
+Para planos anteriores à Lei nº 9.656/98(contratados antes de 02/01/1999)            (01)
+Valor: "5”
+
+03. Número seqüencial da linha de Itens de Procedimentos excluídos da cobertura   Numérico    09 a 10
+Para planos anteriores à Lei nº 9.656/98(contratados antes de 02/01/1999)            (02)
+
+
+                                                    - 31 -
+04. Código de identificação do beneficiário na operadora                     Alfanum    11 a 40
+                                                                               (30)
+
+05. Indicação dos Itens de Procedimentos Excluídos da Cobertura             Numérico      47
+Para planos anteriores à Lei nº 9.656/98(contratados antes de 02/01/1999)      (07)
+Validar valores:
+“0009001” - Ambulatorial
+“0009002” - Hospitalar
+“0009003” - Odontologia
+“0009004” - Terapia Renal Substitutiva
+Hemodiálise – CAPD
+“0009005” - Tratamento de Câncer -Quimioterapia e Radioterapia
+“0009006” - Radiologia - Ressonância Magnética Tomografia
+Computadorizada e Radiologia Intervencionista
+“0009007” - Cirurgia Cardíaca -Hemodinâmica, Marca - Passo
+“0009008” - Cirurgia Videolaparoscópica ou Guiada por Vídeos
+“0009009” - Órtese e Prótese Relacionadas ao Procedimento Cirúrgico
+“0009010” - Saúde Mental - Resolução CONSU nº11/1998
+“0009011” - Transplante Renal e de Córnea
+“0009012” - Tratamento de Doenças Infectocontagiosas e Congênitas
+“0009013” - Doenças (qualquer)
+“0009014” - Limite de quantidade
+“0009015” – Outros
+Atenção: Preencher com zeros à esquerda
+
+
+
+3.1.7 - Linha do tipo 6 – Inexistência de beneficiários ou de atualização cadastral
+Tamanho do registro = 68 bytes
+
+
+                                       Campo                                 Formato   Posições
+                                                                            do Campo
+
+01. Número seqüencial da linha dentro do arquivo                            Numérico   01 a 07
+Valor: “Seqüencial da linha anterior mais 1”                                   (07)
+
+02. Indicador de linhas sem movimento                                       Numérico   08 a 08
+Valor: “6”                                                                  (01)
+
+03. Mensagem de inexistência de beneficiários ou de atualização cadastral   Alfanum    09 a 68
+Valores: “Não houve atualização de dados beneficiários”;                    (60)
+“Não existem beneficiários cadastrados”.
+
+
+
+                                                    - 32 -
+3.1.8 Linha do tipo 9 - Trailler do arquivo de transmissão com registros de dados de
+beneficiários
+Tamanho do registro do beneficiário = 388 bytes
+
+
+                                      Campo                                  Formato    Posições
+                                                                            do Campo
+
+01. Número seqüencial da linha dentro do arquivo                            Numérico    001 a 007
+Valor: “Seqüencial da linha anterior mais 1”                                   (07)
+
+02. Registro tipo trailler                                                  Numérico    008 a 008
+Valor: "9”                                                                  (01)
+
+03. Quantidade de Registros inclusão                                        Numérico    009 a 015
+(total de registros do tipo "1")                                            (07)
+
+04. Quantidade de Registros alteração                                       Numérico    016 a 022
+(total de registros do tipo "2")                                            (07)
+
+05. Quantidade de Registros exclusão                                        Numérico    023 a 029
+(total de registros do tipo "3")                                            (07)
+
+06. Quantidade de códigos de dados da Cobertura Parcial Temporária          Numérico    030 a 036
+(total de registros do tipo "4")                                            (07)
+
+07. Quantidade de códigos de Indicador de código tipo Itens de Procedimentos Numérico   037 a 043
+excluídos da cobertura
+                                                                             (07)
+(para planos contratados antes de 02/01/1999)
+
+08. Reservado para expansão                                                 Alfanum     044 a 338
+                                                                            (295)
+
+09. Conteúdo ignorado pela ANS                                              Alfanum     339 a 388
+(pode ser utilizado pela operadora)                                         (50)
+
+
+
+3.2. Arquivo de devolução de registro de dados de Beneficiários - detalhamento do
+formato
+3.2.1 – Linha de Header do Arquivo de Devolução de registros de dados de beneficiários
+Tamanho do Registro = 110 bytes
+
+
+                                      Campo                                  Formato    Posições
+                                                                            do Campo
+
+01. Número seqüencial da linha dentro do arquivo                             Numérico   001 a 007
+Valor: “0000001”                                                               (07)
+
+
+                                                   - 33 -
+02 - Indicador de registro tipo header                                   Numérico   008 a 008
+Valor: "0”                                                                 (01)
+
+03 - Data da geração do arquivo                                          Numérico   009 a 016
+formato AAAAMMDD, onde AAAA é o ano, MM o mês e DD o dia da geração do     (08)
+arquivo
+(total de registros do tipo "1")
+
+04 – Código da Operadora na ANS                                          Numérico   17 a 022
+                                                                           (06)
+
+05 – CNPJ da operadora                                                   Numérico   023 a 036
+(total de registros do tipo "3")                                           (14)
+
+06. Número de seqüência do arquivo enviado                               Numérico   037 a 043
+                                                                           (07)
+
+07 - Flag de erro no header                                              Numérico   044 a 044
+Valores: “0” – header correto                                              (01)
+“1” – header incorreto
+
+08 – Flag de erro no trailler                                            Numérico   045 a 045
+Valores: “0” – header correto                                              (01)
+“1” – header incorreto
+
+09 – Flag de erro na seqüência                                           Numérico   046 a 046
+Valores: “0” – seqüência correta                                           (01)
+“1” – seqüência incorreta
+
+10 – Reservado para expansão                                             Alfanum    047 a 060
+                                                                           (14)
+
+
+
+11 – Conteúdo ignorado pela ANS                                          Alfanum    061 a 110
+(pode ser utilizado pela operadora)                                        (50)
+
+
+
+3.2.2 – Linha de Dados do Arquivo de Devolução de registros de dados de beneficiários, no
+formato texto com extensão.RER
+Tamanho do Registro = 39 bytes
+
+
+
+
+                                             - 34 -
+                                       Campo                             Formato   Posições
+                                                                        do Campo
+
+01. Número seqüencial da linha dentro do arquivo                        Numérico   001 a 007
+                                                                            (07)
+
+02 - Indicador de tipo de registro, código da operação                  Numérico   008 a 008
+Valor: igual ao transmitido                                                 (01)
+
+03 – Indicador de erro na atualização                                   Numérico   009 a 009
+“1” – Inclusão de beneficiário com código já existente                      (01)
+“2” – Alteração de beneficiário não existente
+“3” – Exclusão de beneficiário não existente
+“4” – Dados do beneficiário inconsistentes
+
+04 –Código de identificação do beneficiário na operadora                Alfanum    010 a 039
+                                                                            (30)
+
+
+
+3.3. Arquivo de Conferência de dados de Beneficiários - detalhamento do formato
+3.3.1. Linha de dados do Arquivo de Conferência de dados de beneficiários
+Tamanho de registro = 554 bytes
+
+
+                                       Campo                             Formato   Posições
+                                                                        do Campo
+
+01 - Número seqüencial da linha dentro do arquivo                       Numérico   001 a 007
+                                                                            (07)
+
+02 - Indicador de registro tipo detalhe                                 Numérico   008 a 008
+opções: “1” – Ativo                                                         (01)
+        “3” - Inativo
+
+03 - Código de Identificação do beneficiário na operadora               Alfanum    009 a 038
+                                                                            (30)
+
+04 - Nome do Beneficiário                                               Alfanum    039 a 108
+                                                                            (70)
+
+05 - Data de nascimento do beneficiário                                 Numérico   109 a 116
+                                                                            (08)
+
+06 - Sexo do beneficiário                                               Numérico   117 a 117
+                                                                            (01)
+
+07 - CPF – Cadastro de Pessoas Físicas – do beneficiário                Numérico   118 a 128
+
+
+                                                     - 35 -
+                                                                  (11)
+
+08 - PIS/PASEP – Programa de Integração Social/ Programa de    Numérico     129 a 139
+Formação do Patrimônio do Servidor Público – do beneficiário      (11)
+
+09 - Nome da mãe do beneficiário                               Alfanum      140 a 209
+                                                                  (70)
+
+10 - Número do código do plano na ANS                          Numérico     210 a 218
+                                                                  (09)
+
+11 - Data de adesão ao plano                                   Numérico     219 a 226
+                                                                  (08)
+
+12 - Data de cancelamento ou de suspensão do contrato          Numérico     227 a 234
+                                                                  (08)
+
+13 - Data de reinclusão do beneficiário no plano               Numérico     235 a 242
+                                                                  (08)
+
+14 – Logradouro do beneficiário                                Alfanum      243 a 292
+                                                                  (50)
+
+15 - Número do endereço de residência do beneficiário          Alfanum      293 a 297
+                                                                  (5)
+
+16 – Complemento do logradouro do beneficiário                 Alfanum      298 a 312
+                                                                  (15)
+
+17 - Bairro do logradouro do beneficiário                      Alfanum      313 a 342
+                                                                  (30)
+
+18 – Município de residência do beneficiário                   Alfabético   343 a 372
+                                                                  (30)
+
+19 - Unidade da Federação                                      Alfabético   373 a 374
+                                                                  (2)
+
+20 - CEP – Código de Endereçamento Postal                      Numérico     375 a 382
+                                                                  (08)
+
+21 – Segmentação assistencial da cobertura do plano            Numérico     383 a 384
+                                                                 (2)
+
+22 – Abrangência Geográfica da cobertura do plano              Numérico     385 a 385
+                                                                  (01)
+
+23 – Tipo de contratação do plano                              Numérico     386 a 386
+                                                                  (01)
+
+
+
+                                                   - 36 -
+24 - Vínculo do beneficiário                                                      Numérico   387 a 388
+                                                                                    (02)
+
+25 - Motivo de cancelamento ou de suspensão do contrato                           Numérico   389 a 390
+                                                                                    (02)
+
+26 – Indicação de existência de Cobertura Parcial Temporária                      Numérico   391 a 391
+                                                                                    (1)
+
+27 - Indicação de existência de co-participação do beneficiário nas despesas de   Numérico   392 a 392
+atendimento ou franquia                                                             (1)
+
+28 – Número do código do plano na operadora                                       Alfanum    393 a 422
+para planos anteriores à Lei nº 9.656/98                                            (30)
+
+29 - CNS – Cartão Nacional de Saúde – do beneficiário                             Numérico   423 a 437
+                                                                                    (15)
+
+30 – Carteira de identidade do beneficiário                                       Alfanum    438 a 467
+                                                                                    (30)
+
+31 – Órgão emissor da carteira de identidade do beneficiário                      Alfanum    468 a 497
+                                                                                    (30)
+
+32 – Código do país emissor da carteira de identidade do beneficiário             Numérico   498 a 500
+                                                                                    (03)
+
+33 – CNPJ – Cadastro Nacional de Pessoa Jurídica – da empresa onde trabalha o     Numérico   501 a 514
+beneficiário titular
+                                                                                    (14)
+
+34. Código do titular do plano para beneficiários informados como dependentes.    Alfanum    515 a 544
+                                                                                    (30)
+
+35. Indicação de itens de procedimentos excluídos da Cobertura                    Numérico   545 a 545
+                                                                                    (01)
+
+36. Data de adaptação ou de migração                                              Numérico   546 a 554
+                                                                                    (08)
+
+
+
+
+                                              ANEXO IV
+Glossário
+       Arquivo de atualização de dados – Enviado à ANS pelas operadoras. Contém as
+          alterações ou correções de dados cadastrais dos beneficiários, bem como inclusões,
+          reinclusões e exclusões, ocorridas na respectiva competência mensal ou a inexistência
+          das mesmas.
+
+
+
+                                                  - 37 -
+   Arquivo de conferência – Disponibilizado às operadoras pela ANS, mediante
+     solicitação. Contém a situação cadastral dos beneficiários, registrada na base de dados
+     da ANS até o último movimento de atualização cadastral enviado pelas operadoras e
+     processado com êxito pela ANS. É um instrumento que avalia a paridade cadastral e
+     estará disponível às operadoras em diretório específico das operadoras entre o 20º dia
+     e o último dia de cada mês.
+   Arquivo de devolução – Disponibilizado para às operadoras pela ANS. Contém o
+     resultado da recepção do arquivo de atualização correspondente e de seu
+     processamento: identificação dos erros e o número de registros transmitidos, incluídos,
+     alterados e rejeitados no processamento dos dados do arquivo de atualização
+     correspondente. Estará disponível às operadoras em diretório específico da operadora
+     entre o 20º dia e o último dia de cada mês ou imediatamente na hipótese de o arquivo
+     de atualização de dados ser rejeitado por não obedecer à formatação definida pela
+     ANS.
+   Arquivo formato texto - formato de arquivo para representação de dados
+     alfanuméricos, possível de ser lido de um modo que seja independente do software de
+     aplicação original, usado para criar os textos.
+   Dados cadastrais - conjunto de dados que identificam os beneficiários da operadora e
+     caracterizam os planos privados de assistência à saúde por eles utilizados.
+   Geração de arquivos - procedimentos para agrupar em meio magnético dados
+     cadastrais de beneficiários, atualizados numa determinada competência mensal, e
+     prepará-los para serem transmitidos à ANS.
+   Número de código do plano na ANS - identificação do plano privado de assistência à
+     saúde junto à ANS.
+   Número de código do plano na operadora - identificação, atribuída pela operadora,
+      ao plano privado de assistência à saúde contratado antes da vigência da Lei 9.656/98.
+   Transmissão de arquivos – procedimento de envio, pela rede de telecomunicações,
+     de arquivos gerados em meio magnético a um computador receptor.
+   Tipo de vínculo de beneficiário – identifica se o beneficiário é titular do plano de saúde
+     contratado ou se é dependente, agregado ou outro tipo de vínculo.
+
+
+
+
+                                           - 38 -
+

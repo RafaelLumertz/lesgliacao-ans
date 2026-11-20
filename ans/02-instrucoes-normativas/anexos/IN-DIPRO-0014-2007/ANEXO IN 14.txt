@@ -1,0 +1,540 @@
+    MONITORAMENTO E AVALIAÇÃO DOS PROGRAMAS DE PROMOÇÃO DA SAÚDE E PREVENÇÃO DE RISCOS
+                              DOENÇAS NA SAÚDE SUPLEMENTAR
+
+  BLOCO I - IDENTIFICAÇÃO DA OPERADORA
+
+         VARIÁVEL                               CAMPO DE PREENCHIMENTO
+  Nº de registro da
+1 operadora na ANS
+  Razão / Denominação
+2 Social
+  Nome do coordenador
+3 médico
+
+  BLOCO II - PROGRAMA DE PROMOÇÃO DA SAÚDE E PREVENÇÃO DE RISCOS E DOENÇAS
+                                      CARACTERIZAÇÃO DO PROGRAMA
+
+         VARIÁVEL                               CAMPO DE PREENCHIMENTO
+  Área de Atenção à
+1 Saúde
+  Denominação do
+2 programa
+  Local de
+  desenvolvimento do
+3 programa
+  Coordenador do
+4 programa
+  Profissão e formação
+  acadêmica do
+  coordenador do
+5 programa
+  Endereço eletrônico do
+  coordenador do
+6 programa
+   Doença, problema ou
+   situação relacionada à
+ 7 saúde
+   prevalência utilizada
+   para a doença ou
+   problema relacionado à
+   saúde ou estimativa da
+   população caracterizada
+   por faixa etária ou fases
+ 8 da vida
+   Data de início das
+ 9 atividades
+   Justificativa para
+   implantação do
+10 programa
+
+11 Objetivos do programa
+12 População alvo
+   Número de indivíduos
+   identificados dentro da
+13 população alvo
+   Forma de captação dos
+   participantes do
+14 programa
+
+                                   AVALIAÇÃO DO PROGRAMA
+
+                               1. Atividades desenvolvidas
+      Nome da Atividade            Descrição da Atividade    Nº de Atividades/Benef./Ano
+A1
+A2
+A3
+A4
+An
+   2   Forma(s) de registro dos dados para avaliação do programa
+
+
+                                        3. Indicadores utilizados para avaliação
+                                         3.1. Denominação do(s) indicador(es)
+IND1
+IND2
+IND3
+IND4
+INDn
+
+
+                                       3.2. Acompanhamento do(s) indicador(es)
+                                                                                               Meta proposta para
+                                                                                                  31/12/2007
+         Indicador                       Meta inicial                 Resultado do Indicador
+IND1
+IND2
+IND3
+IND4
+INDn
+OBSERVAÇÕES
+                              GLOSSÁRIO
+
+
+
+A - COMO PREENCHER O ARQUIVO DE ENVIO DO PROGRAMA:
+
+
+BLOCO I - IDENTIFICAÇÃO DA OPERADORA
+
+1. Nº de registro da operadora na Agência Nacional de Saúde
+   Suplementar (ANS): Número de 06 (seis) dígitos, que identifica a
+   operadora junto a ANS.
+
+2. Razão / Denominação Social: Este campo deve ser preenchido com a
+   razão ou denominação social da operadora, sem abreviaturas.
+
+3. Nome do coordenador médico: É o nome do coordenador médico
+   perante a ANS.
+
+
+
+BLOCO II - PROGRAMA DE PROMOÇÃO DA SAÚDE E PREVENÇÃO DE
+RISCOS E DOENÇAS
+
+
+                   CARACTERIZAÇÃO DO PROGRAMA
+
+1. Área de atenção à saúde: É a especificação da área de atenção que será
+abordada pelo programa. Pode ser: Saúde do Adulto e do Idoso, Saúde da
+Criança e do Adolescente, Saúde da Mulher, Saúde Mental, Saúde Bucal e
+Fatores de Risco.
+
+2. Denominação       do programa: Informar o nome do programa,
+representado pelo conjunto de atividades de promoção da saúde e prevenção
+de riscos e doenças aprovados, segundo critérios da RN 94/05 e IN 10/05.
+
+3. Local(is) de desenvolvimento do programa: Informar o(s) local(s) de
+abrangência do Programa, ou seja, o(s) município(s) e unidade(s) de
+federação no(s) qual(is) o Programa é desenvolvido.
+
+4. Coordenador do programa: É o profissional de saúde responsável pela
+coordenação técnica dos programas de promoção da saúde e prevenção de
+riscos e doenças da operadora.
+
+5. Formação   acadêmica do coordenador do programa: Informar a
+formação acadêmica do coordenador do programa (graduação, pós-graduação
+etc.).
+6. Endereço    eletrônico do coordenador do programa: Informar o
+endereço eletrônico para contato com o coordenador do programa, bem como
+endereço eletrônico fixo da área responsável pelo programa.
+
+7. Doença, problema ou situação relacionada à saúde: É a descrição da
+doença, problema ou situação relacionada à saúde abordada pelo programa,
+bem como os critérios para a inclusão de beneficiário no Programa.
+
+Exemplos da doença, problema ou situação relacionada à saúde da
+área de atenção saúde da criança e do adolescente:
+
+  •   Aleitamento Materno: Voltado para todas as crianças até 02 anos de
+      idade;
+  •   Baixo Peso ao Nascer: Voltado para toda a população de neonatos com
+      peso ≤ 2,50kg;
+  •   Acompanhamento da Imunização: Voltado para todas as crianças até 05
+      anos de idade;
+  •   Asma Brônquica: Voltado para todas as crianças com o diagnóstico de
+      Asma Brônquica.
+  •   Infecções Respiratórias Agudas Repetidas – IRA: Voltado para as
+      crianças com o diagnóstico de IRA repetidas
+
+Exemplos da doença, problema ou situação relacionada à saúde da
+área de atenção saúde do adulto e do idoso:
+
+
+  •   Hipertensão Arterial: Voltado para o acompanhamento de indivíduos
+      com diagnóstico de Hipertensão Arterial;
+  •   Diabetes Mellitus: Voltado para o acompanhamento de pacientes com
+      diagnóstico de Diabetes Mellitus;
+  •   Patologias crônicas não transmissíveis graves (Diabetes Mellitus +
+      Hipertensão Arterial): Voltado para pacientes com diabetes ou
+      hipertensão grave com ou sem co-morbidades, de difícil controle;
+  •   Idosos: Voltado para o acompanhamento do conjunto de beneficiários
+      da carteira com idade maior ou igual a 65 anos de idade;
+  •   Idosos com autonomia prejudicada: Voltado para o acompanhamento de
+      pacientes acima de 65 anos de idade, com autonomia prejudicada, que
+      necessitam de atenção intensiva;
+  •   Atenção Domiciliar (AD): Voltado para o conjunto total de indivíduos
+      portadores de patologias crônicas graves que se enquadrem nos critérios
+      para AD.
+
+
+Exemplos da doença, problema ou situação relacionada à saúde da
+área de atenção saúde da mulher:
+
+  •   Rastreamento da Neoplasia Maligna de Mama: Voltado para toda a
+      população feminina na faixa etária de risco;
+  •   Neoplasia Maligna de Mama/Reabilitação: Voltado para mulheres que
+      sofreram mastectomia; secundária a Neoplasia Maligna de mama;
+  •   Rastreamento da Neoplasia Maligna de Colo de Útero: Voltado para toda
+      a população feminina da carteira na faixa etária de risco;
+  •   Prevenção do Vírus do Papiloma Humano (HPV): Voltado para
+      adolescentes e mulheres adultas;
+  •   Estímulo ao Parto Natural e Nascimento Saudável: Voltado para todas as
+      gestantes da carteira de beneficiários.
+
+Exemplos da doença, problema ou situação relacionada à saúde da
+área de atenção saúde mental:
+
+  •   Depressão Unipolar: Voltado para indivíduos com diagnóstico de
+      depressão unipolar, acima de 20 anos de idade;
+  •   Alcoolismo e uso de drogas: Voltado para indivíduos com diagnóstico de
+      abuso ou dependência de álcool ou drogas;
+  •   Prevenção do alcoolismo e uso de drogas: abordagem educativa voltada
+      para o conjunto de beneficiários da carteira ou de uma empresa.
+
+Exemplos da doença, problema ou situação relacionada à saúde da
+área de atenção saúde bucal:
+
+  •   Doença Periodontal: Voltado para o conjunto de beneficiários da carteira
+      na faixa etária acima de 40 anos;
+  •   Doença Cárie: Voltado para crianças e jovens entre 06 e 21 anos de
+      idade;
+  •   Câncer Bucal: Voltado para o conjunto de beneficiários da carteira
+      portadores de prótese móvel com idade acima de 40 anos.
+
+
+Exemplos da doença, problema ou situação relacionada à saúde da
+área de atenção fatores de risco:
+
+  •   Tabagismo - Abandono do Hábito de Fumar: Voltado para indivíduos
+      fumantes;
+  •   Tabagismo/Prevenção Primária: abordagem voltada para o conjunto de
+      beneficiários da carteira ou de uma empresa, fumantes ou não
+      fumantes;
+  •   Obesidade: Voltado para o conjunto de beneficiários da carteira com IMC
+      ≥ 30kg/m2;
+  •   Alimentação Saudável: Abordagem educativa voltada para o conjunto de
+      beneficiários da carteira ou de uma empresa;
+  •   Sedentarismo/Estimulo à Prática de Atividades Físicas: Abordagem
+      voltada para o conjunto de beneficiários da carteira ou de uma empresa;
+  •   DST/AIDS: Voltado para adolescentes e adultos jovens da carteira.
+8. Estimativa       de    prevalência     utilizada     para    a     doença
+ou problema relacionado à       saúde    ou    estimativa    da   população
+caracterizada por faixa etária ou fases da vida: É o número estimado de
+casos existentes da doença, problema ou situação relacionada à saúde na
+população alvo, segundo referências reconhecidas ou a totalidade de indivíduos
+dentro de uma faixa etária de risco para uma determinada doença ou ainda a
+totalidade de indivíduos em uma determinada fase da vida da população alvo.
+Desse modo, quando o programa destinar-se a populações específicas,
+corresponderá ao quantitativo efetivo ou à estimativa daquela população entre
+a população alvo. A operadora deve informar a estimativa de prevalência e a
+referência utilizada.
+
+OBS: PREVALÊNCIA: O número de casos existentes, ou seja, a casuística de
+uma determinada doença, problema ou situação relacionada à saúde, que se
+destaca por seus valores maiores que zero sobre os eventos de saúde ou não-
+doença, em uma determinada população e em um dado momento do tempo.
+
+9. Data de início das atividades: Informar a data (dia, mês e ano) de início
+de realização das atividades do programa de promoção da saúde e prevenção
+de riscos e doenças.
+
+10. Justificativa para implantação do programa: Descrever os motivos
+pelos quais a operadora formulou e implantou o programa.
+
+11.  Objetivos do programa: Descrever os principais objetivos a serem
+alcançados pelo programa.
+
+12.   População alvo: É o número de indivíduos que estão sob a
+responsabilidade da operadora no que tange à atenção à saúde, no período de
+avaliação, ou seja, os indivíduos para os quais a operadora deve garantir todas
+as ações necessárias à promoção da saúde e à prevenção de riscos e doenças.
+Devem ser considerados os beneficiários próprios da operadora cuja
+responsabilidade da atenção não foi repassada, mediante contrato, a outra
+operadora e aqueles beneficiários de outras operadoras, cuja responsabilidade
+da atenção foi assumida pela operadora, também mediante contrato. Dada a
+relevância das ações de promoção e prevenção, quanto ao impacto na
+diminuição de custos e de aumento da efetividade do cuidado, recomenda-se
+não serem considerados os prazos de carência.
+
+13.   Número de indivíduos identificados dentro da população alvo: É o
+número de indivíduos que a operadora conseguiu identificar dentro da sua
+população alvo como portadores da doença, problema ou situação ligada à
+saúde ou pertencentes a uma faixa etária de risco de uma doença, problema
+ou situação ligada à saúde ou ainda pertencente a uma fase da vida. Esses
+indivíduos podem ou não estar participando do programa e devem constar em
+um cadastro específico para controle da operadora.
+14.   Forma de captação dos participantes do programa: Especificar como
+é realizado o contato com a população alvo para alocação dos beneficiários nos
+programas de promoção da saúde e prevenção riscos e doenças. Ex:
+diagnóstico epidemiológico; freqüência de utilização; exames periódicos de
+saúde; palestras em empresas; chamadas através de folder ou através do sítio
+da operadora, indicação para participação nos programas através dos
+prestadores credenciados e referenciados; demanda espontânea etc.
+
+
+
+                           AVALIAÇÃO DO PROGRAMA
+
+1. Atividades desenvolvidas: Refere-se à descrição da atividade, do nome
+da atividade e do número de atividade/beneficiário/ano, conforme descrito
+abaixo. Informar a realização de consultas; exames, palestras; imunizações;
+grupos (operativos, de auto-ajuda, terapêuticos e outros); atividades
+multidisciplinares (atividades físicas e lúdicas), envio de material informativo
+sobre saúde, entre outros.
+
+      •   Nome da Atividade: É o nome da atividade/procedimento
+          desenvolvida/preconizado para o programa (consultas, atividades em
+          grupo, exames, imunização, entre outros).
+
+      •   Descrição da Atividade:        Descrever   em   detalhes   as   ações
+          desenvolvidas pelo programa.
+
+      •   Número de Atividades/Beneficiário/Ano: É a freqüência prevista
+          para realização da atividade, por beneficiário, durante o ano.
+
+OBS: As atividades podem ser desenvolvidas periodicamente durante todo o
+ano, não implicando que o beneficiário necessite participar obrigatoriamente de
+todas. Ex: Podem acontecer palestras semanais sobre alimentação saudável.
+Entretanto, o planejado para um determinado programa pode ser a
+participação de, no mínimo, 10 palestras/beneficiário/ano.
+
+2. Forma(s) de registro dos dados para avaliação do programa: Listar
+os meios utilizados para registrar dados referentes ao desenvolvimento do
+programa para fins de monitoramento e avaliação. Ex: fichas individuais em
+papel, software específico etc.
+
+3. Indicadores utilizados para avaliação: São as medidas/síntese para
+avaliação do programa, tais como: razões proporções ou taxas; construídos a
+partir de variáveis coletadas nos programas com o objetivo de monitorar as
+ações implementadas do ponto de vista epidemiológico, de estrutura e
+operação, gestão, de impacto financeiro etc.
+
+          3.1. Denominação do(s) indicador(es): Refere-se ao nome do
+          indicador a ser utilizado no programa. O nome do indicador é composto
+     de duas partes: i) Medida (taxa, proporção, razão) e ii) a Variável
+     Analisada. Devem ser definidos os nomes do numerador e do
+     denominador.
+
+     3.2. Acompanhamento do(s) indicador(es): Refere-se à descrição
+     do indicador, da meta inicial, do resultado do indicador e da meta
+     proposta para 31/12/2007, conforme descrito abaixo.
+
+           • Indicador: É a medida/síntese com informação relevante sobre
+           determinados atributos e dimensões do estado de saúde.
+
+           • Meta inicial: Refere-se à meta proposta quando da aprovação
+           do programa pela ANS.
+
+           • Resultado do indicador: Resultado obtido a partir do cálculo
+           do indicador.
+
+           • Meta proposta para 31/12/2007: É a meta que se pretende
+           alcançar em 31/12/2007.
+
+
+OBSERVAÇÕES: A operadora poderá acrescentar qualquer observação
+necessária ao entendimento do desenvolvimento do programa avaliado.
+
+
+B - COMO NOMEAR O ARQUIVO DE ENVIO DO PROGRAMA:
+
+
+1.     Nomear     o    arquivo    com     o     seguinte     formato:
+999999_XXX_DDMMAAAA.APP; no qual 999999 é o número de registro da
+operadora na ANS, XXX são as letras para identificação do programa,
+DDMMAAAA é o dia, mês e ano de envio dos dados e APP é a identificação
+interna do arquivo na ANS - Avaliação dos Programas de Promoção e
+Prevenção.
+
+
+     1.2 Para fins de preenchimento, as letras XXX, que são a
+identificação da doença, problema ou situação relacionada à
+saúde do programa poderão conter entre três e quatro dígitos.
+Segue quadro orientador.
+   DOENÇA , PROBLEMA OU
+                               IDENTIFICAÇÃO DO
+  SITUAÇÃO RELACIONADA À                                    MODALIDADE DO PROGRAMA
+                                   ARQUIVO
+          SAÚDE
+
+
+    ATENÇÃO DOMICILIAR               ADO           ATENÇÃO DOMICILIAR OU ASSISTÊNCIA DOMICILIAR
+
+
+
+ATENÇÃO DOMICILIAR - FERIDAS        ADOF                   ATENÇÃO DOMICILIAR - FERIDAS
+
+
+
+ CÂNCER DE MAMA E COLO DE
+                                     CMU                NEOPLASIA DE MAMA E COLO DE ÚTERO
+          ÚTERO
+
+
+                                                  NEOPLASIA DE COLO DE ÚTERO, CÂNCER DE COLO DE
+ CÂNCER DE COLO DE ÚTERO             CAU            ÚTERO, PROGRAMA PARA NEOPLASIA DE COLO
+                                                                     UTERINO
+
+                                                     NEOPLASIA DE CÓLON, RETO E PRÓSTATA OU
+ CÂNCER DE CÓLON, RETO E
+                                     CRP           NEOPLASIA DE CÓLON E RETO, CÂNCER DE CÓLON,
+       PRÓSTATA
+                                                                 RETO E PRÓSTATA
+
+
+                                                     PREVENÇÃO DO CÂNCER DE MAMA FEMININO,
+      CÂNCER DE MAMA                 CAM
+                                                          NEOPLASIA DE MAMA FEMININA
+
+
+
+
+                                                   NEOPLASIA DE PRÓSTATA, CÂNCER DE PRÓSTATA,
+   CÂNCER DE PRÓSTATA                CAP
+                                                    DETECÇÃO PRECOCE DE CÂNCER DE PRÓSTATA
+
+
+
+
+                                                   NEOPLASIAS GERAIS, PREVENÇÃO DE NEOPLASIAS
+       CÂNCER GERAL                  CAG             (EXCLUINDO OS PROGRAMAS REFERENTES À
+                                                     NEOPLASIAS ESPECÍFICAS DESCRITAS ACIMA)
+
+
+
+                                                    DIABETES MELITOS, PREVENÇÃO E CONTROLE DA
+                                                    DIABETES MELLITUS, GRUPO DE APOIO A ADULTOS
+                                                  DIABÉTICOS, GRUPO DE PREVENÇÃO E EDUCAÇÃO EM
+     DIABETES MELLITUS               DMT
+                                                     DIABETES, CONVIVER COM DIABETES, GRUPO DE
+                                                     APOIO A ADULTOS DIABÉTICOS, EM DIA COM SEU
+                                                                      DIABETES
+
+
+     DOENÇA PULMONAR                                DPOC, PROGRAMA DE REABILITAÇÃO PULMONAR,
+                                    DPOC
+    OBSTRUTIVA CRÔNICA                               DOENÇAS RESPIRATÓRIAS CRÔNICAS - ADULTO
+
+
+
+                                                     GESTANTE, PROGRAMA EM SAÚDE MATERNA,
+                                                   PROGRAMA GESTAR BEM, GRUPO DE GESTANTES,
+         GESTANTE                    GST
+                                                     PERINATAL, ACOMPANHAMENTO PRÉ-NATAL,
+                                                            MATERNO, GERANDO VIDA
+
+
+                                                  GESTANTE E BEBÊ, BEBÊ E VOCÊ, MATERNO-INFANTIL,
+     GESTANTE E BEBÊ                 GSB              APOIO À GESTANTE E AO RECÉM-NASCIDO,
+                                                          PROGRAMA EM SAÚDE MATERNA
+  DOENÇA , PROBLEMA OU
+                             IDENTIFICAÇÃO DO
+ SITUAÇÃO RELACIONADA À                                   MODALIDADE DO PROGRAMA
+                                 ARQUIVO
+         SAÚDE
+
+                                                  HIPERTENSÃO ARTERIAL, PROJETO TRIAGEM E
+                                                 CONTROLE AO PACIENTE HIPERTENSO, CONVIVER
+  HIPERTENSÃO ARTERIAL             HAS
+                                                   COM A HIPERTENSÃO, PROGRAMA GRUPO DE
+                                                                HIPERTENSÃO
+
+
+                                                   HIPERTENSÃO ARTERIAL E DIABETES MELITOS,
+  HIPERTENSÃO ARTERIAL E                        TRANSTORNOS CARDIOVASCULARES RELACIONADOS
+                                   HAD
+     DIABETES MELITOS                           A DIABETES E HAS, ATENDIMENTO GERENCIADO PARA
+                                                            HIPERTENSÃO E DIABETES,
+
+
+                                                   BEBÊ, BABY CARE, SAÚDE INFANTIL, CRIANÇA
+         INFANTIL                  INF             SAUDÁVEL, OBEDIDADE INFANTIL, INFECÇÕES
+                                                   RESPIRATÓRIAS - INFATIL, ASMA, IMUNIZAÇÃO,
+
+
+
+INSUFICIÊNCIA RESPIRATÓRIA        IRESP                   INSUFICIÊNCIA RESPIRATÓRIA
+
+
+
+
+                                                  OBESIDADE, PROGRAMA PARA USUÁRIOS COM
+        OBESIDADE                  OBS            SOBREPESO E OBESIDADE, GRUPO DE APOIO A
+                                                             PACIENTES OBESOS
+
+
+
+
+   OBESIDADE - INFANTIL           OBINF                       OBESIDADE INFANTIL
+
+
+
+
+                                                   SAÚDE BUCAL, PREVENÇÃO EM SAÚDE BUCAL,
+       SAÚDE BUCAL                 SBU
+                                                          EDUCAÇÃO EM SAÚDE BUCAL
+
+
+
+  SAÚDE BUCAL - GESTANTE           SBG                     SAÚDE BUCAL - GESTANTE
+
+
+
+
+                                                 PROGRAMA DE PLANEJAMENTO FAMILIAR, APOIO A
+     SAÚDE DA MULHER               SMU
+                                                  PACIENTES MASTECTOMIZADAS, OSTEOPOROSE
+
+
+                                                DIAGNÓSTICO PRECOCE, DISLIPIDEMIAS, GESTÃO DA
+                                                SAÚDE, DOR CRÔNICA, COLUNA, GERENCIAMENTO DE
+SAÚDE DO ADULTO E DO IDOSO         SAI
+                                                       DOENÇAS CRÔNICAS, ALTA PRECOCE.
+
+
+
+      SAÚDE MENTAL                 SMT                DEPRESSÃO, ESTRESSE, AUTO AJUDA
+
+
+
+                                                      CONTROLE DO ALCOOLISMO E OUTRAS
+  SAÚDE MENTAL - DROGAS            SMD
+                                                           DEPENDÊNCIAS QUÍMICAS
+
+
+        TABAGISMO                  TAB                            TABAGISMO
+                                         IDOSO, ASSISTÊNCIA AO IDOSO, TERCEIRA IDADE,
+      TERCEIRA IDADE          TID
+                                            DOENÇAS CRÔNICAS NA TERCEIRA IDADE
+
+
+
+                                        TRANSTORNO CARDIOVASCULAR – EXCETO DIABETES
+TRASTORNO CÁRDIOVASCULAR      TCV
+                                            E HIPERTENSÃO, INSUFICIÊNCIA CARDÍACA.
+
+
+
+TRASTORNO CÁRDIOVASCULAR –
+                             TCVIAM             INFARTO AGUDO DO MIOCÁRDIO
+INFARTO AGUDO DO MIOCÁRDIO
+
+
+
+
+  Ex: O programa da operadora fictícia Machado de Assis, com registro
+  na ANS 111111, chama-se Vida Saudável, mas é destinado aos
+  portadores de diabetes e hipertensão arterial. Foi enviado no dia 21 de
+  agosto de 2007 à ANS. Assim, a operadora deverá nomear o arquivo da
+  seguinte maneira: 111111_HAD_21082007.APP
+

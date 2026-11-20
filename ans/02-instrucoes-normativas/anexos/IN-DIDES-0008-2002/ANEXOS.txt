@@ -1,0 +1,1134 @@
+                                         ANEXOS
+                                     da IN/DIDES nº 8
+
+
+
+                           Instrução Normativa - IN/DIDES 08
+                 AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR
+                   DIRETORIA DE DESENVOLVIMENTO SETORIAL
+          INSTRUÇÃO NORMATIVA Nº 7, DE 26 DE DEZEMBRO DE 2002*
+     Retificação na numeração da IN 07 p/ IN 08, publicada em D.O.U. de 31/12/2002.
+                                         ANEXOS
+
+
+ANEXO 1 - Calendário de eventos de encaminhamento de dados cadastrais de beneficiários e
+de retirada de arquivos de devolução e de conferência.
+ANEXO 2 - Orientações para o encaminhamento de informações e transmissão de arquivos de
+dados do cadastro de beneficiários:
+Orientações para obtenção de senhas individuais;
+Orientações para obtenção e instalação do aplicativo do Sistema de Informações de
+Beneficiários – SIB;
+Orientações para utilização do aplicativo do Sistema de Informações de Beneficiários – SIB;
+Orientações para a retirada dos arquivos de devolução e de conferência.
+ANEXO 3 - Formato e descrição dos arquivos de dados de beneficiários, de operadoras
+administradas, de devolução e de conferência:
+Do arquivo de transmissão com o registro de beneficiários;
+Do arquivo de transmissão das operadoras classificadas como administradoras;
+Do arquivo de devolução de registro de beneficiários;
+Do arquivo de devolução das operadoras classificadas como administradoras;
+Do arquivo de conferência de dados de beneficiários;
+Do arquivo de conferência de dados das operadoras classificadas como administradoras.
+ANEXO 4 – Glossário.
+
+
+
+ANEXO 1 - Calendário de eventos de encaminhamento de dados cadastrais de beneficiários e
+de retirada de arquivos de devolução e conferência
+
+
+EVENTOS                                        PRAZO
+
+
+
+                                             -1-
+Primeiro encaminhamento de dados                    Até 60 dias após concedido o registro da
+                                                    operadora pela ANS.
+
+Encaminhamento do arquivo de atualização referente Até o dia 10 de cada mês.
+aos eventos (alterações, correções, inclusões,
+reinclusões ou exclusões) ocorridos até o último dia do
+mês imediatamente anterior.
+
+Retirada do arquivo de devolução                    Entre o 20º dia e o último dia de cada mês
+
+Retirada do arquivo de conferência                  Entre o 20º dia e o último dia de cada mês.
+
+
+
+ANEXO 2 – Orientações para o encaminhamento de informações e transmissão de arquivos
+de dados do cadastro de beneficiários
+2.1. Orientações para obtenção de senhas individuais
+Para obter a senha individual a operadora deverá encaminhar solicitação formal à Diretoria de
+Desenvolvimento Setorial da ANS – DIDES/ANS, com identificação da operadora pela razão
+social, pelos números do CNPJ e do registro junto à ANS, com endereço completo e firmada
+pelo representante legal da operadora.
+A DIDES/ANS, no prazo de 3 (três) dias úteis após protocolada a solicitação, enviará ao
+representante legal, por Aviso de Recebimento, a senha.
+Em caso de perda ou necessidade de alteração da senha, solicitar nova senha, procedendo de
+acordo com as orientações acima.
+2.2. Orientações para obtenção e instalação do aplicativo do Sistema de Informações de
+Beneficiários – SIB
+O arquivo contendo o aplicativo do SIB encontra-se disponível no endereço
+http://www.ans.gov.br na Internet. Para proceder à instalação do aplicativo do SIB, a
+operadora deverá cumprir os seguintes passos:
+baixar o arquivo que contém o aplicativo do SIB – programa INSTALA_SIB.ZIP;
+descompactar o arquivo; e
+executar o programa INSTALA_SIB.EXE no diretório onde foi salvo o arquivo. Esse
+programa realizará automaticamente as seguintes rotinas:
+criação de um diretório ANS/SIB, no local de destino;
+instalação dos programas de digitação de dados, geração e transmissão de arquivos e outros
+programas auxiliares, no diretório ANS/SIB; e
+criação, no mesmo local de destino, do diretório BANCO/ANS, onde serão armazenados os
+dados cadastrais.
+O aplicativo do SIB poderá ser utilizado logo após a sua instalação.
+2.3. Orientações para utilização do aplicativo do Sistema de Informações de Beneficiários –
+SIB
+O aplicativo do SIB é constituído por quatro funções principais:
+
+
+
+                                                  -2-
+Cadastro – para a digitação e gravação de dados de beneficiários da operadora ou de dados
+das operadoras administradas;
+Relatório – para a emissão de relatórios informativos dos dados dos beneficiários da
+operadora e dos dados das operadoras administradas;
+Conclusão – para a geração, validação e transmissão de arquivos de dados. É de uso
+obrigatório para validação e transmissão de arquivos; e
+Utilitário – para converter os dados dos beneficiários armazenados no aplicativo CADBENEF
+para o aplicativo do SIB.
+2.3.1. A função Cadastro poderá ser utilizada pela operadora para digitar e gravar os dados
+dos beneficiários ou das operadoras administradas e as correspondentes atualizações
+cadastrais, quando for o caso, dispensado o seu uso para todas as operadoras que utilizarem
+aplicativos próprios de cadastramento.
+Para utilizar a função Cadastro para a digitação e gravação de dados de beneficiários, a
+operadora deverá selecionar a subfunção Cadastrar Beneficiário, e informar:
+código do beneficiário na operadora;
+tipo de vínculo do beneficiário (titular, dependente, agregado ou outra forma de vínculo);
+opção de atualização cadastral:
+incluir – para novos registros de dados cadastrais de beneficiários;
+alterar – para as correções, reinclusões (preenchimento da data de reinclusão de um registro
+de beneficiário suspenso ou cancelado) e alterações de dados de beneficiários já cadastrados;
+excluir – para o cancelamento ou suspensão dos registros de dados de beneficiários já
+cadastrados;
+demais dados cadastrais do beneficiário, de acordo com o formato e descrição especificados
+no Anexo 3 desta Instrução Normativa.
+Se a operadora for registrada na ANS como administradora, deverá, em assim o desejando,
+selecionar a subfunção Cadastrar Operadora Administrada na função Cadastro e digitar os
+dados das operadoras administradas, e as correspondentes atualizações cadastrais, quando for
+o caso, de acordo com o formato e descrição especificados no item 3.2 do Anexo 3 desta
+Instrução Normativa, informando:
+número de registro da operadora administrada na ANS;
+opção de atualização cadastral (incluir, alterar e excluir);
+razão social da operadora administrada;
+CNPJ da operadora administrada; e
+número total de beneficiários ativos existentes na operadora administrada.
+Após a digitação dos dados, selecionar a subfunção Verificar Preenchimento dos Campos para
+realizar crítica dos dados digitados. O aplicativo do SIB apresentará mensagens relativas aos
+erros de preenchimento dos campos que porventura tenham ocorrido para que a operadora
+proceda as correções correspondentes. Finda a verificação, os dados serão automaticamente
+gravados no banco de dados (diretório BANCO/ANS) e se concluirá a utilização da função
+Cadastro.
+2.3.2. Para utilizar a função Relatório a operadora deverá selecionar o relatório desejado e
+executar as opções disponíveis.
+                                                -3-
+2.3.3. Para utilizar a função Conclusão a operadora deverá proceder:
+A - Gerar Arquivos de Dados
+Esta subfunção é necessária para a transmissão de arquivos de dados e é obrigatória para todas
+as operadoras que utilizarem a função Cadastro, dispensado o seu uso para as operadoras que
+utilizarem aplicativos próprios de cadastramento.
+Para gerar um arquivo de dados:
+selecionar a subfunção Gerar Arquivos de Dados;
+optar por Gerar Arquivo de Dados de Beneficiários ou Gerar Arquivo de Dados de
+Operadoras Administradas; e
+executar a subfunção Gerar Arquivo de Dados.
+O aplicativo do SIB identificará automaticamente no banco de dados (diretório
+BANCO/ANS) se há ou não registros de beneficiários, de operadoras administradas ou de
+atualizações cadastrais ainda não transmitidos à ANS.
+Quando não houver atualização cadastral, registro de beneficiário cadastrado nem operadora
+administrada cadastrada, o aplicativo do SIB disponibilizará mensagem informando uma
+dessas ocorrências e solicitará a operadora a confirmação da ocorrência.
+Finda a identificação será gerado automaticamente um arquivo de dados para transmissão
+(arquivo de atualização), em formato padronizado de acordo com as especificações descritas
+no Anexo 3 desta Instrução Normativa, a ser validado e posteriormente transmitido à ANS.
+Este arquivo será gravado em diretório a ser criado pela operadora para este fim.
+O arquivo de dados para transmissão (arquivo de atualização) será gerado em formato texto,
+com a extensão SIB, identificado por XXXXXXAAAAMMDDHHMMSS.SIB onde
+XXXXXX corresponderá às 6 (Seis) posições do número de registro da operadora na ANS, e
+AAAA o ano, MM o mês, DD o dia, HH a hora, MM os minutos e SS os segundos relativos à
+data/horário da geração do arquivo.
+O formato padronizado e a identificação correspondente do arquivo de atualização deverão
+ser obrigatoriamente adotados por todas as operadoras que não utilizarem as funções Cadastro
+e Gerar Arquivo de Dados do aplicativo do SIB, para fins de validação e transmissão do
+arquivo de dados para a ANS.
+B - Validar Arquivo de Dados
+A subfunção Validar Arquivo de Dados é de uso obrigatório para todas as operadoras e é
+condição para a transmissão de dados para a ANS. Para utilizá-la, a operadora deverá
+proceder:
+selecionar a subfunção Validar Arquivo de Dados e optar por Validar Arquivo de Dados de
+Beneficiários ou Validar Arquivo de Dados de Operadoras Administradas;
+indicar qual o arquivo de dados a ser validado (arquivo de atualização) ou apontar para o
+arquivo de dados criado na aplicação da subfunção Gerar Arquivo de Dados; e executar a
+subfunção Validar Arquivo de Dados.
+Se não houver erros no processo de validação, o aplicativo emitirá mensagem indicando que o
+arquivo estará pronto para ser submetido a subfunção Transmitir Arquivos de Dados.
+Se houver erros no processo de validação, o aplicativo emitirá relatório com os erros
+identificados. Os erros identificados poderão ser acertados conforme a mensagem de erro
+correspondente, relativa a utilização de uma ou mais funções do aplicativo do SIB.
+                                             -4-
+C - Transmitir Arquivo de Dados
+Essa subfunção é de uso obrigatório para todas as operadoras. Só poderão ser transmitidos à
+ANS arquivos de dados submetidos com sucesso à subfunção Validar Arquivos de Dados.
+Para utilizá-la, a operadora deverá proceder:
+selecionar a subfunção Transmitir Arquivo de Dados;
+digitar a SENHA individual;
+indicar, no diretório criado anteriormente, o arquivo de atualização validado a ser transmitido
+para a ANS; e
+executar a subfunção Transmitir Arquivo de Dados.
+Finalizada a transmissão, será disponibilizada mensagem com informações sobre o envio do
+arquivo, especificamente que foi realizada com sucesso e que os dados transmitidos serão
+processados pela ANS.
+2.3.4. Para utilizar a função Utilitário:
+As operadoras que utilizam o aplicativo CADBENEF poderão realizar a migração dos dados
+dos beneficiários armazenados na base de dados desse aplicativo para a base de dados do
+aplicativo do SIB.
+Essa função realizará a migração do conteúdo da base de dados do aplicativo CADBENEF
+para o aplicativo do SIB e emitirá um relatório da conversão realizada. A função validará os
+dados convertidos e se houver erros o relatório trará mensagens correspondentes para que as
+operadoras procedam as devidas correções na nova base de dados.
+Para utilizá-la, a operadora deverá proceder:
+realizar cópia de segurança da base de dados a ser convertida;
+selecionar a subfunção Converter Arquivos de Dados;
+executar a subfunção Converter Arquivo de Dados; e
+concluída a conversão, selecionar a subfunção Relatório.
+A função Utilitário procederá a gravação da nova base de dados validada no banco de dados
+do aplicativo do SIB (diretório BANCO/ANS).
+2.4 Orientações para a retirada dos arquivos de devolução e de conferência
+Os arquivos de devolução e de conferência serão fornecidos pela ANS em formato texto. O
+arquivo de devolução terá o mesmo nome do arquivo de atualização transmitido, seguido da
+extensão     DVL.      O     arquivo   de     conferência     será   identificado    por
+ArqConfXXXXXXMMAAAA.zip, onde XXXXXX corresponderá às 6 (Seis) posições do
+número de registro da operadora na ANS e MM o mês e AAAA o ano, relativos ao mês e ano
+da geração do arquivo.
+Para obter os arquivos de devolução e de conferência, a operadora deverá proceder:
+acessar o endereço http://www.ans.gov.br, na Internet;
+selecionar a área de retirada de arquivos de devolução e de conferência;
+digitar a SENHA individual;
+selecionar o arquivo de escolha; e
+baixar o arquivo escolhido no diretório desejado.
+
+                                                -5-
+O ANEXO 3 desta Instrução Normativa define o formato e a descrição dos campos dos
+arquivos de devolução e de conferência.
+ANEXO 3 – Formato e descrição dos arquivos de dados de beneficiários, de operadoras
+administradas, de devolução e de conferência
+Contém as especificações do formato e descrição dos campos dos arquivos de dados de
+beneficiários, de operadoras administradas, de devolução e de conferência relativas às funções
+do aplicativo do SIB.
+3.1. Arquivo de Transmissão com Registro de Beneficiários - detalhamento do formato
+3.1.1 Linha do tipo - Header do Arquivo de transmissão com registros de beneficiários
+Tamanho do registro de header = 374 bytes
+
+
+Campo                                                               Tipo           Tamanho
+
+01. Número seqüencial da linha dentro do arquivo                    Numérico       07
+Valor: "0000001"
+
+02. Indicador de registro tipo header                               Numérico       01
+Valor: "0"
+
+03. Código do sistema preencher com "BENEF"                         Alfabético     05
+
+04. Data da geração do arquivo, no formato AAAAMMDD, onde Numérico                 08
+AAAA é o ano, MM o mês e DD o dia da geração do arquivo.
+
+05. Número de registro da operadora na ANS                          Numérico       06
+
+06. CNPJ da operadora                                               Numérico       14
+
+07. Número de seqüência do arquivo que está sendo                   Numérico       07
+enviado à ANS
+
+08. Reservado para a ANS; a versão do programa será colocada pelo Alfanumérico     03
+programa de crítica
+
+09. Identificação da modalidade da operadora                        Alfanumérico   01
+Valores: "A" - Operadora classificada como administradora
+"O" - Operadora com outra classificação
+
+10. Hora da geração do arquivo, no formato HHMMSS, onde HH é a Numérico            06
+hora, MM os minutos e SS os segundos relativos ao horário da
+geração do arquivo.
+
+11. Reservado para expansão                                         Alfanumérico   267
+
+12. Conteúdo ignorado pela ANS; pode ser utilizado pela operadora   Alfanumérico   49
+
+
+
+
+                                                    -6-
+3.1.2 Linhas dos tipos 1, 2 e 3 - Dados do beneficiário e do plano
+Tamanho do registro do beneficiário = 421 bytes
+
+
+Campo                                                            Tipo                     Tamanho
+
+Número seqüencial da linha dentro do arquivo                     Numérico                 07
+Valor: "Seqüencial da linha anterior mais1"
+
+02. Indicador de registro tipo detalhe                           Numérico                 01
+Valores: "1" - inclusão
+           "2" - alteração
+           "3" - exclusão
+
+03. Código de identificação do beneficiário na operadora         Alfanumérico             30
+
+04. Nome do Beneficiário                                         Alfanumérico             70
+
+05. Data de Nascimento, no formato AAAAMMDD, onde AAAA é o Numérico                       08
+ano, MM o mês e DD o dia
+
+06. Sexo                                                         Numérico                 01
+Valores: "3" - Feminino
+"1" - Masculino
+
+07. Número do CPF                                                Numérico                 11
+
+08. Número do PIS/PASEP ou do Cartão Nacional de                 Numérico                 11
+Saúde
+
+09. Nome da Mãe do Beneficiário                                  Alfanumérico             70
+
+10. Número de registro do plano na ANS, quando o plano enquadrar- Numérico                09
+se nos termos da Lei 9.656 de 1998, registrado em data posterior a
+01/01/1999
+
+11. Data de adesão do beneficiário ao plano, no formato Numérico                          08
+AAAAMMDD, onde AAAA é o ano, MM o mês e DD o dia
+
+12. Data de cancelamento ou suspensão do contrato do beneficiário, Numérico               08
+no formato AAAAMMDD, onde AAAA é o ano, MM o mês e DD o
+dia
+
+13. Data de reinclusão do beneficiário, no formato AAAAMMDD, Numérico                     08
+onde AAAA é o ano, MM o mês e DD o dia
+
+14. Logradouro do endereço de residência                         Alfanumérico,             50
+                                                                 vírgula, ponto, barra
+                                                                 ( / ), aspas ( " ), hífen
+                                                                 ( - ) e apóstrofo ( ‘ )
+
+15. Número do endereço de residência                             Alfanumérico             05
+
+                                                      -7-
+16. Complemento do endereço de residência                               Alfanumérico         15
+
+17. Bairro do endereço de residência                                    Alfanumérico         30
+
+18. Município de residência                                             Alfabético           30
+
+19. Unidade federativa do endereço; Valores: siglas das UF ou EX Alfabético                  02
+quando o beneficiário for residente no exterior
+
+20. Código de Endereçamento Postal - CEP - do                           Numérico           ou 08
+                                                                        00000000 quando for
+endereço de residência
+                                                                        beneficiário residente
+                                                                        no exterior
+
+21. Segmento assistencial de cobertura do plano, para planos Numérico, limitado              02
+contratados antes de 02/01/1999.
+                                                             aos valores listados
+Valores "01" ambulatorial
+"02" hospitalar com obstetrícia
+
+"03" hospitalar sem obstetrícia
+"04" odontológico
+"06" ambulatorial + hospitalar com obstetrícia
+"07" ambulatorial + hospitalar sem obstetrícia
+
+"08" ambulatorial + odontológico
+"10" hospitalar com obstetrícia + odontológico
+"11" hospitalar sem obstetrícia + odontológico
+"13" ambulatorial + hospitalar com obstetrícia odontológico
+"14" ambulatorial + hospitalar sem obstetrícia
+odontológico
+
+22. Abrangência geográfica da cobertura, para planos                    Numérico, limitado 01
+                                                                        aos valores listados
+contratados antes de 02/01/1999.
+Valores: "1" nacional
+"2" grupo de estados
+"3" - estadual
+
+"4" grupo de municípios
+"5" municipal
+"6" outros
+
+23. Tipo de contratação, para planos contratados antes de 02/01/1999.   Numérico, limitado 01
+                                                                        aos valores listados
+Valores: "1" individual ou familiar
+"2" coletivo empresarial
+
+"3" coletivo por adesão com patrocínio
+"4" coletivo por adesão sem patrocínio
+
+
+                                                       -8-
+24. Indicação de que o beneficiário é titular ou vinculado no plano a Numérico, limitado 01
+outro beneficiário                                                    aos valores listados
+Valores: "1" beneficiário titular
+"2" beneficiário é vinculado (dependente, agregado ou
+outra forma de vínculo)
+
+25. Motivo de cancelamento ou de suspensão do beneficiário da Numérico, limitado 02
+carteira da operadora                                         aos valores listados
+Valores: "01" Rompimento do contrato por iniciativa do
+Beneficiário
+"02" Término da relação de vinculado a um beneficiário
+
+"03" Desligamento da empresa (para planos coletivos)
+"04" Inadimplência
+"05" Óbito
+"06" Mudança de plano
+
+"07" Exclusão decorrente de mudança do código do beneficiário,
+motivada por adaptação de sistema da operadora
+"08" Transferência de carteira
+"09" Alteração do código do beneficiário
+"99" Outros
+
+26. Indicação de existência de Cobertura Parcial Temporária        Numérico, limitado 01
+                                                                   aos valores listados
+Valores: "1" existe Cobertura Parcial Temporária
+"2" não existe Cobertura Parcial Temporária
+
+27. Indicação de existência de co-participação do beneficiário nas Numérico, limitado 01
+despesas de atendimento ou franquia                                aos valores listados
+Valores: "1" existe co-participação do beneficiário
+"2" não existe co-participação do beneficiário
+
+28. Número de registro do plano na operadora, para planos Alfanumérico                  30
+comercializados antes de 02/01/1999
+
+
+
+3.1.3 Linha do Tipo 4 – Dados de Cobertura Parcial Temporária
+Tamanho do registro = 52 bytes
+
+
+Campo                                                              Tipo                 Tamanho
+
+01. Número seqüencial da linha dentro do arquivo                   Numérico             07
+Valor: "Seqüencial da linha anterior mais1"
+
+02. Indicador de registro tipo Cobertura Parcial Temporária        Numérico,      valor 01
+
+
+                                                        -9-
+Valor: "4"                                                           constante = 4
+
+03. Código do beneficiário na operadora                              Alfanumérico     30
+
+04. Número seqüencial da linha de Cobertura Parcial Temporária para Numérico          02
+o mesmo beneficiário
+
+05. Indicação dos itens do Rol de Procedimentos da ANS, que são Numérico, limitado 04
+excluídos da cobertura, quando da existência de Cobertura Parcial aos valores da tabela
+Temporária                                                        do       Rol      de
+                                                                  Procedimentos
+
+06. Data de término da Cobertura Parcial Temporária, no formato Numérico              08
+AAAAMMDD, onde AAAA é o ano, MM o mês e DD o dia
+
+
+
+Observação: Deverá ser remetida uma linha para cada grupo de patologias listado na tabela
+Rol de Procedimentos da ANS, quando estiver previsto em cláusula contratual.
+Linha do Tipo 5 – Dados dos Itens dos Procedimentos Excluídos da Cobertura de Planos
+contratados antes de 02/01/1999
+Tamanho do registro = 44 bytes
+
+
+Campo                                                                Tipo             Tamanho
+
+01. Número seqüencial da linha dentro do arquivo                     Numérico         07
+Valor: "Seqüencial da linha anterior mais1"
+
+02. Indicador de registro tipo Itens dos Procedimentos excluídos da Numérico, valor   01
+cobertura de planos contratados antes de 02/01/1999
+                                                                    constante = 5
+Valor: "5"
+
+03. Número seqüencial da linha de Itens de Procedimentos excluídos Numérico           02
+da cobertura de planos contratados antes de 02/01/1999
+
+04. Código do beneficiário na operadora                              Alfanumérico     30
+
+05. Indicação dos Itens dos Procedimentos Excluídos do Cobertura de Numérico, limitado 04
+Planos contratados antes de 02/01/1999                              aos valores listados
+Valores: "9001" Ambulatorial
+"9002" Hospitalar
+
+"9003" Odontologia Terapia Renal Substitutiva Hemodiálise – CAPD
+"9005" Tratamento de Câncer - Quimioterapia e Radioterapia
+"9006" Radiologia - Ressonância Magnética               Tomografia
+Computadorizada e Radiologia Intervencionista
+
+9007" Cirurgia Cardíaca-Hemodinâmica, Marca-Passo
+"9008" Cirurgia Videolaparoscópica ou Guiada por Vídeos
+"9009" Órtese e Prótese Relacionadas ao Procedimento Cirúrgico
+
+                                                   - 10 -
+"9010" Saúde Mental - Resolução CONSU nº11/1998
+
+"9011" Transplante Renal e de Córnea
+"9012" Tratamento de Doenças Infectocontagiosas e Congênitas
+"9013" Doenças (qualquer)
+"9014" Limite de quantidade
+"9015" Outros
+
+
+
+Linha do tipo 6 – Inexistência de beneficiários ou de atualização cadastral
+Tamanho do registro = 68 bytes
+
+
+Campo                                                                    Tipo       Tamanho
+
+01. Número seqüencial da linha dentro do arquivo                         Numérico   07
+Valor: "Seqüencial da linha anterior mais1"
+
+02. Indicador de linhas sem movimento                                    Numérico   01
+Valor: "6"
+
+03. Mensagem de inexistência de beneficiários ou de atualização Alfanumérico        60
+cadastral
+Valores: "Não houve atualização de dados beneficiários"
+"Não existem beneficiários cadastrados"
+
+
+
+3.1.6 Linha do tipo 9 - Trailler do arquivo de transmissão com registros de beneficiários
+Tamanho do registro do beneficiário = 388 bytes
+
+
+Campo                                                                    Tipo       Tamanho
+
+01. Número seqüencial da linha dentro do arquivo                         Numérico   07
+Valor: " Seqüencial da linha anterior mais1"
+
+02. Indicador de registro tipo trailler; Valor: "9"                      Numérico   01
+
+03. Quantidade de Registros inclusão (total de registros do tipo "1")    Numérico   07
+
+04. Quantidade de Registros alteração (total de registros do tipo "2")   Numérico   07
+
+05. Quantidade de Registros exclusão (total de registros do tipo "3")    Numérico   07
+
+06. Quantidade de Registros de dados da Cobertura Parcial Numérico                  07
+Temporária (total de registros do tipo "4")
+
+07. Quantidade de Registros de dados dos itens dos procedimentos Numérico           07
+
+                                                       - 11 -
+excluídos da cobertura de planos contratados antes de 02/01/1999
+
+08. Reservado para expansão                                         Alfanumérico   295
+
+09. Conteúdo ignorado pela ANS; pode ser utilizado pela operadora   Alfanumérico   50
+
+
+
+3.2 Arquivo de Transmissão das Operadoras Classificadas como Administradoras -
+detalhamento do formato
+3.2.1 Linha do tipo - Header do Arquivo de transmissão das operadoras classificadas como
+administradoras
+Tamanho do registro de header = 374 bytes
+
+
+Campo                                                               Tipo           Tamanho
+
+01. Número seqüencial da linha dentro do arquivo                    Numérico       07
+Valor: "0000001"
+
+02. Indicador de registro tipo header                               Numérico       01
+Valor: "0"
+
+03. Código do sistema; preencher com "BENEFADM"                     Alfabético     08
+
+04. Data da geração do arquivo, no formato                          Numérico       08
+AAAAMMDD, onde AAAA é o ano, MM o mês e DD o
+dia da geração do arquivo.
+
+05. Número de registro da operadora administradora na               Numérico       06
+ANS
+
+06. CNPJ da operadora administradora                                Numérico       14
+
+07. Número de seqüência do arquivo que está sendo                   Numérico       07
+enviado à ANS
+
+08. Reservado para a ANS - a versão do programa                     Alfanumérico   03
+será colocada pelo programa de crítica
+
+09. Identificação da modalidade da operadora                        Numérico       01
+Valor: "A" - Operadora classificada como
+Administradora
+"O" - Operadora com outra classificação
+
+10. Hora da geração do arquivo, no formato HHMMSS,                  Numérico       06
+onde HH é a hora, MM os minutos e SS os segundos
+relativos ao horário da geração do arquivo
+
+
+                                                     - 12 -
+11. Reservado para expansão                                                   Alfanumérico   264
+
+12. Conteúdo ignorado pela ANS; pode ser utilizado                            Alfanumérico   49
+pela operadora
+
+
+
+3.2.2 Linhas do tipo 1- Dados da operadora administrada
+Tamanho do registro do Beneficiário = 105 bytes
+
+
+Campo                                                                         Tipo           Tamanho
+
+01. Número seqüencial da linha dentro do arquivo                              Numérico       07
+Valor: : "Seqüencial da linha anterior mais1"
+
+02. Indicador de registro tipo detalhe                                        Numérico       01
+Valor: "1" - inclusão
+"2" - alteração
+"3" - exclusão
+
+03. Número de registro da operadora administrada na ANS                       Numérico       06
+
+04. Razão Social da operadora administrada                                    Alfanumérico   70
+
+05. CNPJ da operadora administrada                                            Numérico       14
+
+06. Número total de beneficiários ativos na operadora administrada            Numérico       07
+
+
+
+3.2.3. Linha do tipo 6 – Inexistência de operadoras administradas ou de atualização cadastral
+Tamanho do registro = 68 bytes
+
+
+Campo                                                                         Tipo           Tamanho
+
+01. Número seqüencial da linha dentro do arquivo                              Numérico       07
+Valor: "Seqüencial da linha anterior mais1"
+
+02. Indicador de linhas sem movimento                                         Numérico       01
+Valor: "6"
+
+03. Mensagem de inexistência de operadoras administradas ou de Alfanumérico                  60
+atualização cadastral
+Valores: "Não      houve    atualização   de    dados   de       operadoras
+administradas"
+"Não existem operadoras administradas cadastradas"
+
+
+
+                                                        - 13 -
+3.2.4 Linha do tipo 9 - Trailler do arquivo de transmissão das operadoras classificadas como
+administradoras
+Tamanho do registro = 381 bytes
+
+
+Campo                                                                    Tipo           Tamanho
+
+01. Número seqüencial da linha dentro do arquivo                         Numérico       07
+Valor: "Seqüencial da linha anterior mais1"
+
+02. Indicador de registro tipo trailler; Valor: "9"                      Numérico       01
+
+03. Quantidade de Registros inclusão (total de registros do tipo "1")    Numérico       07
+
+04. Quantidade de Registros alteração (total de registros do tipo "2")   Numérico       07
+
+05. Quantidade de Registros exclusão (total de registros do tipo "3")    Numérico       07
+
+06. Reservado                                                            Numérico       07
+
+07. Reservado para expansão                                              Alfanumérico   295
+
+08. Conteúdo ignorado pela ANS; pode ser utilizado pela operadora        Alfanumérico   50
+
+
+
+3.3 Arquivo de Devolução de Registro de Beneficiário - detalhamento do formato
+3.3.1 Linha de Header do Arquivo de Devolução de registros de beneficiários
+Tamanho do registro de header = 110 bytes
+
+
+Campo                                                                    Tipo           Tamanho
+
+01. Número seqüencial da linha dentro do arquivo                         Numérico       07
+Valor: "0000001"
+
+02. Indicador de registro tipo header                                    Numérico       01
+Valor: "0"
+
+03. Data da geração do arquivo, no formato AAAAMMDD, onde Numérico                      08
+AAAA é o ano, MM o mês e DD o dia da geração do arquivo.
+
+04. Código da operadora na ANS                                           Numérico       06
+
+05. CNPJ da operadora                                                    Numérico       14
+
+06. Número de seqüência do arquivo enviado                               Numérico       07
+
+07. Flag de erro no header                                               Numérico       01
+Valores: "0"- header correto
+
+
+                                                       - 14 -
+"1" erro no header
+
+08. Flag de erro no trailler                                     Numérico       01
+Valores: 0 trailler correto
+1 erro no trailler
+
+09. Flag de erro de seqüência                                    Numérico       01
+Valores: "0" seqüência correta
+"1" erro de seqüência no arquivo
+
+10. Reservado para expansão                                      Alfanumérico   14
+
+11. Conteúdo ignorado pela ANS; pode ser utilizado               Alfanumérico   50
+pela operadora
+
+
+
+3.3.2 Linha de Dados do Arquivo de Devolução de registros de beneficiários
+Tamanho do registro = 125 bytes
+
+
+Campo                                                            Tipo           Tamanho
+
+01. Número Seqüencial da linha dentro do arquivo enviado pela Numérico          07
+operadora e processado pela ANS
+
+02. Indicador de tipo de registro, código da operação            Numérico       01
+Valor: igual ao transmitido
+
+03. Indicador de erro na atualização                             Numérico       01
+"1" Inclusão de beneficiário com código já existente
+"2" alteração de beneficiário não existente
+"3" exclusão de beneficiário não existente
+"4" dados do beneficiário inconsistentes
+
+04. Número de Código do beneficiário                             Alfanumérico   30
+
+05. Indicadores de Erro Código operação, tipo de registro        Numérico       01
+"1" não preenchido
+"2" conteúdo inválido
+"3" conteúdo incompatível
+
+06. Indicadores de Erro Número de registro do plano na ANS       Numérico       01
+Idem campo 05
+
+07. Indicadores de Erro Data da adesão                           Numérico       01
+Idem campo 05
+
+
+
+                                                        - 15 -
+08. Indicadores de Erro Data de Cancelamento                          Numérico   01
+Idem campo 05
+
+09. Indicadores de Erro PIS/PASEP ou Cartão Nacional de Saúde         Numérico   01
+Idem campo 05
+
+10. Indicadores de Erro Data de Nascimento                            Numérico   01
+Idem campo 05
+
+11. Indicadores de Erro Nome do Beneficiário                          Numérico   01
+Idem campo 05
+
+12. Indicadores de Erro Nome da Mãe                                   Numérico   01
+Idem campo 05
+
+13. Indicadores de Erro Sexo                                          Numérico   01
+Idem campo 05
+
+14. Indicadores de Erro CPF                                           Numérico   01
+
+15. Indicadores de Erro Logradouro do endereço de residência          Numérico   01
+Idem campo 05
+
+16. Indicadores de Erro Número do endereço de residência              Numérico   01
+Idem campo 05
+
+17. Indicadores de Erro Complemento do endereço de residência         Numérico   01
+Idem campo 05
+
+18. Indicadores de Erro Bairro                                        Numérico   01
+Idem campo 05
+
+19. Indicadores de Erro Município                                     Numérico   01
+Idem campo 05
+
+20. Indicadores de Erro UF do endereço de residência                  Numérico   01
+Idem campo 05
+
+21. Indicadores de Erro CEP                                           Numérico   01
+Idem campo 05
+
+22. Indicadores de Erro Segmento assistêncial de cobertura do plano   Numérico   01
+Idem campo 05
+
+23. Indicadores de Erro Abrangência geográfica da cobertura do plano Numérico    01
+Idem campo 05
+
+24. Indicadores de Erro Tipo de contratação                           Numérico   01
+
+
+                                                       - 16 -
+Idem campo 05
+
+25. Indicadores de Erro Indicação de que o beneficiário é titular ou Numérico      01
+vinculado
+Idem campo 05
+
+26. Indicadores de Erro Indicação do motivo da exclusão do Numérico                01
+beneficiário da carteira da operadora
+Idem campo 05
+
+27. Indicadores de Erro Indicação da existência de coparticipação do Numérico      01
+beneficiário nas despesas de atendimento ou franquia
+Idem campo 05
+
+28. Indicadores de Erro Indicação de existência de Cobertura Parcial Numérico      01
+Temporária
+Idem campo 05
+
+29. Indicadores de Erro Indicação dos itens do Rol de Procedimentos Numérico       01
+da ANS
+Idem campo 05
+
+30. Indicadores de Erro Data de término da cobertura parcial Numérico              01
+temporária
+Idem campo 05
+
+31. Indicadores de Erro dos Itens de procedimentos que são excluídos Numérico      01
+da cobertura de plano contratado antes de 02/01/1999
+Idem campo 05
+
+32. Reservado para expansão                                         Alfanumérico   10
+
+33. Conteúdo ignorado pela ANS                                      Alfanumérico   49
+
+
+
+3.3.3 Linha de Trailler do Arquivo de Devolução de registros de beneficiários
+Tamanho do registro = 110 bytes
+
+
+Campo                                                               Tipo           Tamanho
+
+01. Número seqüencial da linha dentro do arquivo                    Numérico       07
+
+02. Indicador de registro tipo trailler                             Numérico       01
+Valor: "9"
+
+03. Reservado para expansão                                         Alfanumérico   52
+
+04. Conteúdo ignorado pela ANS; pode ser utilizado pela operadora   Alfanumérico   50
+
+
+
+
+                                                         - 17 -
+Observação: Os registros de tipo 4 – dados de cobertura parcial temporária não geram linhas
+de erros no arquivo de devolução.
+3.4 Arquivo de Devolução de Operadoras Classificadas como Administradoras - detalhamento
+do formato
+3.4.1 Linha de Header do Arquivo de Devolução de operadoras classificadas como
+administradoras
+Tamanho do registro de header = 110 bytes
+
+
+Campo                                                         Tipo           Tamanho
+
+01. Número seqüencial da linha dentro do arquivo              Numérico       07
+Valor: "0000001"
+
+02. Indicador de registro tipo header                         Numérico       01
+Valor: "0"
+
+03. Data da geração do arquivo, no formato AAAAMMDD, onde Numérico           08
+AAAA é o ano, MM o mês e DD o dia da geração do arquivo.
+
+04. Número de registro da Administradora na ANS               Numérico       06
+
+05. CNPJ da Administradora                                    Numérico       14
+
+06. Número de seqüência do arquivo                            Numérico       07
+
+07. Flag de erro no header                                    Numérico       01
+Valores: "0" header correto
+"1" erro no header
+
+08. Flag de erro no trailler                                  Numérico       01
+Valores: 0 trailler correto
+1 erro no trailler
+
+09. Flag de erro de seqüência                                 Numérico       01
+Valores: "0" seqüência correta
+"1" erro de seqüência no arquivo
+
+10. Reservado para expansão                                   Alfanumérico   14
+
+11. Conteúdo ignorado pela ANS; pode ser utilizado            Alfanumérico   50
+pela operadora
+
+
+
+3.4.2 Linha de Dados do Arquivo de Devolução de operadoras classificadas como
+administradoras
+Tamanho do registro = 110 bytes
+
+                                                     - 18 -
+Campo                                                            Tipo           Tamanho
+
+01. Número Seqüencial da linha dentro do arquivo                 Numérico       07
+enviado pela operadora e processado pela ANS
+
+02. Indicador de tipo de registro, código da operação            Numérico       01
+Valor: igual ao transmitido
+
+03. Indicador de erro na atualização                             Numérico       01
+"1" Inclusão de operadora administrada com código já
+existente
+"2" - alteração de operadora administrada não existente
+"3" - exclusão de operadora administrada não existente
+
+04. Número do registro da operadora administrada na              Numérico       06
+ANS
+
+05. Indicadores de Aviso do CNPJ da operadora                    Numérico       01
+administrada
+"1" - não preenchido
+"2" conteúdo inválido
+"3" conteúdo incompatível
+
+06. Indicadores de Erro da Razão Social                          Numérico       01
+na ANS
+Idem campo 05
+
+07. Reservado para expansão                                      Alfanumérico   10
+
+08. Conteúdo ignorado pela ANS                                   Alfanumérico   83
+
+
+
+3.4.3 Linha de Trailler do Arquivo de Devolução de operadoras classificadas como
+administradoras
+Tamanho do registro = 110 bytes
+
+
+Campo                                                            Tipo           Tamanho
+
+01. Número seqüencial da linha dentro do arquivo                 Numérico       07
+
+02. Indicador de registro tipo trailler                          Numérico       01
+Valor: "9"
+
+
+                                                        - 19 -
+03. Reservado para expansão                                   Alfanumérico   52
+
+04. Conteúdo ignorado pela ANS; pode ser utilizado            Alfanumérico   50
+pela operadora
+
+
+
+Observação: Os registros de tipo 4 – dados de cobertura parcial temporária não geram linhas
+de erros no arquivo de devolução.
+3.5. Arquivo de Conferência de dados de Beneficiários - detalhamento do formato
+3.5.1. Linha de dados do Arquivo de Conferência de dados de beneficiários
+Tamanho de registro = 248 bytes
+
+
+Campo                                                         Tipo           Tamanho
+
+Número seqüencial da linha dentro do arquivo                  Numérico       07
+Valor: "Seqüencial da linha anterior mais1"
+
+02. Código do beneficiário na operadora                       Alfanumérico   30
+
+03. Situação (1=ativo, 3=excluído/cancelado)                  Numérico       01
+
+04. Data de Nascimento                                        Numérico       08
+
+05. Sexo                                                      Numérico       01
+
+06. Número do CPF, PIS/PASEP ou do Cartão Nacional            Numérico       11
+de Saúde
+
+07. Nome da Mãe do Beneficiário                               Alfanumérico   70
+
+08. Número do registro do plano na ANS                        Numérico       09
+
+09. Número de registro do plano na operadora                  Alfanumérico   30
+
+10. Data adesão ao plano                                      Numérico       08
+
+11. Data de cancelamento ou de suspensão do contrato          Numérico       08
+do beneficiário
+
+12. Data de reinclusão do beneficiário de contrato            Numérico       08
+suspenso
+
+13. Município de residência                                   Alfabético     30
+
+14. Unidade Federativa do endereço                            Alfabético     02
+
+15. Segmento assistencial de cobertura do plano               Numérico       02
+
+
+
+                                                     - 20 -
+16. Abrangência geográfica da cobertura                          Numérico       01
+
+17. Tipo de contratação                                          Numérico       01
+
+18. Indicação de que o beneficiário é titular ou vinculado       Numérico       01
+no plano a outro beneficiário
+
+19. Motivo de cancelamento do beneficiário da carteira           Numérico       02
+da operadora
+
+20. Indicação de existência de Cobertura Parcial Temporária      Numérico       01
+
+21. Indicação de existência de co-participação do                Numérico       01
+beneficiário nas despesas de atendimento ou franquia
+
+22. Indicação dos itens do Rol de Procedimentos da               Numérico       04
+ANS, referente à cláusula de Cobertura Parcial
+Temporária
+
+23. Data de término da Cobertura Parcial Temporária              Numérico       08
+
+24. Indicação dos Itens dos Procedimentos Excluídos da           Numérico       04
+Cobertura de Planos contratados antes de 02/01/1999
+
+
+
+3.6. Arquivo de Conferência de dados das Operadoras Classificadas como Administradoras -
+detalhamento do formato
+3.6.1 Linhas de dados do arquivo de conferência das operadoras classificadas como
+administradoras
+Tamanho do registro do Beneficiário = 101 bytes
+
+
+Campo                                                            Tipo           Tamanho
+
+01.Número seqüencial da linha dentro do arquivo                  Numérico       07
+Valor: "Seqüencial da linha anterior mais1"
+
+02. Número de registro da operadora administrada na              Numérico       06
+ANS
+
+03. Razão Social da operadora administrada                       Alfanumérico   70
+
+04. CNPJ da operadora administrada                               Numérico       11
+
+05. Número total de beneficiários ativos na operadora            Numérico       07
+administrada
+
+
+
+
+                                                        - 21 -
+ANEXO 4 – Glossário
+
+
+Arquivo de atualização de dados – contém as alterações ou correções de dados cadastrais dos
+beneficiários ou das operadoras administradas, bem como inclusões, reinclusões e exclusões,
+ocorridas na respectiva competência mensal ou a inexistência das mesmas.
+Arquivo de conferência - contém a situação cadastral dos beneficiários ou das operadoras
+administradas, registrada na base de dados da ANS até o último movimento de atualização
+cadastral enviado pelas operadoras e processado com êxito pela ANS. É um instrumento que
+avalia a paridade cadastral e está disponível em diretório específico das operadoras entre o 20º
+dia e o último dia de cada mês.
+Arquivo de devolução – contém o resultado do processamento: identificação dos erros e o
+número de registros transmitidos, incluídos, alterados e rejeitados no processamento dos
+dados do arquivo de atualização correspondent e. Ele estará disponível em diretório específico
+da operadora entre o 20º dia e o último dia de cada mês.
+Arquivo formato texto - formato de arquivo para representação de dados alfanuméricos,
+possível de ser lido de um modo que seja independente do software de aplicação original,
+usado para criar os textos.
+Dados cadastrais - conjunto de dados que identificam os beneficiários da operadora e
+caracterizam os planos privados de assistência à saúde por eles utilizados. Referem-se
+também aos dados das operadoras administradas.
+Geração de arquivos - procedimentos para agrupar em meio magnético dados cadastrais de
+beneficiários e das operadoras administradas, atualizados numa determinada competência
+mensal, e prepará-los para serem transmitidos à ANS.
+Número de registro do plano na ANS - identificação do plano privado de assistência à saúde
+junto à ANS.
+Número de registro do plano na operadora - identificação, atribuída pela operadora, ao plano
+privado de assistência à saúde contratado antes da vigência da Lei 9.656/98.
+Transmissão de arquivos – procedimento de envio, pela rede de telecomunicações, de
+arquivos gerados em meio magnético a um computador receptor.
+Tipo de vínculo de beneficiário – identifica se o beneficiário é titular do plano de saúde
+contratado ou se é dependente, agregado ou outro tipo de vínculo.
+
+
+* RETIFICAÇÃO
+Na Instrução Normativa n.º 7 publicada no D.O.U. n.º 252, de 31/12/2002, Seção 1, Pág. 84.
+Onde se lê: Instrução Normativa n.º 7, de 26 de dezembro de 2002, leia-se: Instrução
+Normativa n.º 8, de 26 de dezembro de 2002.
+
+
+
+
+                                              - 22 -
+Correlações da IN/DIDES nº 8
+
+
+                 RN nº 17, de 2002;
+
+
+[Voltar]
+
+
+
+
+                                      - 23 -
+                              ÍNDICE DA IN/DIDES Nº 8
+
+
+ANEXO 1                                                                              04
+Calendário de eventos de encaminhamento de dados cadastrais de beneficiários e de retirada
+de arquivos de devolução e conferência
+
+
+ANEXO 2                                                                              05
+Orientações para o encaminhamento de informações e transmissão de arquivos de dados do
+cadastro de beneficiários
+
+
+ANEXO 3                                                                              08
+Formato e descrição dos arquivos de dados de beneficiários, de operadoras administradas, de
+devolução e de conferência
+
+
+ANEXO 4                                                                              24
+Glossário
+
+
+[Voltar]
+
+
+
+
+                                           - 24 -
+

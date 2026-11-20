@@ -1,0 +1,114 @@
+                                                                                                                   ANEXO I
+
+                                                    Obrigatoriedade de preenchimento dos campos de dados para realização dos procedimentos de atualização cadastral do SIB/ANS
+
+
+                                                                                                                  Obrigatoriedade de preenchimento dos campos de dados - PROCEDIMENTOS
+
+Código do                                                                            Inclusão                   Retificacão             Mudança Contratual             Cancelamento               Reativação
+campo de
+                                Campos de dados                                                                                                                                                                         Sem
+ dado no                                                                                        Dep.                          Dep.                       Dep.                       Dep.                       Dep.
+   SIB                                                                               Dep.                        Dep.                          Dep.                       Dep.                       Dep.              Movi-
+                                                                                                Menor                         Menor                      Menor                      Menor                      Menor
+                                                                          Titular   Maior de            Titular Maior de              Titular Maior de           Titular Maior de           Titular Maior de           mento
+                                                                                                de 18                         de 18                      de 18                      de 18                      de 18
+                                                                                    18 anos                     18 anos                       18 anos                    18 anos                    18 anos
+                                                                                                anos                          anos                       anos                       anos                       anos
+
+                                                                                                              Identificação Pessoal
+
+   30       CCO - Código de Controle Operacional                            N          N         N        O          O         O        O        O        O        O        O         O       O        O        O       N
+
+   8        Código de Identificação do Beneficiário na operadora            O          O         O       Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+
+   1        Nome do beneficiário                                            O          O         O       Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+   2        Data de nascimento do beneficiário                              O          O         O       Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+   3        Código de sexo do beneficiário                                  O          O         O       Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+   4        Número no CPF do beneficiário                                   O          O         R       Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+
+            Número no PIS/PASEP do beneficiário ou Número de
+   5                                                                        R          R         R       Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+            Identificação do Trabalhador – NIT
+
+   6        Nome da mãe do beneficiário                                     R          R         R       Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+   36       Número da Declaração de Nascido Vivo                           Op          N         Op      Op          N         Op       N        N        N        N        N         N       N        N        N       N
+   7        Número do Cartão Nacional de Saúde                             O(*)      O(*)       O(*)     Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+            Código de identificação do beneficiário titular na
+   18       operadora para beneficiários informados como                    N          O         O        N          Op        Op       N        N        N        N        N         N       N        N        N       N
+            dependentes (não-titulares)
+                                                                                                          Identificação de Endereço
+
+   21       Indicação de endereço residencial ou profissional              Op         Op         Op      Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+
+   22       Logradouro do beneficiário                                     Op         Op         Op      Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+   33       Número do logradouro                                           Op         Op         Op      Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+   34       Complemento do logradouro                                      Op         Op         Op      Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+   35       Bairro                                                         Op         Op         Op      Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+   26       Código do município do logradouro indicado                      O          O         O       Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+   27       CEP                                                            Op         Op         Op      Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+
+            Indicação se a residência do beneficiário é no Brasil ou no
+   28                                                                      Op         Op         Op      Op          Op        Op       N        N        N        N        N         N       N        N        N       N
+            exterior
+
+            Código do município de residência do beneficiário, caso o
+   29       endereço informado seja indicado como endereço                 Op         Op         Op      Op          Op        Op       R        R        N        R        R         N       R        R        N       N
+            profissional
+                                                                                                              ANEXO I
+
+
+                                            Obrigatoriedade de preenchimento dos campos de dados para realização dos procedimentos de atualização cadastral do SIB/ANS (continuação)
+
+
+                                                                                                             Obrigatoriedade de preenchimento dos campos de dados - PROCEDIMENTOS
+
+
+Código do                                                                        Inclusão                   Retificacão             Mudança Contratual             Cancelamento               Reativação
+campo de
+                               Campos de dados
+ dado no                                                                                                                                                                                                            Sem
+   SIB                                                                                                                                                                                                             Movi-
+                                                                                            Dep.                          Dep.                       Dep.                       Dep.                       Dep.
+                                                                                 Dep.                        Dep.                          Dep.                       Dep.                       Dep.              mento
+                                                                                            Menor                         Menor                      Menor                      Menor                      Menor
+                                                                      Titular   Maior de            Titular Maior de              Titular Maior de           Titular Maior de           Titular Maior de
+                                                                                            de 18                         de 18                      de 18                      de 18                      de 18
+                                                                                18 anos                     18 anos                       18 anos                    18 anos                    18 anos
+                                                                                            anos                          anos                       anos                       anos                       anos
+
+                                                                                                       Identificação Contratual
+     9      Número do registro do plano na ANS (RPS)                    R          R         R        Op        Op         Op       R        R        R        N        N         N       N        N        N       N
+
+    10      Código do cadastro do plano na ANS (SCPA)                   R          R         R        Op        Op         Op       R        R        R        N        N         N       N        N        N       N
+
+    11      Número do plano origem RPS (portabilidade)                  R          R         R        Op        Op         Op       R        R        R        N        N         N       N        N        N       N
+    12      Data de contratação do plano                                O          O         O        Op        Op         Op       O        O        O        N        N         N       N        N        N       N
+    31      Data de cancelamento do plano                               N          N         N        Op        Op         Op       N        N        N        O        O         O       N        N        N       N
+    32      Código do motivo do cancelamento do plano                   N          N         N        Op        Op         Op       N        N        N        O        O         O       N        N        N       N
+    20      Data de reativação do plano                                 N          N         N        Op        Op         Op       N        N        N        N        N         N       O        O        O       N
+
+    14      Indicação de existência de Cobertura Parcial Temporária    Op         Op         Op       Op        Op         Op      Op       Op        Op       N        N         N       N        N        N       N
+
+            Indicação de itens de procedimentos excluídos da
+    15                                                                 Op         Op         Op       Op        Op         Op      Op       Op        Op       N        N         N       N        N        N       N
+            cobertura
+
+            Número no CNPJ da pessoa jurídica contratante do plano
+    16                                                                  R          R         R        Op        Op         Op       R        R        R        N        N         N       N        N        N       N
+            coletivo
+
+    42      Número no CAEPF do contratante do plano coletivo            R          R         R        Op        Op         Op       R        R        R        N        N         N       N        N        N       N
+
+    13      Relação de Dependência                                      O          O         O        Op        Op         Op       O        O        O        N        N         N       N        N        N       N
+
+
+    19      Reservado à ANS                                             N          N         N        N             N      N        N        N        N        N        N         N       N        N        N       N
+
+Legenda:
+O - preenchimento obrigatório do campo;
+O(*) - preenchimento obrigatório do campo "Número do Cartão Nacional de Saúde" a partir de 1º de janeiro de 2016;
+N - preenchimento do campo não se aplica;
+R - preenchimento restritivo do campo;
+Op - preenchimento opcional do campo.
+

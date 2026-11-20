@@ -1,0 +1,31 @@
+                                       ANEXO II
+
+ Calendário de envio e retirada dos arquivos que compõem o processo de atualização
+                                      cadastral.
+
+                     EVENTOS                                           PRAZO
+1. Primeiro encaminhamento do arquivo de atualização,     Até 60 dias depois de concedido
+quando da concessão do Registro da Operadora pela         o primeiro registro de planos
+ANS.                                                      posteriores à 1º janeiro de 1.999
+                                                          ou o primeiro cadastro de planos
+                                                          contratados até 1º de janeiro de
+                                                          1999 (SCPA).
+2. Envio mensal de Arquivos de Atualização Cadastral -    Até o dia 05 de cada mês,
+SBX referentes aos procedimentos de atualização           considerando o horário de
+ocorridos até o último dia do mês imediatamente           Brasília/DF.
+anterior.
+
+3. Retirada do Arquivo do Resultado do Processamento – Em até 05 (cinco) dias a partir da
+RPX.                                                     recepção dos arquivos de
+                                                         atualização enviados pelas
+                                                         operadoras para a ANS
+Nota: Ficarão disponíveis para as operadoras os arquivos
+RPX referentes aos três últimos meses.
+
+4. Solicitação e Retirada do Arquivo de Conferência -     Solicitação: a qualquer momento.
+CNX.
+
+                                                          Retirada: em até 20 (vinte) dias a
+Nota: Limitando-se a 01 (uma) solicitação de arquivo de   partir da solicitação.
+conferência por operadora, por competência.
+

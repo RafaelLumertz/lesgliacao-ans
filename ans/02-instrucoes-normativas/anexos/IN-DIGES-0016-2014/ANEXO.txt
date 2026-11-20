@@ -1,0 +1,90 @@
+                                 ANEXO
+
+4.3 – ÍNDICE DE RECLAMAÇÕES
+
+Conceito
+É um índice que permite a comparação da atuação das operadoras do ponto
+de vista do consumidor que, ao julgar não ter tido respeitado seu direito,
+dirige-se a ANS para solicitar orientação, análise e julgamento da questão.
+
+
+Método de Cálculo
+
+
+     Média mensal de reclamações contra a operadora no ano base
+                                                                   x 10.000
+    Média mensal de beneficiários ativos da operadora, no ano base
+
+
+Definição de termos utilizados no Indicador
+
+
+Beneficiário de plano privado de assistência à saúde: pessoa física,
+titular ou dependente, que possua direitos e deveres definidos em legislação
+e em contrato assinado com operadora de plano privado de assistência à
+saúde, para garantia da assistência médico-hospitalar ou odontológica,
+conforme RN nº 295, de 10 de maio de 2012.
+Beneficiário ativo: É o beneficiário de plano privado de assistência à
+saúde cujo contrato do respectivo plano está em vigor, conforme RN nº
+295, de 10 de maio de 2012.
+Média mensal de beneficiários ativos da operadora no SIB/ANS:
+soma da quantidade de beneficiários ativos nos meses do ano base, dividida
+por 12, segundo o SIB/ANS.
+Média mensal de reclamações: Total de reclamações que a Agência
+recebe no ano dos consumidores de planos privados de saúde contra a
+operadora, excluindo as reclamações julgadas como não procedentes,
+dividido por 12. Reclamações não procedentes são demandas finalizadas
+preliminarmente, antes da abertura do processo administrativo sancionador,
+por falta de indícios de infração.
+Interpretação do indicador
+      Significa que para cada grupo de 10.000 beneficiários houve, em
+       média, x reclamações mensais durante o ano para aquela operadora.
+       Por exemplo, se o índice da operadora for 2,1, significa que para cada
+       grupo de 10.000 beneficiários houve 2,1 reclamações por mês no ano
+       base;
+      Avalia a satisfação dos beneficiários com a sua operadora de plano de
+       saúde;
+      Quanto menor o valor do índice, maior acredita-se ser a satisfação
+       dos beneficiários com a operadora.
+
+
+Usos
+      Avaliar e acompanhar o histórico de reclamação que os beneficiários
+       têm contra a operadora de planos de saúde;
+      Incentivar a operadora a aprimorar a qualidade dos serviços
+       prestados aos seus beneficiários de forma a melhorar a satisfação
+       dos mesmos.
+
+
+Meta
+Zero reclamações durante o ano.
+
+
+Pontuação
+
+
+Resultado do Índice de reclamações                Pontuação
+Resultado > 0                                      0<V<1
+Resultado = 0                                          1
+V= 1/exp(Índice)
+
+
+
+Fonte de Dados
+SIB/ANS/MS – Sistema de Informações de Beneficiários e SIF/ANS/MS –
+Sistema Integrado de Fiscalização.
+
+
+Ação esperada para causar impacto positivo no índice
+      Aprimoramento das ações orientadoras e sancionadoras da ANS
+       sobre as operadoras com alto índice de reclamação.
+Limitações e Vieses
+
+      O indicador avalia a satisfação do beneficiário de forma indireta,
+       registrando sua insatisfação.
+
+
+Referências
+      Resolução Normativa nº 226, de 05 de agosto de 2010.
+      Resolução Normativa nº 295, de 10 de maio de 2012.
+

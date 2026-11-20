@@ -1,0 +1,313 @@
+                                                               ANEXO
+
+
+                                  FICHA TÉCNICA DO INDICADOR DE FISCALIZAÇÃO
+
+1- INDICADO R DE FISC ALIZ AÇÃO
+
+
+
+
+Conceituação
+
+
+Indicador de Fiscalização: Corresponde à média aritmética ponderada das
+demandas de informação e de reclamação, assistenciais e não assistências,
+classificadas durante o ciclo de fiscalização, para cada conjunto de 10.000
+beneficiários.
+
+
+Método de Cálculo
+
+Indicador= (1,0xNRA + 0,7xNRN-A + 0,1xRVEA + 0,07xRVEN-A+0,002xInatA + 0,0014xInatN-A +0,001xInf )x10.000   (1)
+                                     Média beneficiários da operadora durante o ciclo de fiscalização
+
+
+
+sendo
+
+
+NRA : total de demandas NIP Assistencial da operadora não resolvida durante o
+Ciclo de Fiscalização.
+
+
+NRN-A: total de demandas NIP Não-Assistencial da operadora não resolvida durante
+o Ciclo de Fiscalização.
+
+
+RVEA: total de demandas NIP Assistencial da operadora classificada como RVE
+durante o Ciclo de Fiscalização.
+
+
+RVEN-A: total de demandas NIP Não-Assistencial da operadora classificada como
+RVE como durante o Ciclo de Fiscalização.
+InatA : total de demandas NIP assistencial da operadora classificada como Inativa
+durante o Ciclo de Fiscalização.
+
+
+InatN-A : total de demandas NIP não assistencial da operadora classificada como
+Inativa durante o Ciclo de Fiscalização.
+
+
+Inf: total de demandas de informação solicitadas pelos beneficiários da operadora
+durante o Ciclo de Fiscalização.
+
+
+Definições dos termos utilizados e dos pesos usados no Indicador
+
+
+Demandas de natureza Assistenciais não resolvidas
+
+
+Demandas de natureza assistencial classificadas como não resolvidas após
+efetivada a análise fiscalizatória, conforme o revisto nos arts. 14, III e 16 da
+Resolução Normativa n° 388/2015. Esta dimensão reflete, possivelmente, o
+entendimento divergente da operadora acerca das questões de prestação
+assistencial de seus beneficiários, implicando assim, na falência dos esforços
+mediadores do dispositivo.
+
+
+Por se tratar de uma demanda de natureza assistencial não resolvida, que
+representa o desfecho mais indesejado regulatoriamente para uma demanda NIP,
+atribuiu-se o maior peso para ela, sendo esse peso igual a 1 (um).
+
+
+Demandas de natureza Não Assistenciais não Resolvidas
+
+
+Demandas de natureza não assistencial classificadas como não resolvidas após
+efetivada a análise fiscalizatória, conforme o revisto nos arts. 14, III e 16 da
+Resolução Normativa n° 388/2015. Esta dimensão reflete, possivelmente, o
+entendimento divergente da operadora acerca das questões de prestação não
+assistencial de seus beneficiários, implicando assim, na falência dos esforços
+mediadores do dispositivo.
+
+
+Para as demandas de natureza não assistencial classificadas como não resolvidas,
+que representa o segundo desfecho mais indesejado regulatoriamente para uma
+demanda NIP, atribuiu-se o peso à razão de 70% (setenta por cento) do peso da
+demanda de natureza assistencial classificada como não resolvida, ou seja, o peso
+das demandas de natureza não assistencial classificadas como não resolvidas é
+igual a 0,7 (zero vírgula sete).
+
+
+Demandas de natureza Assistenciais com reparação voluntária e eficaz do
+dano pela operadora:
+
+
+Demandas de natureza assistencial classificadas como resolvidas através da
+reparação voluntária e eficaz – RVE, conforme o revisto nos arts. 14, II e 20, §1°
+da Resolução Normativa n° 388/2015. Esta dimensão reflete a efetividade do
+dispositivo    (componente   positivo),    bem   como    práticas   de    mecanismo   de
+regulação, quando utilizada em demasia (componente negativo).
+
+
+Para   as     demandas de    natureza     assistencial classificadas     como   reparação
+voluntária e eficaz – RVE, que representam os casos em que a solução do
+problema do beneficiário somente foi alcançada após o registro e tratamento da
+demanda na ANS, atribuiu-se o peso à razão 10% (dez por cento) do peso da
+demanda de natureza assistencial classificada como não resolvida, ou seja, seu
+peso é igual a 0,1 (zero vírgula 1).
+Demandas de natureza Não Assistenciais com reparação voluntária e
+eficaz do dano pela operadora:
+
+
+Demandas de natureza não assistencial classificadas como resolvidas através da
+reparação voluntária e eficaz – RVE, conforme o revisto nos arts. 14, II e 20, §1°
+da Resolução Normativa n° 388/2015. Esta dimensão reflete a efetividade do
+dispositivo   (componente    positivo),   bem   como   práticas   de   mecanismo   de
+regulação, quando utilizada em demasia (componente negativo).
+
+
+Para as demandas de natureza não assistencial com reparação voluntária do dano
+pela operadora, atribuiu-se que o peso desta seria 70% (setenta por cento) do
+peso da demanda de natureza assistencial com reparação voluntária do dano pela
+operadora, ou seja, seu peso seria igual a 0,07, observando-se a proporção do
+peso atribuído nas demandas não resolvidas.
+
+
+
+
+Demandas de natureza Assistenciais Inativas
+
+
+Demandas de natureza assistencial presumidamente consideradas resolvidas, na
+forma prevista no art. 12 da Resolução Normativa n° 388/2015, sem que seja
+efetuada a análise fiscalizatória prevista no art. 13 da mesma norma.
+
+
+Para as demandas de natureza assistencial Inativas, atribuiu-se peso à razão de
+2% (dois por cento) do peso da demanda de natureza assistencial com reparação
+voluntária do dano pela operadora, ou seja, o peso das demandas de natureza
+assistencial inativa é igual a 0,002.
+Demandas de natureza Não Assistenciais Inativas
+
+
+Demandas de natureza não assistencial presumidamente consideradas resolvidas,
+na forma prevista no art. 12 da Resolução Normativa n° 388/2015, sem que seja
+efetuada a análise fiscalizatória prevista no art. 13 da mesma norma.
+
+
+Para as demandas de natureza não assistencial inativas, atribuiu-se peso à razão
+de 70% (setenta por cento) do peso da demanda de natureza assistencial inativa,
+isto é, o peso das demandas não assistencial inativa é igual a 0,0014,
+observando-se a proporção do peso atribuído nas demandas não resolvidas e com
+solução através de RVE.
+
+
+Demandas de Informação
+
+
+Demandas nas quais os beneficiários solicitam esclarecimentos sobre seus direitos
+junto à ANS. Esta dimensão reflete, possivelmente, a insuficiência dos canais de
+comunicação disponibilizados pela operadora aos seus beneficiários: ponderação
+0,001.
+
+
+Para as demandas de informação, atribuiu-se peso na medida em que cada 1.000
+(mil) demandas de informação registradas equivaleria a 1 (uma) reclamação
+classificada como não resolvidas, o que resulta em um peso de 0,001.
+
+
+
+Indicador: é a taxa estimada para cada operadora, por meio do número de
+demandas de informações e reclamações, assistenciais e não assistenciais,
+ponderadas pelo seu respectivo peso, para cada conjunto de 10.000 beneficiários.
+Operadoras selecionadas e demandas utilizadas no cálculo do indicador
+
+
+Uma vez que, ao longo do tempo, mais de 95% das reclamações são registradas
+em face de operadoras de Médio e Grande porte, somente as operadoras desses
+dois portes terão o indicador de Fiscalização calculado e serão classificadas nas
+faixas. Desse modo, com a exclusão das operadoras de pequeno porte, a
+fiscalização planejada conseguirá atingir as operadoras que concentram um maior
+número de beneficiários.
+
+
+Entre as operadoras de Grande e Médio serão selecionadas àquelas operadoras
+que tiverem um número maior ou igual ao número de demandas de reclamação
+ponderadas, conforme os pesos definidos anteriormente, obtido da seguinte
+maneira:
+
+
+    1. ordene as operadoras, em ordem decrescente, pelo número de demandas
+       de reclamação ponderadas;
+    2. divida o total de demandas de reclamação ponderadas de cada operadora
+       pela soma total das demandas de reclamações ponderadas de todas as
+       operadoras; multiplique esse valor por 100;
+    3. faça o acumulado dos valores obtidos em 2;
+    4. localize o número de demandas de reclamação ponderadas no qual o
+       acumulado é igual, ou próximo, a 80,0%, esse valor é o número mínimo de
+       demandas que será utilizado para a seleção das operadoras que serão
+       classificadas por faixa.
+
+
+O   cálculo   do   indicador   de   fiscalização   considerará   apenas   as   demandas
+classificadas, excluídas as reclassificadas, durante o Ciclo de Fiscalização, nos
+termos do art. 14 da Resolução Normativa n° 388/2015.
+
+
+Do arredondamento do número de demandas
+O critério para o arredondamento das demandas de reclamação ponderadas
+utilizadas nessa ficha é apresentada no Quadro 1.
+
+
+Quadro 1: Critério de arredondamento do número de demandas ponderadas
+   Condições              Procedimentos                     Exemplos
+      <5         Arredondamento para baixo          3,4 passa 3,0
+                                                    42,8 passa a 43,0
+       ≥5        Arredondamento para cima           25,5 passa a 26,0
+
+
+
+Aplicação às administradoras de benefícios
+
+
+As administradoras de benefícios que fornecerem informações sobre o número de
+médio vidas administradas, conforme o parágrafo único do art. 6° desta instrução
+normativa, que possuíam durante o Ciclo de Fiscalização, terão seu indicador
+calculado conforme a fórmula dada em (1), excluídos os componentes referentes
+às demandas assistenciais.
+
+
+As administradoras de benefícios que não fornecerem a informação sobre o
+número médio de vidas administradas durante o ciclo de fiscalização, na forma do
+parágrafo único do art. 7° desta instrução normativa, serão elencadas em ordem
+decrescente pelo número absoluto de demandas registradas durante o Ciclo de
+Fiscalização.
+
+
+
+
+Interpretação dos Indicadores
+
+
+O Indicador de Fiscalização classifica as operadoras em faixas, conforme o seu
+desempenho, durante o ciclo de fiscalização.
+O Indicador aponta padrão de comportamento e práticas inadequadas por parte
+das operadoras de planos privados de assistência à saúde, no que tange às
+demandas informação e de reclamações, assistenciais e não assistenciais.
+
+
+Usos dos Indicadores
+
+
+Permitem acompanhar e avaliar a atuação das operadoras de planos privados de
+assistência à saúde, além de compará-las e classificá-las em relação às demais
+operadoras quanto ao registro de demandas de informação e à resolução de
+demandas de reclamação de cunho assistencial e não assistencial.
+
+
+Parâmetros, Dados Estatísticos e Recomendações
+
+
+O Indicador de Fiscalização classifica as operadoras de planos privados de
+assistência à saúde quanto ao seu desempenho no ciclo de fiscalização.
+
+
+Classificação
+
+
+As operadoras serão classificadas nas faixas de desempenho por meio de
+percentis (Pα), calculados sobre as taxas obtidas de todas operadoras no ciclo de
+fiscalização, conforme mostrado no quadro 2.
+
+
+Quadro 2: Classificação das operadoras por faixa.
+0 – faixa 0: operadoras em que a: Taxa ≤ P25
+I – faixa 1: operadoras em que a: P25 < Taxa ≤ P45
+II – faixa 2: operadoras em que a: P45 < Taxa ≤ P60
+III – faixa 3: operadoras em que a: P60 < Taxa ≤ P75
+IV - Faixa 4: Operadoras em que a: Taxa > P75
+Meta
+Redução do quantitativo de demandas de informação e reclamação registradas,
+em especial aquelas classificadas como não resolvidas. Além da indução de boas
+práticas e da correção de práticas em desconformidade regulatória.
+
+
+Fontes
+
+
+MS/ANS – Sistema de Informações de Fiscalização (SIF)
+MS/ANS – Sistema de Informações de Beneficiários – SIB
+
+
+Limitações e Vieses
+Sub-registro de reclamações, tendo em vista que muitos beneficiários não
+demandam a ANS.
+
+
+REFERÊNCIAS
+
+
+Resolução Normativa - RN n.º 388, de 25 de novembro de 20159 de março de
+2013, que dispõe sobre os procedimentos adotados pela Agência Nacional de
+Saúde Suplementar - ANS para a estruturação e realização de suas ações
+fiscalizatórias.
+
+
+Instrução Normativa – IN n° 13/DIFIS, de 28 de julho de 2016, que dispõe sobre
+os procedimentos a serem observados para o Ciclo de Fiscalização e para a
+Intervenção Fiscalizatória, previstos nos arts. 45, 46 e 48 a 54, da Resolução
+Normativa - RN nº 388, de 25 de novembro de 2015.
+

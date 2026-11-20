@@ -1,0 +1,76 @@
+                                  ANEXO I
+
+Instruções para o preenchimento de campos do formulário Ficha de Compensação
+
+         Campo:          Conteúdo a ser preenchido:
+         Número do
+                         preencher com o código da operadora na ANS;
+         Documento
+         Valor do
+                         preencher com o valor principal a ser recolhido;
+         documento
+                         preencher com o valor calculado, quando pago
+         Mora / Juro
+                         após a data de vencimento;
+                         preencher com a soma do valor do documentos
+         Valor cobrado
+                         mais Mora/Juros
+         Sacado          preencher com o nome da operadora ;
+                                      ANEXO II
+
+         Instruções gerais sobre a planilha padrão de que trata esta RDC.
+
+A remessa do arquivo contendo a planilha padrão deverá ser feita através de transmissão
+de dados pela rede INTERNET, utilizando-se o ambiente seguro criado no endereço
+eletrônico da ANS, no subdiretório de leitura restrita. O acesso a este subdiretório será
+automático, e dependerá do fornecimento do "NOME DE USUÁRIO" e sua "SENHA".
+
+1 - A planilha padrão instituída por esta Resolução efetua automaticamente o cálculo da
+Taxa de Saúde Suplementar por Plano de Assistência à Saúde referente à competência
+pretendida, a partir do preenchimento da informação do número de usuários, mês a mês,
+por segmento assistencial e por abrangência geográfica.
+
+2 - O nome da planilha é "Cálculo Taxa Saúde Suplementar.xls" e apresenta o formato
+criado através do software Excel, versão 97.
+
+3 - A planilha padrão disponível na rede INTERNET possui Macro criada pela ANS
+que não deverá ser desabilitada em qualquer hipótese.
+
+4 - O arquivo eletrônico contendo a planilha a ser enviada à ANS deverá ter nome
+padronizado e será criado automaticamente quando for realizada a gravação do arquivo,
+a partir da Macro contida na planilha padrão.
+
+5 - A planilha a ser enviada à ANS deverá apresentar o formato criado através do
+software Excel, versão 97.
+
+6 - Para garantir o sigilo das informações, a ANS manterá um servidor de dados seguro
+(ambiente HTTPS) com um diretório exclusivo para cada operadora, com capacidade de
+gravação e de leitura pela INTERNET, e um subdiretório com capacidade única de
+gravação, para o que os arquivos enviados não possam ser retirados, a não ser pelos
+administradores da rede da ANS.
+
+Instruções para o envio da planilha referente aos fatos geradores 101/6 e 102/4:
+
+1 – Entrar no página eletrônica da ANS, escolher o item "Recolhimento da Taxa de
+Saúde Suplementar por Plano de Assistência à Saúde";
+
+2 – Efetuar cópia da planilha padrão (download);
+
+3 – Sair da INTERNET;
+
+4 – Preencher integralmente a planilha e salvá-la;
+
+5 – Entrar no página eletrônica da ANS, escolher o item "Recolhimento da Taxa de
+Saúde Suplementar por Plano de Assistência à Saúde";
+
+6 – Informar o seu "NOME DE USUÁRIO" e sua "SENHA" para entrar no respectivo
+subdiretório de leitura restrita;
+7 – Efetuar o envio do arquivo contendo a planilha eletrônica preenchida (upload);
+
+8 – Sair da INTERNET.
+
+9 – Com a finalidade de evitar que todos os arquivos transmitidos durante a sessão de
+acesso ao endereço eletrônico da ANS sejam gravados no mesmo subdiretório, os
+procedimentos descritos nos incisos VI a IX deverão ser repetidos caso haja necessidade
+de enviar o arquivo com a planilha padrão por outra operadora.
+

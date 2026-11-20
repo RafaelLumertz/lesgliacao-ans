@@ -1,0 +1,88 @@
+                                            ANEXO
+  Aspectos mínimos a serem observados no encaminhamento do modelo
+                próprio baseado em risco e sua revisão.
+   Os documentos relativos ao modelo próprio baseado nos riscos devem ser
+encaminhados em versão original, contendo a assinatura do responsável pela
+unidade interna de gerência de risco, do atuário, do contador e dos
+administradores da Operadora de Planos de Saúde. Tanto a assinatura do atuário
+quanto a assinatura do contador deverão vir acompanhadas dos respectivos
+números de identificação profissional perante os órgãos competentes.
+   Os documentos relativos ao modelo próprio baseado nos riscos deverão
+apresentar, no mínimo, os seguintes aspectos:
+     1. Definições Gerais - no que couber, este item deverá incluir a definição de
+        termos técnicos necessária à perfeita compreensão do modelo próprio
+        baseado nos riscos.
+     2. Bases Técnicas:
+                     definição de todos os parâmetros e variáveis utilizados no modelo
+                     próprio baseado nos riscos;
+                     especificação dos critérios técnicos adotados no modelo próprio
+                     baseado nos riscos bem como suas respectivas justificativas
+                     técnicas;
+                     no caso de utilização de tábuas biométricas, estas deverão ser
+                     reconhecidas pelo Instituto Brasileiro de Atuaria – IBA e ser
+                     especificada no modelo próprio baseado nos riscos;
+                     no caso da utilização de índices financeiros de atualização,
+                     especificar o índice, o seu critério de aplicação e a sua referência
+                     bem como justificativa técnica para sua adoção;
+                     no caso de utilização de expectativas de taxas de juros, taxas de
+                     câmbio, índices de inflação, cotações de ações e preços de bens ou
+                     imóveis deverão ser apresentados os critérios de aplicação bem
+                     como as justificativas técnicas; e
+                     quando as bases técnicas contemplarem premissas de qualquer
+                     natureza, estas deverão estar fundamentadas tecnicamente
+                     inclusive, quando for o caso, com a indicação de suas fontes.
+     3. Quanto aos riscos abordados no modelo:
+                     descrição de todos os riscos constantes no modelo próprio baseado
+                     nos riscos; e
+                     estudo sobre a concentração de riscos da Operadora de Planos de
+                     Saúde e o critério de ponderação adotado no modelo próprio
+                     baseado nos riscos, com justificativas, para o cálculo do capital
+                     requerido.
+     4. Metodologia de cálculo:
+                     apresentar as formulações utilizadas;
+                     apresentar a base de dados e estatísticas utilizadas, acompanhadas
+                     da especificação do período e das fontes, bem como demonstrativo
+                     de cálculo;
+
+
+IN 14 - DIOPE -CBR 2007-12-13.doc
+                                    .
+
+         quaisquer alterações adotadas no modelo próprio baseado em risco
+         deverão ser previamente submetidas à análise e aprovação da
+         DIOPE, acompanhadas de estudo técnico que as justifique;
+         deverá contemplar os aspectos referentes à volatilidade, incerteza e
+         tratamento de eventos extremos; e
+         indicação da bibliografia e fontes de informações utilizadas.
+5. Quanto às hipóteses e parâmetros utilizados no modelo:
+         deverão contemplar a interação do modelo próprio baseado nos
+         riscos com o processo cotidiano de gerenciamento de risco da
+         Operadora de Planos de Saúde; e
+         definição da probabilidade anual de insolvência considerada no
+         modelo próprio baseado nos riscos e a justificativa técnica para a
+         adoção de tal valor, quando for o caso.
+6. Quanto aos dados/informações utilizados na construção do modelo:
+         histórico das informações/dados válidos;
+         o atuário deverá observar se a base de dados utilizada apresenta
+         consistência estatística suficiente incluindo item que descreva a
+         forma como a consistência desses dados foi avaliada; e
+         base temporal a que se referem os dados utilizados, que deverá
+         compreender período mínimo de doze meses.
+7. Quanto à consistência do modelo proposto:
+         o modelo próprio baseado nos riscos deverá vir acompanhado de
+         teste de aderência e consistência de forma a verificar os efeitos de
+         correlação entre as diferentes classes de risco, teste de estresse e
+         exames baseados em simulação de cenários;
+         relatório atestando a consistência do modelo próprio baseado nos
+         riscos proposto bem como o detalhamento dos testes realizados e a
+         sua confiabilidade e adequação à realidade da Operadora de Planos
+         de Saúde; e
+         base temporal a que se referem os dados utilizados na validação do
+         modelo, que deverá compreender o período mínimo de sessenta
+         meses.
+8. Quando da revisão anual do modelo próprio baseado nos riscos da
+   Operadora de Planos de Saúde deverá descrever, além daqueles aspectos
+   constantes do item 7 deste Anexo, o processo interno de revisão e a
+   sistemática formal para avaliação, documentação e correção dos eventuais
+   desvios observados.
+

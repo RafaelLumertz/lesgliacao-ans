@@ -1,0 +1,122 @@
+                                                ANEXO
+
+
+                                          FICHA TÉCNICA
+
+             INDICADOR DA AVALIAÇÃO DA GARANTIA DE ATENDIMENTO
+
+
+1. CONCEITUAÇÃO:
+
+Avalia a quantidade de demandas de reclamações de beneficiários, motivadas pela não garantia de acesso
+e cobertura previstos na Lei nº 9.656, de 3 de junho de 1998, e em seus regulamentos, bem como nos
+contratos, na forma da Resolução Normativa – RN nº 259, de 17 de junho de 2011, para cada 10.000 (dez
+mil) beneficiários da operadora, no período de avaliação.
+A ANS utilizará como base as reclamações originadas por Notificação de Investigação Preliminar – NIP,
+instituída por regulamentação específica.
+
+2. MÉTODO DE CÁLCULO:
+
+    (2 x ∑NIPs_PRAZO) + (1 x ∑NIPs_NÃO_PRAZO)
+                  XBENEFICIÁRIOS                   x 10.000
+
+
+ONDE:
+
+∑NIPS_PRAZO = número de demandas de reclamações de beneficiários referentes ao prazo de atendimento,
+no período de avaliação, consideradas com peso 2;
+
+∑NIPS_NÃO_PRAZO = número de demandas de reclamações de beneficiários referentes a todos os demais
+temas assistenciais da NIP, no período de avaliação, consideradas com peso 1;
+
+XBENEFICIÁRIOS = média de beneficiários dos últimos três meses informados pela operadora no SIB/ANS.
+
+3. DEFINIÇÃO DE TERMOS UTILIZADOS NO INDICADOR:
+
+a. Numerador :
+É o número de demandas de reclamações de beneficiários nos termos das regras previstas na RN nº 259,
+de 2011, em face das operadoras de planos de assistência à saúde, originadas de NIP e identificadas no
+Sistema de Informações da Fiscalização – SIF, no período de avaliação, onde não tenham sido garantidos
+os benefícios de acesso e cobertura previstos na Lei nº 9.656, de 3 de junho 1998, e nos seus
+regulamentos, bem como nos contratos de planos privados de assistência à saúde, ou que tenham sido
+garantidos fora do prazo máximo regulamentar.
+
+As demandas de reclamações referentes a prazo de atendimento serão consideradas com peso dois e as
+demais serão consideradas com peso um.
+b. Denominador :
+É a média dos beneficiários informados nos três meses mais recentes pela operadora ao Sistema de
+Informações de Beneficiários – SIB.
+
+4. INTERPRETAÇÃO DO INDICADOR:
+
+Aponta se a operadora está garantindo aos beneficiários os benefícios de acesso e cobertura previstos na
+Lei nº 9.656, de 1998, e em seus regulamentos, bem como nos contratos, considerando os prazos
+máximos de atendimento bem como as demais regras estabelecidas pela RN nº 259, de 2011.
+
+Quanto menor o índice da operadora maior será o acesso dos beneficiários às coberturas obrigatórias -
+seja por força de Lei, de regulamento ou de contrato - e maior será o cumprimento dos prazos máximos
+de atendimento e dos critérios estabelecidos pela RN nº 259, de 2011.
+
+5. USOS:
+
+Permite acompanhar e avaliar a atuação das operadoras de planos de assistência à saúde e classificá-las
+em relação à atuação das demais operadoras do mesmo intervalo de beneficiários e do mesmo tipo de
+atenção prestada, quanto à obrigatoriedade da garantia de atendimento, nos termos da RN nº 259, de
+2011.
+
+Também permite acompanhar e avaliar a evolução da atuação das operadoras de planos de assistência à
+saúde em relação aos seus próprios resultados.
+
+Assim, seu uso permite acompanhamento e avaliação da atuação da operadora tanto em relação ao
+mercado em que atua quanto em relação aos seus próprios resultados.
+
+6. PARÂMETROS:
+
+Para acompanhamento e avaliação da operadora em relação aos resultados do mercado em que atua,
+considera-se como parâmetro a mediana das reclamações de todas as operadoras do mesmo intervalo de
+beneficiários e tipo de atenção prestada.
+
+As operadoras que obtiverem resultado abaixo desta mediana serão classificadas na faixa 0.
+
+As operadoras que obtiverem resultado acima desta mediana serão distribuídas nas faixas:
+
+(1) resultado maior ou igual a mediana e menor ou igual a 25% (vinte e cinco por cento) acima da
+mediana;
+
+(2) resultado maior que 25% (vinte e cinco por cento) e menor ou igual a 50% (cinquenta por cento)
+acima da mediana;
+
+(3) faixa 3: resultado maior que 50% (cinquenta por cento) e menor ou igual a 75% (setenta e cinco por
+cento) acima da mediana; ou
+
+(4) faixa 4: resultado maior que 75% (setenta e cinco por cento) acima da mediana.
+7. META:
+
+Não ter nenhuma demanda de reclamação por não garantia de benefício de acesso e cobertura no período
+de avaliação.
+
+
+8. FONTES:
+
+MS/ANS – Sistema de Informações de Fiscalização (SIF)
+MS/ANS – Sistema de Informações de Beneficiários (SIB)
+MS/ANS – Sistema de Cadastro de Operadoras (CADOP)
+MS/ANS – Sistema de Registro de Planos de Saúde (RPS)
+
+9. LIMITAÇÕES E VIESES:
+
+Pode haver sub-registro das demandas de reclamações referentes a não garantia de atendimento, tendo em
+vista que muitos beneficiários não apresentam reclamações na ANS por diversos fatores. Em função
+disso, muitas reclamações são realizadas somente nos órgãos de defesa do consumidor. Esta situação
+poderá levar a ANS a avaliar apenas parte das situações de não garantia de atendimento nos termos da RN
+nº 259, de 2011, no âmbito dos planos privados de assistência à saúde.
+
+10. REFERÊNCIAS:
+
+Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde,
+e seus regulamentos;
+
+RN nº 259, de 17 de junho de 2011, alterada pela RN nº 268, de 1º de agosto de 2011, que dispõe sobre a
+garantia de atendimento dos beneficiários de plano privado de assistência à saúde e dá outras
+providências.
+

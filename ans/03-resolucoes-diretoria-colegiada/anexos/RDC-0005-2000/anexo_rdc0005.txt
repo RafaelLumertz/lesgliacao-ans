@@ -1,0 +1,306 @@
+                                      ANEXO I
+
+            (ANEXOS REVOGADOS PELA RN nº 85, DE 07/12/2004)
+
+         COMPLEMENTAR COM OS DADOS CONTIDOS NA PLANILHA
+
+Documentos e Informações necessários para o registro provisório de Operadoras na
+ANS
+
+1 - DOCUMENTOS
+
+I Cópia autenticada do documento de constituição da empresa e alterações posteriores,
+podendo essas últimas serem substituídas pela última alteração consolidada, todos
+devidamente registrados em Junta Comercial ou Cartório;
+
+II - Cópia autenticada do cartão de inscrição no Cadastro Nacional de Pessoas Jurídicas
+CNPJ do Ministério da Fazenda, não admitindo-se cartão provisório ou cartão com
+prazo de validade vencido;
+
+III Cópia autenticada do cartão de inscrição no Cadastro de Pessoas Físicas CPF do
+Ministério da Fazenda dos controladores, administradores e membros dos Conselho
+Fiscal, Consultivo, Deliberativo, Administrativo ou assemelhados da empresa.
+
+2 DADOS REFERENTES ÀS OPERADORAS
+
+2.1 - Informações Cadastrais da Operadora
+
+          Razão Social
+          Número de inscrição no CNPJ
+          Nome Fantasia
+          Registro de constituição da       Número na Junta Comercial
+          empresa
+                                            Registro no Cartório
+                                            Data de Arquivamento ou
+                                            Registro
+                                            Órgão ou Cartório
+                                            Cidade
+                                            UF
+
+2.2 Enquadramento da Operadora
+
+2.3 Endereço da operadora
+
+Logradouro (Rua, Avenida, etc)
+
+Número
+
+Complemento
+Bairro ou Distrito
+
+Município
+
+CEP
+
+Unidade da Federação
+
+Código do DDD
+
+Telefone
+
+Ramal
+
+Fax
+
+E-mail
+
+2.4 Receita decorrente de operação de Planos de Saúde
+
+Considerar período de Jan./99 a Dez./99
+
+Considerar exclusivamente os recursos provenientes das contribuições dos planos de
+saúde da própria operadora
+
+No caso de empresas de Autogestão, considerar os custos operacionais referentes aos
+planos de saúde oferecido
+
+2.5 Composição do capital - Informar os 10 maiores acionistas/ quotistas/ associados
+
+Nome completo
+
+Nº de inscrição no CPF
+
+Participação no capital (em porcentagem)
+
+2.6 Dados referentes aos Administradores
+
+Nome Completo
+
+Nº de inscrição no CPF
+
+Cargo/ Função
+
+Data de início do mandato
+
+Data de término do mandato
+
+3 - DADOS DO REPRESENTANTE DA EMPRESA JUNTO À ANS
+Nome completo
+
+Cargo
+
+CPF
+
+Endereço do representante junto à ANS
+
+Logradouro (Rua, Avenida, etc)
+
+Número
+
+Complemento
+
+Bairro ou Distrito
+
+Município
+
+CEP
+
+Unidade da Federação
+
+Código do DDD
+
+Telefone
+
+Ramal
+
+Fax
+
+E-mail
+                                      ANEXO II
+
+            (ANEXOS REVOGADOS PELA RN nº 85, DE 07/12/2004)
+
+Modelos de etiquetas para encaminhamento de solicitações à Agência Nacional de
+Saúde Suplementar
+
+1 Modelo para solicitação de registro provisório de operadora
+
+          SOLICITAÇÃO DE REGISTRO PROVISÓRIO DE
+          FUNCIONAMENTO
+
+          Razão social da empresa:
+
+          CNPJ da empresa:
+
+          Nome do representante da empresa junto à ANS:
+
+          Endereço completo do representante da empresa junto à ANS:
+
+          Telefone e fax do representante da empresa junto à ANS:
+
+          E-mail do representante da empresa junto à ANS:
+
+2 Modelo para alteração de documentos e informações do registro provisório de
+operadora
+
+          ALTERAÇÃO DE DOCUMENTOS E INFORMAÇÕES
+          CADASTRAIS
+
+          Razão social da empresa:
+
+          CNPJ da empresa:
+
+          Nome do representante da empresa junto à ANS:
+
+          Endereço completo do representante da empresa junto à ANS:
+
+          Telefone e fax do representante da empresa junto à ANS:
+
+          E-mail do representante da empresa junto à ANS:
+
+3 Modelo para solicitação de registro provisório da operadora
+
+          SOLICITAÇÃO DE CANCELAMENTO DE REGISTRO
+          PROVISÓRIO
+
+          Razão social da empresa:
+CNPJ da empresa:
+
+Nome do representante da empresa junto à ANS:
+
+Endereço completo do representante da empresa junto à ANS:
+
+Telefone e fax do representante da empresa junto à ANS:
+
+E-mail do representante da empresa junto à ANS:
+                          ANEXO III
+
+ (ANEXOS REVOGADOS PELA RN nº 85, DE 07/12/2004)
+
+         Solicitação de Registro Provisório de Operadora
+
+1 Informações
+Cadastrais da
+Operadora
+                      Digite as
+                      informações nesta
+                      coluna. Os campos
+                      em amarelo são de
+                      preenchimento
+                      obrigatório
+Razão Social
+Número de inscrição
+no CNPJ
+Nome Fantasia
+Registro de           Número na Junta
+constituição da       Comercial
+empresa
+                      Registro no Cartório
+                      Data de
+                      Arquivamento ou
+                      Registro
+                      Órgão ou Cartório
+                      Cidade
+                      UF
+Qualificação                     Opção
+1 Natureza jurídica da operadora
+2 Modalidade da operadora
+3 Operação Odontológica
+4 Qualificação de Autogestão
+5 Administradora de Plano
+1 - Opções de         2 - Opções de         3 - Operação
+natureza jurídica:    Modalidade de         Odontológica
+                      Operadora
+(11) Sociedade Civil (21) Medicina de       (31) Exclusiva
+sem fins lucrativos Grupo
+                                            (32) Mista
+(12) Sociedade Civil (21) s/ Hosp. Próprio
+com fins lucrativos                         (33) Inexistente
+                      (22) c/ Hosp. Próprio
+(13) Sociedade
+Comercial - Soc. por (23) c/ Hosp. Próprio
+Cotas de Resp.
+          Limitada             Filantrópico
+
+          (14) Sociedade    (24) Cooperativa
+          Comercial -
+          Sociedade Anônima (24) Outras
+
+          (15) Sociedade
+          Comercial - Outras
+          (Especificar)
+          4 Qualificação de    5 - Administradora
+          Autogestão           de Plano
+          (41) Sim             (51) Sim
+
+          (42) Não             (52) Não
+
+Endereço da operadora
+
+          Logradouro (Rua, Avenida, etc)
+          Número
+          Complemento
+          Bairro ou Distrito
+          Município
+          CEP
+          Unidade da Federação
+          Código do DDD
+          Telefone
+          Ramal
+          Fax
+          E-mail
+
+2 - Dados de Receita
+
+Digite as informações nesta coluna. Os campos em amarelo são de preenchimento
+obrigatório
+
+          Receita decorrente de operação
+          de Planos de Saúde
+
+Composição do Capital- Informar os 10 maiores acionistas/quotistas/associados
+
+          Nome completo        Nº de inscrição no    Participação no
+                               CPF                   capital (em
+                                                     porcentagem)
+3 - Dados do Representante da empresa junto à Agência Nacional de Saúde
+Suplementar
+
+Digite as informações nesta coluna. Os campos em amarelo são de preenchimento
+obrigatório
+
+          Nome completo
+          Cargo
+          CPF
+
+Endereço do representante junto à ANS
+
+          Logradouro (Rua, Avenida, etc)
+          Número
+          Complemento
+          Bairro ou Distrito
+          Município
+          CEP
+          Unidade da Federação
+          Código do DDD
+          Telefone
+          Ramal
+          Fax
+          E-mail
+
+4 - Dados referentes aos Administradores
+
+          Nome            Nº de inscrição Cargo/ Função Data de início e
+          Completo        no CPF                        término do
+                                                        mandato
+

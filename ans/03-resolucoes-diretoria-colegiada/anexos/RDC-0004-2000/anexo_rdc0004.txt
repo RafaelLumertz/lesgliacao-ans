@@ -1,0 +1,156 @@
+                                         ANEXO I
+
+             (ANEXOS REVOGADOS PELA RN nº 85, DE 07/12/2004)
+
+A - Dados referentes ao Registro Provisório de Produtos das Operadoras
+
+I - razão social da operadora;
+
+II - CNPJ;
+
+III - número do registro da operadora;
+
+IV - endereço completo, telefone, fax, e-mail;
+
+V - nome comercial do produto;
+
+VI - segmento assistencial;
+
+VII - tipo de contratação;
+
+VIII - abrangência geográfica;
+
+IX - preços dos produtos, segundo as faixas etárias definidas na Resolução CONSU n.º
+6/98 (Revogado pela RDC nº 28, de 2000); e
+
+X - rede hospitalar própria e credenciada, no casos dos planos hospitalares e referência.
+
+B - Orientações Técnicas
+
+Aplicativo RPSPrograma fornecido pela ANS que é utilizado pela operadora para
+preencher os dados referente à Operadora, aos Produtos e a Rede Hospitalar a serem
+registrados.
+
+RPS.ZIPArquivo gerado pelo aplicativo RPS, em disquete de 3,5”, que será utilizado
+pela ANS para efetuar o registro de Produtos.
+
+LRPS01Relatório gerado pelo Aplicativo RPS, que contem os dados informados pela
+operadora.
+
+LRPS 03Relatório emitido pela ANS, semelhante ao LRPS01, que será devolvido por
+fax para a operadora, contendo o número de Registro Provisório dos Produtos.
+
+C - Dados constantes do Relatório LRPS01
+
+I - razão social da operadora;
+
+II - CNPJ;
+
+III - número do registro da operadora;
+IV - endereço completo, telefone, fax, e-mail;
+
+V - nome completo do dirigente responsável pelas informações; e
+
+VI - número de ordem e nome dos planos que obterão registro provisório.
+                                      ANEXO II
+
+             (ANEXOS REVOGADOS PELA RN nº 85, DE 07/12/2004)
+
+Modelos de etiquetas para encaminhamento de solicitações à Agência Nacional de
+Saúde Suplementar
+
+1 - Modelo para Solicitação de registro provisório do produto da operadora
+
+Etiqueta de Envio do Disquete 3,5”
+
+I - razão social da operadora;
+
+II - CNPJ.
+
+2 - Modelo de etiqueta do Envelope que contem documentos para o Registro Provisório
+de Produtos
+
+ETIQUETA DO ENVELOPE DE ENVIO DA DOCUMENTAÇÃO
+
+I - razão social da operadora;
+
+II - CNPJ;
+
+III - endereço completo;
+
+IV - telefone, fax;
+
+V - endereço eletrônico (e-mail);
+
+VI - quantidade de produtos para registro.
+
+3 - Modelo de etiqueta do Envelope que contem documentos para o Cancelamento/
+Alteração de Registro Provisório de Produtos
+
+ETIQUETA DO ENVELOPE DE CANCELAMENTO/ALTERAÇÃO DE REGISTRO
+
+I - razão social da operadora;
+
+II - CNPJ;
+
+III - endereço completo;
+
+IV - telefone, fax;
+
+V - endereço eletrônico (e-mail).
+                                            ANEXO III
+
+              (ANEXOS REVOGADOS PELA RN nº 85, DE 07/12/2004)
+
+ (instruções e sistema informatizado disponíveis no endereço: www.datasus.gov.br e http://ans.gov.br )
+
+Tabela 1 TIPOS DE SEGMENTAÇÃO ASSISTENCIAL
+
+CÓDIGO       SEGMENTAÇÕES CORRESPONDENTES
+01           AMBULATORIAL
+02           HOSPITALAR COM OBSTETRÍCIA
+03           HOSPITALAR SEM OBSTETRÍCIA
+04           ODONTOLÓGICO
+05           REFERÊNCIA
+06           AMBULATORIAL + HOSPITALAR COM
+             OBSTETRÍCIA
+07           AMBULATORIAL + HOSPITALAR SEM
+             OBSTETRÍCIA
+08           AMBULATORIAL + ODONTOLÓGICO
+10           HOSPITALAR COM OBSTETRÍCIA +
+             ODONTOLÓGICO
+11           HOSPITALAR SEM OBSTETRÍCIA +
+             ODONTOLÓGICO
+13           AMBULATORIAL+ HOSPITALAR COM
+             OBSTETRÍCIA + ODONTOLÓGICO
+14           AMBULATORIAL+ HOSPITALAR SEM
+             OBSTETRÍCIA + ODONTOLÓGICO
+
+Tabela 2 - TIPOS DE CONTRATAÇÃO
+
+            CÓDIGO                                 CONTRATAÇÃO
+            1                                      INDIVIDUAL OU FAMILIAR
+            2                                      COLETIVO EMPRESARIAL
+            3                                      COLETIVO POR ADESÃO
+
+Tabela 3 - ABRANGÊNCIA GEOGRÁFICA
+
+            CÓDIGO                                 ABRANGÊNCIA
+            1                                      NACIONAL
+            2                                      GRUPO DE ESTADOS
+            3                                      ESTADUAL
+            4                                      GRUPO DE MUNICÍPIOS
+            5                                      MUNICIPAL
+
+Tabela 4 FAIXAS ETÁRIAS
+
+            FAIXA ETÁRIA 1                         00 17 ANOS
+           FAIXA ETÁRIA 2   18 29 ANOS
+           FAIXA ETÁRIA 3   30 39 ANOS
+           FAIXA ETÁRIA 4   40 49 ANOS
+           FAIXA ETÁRIA 5   50 59 ANOS
+           FAIXA ETÁRIA 6   60 69 ANOS
+           FAIXA ETÁRIA 7   70 OU MAIS ANOS
+
+(Of. El. nº 7/2000)
+

@@ -1,0 +1,103 @@
+                     RESOLUÇÃO-RDC Nº 28, DE 26 DE JUNHO 2000
+
+
+        ANEXO I - ALTERADO PELA IN NO 8, DE 27 DE DEZEMBRO DE 2003
+
+
+    Conteúdo Mínimo Necessário da Nota Técnica de Registro de Produto - NTRP
+
+
+I - A NTRP deverá manter perfeita relação com as condições do contrato de prestação
+de serviço de assistência à saúde, e deverá contemplar todos os itens abaixo:
+
+
+a) objetivo da NTRP, incluindo seu público alvo e abrangência;
+b) detalhamento de todas as coberturas do produto e outras coberturas opcionais,
+quando for o caso;
+c) definição de todos os parâmetros e variáveis utilizados, incluindo especificação das
+tábuas biométricas, quando for o caso;
+d) especificação das informações referentes a carências, franquias, co-participações,
+seguros, co-seguros e resseguros;
+e) percentual de variação da contraprestação pecuniária por mudança de faixa etária,
+o qual deve manter perfeita relação com a coluna do Valor Comercial da Mensalidade,
+constante do Anexo II-B (coluna T) e com o estabelecido no contrato;
+f) critério técnico (metodologia) adotado para a correta precificação do plano ou
+produto e justificativa para sua utilização;
+g) descrição da margem de segurança estatística e sua justificativa técnica;
+h) descrição    da   margem     de   lucro     e   despesas   não   assistenciais,   inclusive
+comissionamento, despesas com marketing, despesas administrativas, impostos e
+demais despesas;
+i) justificativa técnica dos ajustes nos preços, quando necessários, os quais deverão
+ser apresentados na coluna Ajuste (coluna S);
+j) descrição do banco de dados utilizado e especificação do período de observação.
+k) caso a operadora pratique preços de comercialização diferenciados por região, a
+composição destas regiões deverá estar detalhada, incluindo os estados e/ou
+municípios; e
+l) assinatura do atuário, com seu número de identificação profissional perante o
+Instituto Brasileiro de Atuária – IBA.
+
+
+II - Em relação às coberturas que prevejam a utilização de carências, franquias e/ou co-
+participação, deve-se especificar o intervalo contendo os limites mínimos e máximos
+possíveis, sendo necessária a coerência com os termos do contrato, de acordo com a
+Lei 9656/98.
+
+
+III - A operadora deve apresentar um quadro-resumo contendo o nome do(s) plano(s)
+referentes à NTRP, o número de registro do(s) plano(s) na ANS, quando houver, o tipo
+de segmentação e de contratação. Esse quadro deverá constar das bases técnicas da
+NTRP, as quais contemplam as premissas do plano.
+
+
+IV - A NTRP deverá vir acompanhada de cópia do(s) comprovante(s) de incorporação
+de dados enviados pela Internet, referente(s) ao(s) anexos II-A, II-B e Municípios, e
+
+
+a) Todos os dados utilizados na obtenção dos resultados apresentados na NTRP
+deverão ser armazenados em meio magnético pela operadora pelo período de cinco
+anos, pois poderão ser requisitados pela ANS.
+
+
+b) O Anexo II-A deverá ser preenchido por tipo de item de despesa ou por grupos de
+itens, conforme apresentado no Glossário do Anexo II-A. Caso a operadora não possua
+sua base de dados distribuída entre os itens definidos no glossário do Anexo II-A, outro
+agrupamento poderá ser utilizado. Os itens ou grupo de itens de despesa assistencial
+utilizados pela operadora deverão estar definidos e detalhados na NTRP.
+
+
+A partir de julho de 2003, o Anexo II-A deverá ser preenchido por item de despesa, de
+acordo com o estabelecido no Anexo III.
+c) Excetuando-se o caso previsto na alínea k do inciso I deste anexo, deverá haver um
+único arquivo, contendo os anexos II-A, II-B e Municípios, para cada plano ou produto,
+onde todas as informações deste plano estarão discriminadas, e
+
+
+d) Deve ser observada a consistência da base de dados a ser utilizada na elaboração
+dos anexos.
+
+
+V - Deverá ser apresentada justificativa técnica para os possíveis ajustes efetuados
+nos preços, tais como:
+a) diferença de preços entre regiões;
+b) adequação dos preços ao art. 2º da Resolução CONSU n.º 6, de 4 de novembro de
+1998, alterado pelo item IV, art. 2º da Resolução CONSU n.º 15 de 29 de março de
+1999.
+
+
+VI - Deverão estar relacionadas todas as reservas a serem constituídas pela
+operadora, devendo a metodologia de cálculo ser encaminhada à Diretoria de Normas
+e Habilitação das Operadoras - DIOPE para análise.
+
+
+VII - Qualquer alteração nas hipóteses técnicas descritas na Nota Técnica de Registro
+de Produto necessitará de encaminhamento de Aditivo à NTRP, previamente à
+comercialização, contemplando a(s) alteração(ões) nas bases técnicas com os
+respectivos anexos. A alteração terá validade após a protocolização do material devido
+nesta ANS e o prazo de doze meses para o envio da atualização da NTRP será
+contado a partir do protocolo do Aditivo.
+
+
+VIII - Quando do envio da atualização da NTRP, conforme previsto no art. 6º da RDC
+n° 28, caso a operadora não encaminhe nova NTRP com as bases técnicas do plano,
+ficará caracterizada a manutenção das premissas adotadas anteriormente.
+

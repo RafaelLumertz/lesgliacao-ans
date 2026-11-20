@@ -1,0 +1,56 @@
+                                    ANEXO I
+
+Especificações de formatação dos arquivos a serem enviados pela DIPRO
+
+
+1. Os arquivos enviados às operadoras, pelo aplicativo PTA, estarão no formato PDF
+(Portable Document Format).
+
+
+2. O padrão de nomenclatura do arquivo a ser encaminhado deverá ser
+REGANS_DOC_CONTROLE.PRO, em que:
+
+a. REGANS: registro da operadora na ANS, sem hífen ou espaçamento entre os números;
+b. DOC: documento a ser encaminhado;
+c. CONTROLE: número do documento, ano e unidade administrativa;
+d. PRO: tipo de arquivo reconhecido pelo PTA como sendo relativo à DIPRO.
+
+3. Abaixo, exemplo do padrão de nomenclatura no caso de envio de Ofício de número
+1234, do ano 2016, da unidade GEFAP, à operadora com registro na ANS sob o número
+123456:
+
+        123456_OFICIO_1234_2016_GEFAP.PRO
+                                     ANEXO II
+
+   Especificações de formatação dos arquivos a serem enviados, à DIPRO, pelas
+                                   operadoras
+
+1. Os arquivos enviados pelas operadoras deverão estar no formato PDF (Portable
+Document Format).
+
+2. Os arquivos não poderão exceder ao tamanho máximo de 10 MB.
+
+3. O padrão de nomenclatura dos arquivos deverá ser REGANS_ASSUNTO_NN.PRO,
+em que:
+
+a. REGANS: registro da operadora na ANS, sem hífen ou espaçamento entre os números;
+b. ASSUNTO: de acordo com documento/solicitação/requerimento a ser encaminhado à
+DIPRO;
+c. NN: (01,02,03........) controle de envio, número do documento para controle em caso
+de envio de mais de um arquivo referente ao mesmo assunto.
+d. PRO: tipo de arquivo reconhecido pelo PTA como sendo relativo à DIPRO. A
+operadora, antes de enviar o arquivo pelo PTA, deverá alterar manualmente extensão do
+arquivo de PDF para PRO.
+
+4. A nomenclatura englobando REGANS, assunto e controle não pode ultrapassar 35
+caracteres.
+
+5. A nomenclatura não poderá ser igual a de arquivos já enviados. No caso de envio de
+documento/solicitação/requerimento com a mesma nomenclatura, a diferença deve ser
+estabelecida por meio da atualização do controle de número de envio “NN”.
+
+6. O Aplicativo Programa Transmissor de Arquivos - PTA e o Manual de Comunicação
+Eletrônica – DIPRO encontram-se à disposição no sítio institucional da ANS na internet
+(www.ans.gov.br), pelo caminho: Planos e Operadoras > Espaço da Operadora >
+Aplicativos ANS
+

@@ -1,0 +1,98 @@
+                                                                           ANEXO - Instrução Normativa nº 55/2014/DIDES
+                                      Obrigatoriedade de preenchimento dos campos de dados para realização dos procedimentos de atualização cadastral do SIB/ANS
+                                                                                        Obrigatoriedade de preenchimento dos campos de dados - PROCEDIMENTOS
+Código do                                                            Inclusão                  Retificacão         Mudança Contratual          Cancelamento               Reativação
+campo de
+                         Campos de dados                                      Dep.                Dep.                    Dep.    Dep.             Dep.   Dep.              Dep.     Dep.    Sem
+ dado no                                                              Dep.                                  Dep.
+                                                                              Menor              Maior                    Maior Menor             Maior Menor               Maior Menor     Movi-
+   SIB                                                       Titular Maior de          Titular           Menor de Titular                 Titular                  Titular
+                                                                              de 18              de 18                    de 18  de 18             de 18 de 18              de 18 de 18     mento
+                                                                     18 anos                               18 anos
+                                                                              anos                anos                    anos    anos             anos   anos               anos    anos
+                                                                                          Identificação Pessoal
+   30       CCO - Código de Controle Operacional               N       N         N       O        O        O        O       O       O       O       O       O        O       O       O       N
+            Código de Identificação do Beneficiário na
+   8                                                           O       O         O      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+            operadora
+   1        Nome do beneficiário                               O       O         O      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+   2        Data de nascimento do beneficiário                 O       O         O      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+   3        Código de sexo do beneficiário                     O       O         O      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+   4        Número no CPF do beneficiário                      O       O         R      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+            Número no PIS/PASEP do beneficiário ou
+   5        Número de Identificação do Trabalhador –           R       R         R      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+            NIT
+   6        Nome da mãe do beneficiário                        R       R         R      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+   36       Número da Declaração de Nascido Vivo             Op        N        Op      Op       N         Op       N       N       N       N       N       N        N       N       N       N
+   7        Número do Cartão Nacional de Saúde               O(*)     O(*)      O(*)    Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+            Código de identificação do beneficiário
+   18       titular na operadora para beneficiários            N       O         O       N       Op        Op       N       N       N       N       N       N        N       N       N       N
+            informados como dependentes (não-titulares)
+                                                                                        Identificação de Endereço
+            Indicação de endereço residencial ou
+   21                                                         Op      Op        Op      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+            profissional
+   22       Logradouro do beneficiário                        Op      Op        Op      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+   33       Número do logradouro                              Op      Op        Op      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+   34       Complemento do logradouro                         Op      Op        Op      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+   35       Bairro                                            Op      Op        Op      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+   26       Código do município do logradouro indicado         O       O         O      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+   27       CEP                                               Op      Op        Op      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+            Indicação se a residência do beneficiário é no
+   28                                                         Op      Op        Op      Op       Op        Op       N       N       N       N       N       N        N       N       N       N
+            Brasil ou no exterior
+            Código do município de residência do
+   29       beneficiário, caso o endereço informado seja      Op      Op        Op      Op       Op        Op       R       R       N       R       R       N        R       R       N       N
+            indicado como endereço profissional
+                                                                              ANEXO - Instrução Normativa nº 55/2014/DIDES
+
+                              Obrigatoriedade de preenchimento dos campos de dados para realização dos procedimentos de atualização cadastral do SIB/ANS (continuação)
+
+                                                                                        Obrigatoriedade de preenchimento dos campos de dados - PROCEDIMENTOS
+
+Código do
+campo de                                                           Inclusão                  Retificacão           Mudança Contratual            Cancelamento            Reativação
+                        Campos de dados                                                                                                                                                    Sem
+ dado no
+                                                                            Dep.                  Dep.                     Dep.    Dep.              Dep.  Dep.             Dep.  Dep.    Movi-
+   SIB                                                              Dep.                                  Dep.
+                                                                            Menor                Maior                     Maior   Menor             Maior Menor            Maior Menor   mento
+                                                           Titular Maior de           Titular           Menor de Titular                   Titular                  Titular
+                                                                            de 18                de 18                     de 18   de 18             de 18 de 18            de 18 de 18
+                                                                   18 anos                               18 anos
+                                                                            anos                  anos                     anos    anos              anos  anos             anos  anos
+                                                                                         Identificação Contratual
+    9       Número do registro do plano na ANS (RPS)         R       R          R       Op       Op        Op       R        R      R        N        N         N    N       N        N    N
+            Código do cadastro do plano na ANS
+    10                                                       R       R          R       Op       Op        Op       R        R      R        N        N         N    N       N        N    N
+            (SCPA)
+            Número do plano origem RPS
+    11                                                       R       R          R       Op       Op        Op       R        R      R        N        N         N    N       N        N    N
+            (portabilidade)
+    12      Data de contratação do plano                     O       O          O       Op       Op        Op       O        O      O        N        N         N    N       N        N    N
+    31      Data de cancelamento do plano                    N       N          N       Op       Op        Op       N        N      N        O        O         O    N       N        N    N
+    32      Código do motivo do cancelamento do plano        N       N          N       Op       Op        Op       N        N      N        O        O         O    N       N        N    N
+    20      Data de reativação do plano                      N       N          N       Op       Op        Op       N        N      N        N        N         N    O       O        O    N
+            Indicação de existência de Cobertura Parcial
+    14                                                      Op      Op         Op       Op       Op        Op      Op        Op     Op       N        N         N    N       N        N    N
+            Temporária
+            Indicação de itens de procedimentos
+    15                                                      Op      Op         Op       Op       Op        Op      Op        Op     Op       N        N         N    N       N        N    N
+            excluídos da cobertura
+            Número no CNPJ da pessoa jurídica
+    16                                                       R       R          R       Op       Op        Op       R        R      R        N        N         N    N       N        N    N
+            contratante do plano coletivo
+            Número no CEI do contratante do plano
+    17                                                       R       R          R       Op       Op        Op       R        R      R        N        N         N    N       N        N    N
+            coletivo
+    13      Relação de Dependência                           O       O          O       Op       Op        Op       O        O      O        N        N         N    N       N        N    N
+
+
+    19      Reservado à ANS                                  N       N          N       N         N        N        N        N      N        N        N         N    N       N        N    N
+Legenda:
+O - preenchimento obrigatório do campo;
+O(*) - preenchimento obrigatório do campo "Número do Cartão Nacional de Saúde" a partir de 30 de junho de 2015.
+N - preenchimento do campo não se aplica;
+R - preenchimento restritivo do campo;
+Op - preenchimento opcional do campo.
+

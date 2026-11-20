@@ -1,0 +1,1525 @@
+                                     ANEXO I
+
+CARACTERÍSTICAS GERAIS PARA INSTRUMENTOS JURÍDICOS A SEREM
+      FORMALIZADOS COM BENEFICIÁRIOS DE PLANOS DE SAÚDE
+        Os instrumentos jurídicos (contrato, regulamento ou outra forma) que
+formalizem a relação da Operadora com beneficiários de Plano de Saúde devem conter
+dispositivos sobre os temas a seguir relacionados, sempre que couber, e devem estar
+de acordo com o informado à ANS nos Campos “Dados Gerais do Produto”, “Serviços e
+Coberturas Adicionais” e “Acesso à Livre Escolha de Prestadores”. Os instrumentos
+jurídicos de planos privados de assistência à saúde devem estar de acordo com as suas
+características informadas nos aplicativos ARPS e RPS, não sendo admitidos no mesmo
+instrumento jurídico planos com diferentes registros.
+
+      Tema I - QUALIFICAÇÃO DA OPERADORA
+
+
+A) Razão Social e Nome Fantasia, se houver;
+B) Inscrição no Cadastro Nacional de Pessoas Jurídicas;
+C) Registro da operadora na ANS;
+D) Classificação da operadora na ANS;
+1.- Nas operadoras classificadas como autogestão , conforme art. 4º c/c 12, II da RN
+137/2006, deverá ser informado se há em sua composição a figura do mantenedor.
+E) Endereço.
+
+
+      Tema II - QUALIFICAÇÃO DO CONTRATANTE
+
+A) Nos produtos de contratação individual e nas autogestões especificar os dados da
+Pessoa Física contratante ou seu Representante/Assistente
+   1. Nome;
+   2. Filiação;
+   3. Data de nascimento;
+   4. Inscrição no Cadastro de Pessoa Física;
+   5. Cédula de Identidade - Órgão Expedidor;
+   6. Endereço.
+
+B) Nos produtos de contratação coletiva, especificar os dados da Pessoa jurídica
+contratante:
+
+   1. Razão Social e Nome Fantasia, se houver;
+   2. CNPJ;
+   3. Endereço.
+
+      Tema III - Objeto do Contrato
+
+Indicar que se trata de prestação continuada de serviços na forma de plano privado de
+assistência à saúde prevista no inciso I, do artigo 1º, da Lei 9656/1998, visando a
+Assistência Médica Hospitalar e/ou Odontológica (de acordo com a segmentação do
+produto) com a cobertura de todas as doenças da Classificação Estatística
+Internacional de Doenças e Problemas Relacionados com a Saúde, da Organização
+Mundial de Saúde, e do Rol de Procedimentos editado pela ANS, vigente à época do
+evento.
+
+       Tema IV - Natureza do Contrato
+
+A) Indicar que se trata de contrato de adesão, bilateral, que gera direitos e obrigações
+para ambas as partes, na forma do Código Civil Brasileiro, estando também sujeito às
+disposições do Código de Defesa do Consumidor.
+
+B) As operadoras classificadas na ANS como autogestão devem mencionar que se trata
+de um regulamento que traça as diretrizes de plano de assistência à saúde, com
+características de contrato de adesão.
+
+       Tema V - Nome Comercial e Número de Registro do Plano na ANS
+
+Indicar o nome comercial do plano, de acordo com o informado à ANS no campo
+“Dados Gerais do Produto”. Deve também ser informado o número do Registro do
+Produto emitido no ato de seu deferimento.
+
+       Tema VI - Tipo de Contratação do Plano de Saúde
+
+Indicar o tipo de contratação do plano nos termos do disposto no item 3, do Anexo II
+da RN nº 100/2005, ou seja, individual/familiar, coletivo empresarial ou coletivo por
+adesão, conforme disposto no artigo 16 da Lei 9656/1998, e na Resolução CONSU nº
+14/1998 e de acordo com o informado à ANS no campo “Dados Gerais do Produto”.
+
+       Tema VII - Tipo de Segmentação Assistencial do Plano de Saúde
+
+Indicar o tipo de segmentação assistencial do plano dentre aquelas previstas no item
+2, do Anexo II da RN nº 100/2005 e de acordo com o informado à ANS no campo
+“Dados Gerais do Produto”.
+
+       Tema VIII - Área Geográfica de Abrangência do Plano de Saúde
+
+A) Indicar a área geográfica de abrangência do plano na forma do item 4, do Anexo II
+da RN nº 100/2005, ou seja, Nacional, Estadual, Grupo de Estados, Municipal ou Grupo
+de Municípios, e de acordo com o informado à ANS no campo “Dados Gerais do
+Produto”.
+
+B) No caso de a abrangência geográfica ser diferente da Nacional, deve(m) ser
+especificado(s) o(s) município(s), ou estado(s) onde haverá cobertura do plano.
+
+C) A relação de municípios ou estados deverá ser compatível com a informação
+encaminhada à ANS no campo “Área de Atuação do Produto”.
+      Tema IX - Padrão de Acomodação em Internação
+
+A) Nos planos que incluem internação, indicar o tipo de acomodação hospitalar que o
+plano oferece, nos termos do disposto no item 7, do Anexo II, da RN nº 100/2005, ou
+seja, individual ou coletiva, de acordo com o informado à ANS no campo “Dados Gerais
+do Produto”.
+
+B) Dispor sobre a garantia de acomodação superior, na forma do artigo 33, da Lei
+9.656/1998.
+
+C)O padrão de acomodação é característica do plano e deve estar especificado de
+acordo com a informação encaminhada à ANS no campo “Dados Gerais do Produto”.
+
+      Tema X - Condições de Admissão
+
+A) Indicar as condições de admissão dos beneficiários dependentes nos planos
+ individuais/familiares.
+
+B) Indicar as condições de admissão dos beneficiários titulares e dependentes nos
+planos coletivos, de acordo com a informação encaminhada à ANS no campo “Dados
+Gerais do Produto” – “tipo de vínculo”.
+
+C) Nos planos coletivos, deverá também dispor sobre prazos para admissão, se
+houver.
+
+D) Nos planos de todas as segmentações, especificar a garantia de inscrição do menor
+adotivo de 12 anos com aproveitamento das carências já cumpridas pelo usuário
+adotante (artigo 12, VII, da Lei 9.656/1998).
+
+E) Nos planos com cobertura obstétrica, garantir o direito de inscrição do recém-
+nascido, filho adotivo ou natural, como dependente, com isenção de carência (artigo
+12, III, alínea "b", da Lei 9.656/1998), sendo vedada qualquer alegação de DLP ou
+aplicação de CPT ou Agravo (artigo 20, da Resolução Normativa n.º 162/2007)
+
+F) As operadoras classificadas na ANS como autogestões deverão definir para quem se
+destina o plano, de acordo com o artigo 2º da RN nº 137/2006, alterada pela RN nº
+148/2007, como: empregados ativos, aposentados, pensionistas e ex-empregados,
+bem como seus respectivos grupos familiares definidos, de uma ou mais empresas, ou
+ainda, participantes e dependentes de associações, sindicatos ou entidades de classes
+profissionais.
+
+      Tema XI - Coberturas e Procedimentos Garantidos
+
+As coberturas listadas abaixo, previstas no artigo 12, da Lei 9.656/1998, na Resolução
+CONSU nº 10/1998 e no Rol de Procedimentos médicos e odontológicos são as
+coberturas e procedimentos mínimos a serem garantidos nos planos de saúde, por
+determinação legal.
+O oferecimento de cobertura mais ampla que a determinada nos normativos
+mencionados deverá ser especificado no tema Serviços e Coberturas Adicionais, após
+indicação no aplicativo RPS/ARPS.
+A) Nos planos de todas as segmentações, dispor sobre as coberturas assistenciais
+contratadas, para todas as doenças da Classificação Estatística Internacional de
+Doenças e Problemas Relacionados com a Saúde, da Organização Mundial de Saúde
+(artigo 10 da Lei n.º 9.656/1998) e Rol de Procedimentos vigente à época do evento.
+
+B) O Plano que inclui a segmentação Ambulatorial deve garantir:
+
+1. cobertura de consultas médicas, em número ilimitado, em clínicas básicas e
+especializadas, inclusive obstétricas para pré-natal, reconhecidas pelo Conselho
+Federal de Medicina (artigo 12, I, “a” da Lei 9656/1998);
+
+2. cobertura de serviços de apoio diagnóstico, tratamentos e demais procedimentos
+ambulatoriais, incluindo procedimentos cirúrgicos ambulatoriais, solicitados pelo
+médico assistente, ou cirurgião-dentista, mesmo quando realizados em ambiente
+hospitalar, desde que não se caracterize como internação (artigo 12, I, “b”, da Lei
+9.656/1998, artigo 4º, II, da Resolução CONSU nº 10/1998, e Súmula Normativa nº
+11/2007).
+
+3. cobertura para os seguintes procedimentos considerados especiais:
+Hemodiálise e diálise peritonial - CAPD;
+Quimioterapia ambulatorial;
+Radioterapia (megavoltagem, cobaltoterapia, cesioterapia, eletronterapia etc.);
+Hemoterapia ambulatorial;
+Cirurgias oftalmológicas ambulatoriais (artigo 4º, VI, da Resolução CONSU nº
+10/1998);
+
+4. o atendimento às emergências psiquiátricas, assim consideradas as situações que
+impliquem em risco de vida ou de danos físicos para o próprio ou para terceiros
+(incluídas as ameaças e tentativas de suicídio e auto-agressão) e/ou em risco de danos
+morais e patrimoniais importantes (artigo 2º, I, “a”, da Resolução CONSU 11/98);
+
+5. a psicoterapia de crise, entendida como o atendimento intensivo prestado por um ou
+mais profissionais da área da saúde mental, com duração máxima de doze semanas,
+tendo início imediatamente após o atendimento de emergência e podendo ser limitada
+a doze sessões por ano de contrato, não cumulativas (artigo 2º, II, “b”, da Resolução
+CONSU nº 11/1998);
+
+C) o Plano que inclui a segmentação hospitalar, incluindo o plano da segmentação
+referência, deve garantir:
+
+1. cobertura de internações hospitalares, vedada a limitação de prazo, valor máximo e
+quantidade, em clínicas básicas e especializadas, reconhecidas pelo Conselho Federal
+de Medicina, admitindo-se a exclusão dos procedimentos obstétricos, nos planos sem
+cobertura obstétrica (artigo 12, II, alínea “a”, da Lei 9.656/1998);
+2. cobertura de internações hospitalares em centro de terapia intensiva, ou similar,
+vedada a limitação de prazo, valor máximo e quantidade, a critério do médico
+assistente (artigo 12, II, alínea “b”, da Lei 9.656/1998);
+
+
+3. cobertura de despesas referentes a honorários médicos, serviços gerais de
+enfermagem e alimentação (artigo 12, II, alínea “c”, da Lei 9.656/1998);
+
+4. cobertura de exames complementares indispensáveis para o controle da evolução
+da doença e elucidação diagnóstica, fornecimento de medicamentos, anestésicos,
+gases medicinais, transfusões e sessões de quimioterapia e radioterapia, conforme
+prescrição do médico assistente, realizados ou ministrados durante o período de
+internação hospitalar (artigo 12, II, alínea “d”, da Lei 9.656/1998);
+
+5. cobertura de toda e qualquer taxa, incluindo materiais utilizados (artigo 12, II,
+alínea “e”, da Lei 9.656/1998);
+
+6. cobertura de despesas de acompanhante, no caso de pacientes menores de dezoito
+anos e com idade igual ou superior a sessenta anos (artigo 12, II, alínea “f”, da Lei
+9.656/1998 c/c Estatuto do Idoso).
+
+7. cobertura de cirurgia odontológica buco-maxilo-facial e procedimentos
+odontológicos passíveis de realização em consultório, que necessitem de ambiente
+hospitalar por imperativo clínico (artigo 5º, inciso I, e parágrafo único do art. 7º da
+Resolução CONSU nº 10/1998);
+
+8. cobertura para os seguintes procedimentos considerados especiais, cuja
+necessidade esteja relacionada à continuidade da assistência prestada como
+internação hospitalar (artigo 5º, II, da Resolução CONSU nº 10/1998):
+8.1- Hemodiálise e diálise peritonial - CAPD;
+8.2- Quimioterapia;
+8.3- Radioterapia incluindo radiomoldagem, radioimplante e braquiterapia;
+8.4- Hemoterapia;
+8.5- Nutrição parenteral ou enteral;
+8.6- Procedimentos diagnósticos e terapêuticos em hemodinâmica;
+8.7- Embolizações e radiologia intervencionista;
+8.8- Exames pré-anestésicos ou pré-cirúrgicos;
+8.9- Fisioterapia;
+
+9. cirurgia plástica reconstrutiva de mama, utilizando-se de todos os meios e técnicas
+necessárias, para o tratamento de mutilação decorrente de utilização de técnica de
+tratamento de câncer (artigo 10-A da Lei 9.656/1998, incluído pela Lei nº 10.223, de
+2001);
+
+10. o custeio integral de, pelo menos, trinta dias de internação, por ano de contrato,
+não cumulativos, em hospital psiquiátrico ou em unidade ou enfermaria psiquiátrica
+em hospital geral, para portadores de transtornos psiquiátricos em situação de crise
+(artigo 2º, II, “a”, da Resolução CONSU nº 11/1998, alterado pela Resolução CONSU
+nº 15/1999);
+11. o custeio integral de, pelo menos, quinze dias de internação, por ano de contrato,
+não cumulativos, em hospital geral, para pacientes portadores de quadros de
+intoxicação ou abstinência provocados por alcoolismo ou outras formas de dependência
+química que necessitem de hospitalização (artigo 2º, II, “b”, da Resolução CONSU nº
+11/1998, alterado pela Resolução CONSU nº 15/1999);
+
+12. o custeio, dentro dos prazos definidos acima, somente poderá ser parcial se houver
+co-participação ou franquia para as internações referentes às demais especialidades
+médicas (artigo 2º, II, “c”, da Resolução CONSU nº 11/1998);
+
+13. todos os atendimentos clínicos ou cirúrgicos decorrentes de transtornos
+psiquiátricos, aí incluídos os procedimentos médicos necessários ao atendimento das
+lesões auto-infringidas (artigo 2º, II, parágrafo único, da Resolução CONSU nº
+11/1998);
+
+14. nos casos em que houver limitação para o custeio integral das internações
+psiquiátricas, na forma prevista no artigo 2º, inciso II, alíneas "a" e "b", da Resolução
+CONSU nº 11/98, o contrato deve estipular a forma como se dará a cobertura da
+internação psiquiátrica nos dias excedentes. A regra trazida pelo artigo 3º da
+Resolução CONSU nº 11/1998 dá a operadora a faculdade de compartilhar o custeio
+das internações psiquiátricas em que o(s) período(s) de internação ultrapasse(m) os
+prazos acima mencionados, no transcorrer de um mesmo ano de contrato, com o
+beneficiário, mediante a co-participação. Esta co-participação não pode caracterizar o
+financiamento integral da internação e deve obedecer aos tetos estabelecidos nos
+normativos vigentes. A co-participação exclusiva nos dias excedentes em psiquiatria,
+quando houver, não se caracteriza como Fator Moderador do plano e não deve ser
+informada no campo “Dados Gerais do Produto” no aplicativo RPS.
+
+15. oito semanas anuais de tratamento em regime de hospital-dia para os portadores
+de transtornos psiquiátricos em situação de crise (artigo 5º, II, da Resolução CONSU
+nº 11/1998);
+
+16. para os diagnósticos F00 a F09, F20 a F29, F70 a F79 e F90 a F98 relacionados na
+Classificação Estatística Internacional de Doenças e Problemas Relacionados com a
+Saúde, da Organização Mundial de Saúde, garantir a cobertura de tratamento em
+regime de hospital-dia por cento e oitenta dias por ano (artigo 5º, II, da resolução
+CONSU 11/1998);
+
+17. cobertura dos transplantes de Rins e Córneas, bem como as despesas com os
+procedimentos vinculados, incluindo todas aquelas necessárias à realização do
+transplante, incluindo as despesas assistenciais com doadores vivos, os
+medicamentos utilizados durante a internação e o acompanhamento clínico no pós-
+operatório imediato e tardio, sendo admitida a exclusão de medicamentos de
+manutenção e as despesas com captação dos órgãos na forma de ressarcimento ao
+SUS (artigo 2º e parágrafos da resolução CONSU 12/1998);
+
+18. nos casos em que houver garantia de assistência para procedimentos hospitalares
+na modalidade de hospital-dia, deve esclarecer que esta se dará a critério do médico
+assistente.
+D) Os Planos que incluem a segmentação hospitalar com obstetrícia, incluindo os
+planos da segmentação referência, devem garantir:
+
+1. toda a cobertura definida para os planos com segmentação hospitalar, acrescida
+dos procedimentos relativos ao pré-natal e da assistência ao parto; (artigo 6º da
+Resolução CONSU 10/1998);
+
+2. cobertura assistencial ao recém-nascido, filho natural ou adotivo do consumidor,
+titular ou dependente durante os primeiros trinta dias após o parto (artigo 12, III,
+“a”, da Lei 9656/1998), sendo vedada qualquer alegação de DLP ou aplicação de CPT
+ou Agravo (artigo 20, da Resolução Normativa N.º 162/2007).
+
+E) O Plano que inclui a segmentação odontológica deve garantir:
+
+1. todas as coberturas e procedimentos previstos no artigo 12, inciso IV, da Lei n.º
+9656/98, no Artigo 7º, CONSU 10/98 e no Rol de Procedimentos Odontológicos
+vigente à época do evento;
+
+2. para os planos odontológicos em regime de pagamento misto, que estejam
+discriminados os procedimentos em pré-pagamento estabelecidos no artigo 2º da RN
+nº 59/2003;
+
+3. que a cobertura assistencial do plano misto inclua todos os itens definidos pela ANS
+no Rol de Procedimentos Odontológicos vigente, devendo obrigatoriamente ser
+submetidas a regime de pré-pagamento, sem utilização de mecanismos de regulação
+financeira, as despesas relativas, no mínimo, aos seguintes procedimentos:
+
+   1. consulta inicial;
+   2. curativo em caso de hemorragia bucal/labial;
+   3. curativo em caso de odontalgia aguda/ pulpectomia/ necrose;
+   4. imobilização dentária temporária;
+   5. recimentação de peça protética;
+   6. tratamento de alveolite;
+   7. colagem de fragmentos;
+   8. incisão e drenagem de abscesso extra-oral;
+   9. incisão e drenagem de abscesso intra-oral;
+   10. reimplante de dente avulsionado;
+   11. orientação de higiene bucal;
+   12. evidenciação de placa bacteriana;
+   13. aplicação tópica de flúor.
+
+4. Os procedimentos não incluídos acima poderão ser submetidos a regime de pós-
+pagamento, de acordo com as seguintes regras:
+
+4.1- A tabela de preços dos procedimentos sujeitos a pós-pagamento deverá integrar o
+contrato, que deverá ainda prever a periodicidade e demais condições específicas para
+atualização que forem adotadas (artigo 3º da RN n.º 59/2003).
+4.2- Deve estar claro que as atualizações da tabela serão incorporadas ao contrato a
+título de aditamento pré-consentido, estabelecido no instrumento inicial, e serão
+enviadas aos titulares dos contratos (artigo 3º, parágrafo único, da RN n.º 59/2003).
+
+      Tema XII - Exclusões de Cobertura
+
+A) Especificar as exclusões de cobertura à assistência contratada, com vista ao
+disposto no artigo 10 da Lei 9.656/98 e Resolução CONSU n° 10/98, respeitadas as
+coberturas mínimas obrigatórias previstas no artigo 12 da Lei no 9656/1998 e no Rol
+de Procedimentos Médicos e Odontológicos editados pela ANS, vigente à época do
+evento, dentro da segmentação assistencial à qual o plano pertence.
+
+B) As exclusões deverão ser limitadas ao disposto no artigo 10 da Lei 9656/1998 e aos
+artigos 4º e 5º da CONSU nº 10/1998.
+
+C) Em todas as segmentações, podem ser excluídos da cobertura:
+
+   1. tratamento clínico ou cirúrgico experimental;
+   2. procedimentos clínicos ou cirúrgicos para fins estéticos, bem como órteses e
+       próteses para o mesmo fim;
+   3. inseminação artificial;
+   4. tratamento de rejuvenescimento ou de emagrecimento com finalidade estética;
+   5. fornecimento de medicamentos importados não nacionalizados;
+   6. fornecimento de medicamentos para tratamento domiciliar;
+   7. fornecimento de próteses, órteses e seus acessórios não ligados ao ato
+       cirúrgico;
+   8. tratamentos ilícitos ou antiéticos, assim definidos sob o aspecto médico, ou não
+       reconhecidos pelas autoridades competentes;
+   9. casos de cataclismas, guerras e comoções internas, quando declarados pela
+       autoridade competente;
+   10. tratamentos em clínicas de emagrecimento (exceto para tratamentos da
+       obesidade mórbida), clínicas de repouso, estâncias hidrominerais, clínicas para
+       acolhimento de idosos e internações que não necessitem de cuidados médicos
+       em ambiente hospitalar;
+   11. consultas domiciliares;
+   12. transplantes, à exceção de córnea e rim;
+
+D) Nos contratos de planos coletivos, não é obrigatória a cobertura para
+procedimentos relacionados com acidentes do trabalho e suas conseqüências,
+moléstias profissionais, assim como para os procedimentos relacionados com a saúde
+ocupacional.
+
+E) Não podem ser excluídas em nenhuma hipótese as seguintes coberturas:
+       1. doenças constantes na Classificação Estatística Internacional de Doenças e
+          Problemas Relacionados com a Saúde, da Organização Mundial de Saúde;
+       2. procedimentos constantes no Rol de Procedimentos vigente à época do
+          evento, independentemente da causa;
+       3. próteses importadas nacionalizadas (registradas na ANVISA) e utilizadas no
+          ato cirúrgico;
+       4. cirurgias plásticas reparadoras;
+       5. complicações de procedimentos não cobertos, de acordo com a Súmula
+          Normativa nº 10/2006.
+
+F) Nos planos de segmentação exclusivamente ambulatorial, podem ser excluídos:
+
+1. procedimentos de diagnóstico e terapêutica em hemodinâmica;
+2. procedimentos que exijam forma de anestesia diversa da anestesia local, sedação
+ou bloqueio;
+3. quimioterapia intra-tecal ou as que demandem internação;
+4. radiomoldagens, radioimplantes e braquiterapia;
+5. nutrição enteral ou parenteral;
+6. embolizações e radiologia intervencionista;
+7. internações hospitalares;
+8. procedimentos para fim de diagnóstico ou terapia que, embora prescindam de
+internação, demandem o apoio de estrutura hospitalar por mais de 12 horas, ou
+serviços como de recuperação pós-anestésica, UTI, CETIN e similares.
+
+D) Nos planos exclusivamente hospitalares, podem ser excluídos:
+
+1. consultas ambulatoriais e domiciliares;
+2. atendimento pré-natal ambulatorial e hospitalar (quando não incluir a cobertura
+obstétrica);
+
+E) Nos planos exclusivamente odontológicos, podem ser excluídos:
+
+1. os procedimentos não constantes do Rol de Procedimentos vigente à época do
+evento;
+2. os procedimentos buco-maxilares e aqueles passíveis de realização em consultório,
+mas que, por imperativo clínico, necessitem de internação hospitalar.
+
+       Tema XIII - VIGÊNCIA
+
+A) Especificar a data de início de vigência:
+
+1) Considerar-se-á, para início de vigência contratual em planos individuais, a data da
+assinatura da proposta de adesão, da assinatura do instrumento jurídico em si ou a
+data de pagamento da mensalidade inicial, o que ocorrer primeiro, de forma a não
+haver prorrogação indevida dos prazos de carência admitidos pelo inciso V do artigo 12
+da Lei n.º 9.656/1998.
+
+2) Nos planos coletivos, as partes contratantes podem negociar o início da vigência do
+contrato, desde que até este momento não seja feito nenhum pagamento à operadora.
+
+B) Especificar o prazo de vigência do instrumento jurídico, que deverá ser
+indeterminado (artigo 1º, inciso I, da Lei n.º 9656/98).
+
+1) Nos planos contratados individualmente, a operadora poderá estipular prazo mínimo
+de permanência do beneficiário no plano, que será de um ano (artigo 13, parágrafo
+único, da Lei n.º 9656/98), observando o disposto no item XXIX, alínea “d”, deste
+anexo.
+2) Nos planos coletivos, poderá ser negociado prazo de permanência do contratante,
+observando o disposto no item XXIX, alínea “e”, deste anexo.
+
+C) As operadoras de autogestão deverão informar o prazo inicial do instrumento
+jurídico, que poderá ser indeterminado ou por doze meses, bem como o início da
+vigência, que sempre se inicia a partir da assinatura da proposta de adesão do
+beneficiário ou do primeiro pagamento, o que ocorrer primeiro, de modo que não se
+prolonguem as carências.
+
+  Tema XIV - CONDIÇÕES DE RENOVAÇÃO AUTOMÁTICA
+
+A) Nos casos onde a operadora estipular prazo inicial, deverá indicar que a renovação
+automática do instrumento jurídico será por prazo indeterminado, sendo vedada a
+cobrança de taxa ou qualquer outro valor.
+
+       Tema XV - PERÍODOS DE CARÊNCIA
+
+A) Especificar os períodos de carência, se houver, para consultas, exames, parto,
+internação, odontologia e demais serviços, conforme o inciso V, do artigo 12 da Lei nº
+9656/1998.
+
+B) Nos planos coletivos empresariais, especificar que não haverá carências nos planos
+com 50 participantes ou mais (artigo 5º, II, Resolução CONSU nº 14/1998).
+
+C) Nos planos coletivos, havendo carência, estabelecer que a contagem para cada
+beneficiário se dará a partir de seu ingresso.
+
+       Tema XVI - DOENÇAS E LESÕES PREEXISTENTES
+
+ A) Definir corretamente "doença e lesão preexistente”, que é aquela de que o
+beneficiário é sabedor no momento da contratação do plano.
+
+B) Esclarecer que o beneficiário deverá preencher declaração de saúde, no momento
+da contratação, na forma dos artigos 5º, 10 e 11 da RN n.º 162/2007.
+
+C) Especificar que, caso a operadora opte pelo não oferecimento de cobertura total,
+deverá oferecer Cobertura Parcial Temporária (CPT). O oferecimento de CPT neste caso
+é obrigatório, sendo facultado o oferecimento de agravo como opção à CPT (artigo 6º,
+§ 1º, da RN n.º 162/2007).
+
+D) Especificar o conceito de Cobertura Parcial Temporária, como a suspensão, por um
+período ininterrupto de até 24 meses, da cobertura de Procedimentos de Alta
+Complexidade (PAC), leitos de alta tecnologia e procedimentos cirúrgicos, desde que
+relacionados exclusivamente às doenças ou lesões preexistentes declaradas (artigo 2º,
+inciso II, da RN n.º 162/2007).
+
+E) Especificar as obrigações e direitos do usuário, esclarecendo que se for identificado
+indício de fraude, referente à omissão de conhecimento de Doenças e Lesões
+Preexistentes por ocasião da contratação ou adesão ao plano, a operadora deverá
+comunicar imediatamente ao consumidor e poderá oferecer as opções de CPT, agravo
+ou abrir processo administrativo para julgamento da alegação de informação de
+omissão na declaração de saúde, conforme o disposto no artigo 15 da RN n.º
+162/2007.
+
+F) Deixar claro que não será permitida, sob qualquer alegação, a negativa de cobertura
+assistencial, assim como a suspensão ou rescisão unilateral de contrato, até a
+publicação pela ANS do encerramento do processo administrativo (artigo 16, § 3º, da
+RN n.º 162/2007).
+
+G) Esclarecer que é vedada a alegação de omissão de informação de DLP quando
+realizado qualquer tipo de exame ou perícia no beneficiário pela operadora, com vistas
+à sua admissão no plano privado de assistência à saúde (artigo 5º, § 4º, da RN n.º
+162/2007).
+
+H) Nos planos coletivos por adesão e coletivos empresariais, especificar que não
+haverá cláusula de Cobertura Parcial Temporária ou Agravo, nos casos de Doença e
+Lesão Preexistente, quando o número de participantes for igual ou maior que
+cinqüenta (artigo 5º, incisos II e IV, da Resolução CONSU n.º 14/1998).
+
+      Tema XVII - URGÊNCIA E EMERGÊNCIA
+
+A) Em planos de todas as segmentações, o instrumento jurídico deve:
+
+1. definir urgência e emergência na forma do artigo 35-C da Lei 9656/1998
+
+2. garantir o reembolso, nos casos de urgência e emergência, quando não for possível
+a utilização dos serviços próprios ou contratualizados, dentro da área geográfica de
+abrangência e atuação do plano (artigo 12, inciso VI, da Lei nº 9.656/98).
+
+3. garantir que o valor do reembolso nas urgências e emergências não seja inferior ao
+valor praticado pela operadora junto à rede de prestadores do respectivo plano (artigo
+12, inciso VI, da Lei 9656/1998).
+
+4. dispor sobre a relação dos documentos necessários para o reembolso, assegurando
+que o seu pagamento será efetuado em até trinta dias da entrega destes documentos.
+
+5. dispor sobre prazo de prescrição para o beneficiário apresentar os documentos,
+observando o mínimo de um ano (Código Civil 2002).
+
+B) Nos planos que não incluem internação hospitalar, o instrumento jurídico deve
+dispor sobre a garantia de cobertura nas urgências e emergências por no mínimo doze
+horas de atendimento ou até que haja necessidade de internação (artigo 2º, caput e
+parágrafo único da Resolução CONSU n.º 13).
+
+C) Nos planos que incluem internação hospitalar, excetuado o plano referência, o
+contrato deve dispor sobre:
+1. garantia para atendimentos decorrentes de acidentes pessoais, sem restrições,
+depois de decorridas 24 horas de vigência do contrato (artigo 3º, §2º, da Resolução
+CONSU n.º 13/1998).
+2. garantir que, depois de cumpridas as carências, haverá cobertura aos atendimentos
+de urgência e emergência que evoluírem para a internação, desde a admissão até a
+alta, ou que sejam necessários para a preservação da vida, órgãos e funções (artigo
+3º, da Resolução CONSU n.º 13/1998);
+
+3. garantia dos atendimentos de urgência e emergência referentes ao processo
+gestacional, limitados às primeiras doze horas, nos planos com cobertura obstétrica,
+durante o cumprimento dos períodos de carência, e nos planos sem cobertura
+obstétrica. (artigo 4º, caput e parágrafo único da Resolução CONSU 13/1998).
+
+4. garantia de atendimento limitado às primeiras doze horas, ou até que ocorra a
+necessidade de internação, nos casos em que houver acordo de Cobertura Parcial
+Temporária e que resultem na necessidade de eventos cirúrgicos, leitos de alta
+tecnologia e procedimentos de alta complexidade relacionados às Doenças e Lesões
+Preexistentes (artigo 6º da resolução CONSU n.º 13/1998).
+
+5. garantia de atendimento limitado às primeiras doze horas, ou até que ocorra a
+necessidade de internação, nos casos em que o atendimento de urgência e emergência
+for efetuado no decorrer dos períodos de carência para internação.
+
+D) Nos planos da segmentação referência, o contrato deve dispor sobre:
+
+1. garantia de cobertura integral, ambulatorial e hospitalar para urgência e emergência
+(Artigo 5º da Resolução CONSU n.º 13/1998).
+
+2. garantia de atendimento limitado às primeiras doze horas, ou até que ocorra a
+necessidade de internação, nos casos em que houver acordo de Cobertura Parcial
+Temporária e que resultem na necessidade de eventos cirúrgicos, leitos de alta
+tecnologia e procedimentos de alta complexidade relacionados às Doenças e Lesões
+Preexistentes (artigo 6º da Resolução CONSU n.º 13/1998).
+
+      Tema XVIII - REMOÇÃO
+
+A) Os contratos exclusivamente ambulatoriais devem dispor sobre:
+
+1. garantia de remoção, depois de realizados os atendimentos classificados como
+urgência e emergência, quando caracterizada, pelo médico assistente, a falta de
+recursos oferecidos pela unidade para continuidade da atenção ao paciente ou a
+necessidade de internação.
+
+2. garantia de remoção para unidade do SUS, depois de realizados os procedimentos
+caracterizados como urgência e emergência, conforme determinado no artigo 7º da
+Resolução CONSU n° 13/1998.
+
+B) Os contratos que incluem a segmentação hospitalar, exceto o plano referência,
+devem dispor sobre:
+1. garantia da remoção inter-hospitalar, dentro da área geográfica de abrangência do
+plano (artigo 12, inciso II, alínea “e”, da Lei 9656/1998).
+
+2. garantia da remoção, depois de realizados os atendimentos classificados como
+urgência e emergência, quando caracterizada, pelo médico assistente, a falta de
+recursos oferecidos pela unidade para continuidade da atenção ao paciente.
+
+3. garantia da remoção para unidade do SUS, depois de realizados os procedimentos
+caracterizados como urgência e emergência, nos casos do consumidor estar cumprindo
+período de carência para internação, conforme determinado no artigo 7º e seus
+parágrafos, da Resolução CONSU n° 13/1998.
+
+4. garantia da remoção para unidade do SUS, depois de realizados os atendimentos de
+urgência e emergência, nos casos em que houver acordo de Cobertura Parcial
+Temporária e que resultem na necessidade de eventos cirúrgicos, leitos de alta
+tecnologia e procedimentos de alta complexidade relacionados às Doenças e Lesões
+Preexistentes, conforme determinado no artigo 7º e seus parágrafos, da Resolução
+CONSU n° 13/1998.
+
+C) Os contratos dos planos da segmentação Referência, devem dispor sobre:
+
+1. garantia da remoção inter-hospitalar, dentro da área geográfica de abrangência do
+plano (artigo 12, inciso II, alínea “e”, da Lei 9656/1998).
+
+2. garantia da remoção, depois de realizados os atendimentos classificados como
+urgência e emergência, quando caracterizada, pelo médico assistente, a falta de
+recursos oferecidos pela unidade para continuidade de atenção ao paciente.
+
+3. garantia da remoção para unidade do SUS, depois de realizados os procedimentos
+caracterizados como urgência e emergência, nos casos em que houver acordo de
+Cobertura Parcial Temporária e que resultem na necessidade de eventos cirúrgicos,
+leitos de alta tecnologia e procedimentos de alta complexidade relacionados às
+Doenças e Lesões Preexistentes.
+
+      Tema XIX - ACESSO A LIVRE ESCOLHA DE PRESTADORES
+
+A) Indicar as coberturas que o consumidor poderá utilizar no sistema de acesso a livre
+escolha de prestadores não participantes da rede assistencial, própria ou
+contratualizada, na forma do item 9 do Anexo II da RN nº 100, de 2005, e conforme
+informado à ANS no campo “Acesso a Livre Escolha de Prestadores”.
+
+B) Especificar os parâmetros a serem utilizados pela Operadora para reembolso das
+despesas com prestadores não participantes da rede assistencial, sendo vedado valor
+inferior ao praticado na rede credenciada ou referenciada (art. 2º, inciso IX da
+Resolução CONSU n.º 8/1998)
+
+      Tema XX - MECANISMOS DE REGULAÇÃO
+A) Definição das medidas de gerenciamento para regular a demanda de utilização dos
+serviços de saúde, observados os preceitos legais, em especial a regulamentação da
+Lei n.º 9656/98 e a Resolução CONSU nº 8/1998.
+
+B) Especificar, nos casos de co-participação e/ou franquia, na forma dos sub-itens 1 e
+2, do item 10 do Anexo II da RN nº 100, de 2005, dos eventos a que se aplicam e o
+seu valor monetário ou percentual, observando os limites máximos estabelecidos em
+normativo vigente.
+
+C) Estabelecer os valores prefixados nos casos de internação em planos hospitalares
+que não poderão ser indexados a procedimentos e/ou patologias. Somente para
+internações em transtornos psiquiátricos a co-participação poderá ser especificada em
+percentual (art. 2º, inciso VIII e art. 4º, inciso VII da Resolução CONSU n.º 8/1998)
+
+D) Especificar as condições de atendimento do beneficiário junto à rede de
+prestadores, contemplando as condições de habilitação, as formas de acesso aos
+serviços dos diversos tipos e aqueles procedimentos que requerem autorização prévia.
+
+E) Nos procedimentos que exigem autorização prévia, deverá informar a rotina para a
+sua obtenção e emitir resposta à solicitação de autorização prévia do procedimento, no
+prazo máximo de um dia útil, a partir do momento da solicitação, ou em prazo inferior,
+quando caracterizada a urgência (artigo 4º, IV, da Resolução CONSU n.º 8/98).
+
+F) Informação de que serviços diagnósticos, tratamentos e demais procedimentos
+ambulatoriais podem ser solicitados pelo médico assistente ou cirurgião-dentista, não
+podendo haver restrição aos não pertencentes à rede própria ou contratualizada da
+operadora referenciados/cooperados/credenciados (artigo 12, I, “b” e artigo 2º, VI, da
+Resolução CONSU n.º 8/98 – Súmula 11/07).
+
+G) Informação de meios de divulgação da rede de prestadores de serviços (impresso,
+telefônico ou eletrônico).
+
+H) Definir que eventual alteração na rede hospitalar observará o disposto no artigo 17
+e parágrafos, da Lei 9.656/98, a comunicação prévia nos casos de substituição de rede
+hospitalar ou autorização da ANS nos casos de redimensionamento por redução de
+rede hospitalar.
+
+I) Indicar, quando houver, orientações diferenciadas para determinados procedimentos
+(ex.: transplantes de rim e córnea e transtornos psiquiátricos).
+
+J) Garantir a junta médica para definição de impasses em casos de divergências
+médicas ou odontológicas, na forma do artigo 4º, inciso V, da Resolução CONSU n.º
+8/98.
+
+      Tema XXI - FORMAÇÃO DO PREÇO
+
+A) Identificar a forma de se estabelecer os valores a serem pagos pela cobertura
+assistencial contratada conforme item 11 do Anexo II da RN nº 100, de 2005, ou seja,
+pré ou pós-pagamento na forma de custo operacional ou rateio e na forma informada à
+ANS no campo “Formação do Preço”.
+B) Apenas os planos odontológicos podem utilizar a forma de pagamento misto, na
+forma da RN n.º 59/2003.
+
+
+    Tema XXII - PAGAMENTO DE MENSALIDADE
+
+A) Definição das obrigações do contratante relativas ao pagamento da mensalidade.
+
+B) Nos planos coletivos definidos como “sem patrocinador”, deve estar claro que o
+pagamento integral será feito pelo beneficiário à operadora (item 13.2, anexo II, RN
+n.º 100/05).
+C) Nos planos coletivos definidos como “com patrocinador”, o instrumento jurídico
+deve dispor claramente que o pagamento total ou parcial será feito pela pessoa
+jurídica contratante (item 13.1, anexo II, RN n.º 100/05).
+D) Deverá dispor sobre as conseqüências da mora, se houver, no pagamento da
+mensalidade, limitadas ao percentual de juros de 1% ao mês (0,033 ao dia) e à multa
+de 2% sobre o valor do débito em atraso.
+E) Nas autogestões deverá estar especificado o critério e a forma de participação
+financeira dos beneficiários que contribuem para o custeio do plano, bem como a
+participação financeira do patrocinador, conforme disposto no art. 14, I e II, da RN n.º
+137/06.
+F) Nos produtos coletivos por custo operacional, a operadora deverá esclarecer como
+se dará o pagamento das despesas assistenciais (RN n.º 100/05, Anexo II, item 11).
+Especificar a participação da contratante e do beneficiário no custeio do plano,
+ressaltando   que    é   vedado   o    repasse   integral  aos   beneficiários  pelo
+contratante/estipulante (Súmula 9/05).
+
+
+       Tema XXIII - REAJUSTE
+
+A) Definir os critérios de reajuste das contraprestações, observando prévia autorização
+da ANS nos planos médico-hospitalares individuais ou comunicação à ANS nos planos
+coletivos, conforme normativo vigente.
+
+B) Nos planos exclusivamente odontológicos, especificar um percentual de reajuste
+baseado em um índice oficial divulgado por instituição externa (RN n.º 118/05), além
+de mencionar no presente Tema que tal percentual de reajuste deverá ser comunicado
+à ANS (RN n.º 119/05).
+
+C) Nos planos odontológicos em regime de pagamento misto, além de observar o
+disposto acima, deverá apresentar as tabelas de preços dos procedimentos sujeitos a
+pós-pagamento com as condições e periodicidade de atualização (artigo 3º da RN nº
+59/03).
+
+D) Nos planos coletivos sem patrocinador operados por autogestões sem mantenedor,
+o reajuste deverá ser autorizado pela ANS.
+E) Nos planos com formação de preço pós-estabelecido, custo operacional e rateio, não
+há reajuste de mensalidade, entretanto a operadora deverá esclarecer como se dará o
+reajuste da tabela praticada entre a operadora e prestadores de sua rede e com que
+periodicidade.
+
+       Tema XXIV - FAIXAS ETÁRIAS
+
+A) Neste tema devem ser dispostas as variações de faixas etárias, se houver, de
+acordo com as regras da RN 63/03:
+I - 0 (zero) a 18 (dezoito) anos;
+II - 19 (dezenove) a 23 (vinte e três) anos;
+III - 24 (vinte e quatro) a 28 (vinte e oito) anos;
+IV - 29 (vinte e nove) a 33 (trinta e três) anos;
+V - 34 (trinta e quatro) a 38 (trinta e oito) anos;
+VI - 39 (trinta e nove) a 43 (quarenta e três) anos;
+VII - 44 (quarenta e quatro) a 48 (quarenta e oito) anos;
+VIII - 49 (quarenta e nove) a 53 (cinqüenta e três) anos;
+IX - 54 (cinqüenta e quatro) a 58 (cinqüenta e oito) anos;
+X - 59 (cinqüenta e nove) anos ou mais.
+
+Os percentuais de variação de faixa etária deverão seguir as seguintes regras:
+- o valor fixado para a última faixa etária não poderá ser superior a seis vezes o valor
+da primeira faixa etária;
+- a variação acumulada entre a sétima e a décima faixas não poderá ser superior à
+variação acumulada entre a primeira e a sétima faixas.
+
+B) Nos produtos contratos comercializados na vigência da Resolução CONSU n.º 6/98,
+ou seja, antes de 1º/1/2004, a operadora deverá trazer dois dispositivos:
+Um com as dez faixas-etárias explicitadas acima e outro com sete faixas etárias, de
+acordo com as regras da Resolução CONSU n.º 6/98:
+I- 0 (zero) a 17 (dezessete) anos;
+II - 18 (dezoito) a 29 (vinte e nove) anos;
+III - 30 (trinta) a 39 (trinta e nove) anos;
+IV - 40 (quarenta) a 49 (quarenta e nove) anos;
+V - 50 (cinquenta) a 59 (cinquenta e nove) anos;
+VI - 60 (sessenta) a 69 (sessenta e nove) anos;
+VII - 70 (setenta) anosde idade ou mais;
+Os percentuais de variação de faixa etária deverão seguir as seguintes regras:
+- o valor fixado para a última faixa etária não poderá ser superior a seis vezes o valor
+da primeira faixa etária;
+- a variação do valor na contraprestação pecuniária não poderá atingir o usuário com
+mais de 60 anos de idade que participa de um plano ou seguro a mais de dez anos.
+
+C) A variação do preço em razão da faixa etária somente deverá incidir quando o
+beneficiário completar a idade limite, ou seja, no mês subseqüente ao de seu
+aniversário.
+
+       Tema XXV - BÔNUS – DESCONTOS
+A) Exposição dos critérios para concessão de bônus e descontos, se houver,
+respeitando o disposto no artigo 3º da Resolução CONSU n.º 6/98 e Súmula n.º 7/05.
+
+B) É vedada a concessão de bônus que estimulem a redução da utilização dos serviços
+(Súmula n.º 7/05).
+
+C) É vedada a concessão de descontos ou vantagens especificamente delimitados em
+prazos contratuais ou em função de idade do consumidor (Artigo 3º da Resolução
+CONSU n.º 6/98).
+
+    Tema XXVI - REGRAS PARA INSTRUMENTOS JURÍDICOS DE
+PLANOS COLETIVOS
+
+A) Especificar, no plano de contratação Coletiva por Adesão, que a adesão de
+empregados, associados ou sindicalizados, é espontânea e opcional, com ou sem a
+opção de inclusão do grupo familiar ou dependentes (Artigo 4º da Resolução CONSU
+n.º 14/98).
+B) Especificar, no plano Coletivo Empresarial, que o ingresso deverá observar prazos e
+procedimentos previstos na contratação do plano, sendo aplicável a cada vinculação
+posterior de consumidor à pessoa jurídica contratante, de modo a abranger a
+totalidade ou a maioria absoluta da massa populacional vinculada (Artigo 3º, § 3º, da
+Resolução CONSU n.º 14/98).
+C) Nos planos coletivos com vínculo empregatício em que há participação financeira do
+beneficiário, garantir os direitos de permanência no plano aos demitidos sem justa
+causa e aposentados, conforme disposto nos artigos 30 e 31 da Lei n.º 9656/98, e
+observando as Resoluções CONSU n.° 20/1999 e 21/1999, especificando:
+1. o prazo máximo de 30 dias para o exercício da opção assegurada (artigo 2º, § 6º,
+da Resolução CONSU n.º 20/98 e n.º 21/98);
+2. o período de manutenção da condição de beneficiário (artigo 30, § 1º, e artigo 31,
+caput e § 1º, da Lei 9656/1998);
+3. a garantia de extensão do benefício ao grupo familiar do beneficiário demitido ou
+aposentado, inscrito quando da vigência do contrato de trabalho (art. 30, § 2º, e art.
+31, § 2º, da Lei 9656/1998);
+4. em caso de morte do titular, a garantia de permanência no plano aos dependentes
+do beneficiário demitido ou aposentado, nos termos do disposto no artigo 30, da Lei
+9656/1998 (art. 30, § 3º e art. 31, § 2º da Lei 9656/1998);
+5. a garantia de que o benefício do artigo 30 e 31, da Lei 9656/1998, não exclui
+vantagens obtidas pelos empregados decorrentes de negociações coletivas de trabalho
+(art. 30, § 4º e art. 31, § 2º da Lei 9656/1998);
+6. a condição prevista neste artigo deixará de existir quando da admissão do
+beneficiário em novo emprego (art. 30, § 5º, e art. 31, § 2º, da Lei 9656/1998);
+
+
+D) Em todos os planos Coletivos, Empresarial ou por Adesão, com vínculo
+empregatício, exceto para operadoras de autogestão, garantir a disponibilidade de
+plano ou seguro de assistência à saúde na modalidade individual/familiar ao universo
+de beneficiários, no caso de cancelamento do plano coletivo, sem necessidade de
+cumprimento de novos prazos de carência, conforme disposto na Resolução CONSU n.º
+19/99.
+
+
+    Tema XXVII - CONDIÇÕES DE VÍNCULO DO BENEFICIÁRIO EM
+PLANOS COLETIVOS
+
+A) Definir o (s) tipo(s) de vínculo(s) do beneficiário com a pessoa jurídica contratante,
+conforme o item 12 do Anexo II da RN nº 100, de 2005, e de acordo com o informado
+à ANS.
+
+1. especificar que, nos planos com vínculo empregatício ativo, poderão ser vinculados
+ao contrato beneficiários empregados da empresa, bem como aqueles que mantenham
+com ela vínculo laboral, e seus dependentes.
+
+2. especificar que, nos planos com vínculo empregatício inativo, poderão ser
+vinculados ao contrato beneficiários ex-empregados da empresa e seus dependentes -
+nos casos de planos com vínculo empregatício inativo.
+
+3. especificar que, nos planos sem vínculo empregatício, somente poderão ser
+vinculados ao contrato beneficiários associados ou sindicalizados e seus dependentes.
+
+
+    Tema XXVIII - CONDIÇÕES DA PERDA DA QUALIDADE DE
+BENEFICIÁRIO
+
+A) Nos planos individuais, especificar em que condições os beneficiários dependentes
+podem ser excluídos do plano de saúde em contrato que continua vigente.
+
+B) Nos planos coletivos, especificar em que condições os beneficiários titulares e
+dependentes podem ser excluídos do contrato que continua vigente.
+
+
+       Tema XXIX - RESCISÃO/SUSPENSÃO
+
+A) Garantir, de acordo com o artigo 13, parágrafo único, II, da Lei 9656/1998, que a
+rescisão contratual unilateral por parte da Contratada de planos contratados
+individualmente somente pode ocorrer em duas hipóteses:
+
+1. por fraude;
+2. por não pagamento da mensalidade por período superior a sessenta dias,
+consecutivos ou não, nos últimos doze meses de vigência do contrato, desde que o
+consumidor seja comprovadamente notificado até o 50º dia de inadimplência.
+
+B) Definir as regras para rescisão e suspensão do instrumento jurídico de plano
+coletivo empresarial ou por adesão.
+C) Num plano de empresa de autogestão, não cabe falar em rescisão contratual, tendo
+em vista que todas as hipóteses são de perda da qualidade de beneficiário. As
+autogestões podem encerrar operações de plano de saúde quando há decisão da
+competente instância decisória que é definida no seu Estatuto.
+
+D) Nos planos contratados individualmente, poderá ser estabelecida multa para o
+beneficiário que queira rescindir o contrato antes de completada a vigência inicial de
+um ano, que não poderá ser superior a 10% (planos médico-hospitalares) ou 20%
+(planos odontológicos) das mensalidades restantes para se completar a primeira
+vigência.
+
+E) Nos planos coletivos com patrocínio, especificar, quando houver, a multa negociada
+entre as partes nos casos de rescisão antecipada.
+
+   Tema XXX - SERVIÇOS E COBERTURAS ADICIONAIS
+
+A) Quando forem partes integrantes do plano de saúde, especificar as coberturas não
+   previstas na Lei n.º 9656/98 e no Rol de Procedimentos Médicos e Odontológicos,
+   na forma do item 14 do Anexo II da RN n.º 100, de 2005, de acordo com o
+   informado à ANS no aplicativo ARPS/RPS.
+
+B) Especificar as condições para a utilização dos serviços e coberturas adicionais.
+
+   Tema XXXI - DISPOSIÇÕES GERAIS
+
+Dispor sobre todas as condições ou obrigações gerais referentes à relação operadora–
+consumidor, que não sejam pertinentes a nenhum dos temas específicos elencados
+neste Anexo.
+
+
+       Tema XXXII - ELEIÇÃO DE FORO
+
+Especificar que o foro é o da Comarca do contratante.
+
+
+
+OBSERVAÇÃO: CONSIDERANDO A DISPOSIÇÃO OU NÃO NO ART. 16 DA LEI Nº 9.656, DE 1998, E
+SUAS REGULAMENTAÇÕES, PARA FINS DE APLICAÇÃO DO § 1º DO ART. 11 E § 2º DO ART. 19 DESTA
+INSTRUÇÃO NORMATIVA DIPRO, CLASSIFICAMOS OS TEMAS DESTE ANEXO I EM:
+
+                         1. TEMAS SETORIAIS: III, V, VI, VII, VIII, IX, X, XI, XII, XIII,
+                            XV, XVI, XVII, XVIII, XIX, XX, XXIII, XXIV, XXV, XXVI,
+                            XXVIII E XXX;
+
+                         2. TEMAS NÃO-SETORIAIS: I, II, IV, XIV, XXI, XXII, XXVII,
+                            XXIX, XXXI E XXXII.
+                                                                          ANEXO II
+
+                         QUADRO DE ABRANGÊNCIA GEOGRÁFICA / ÁREA DE ATUAÇÃO
+
+A abrangência geográfica do plano de saúde e as localidades definidas para área de
+atuação serão compatibilizadas, classificando a região segundo as definições do quadro
+abaixo.
+
+
+
+
+                                               Região 1              Região 2          Região 3          Região 4            Região 5          Região 6
+
+
+                                              Em todo território    No estado de SP     Em um único    Nos municípios de     Em grupo de       Em qualquer
+                            ÁREA DE            nacional ou em        ou em mais de         estado      SP, RJ, BH, Porto    municípios que      município
+                          ATUAÇÃO DO        grupo de pelo menos    um Estado exceto    excetuando SP    Alegre, Curitiba    não envolvam      exceto aqueles
+                             PLANO             3 estados que           os grupos                           ou Brasília      os da Região 4     da Região 4
+                                              envolvam SP, RJ,        definidos na
+                                              MG, BA, RS e PR           Região 1
+
+                             Nacional       Em todo o território
+                                                 nacional
+
+
+                                            Quando indicar             Qualquer
+                         Grupo de Estados   qualquer               agrupamento que
+                                            agrupamento que         não contemple
+                                            contemple pelo         mais de 2 estados
+                                            menos 3 estados da       da Região 1.
+                                            Região 1.
+
+
+                                               Quando indicar       Atuação apenas      Atuação em
+ ABRAGENCIA GEOGRÁFICA
+
+
+
+
+                                              atuação em pelo       no estado de SP     apenas um
+                             Estadual        menos 3 estados          ou em até 2        estado à
+                                             dentre SP,RJ, MG,     estados da Região    exceção do
+                                                BA, RS e PR.       1 ou em qualquer    estado de SP
+                                                                      número dos
+                                                                    demais estados.
+
+
+                                                                                                           Desde que          Desde que
+                                                                                                        limitados a 50%       limitados a
+                                                                                                       dos municípios do        50% dos
+                                                                                                       mesmo estado, ou      municípios do
+                            Grupo de                                                                      nos limítrofes    mesmo estado,
+                            Municípios                                                                 contemplando os           ou nos
+                                                                                                       municípios de SP,    limítrofes, não
+                                                                                                          RJ, BH, Porto     contemplando
+                                                                                                         Alegre, Curitiba    os municípios
+                                                                                                            ou Brasília     de SP, RJ, BH,
+                                                                                                                             Porto Alegre,
+                                                                                                                              Curitiba ou
+                                                                                                                                 Brasília
+
+                                                                                                          Atuação em         Atuação em        Atuação em
+                                                                                                       qualquer um dos        mais de um        apenas um
+                            Municipal                                                                  municípios de SP,      município à       município à
+                                                                                                         RJ, BH, Porto      exceção de SP,    exceção de SP,
+                                                                                                        Alegre, Curitiba     RJ, BH, Porto     RJ, BH, Porto
+                                                                                                          ou Brasília.          Alegre,           Alegre,
+                                                                                                                              Curitiba ou       Curitiba ou
+                                                                                                                                Brasília          Brasília
+                                    ANEXO III
+
+           CARACTERÍSTICAS GERAIS DA REDE ASSISTENCIAL
+
+
+
+I – PARA REGISTRO DE PLANOS DE SAÚDE
+
+
+A rede oferecida aos beneficiários deverá contemplar os serviços necessários ao
+atendimento de todas doenças previstas na Classificação Estatística Internacional de
+Doenças e Problemas Relacionados com a Saúde, observando o rol de procedimentos
+em vigor.
+
+Não obrigatoriamente, estes serviços estarão todos disponibilizados em ambiente
+hospitalar.
+
+As informações do CNES serão a referência quanto aos serviços oferecidos nos
+prestadores de serviços, exceto na situação de prestação parcial, conforme dispõe o
+item 8 do Anexo II da RN 100, de 2005, situação em que deverão estar especificados
+no instrumento jurídico de contratualização do prestador.
+
+Deverá haver compatibilidade da oferta de serviços com a abrangência geográfica e
+área de atuação pretendida para o plano de saúde.
+
+A rede (entidades hospitalares, consultórios, clínicas ambulatoriais e SADT) que se
+quer registrar deverá estar cadastrada na operadora e atualizada a cada ano.
+
+Só as entidades com características hospitalares necessitam vinculação ao registro do
+plano de saúde de segmentação hospitalar ou referência, e aquelas de urgência e
+emergência na segmentação ambulatorial.
+
+
+II –PARA ALTERAÇÃO          DA   REDE    HOSPITALAR      –   SUBSTITUIÇÃO      E/OU
+REDIMENSIONAMENTO
+
+A rede hospitalar é característica do registro do plano de saúde, sendo analisada em
+função das especificidades operacionais; portanto, a substituição de entidade
+hospitalar ou o redimensionamento de rede por redução caracterizam a alteração do
+plano a que o prestador está vinculado, estando previsto o pagamento de taxa
+específica.
+
+Entende-se por Substituição a troca de uma unidade por outra(s) que não se
+encontrava(m) originalmente na rede do plano de saúde e por Redimensionamento a
+supressão de uma unidade da rede, cabendo às unidades restantes a absorção do
+atendimento.
+
+A análise de equivalência para atendimento do art. 17, da Lei nº 9.656/98,
+compreende aspectos de disponibilidade no que tange a serviços de
+urgência/emergência e auxiliares de diagnóstico e terapia, bem como quantitativos no
+que diz respeito a leitos em geral e específicos das UTIs. Devem atender também a
+similaridade de perfil assistencial, complexidade e proximidade geográfica.
+
+Deverá ser informado em relação à(s) entidade(s) hospitalar(es) que está(ao) sendo
+excluída(s) e/ou que absorverá(ão) os serviços disponibilizados que se pretendem
+excluir:
+
+1-  Justificativa para decisão;
+2-  CNPJ, razão social e CNES das entidades hospitalares envolvidas;
+3-  tipo de contratação (total ou parcial);
+4-  número de internações realizadas pela operadora em cada uma das entidades
+    hospitalares envolvidas, nos últimos doze meses;
+5- número total de internações realizadas pela operadora na sua rede hospitalar,
+    vinculadas aos registros de planos de saúde a serem alterados, nos últimos doze
+    meses;
+6- total de leitos não-SUS (gerais e UTI) contratados pela operadora na área de
+    abrangência dos planos de saúde envolvidos;
+7- perfil assistencial, com as principais características da cobertura contratada às
+    entidades hospitalares envolvidas;
+8- serviços especiais de diagnóstico e terapia disponíveis nas entidades hospitalares
+    envolvidas;
+9- identificação dos planos de saúde a serem alterados, nos casos específicos: n.º de
+    registro dos planos novos, no RPS, e cadastro dos planos antigos, no SCPA;
+10- em caso de encerramento das atividades do estabelecimento, documento que
+    comprove este fato;
+11- cópia da comunicação feita (ou a ser) aos beneficiários.
+
+Mesmo quando o redimensionamento e/ou a substituição ocorrer em função de pedido
+do prestador, a Operadora deverá atender a mesma formalidade, antes da notificação
+ao usuário.
+
+As informações constantes no CNES serão sempre a referência quanto às instalações,
+serviços e recursos disponíveis nos prestadores de serviços não-psiquiátricos.
+
+Excepcionalmente, para aquelas entidades hospitalares ainda sem registro no CNES, as
+informações deverão ser enviadas no formato do Anexo III-A.
+
+As unidades psiquiátricas têm análise específica, devendo ser informado quanto às
+instalações dos leitos, existência de salas de trabalho em grupo, área externa para
+lazer e enfermaria para intercorrências clínicas e quanto a serviços, terapia
+ocupacional, atendimento psicoterápico individual e grupal, atendimento à família e ao
+dependente químico, nos moldes do Anexo III-B.
+                                                         ANEXO III-A
+
+
+                  INFORMAÇÕES DE ALTERAÇÃO DA REDE DE PRESTADORES HOSPITALARES
+
+
+
+                  1 – Informações Gerais
+
+                     a) Número de registro dos planos a serem alterados, no RPS, e cadastro dos
+                        planos antigos, no SCPA.
+                     b) Número total de internações realizadas, nos últimos doze meses, pela
+                        operadora na sua rede hospitalar vinculada ao(s) registro(s) de plano(s) de
+                        saúde a serem alterado(s).
+                     c) Total de leitos não-SUS (gerais e UTI) contratados pela operadora na área de
+                        abrangência dos planos de saúde envolvidos.
+                     d) Número total de beneficiários vinculados aos planos de saúde na área de
+                        impacto da alteração pretendida.
+
+
+                  2 – Informações Específicas
+
+                     1ª parte – Estrutura, perfil e utilização
+
+
+                                                                                                                                        N.º de
+                                                                                 N.º Internações nos
+
+
+
+
+                                                                                                                                       Leitos de                     Situação
+                                                                                                       EMERGÊNCIA- 24H
+                                                                                  últimos 12 meses
+                                                     ASSISTENCIAL
+
+
+
+
+                                                                                                                           N.º de
+N.º de ORDEM
+
+
+
+
+                                                                                                                                         UTI –                       na Rede
+                                                                                                         URGÊNCIA E
+
+
+
+
+                                                                                                                           Leitos      não-SUS
+                                                        PERFIL
+
+
+
+
+                ENTIDADE                                            Município/                                           Totais –
+                                 CNPJ       CNES                                                                                                                                ou Inclusão
+               HOSPITALAR                                              UF                                                não-SUS
+                                                                                                                                             Pediátrica
+
+
+
+
+                                                                                                                                                                                 Absorção
+                                                                                                                                                          Neonatal
+
+                                                                                                                                                                     Exclusão
+                                                                                                                                    Adulto
+
+
+
+
+                                                                                                                          (exceto
+                                                                                                                            UTI)
+                          2ª Parte – Serviços Especiais de Diagnose e Terapia
+
+
+
+                                                                                                      DIAGNOSE                                                                                                      TERAPIA
+N.º de ORDEM
+
+
+
+
+                                                Densitometria óssea
+
+
+
+
+                                                                                                                                                                           Ressonância nuclear
+
+
+
+
+                                                                                                                                                                                                                      Videocirurgia
+                                                                                        Endoscopia das vias
+
+                                                                                        Endoscopia das vias
+                                                                                         Eletrocardiograma
+
+
+
+
+                                                                                                                                                                            Teste ergométrico
+               Anatomopatologia
+
+
+
+
+                                                                                                                                                                             Radiodiagnóstico
+
+
+
+
+                                                                                                                                                                            computadorizada
+                                                                                                                                    Medicina nuclear
+
+
+
+
+                                                                                                                                                                             Ultra-sonografia
+                                                                                                                                                       Patologia clínica
+
+
+
+
+                                                                                                                                                                                                                intervencionista
+                                                                      Ecocardiografia
+
+
+
+
+                                                                                           Hemodinâmica
+
+
+
+
+                                                                                                                                                                                                                 Quimioterapia
+                                                                                                                                                                                                                 extracorpórea
+
+
+
+
+                                                                                                                                                                                                                  Terapia renal
+                                                                                                                                                                                                                  Hemoterapia
+
+
+
+
+                                                                                                                                                                                                                  Radioterapia
+                                                                                                                       Mamografia
+
+
+
+
+                                                                                                                                                                                                 Fisioterapia
+                                  Angiografia
+
+
+
+
+                                                                                                                                                                                                                   substitutiva
+                                                                                                                                                                                Tomografia
+
+
+
+
+                                                                                                                                                                                                                    Radiologia
+                                                                                                                                                                                magnética
+
+
+
+
+                                                                                                                                                                                                                    Litotripsia
+                                                                                             digestivas
+                                                                                               aéreas
+
+
+
+
+                                                                                                              Holter
+
+
+
+
+                          3 - Glossário das tabelas
+
+                          Entidade Hospitalar – Razão Social da Entidade a ser excluída ou incluída
+
+                          Entidade Hospitalar – Razão Social da Entidade a ser excluída ou incluída.
+
+                          CNPJ – Cadastro Nacional de Pessoa Jurídica.
+
+                          CNES – Cadastro Nacional de Estabelecimentos de Saúde.
+
+                          Perfil Assistencial - Característica principal da cobertura assistencial contratada às
+                          entidades hospitalares envolvidas (hospital geral, maternidade, alta complexidade,
+                          cuidados prolongados ou especializada - nestes casos discriminar a especialidade -
+                          oftalmologia, ortopedia, pediatria, cardiologia).
+
+                          Município/ UF – Onde a entidade está localizada.
+
+                          Nº de Internações nos últimos 12 meses - Número de internações realizadas pela
+                          operadora na entidade hospitalar no período analisado.
+Urgência e Emergência 24h - Indicar contratação (S) ou não (N), na entidade
+hospitalar correspondente, dos serviços de urgência e emergência.
+
+N.º de Leitos Totais não-SUS - Número de leitos que a operadora dispõe para
+utilização na entidade hospitalar correspondente, excetuando-se os leitos de UTI;
+devem ser excluídos os leitos contratados pelo SUS e, desta forma, indisponíveis para
+a Saúde Suplementar.
+
+N.º de Leitos de UTI não-SUS - Número de leitos de UTI que a operadora dispõe
+para utilização na entidade hospitalar correspondente, especificados por tipo de UTI
+(Adulto, Pediátrica e Neonatal); devem ser excluídos os leitos contratados pelo SUS e,
+desta forma, indisponíveis para a Saúde Suplementar.
+
+Situação na Rede - Condição das entidades hospitalares envolvidas no processo:
+Exclusão- prestador que está sendo excluído da rede assistencial do plano; Inclusão-
+prestador que está sendo incluído na rede, nos casos de Substituição; Absorção -
+prestador que já é vinculado ao plano e absorverá a demanda do hospital que está
+sendo excluído, nos casos de Redimensionamento de rede por redução.
+
+Serviços Especiais de Diagnóstico e Terapia – Contratação (S) ou não (N), na
+entidade hospitalar correspondente, dos serviços de diagnose ou terapia referidos:
+Anatomopatologia,      Angiografia,     Densitometria       óssea,     Ecocardiografia,
+Eletrocardiograma, Endoscopia das vias aéreas, Endoscopia das vias digestivas,
+Hemodinâmica,     Holter,   Mamografia,     Medicina     nuclear,   Patologia    clínica,
+Radiodiagnóstico, Ressonância nuclear magnética, Teste ergométrico, Tomografia
+computadorizada,     Ultra-sonografia,     Fisioterapia,    Hemoterapia,      Litotripsia
+extracorpórea, Quimioterapia, Radiologia intervencionista, Radioterapia e Terapia renal
+substitutiva.
+
+Videocirurgia - Contratação (S) ou não (N), na entidade hospitalar correspondente,
+de serviços diagnósticos ou terapêuticos que utilizem recursos de vídeo.
+                                                      ANEXO III-B
+
+
+                INFORMAÇÕES DE ALTERAÇÃO DA REDE DE PRESTADORES HOSPITALARES
+                                                  PSIQUIÁTRICOS
+
+
+
+               1 – Informações Gerais
+
+                  a) Número de registro dos planos a serem alterados, no RPS, e cadastro dos
+                     planos antigos, no SCPA.
+                  b) Número total de internações psiquiátricas realizadas, nos últimos doze meses,
+                     pela operadora na sua rede hospitalar vinculada ao(s) registro(s) de plano(s) de
+                     saúde a ser(em) alterado(s).
+                  c) Total de leitos psiquiátricos contratados pela operadora na área de abrangência
+                     dos planos de saúde envolvidos.
+
+
+               2 – Informações Específicas
+
+
+                  1ª Parte - Estrutura e utilização                                                                                 N.º de Leitos Psiquiátricos
+                                                                                               Internações Psiquiátricas
+
+
+
+
+                                                                                                                                                                  Situação
+                                                            PERFIL ASSISTENCIAL
+
+
+
+
+                                                                                                 nos últimos 12 meses
+
+
+
+
+                                                                                                                                                                  na Rede
+N.º de ORDEM
+
+
+
+
+                                                                                                                                             não-SUS
+                                                                                                                           PA 24h
+
+
+
+
+                ENTIDADE                                                          Município/
+                                                                                                                                                                             Absorção ou
+
+
+
+
+                                    CNPJ        CNES
+               HOSPITALAR                                                            UF
+                                                                                                                                                                  Exclusão
+
+
+                                                                                                                                                                              Inclusão
+2ª Parte – Outras Instalações Físicas e Serviços Especiais
+
+
+
+
+                           INSTALAÇÕES FÍSICAS                                                               OUTROS SERVIÇOS ESPECIAIS
+      Nº de ORDEM
+
+
+
+
+                                                                                                                                                                     dependen te químico
+                                                              intercorrência clínica
+
+
+
+
+                                                                                       Terapia Ocupacional
+
+
+
+
+                                                                                                                              psicoterápico grupal
+                    Sala de trabalho de
+
+
+
+                                          Área externa para
+
+
+
+
+                                                                 Enfermaria para
+                                           lazer, educação
+
+
+
+
+                                                                                                                                                                        Assistência ao
+                                                                                                                                                     Atendimento à
+                                            física e outras
+
+
+
+
+                                                                                                             psicoterá pico
+                                                                                                             Atendimento
+
+
+
+
+                                                                                                                                  Atendimento
+                                              atividades
+
+
+
+
+                                                                                                               individual
+
+
+
+
+                                                                                                                                                        familia
+                           grupo
+
+
+
+
+3 – Glossário das tabelas
+
+Entidade Hospitalar – Razão Social da Entidade a ser excluída ou incluída.
+
+CNPJ – Cadastro Nacional de Pessoa Jurídica.
+
+CNES – Cadastro Nacional de Estabelecimentos de Saúde.
+
+Perfil Assistencial - Característica principal da cobertura assistencial contratada às
+entidades hospitalares envolvidas (hospital geral, hospital psiquiátrico com internação
+dia e/ou hospital psiquiátrico com internação noite).
+
+Município/ UF – Onde a entidade está localizada.
+Nº de Internações psiquiátricas nos últimos 12 meses - Número de internações
+psiquiátricas realizadas pela operadora na entidade hospitalar no período analisado.
+
+Pronto Atendimento Psiquiátrico (PA) 24hs - Indicar contratação (S) ou não (N),
+na entidade hospitalar correspondente, dos serviços de pronto-atendimento
+psiquiátrico.
+
+N.º de Leitos Psiquiátricos - Número de leitos psiquiátricos que a operadora dispõe
+para utilização na entidade hospitalar correspondente.
+
+Situação na Rede - Condição das entidades hospitalares envolvidas no processo:
+Exclusão- prestador que está sendo excluído da rede assistencial do plano; Inclusão-
+prestador que está sendo incluído na rede, nos casos de Substituição; Absorção -
+prestador que já é vinculado ao plano e absorverá a demanda do hospital que está
+sendo excluído, nos casos de Redimensionamento de rede por redução.
+
+Instalações Físicas – Existência (S) ou não (N) na entidade hospitalar
+correspondente de: sala para trabalho de grupo; área externa para lazer/ educação
+física e outras atividades; enfermaria para intercorrências clínicas.
+
+Outros Serviços Especiais – Existência (S) ou não (N), na entidade hospitalar
+correspondente, dos serviços de: Terapia ocupacional, Atendimento psicoterápico
+individual, Atendimento psicoterápico grupal, Atendimento à família, Assistência ao
+dependente químico.
+
+       •   Atendimento Psicoterápico Individual – assistência psicoterápica
+           prestada individualmente, por profissional da área de saúde mental, aos
+           beneficiários da operadora portadores de transtornos psiquiátricos.
+
+       •   Atendimento Psicoterápico Grupal - assistência psicoterápica aos
+           beneficiários da operadora portadores de transtorno psiquiátrico,
+           juntamente com outros indivíduos, também portadores de transtornos
+           psiquiátricos, por profissional da área de saúde mental.
+
+       •   Atendimento à Família – assistência prestada as pessoas do núcleo
+           familiar dos beneficiários da operadora portadores de transtornos
+           psiquiátricos.
+
+       •   Assistência ao dependente químico – atendimento prestado              ao
+           dependente químico por profissional especializado nesta área.
+                                  ANEXO IV
+
+                 TERMO DE ASSUNÇÃO DE OBRIGAÇÕES
+
+
+      À AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR - ANS
+ DIRETORIA DE NORMAS E HABILITAÇÃO DOS PRODUTOS – DIPRO
+
+
+      Em antecipação à análise do instrumento jurídico do plano(s)
+__(NOME(S) INFORMADO(S) NO APLICATIVO RPS)__ enviado(s) para
+registro, e considerando o disposto no artigo 3º da IN DIPRO nº
+15/2007,         esta    operadora       ________(RAZÃO            SOCIAL    DA
+OPERADORA)____, Registro na ANS nº ___(REGISTRO)__, inscrita sob
+CNPJ nº _____(CNPJ)____, declara, sob as penas da lei e para fim de
+liberação do(s) respectivo(s) registro(s), que garantirá na íntegra as
+condições pertinentes ao(s) plano(s) previstas no Anexo I da IN DIPRO
+nº 15/2007, independentemente do disposto no documento a ser
+disponibilizado aos beneficiários.
+      Para       tal,   adicionalmente    no      momento     da     contratação
+entregaremos ao contratante documento explicativo contendo, em
+linguagem de fácil entendimento, as condições do(s) instrumento(s)
+jurídico(s) do(s) plano(s) assumidas perante a ANS.
+       Na hipótese de haver inadequações nas redações dos temas dos
+instrumentos       jurídicos   comercializados,    estes    serão    modificados
+conforme     orientação da ANS e disponibilizadas novas versões aos
+beneficiários.
+
+
+(Cidade), (Data)
+
+
+Assinatura
+Nome e cargo do Representante Legal da Operadora perante a ANS
+

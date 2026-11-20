@@ -1,0 +1,395 @@
+               RESOLUÇÃO-RDC Nº 28, DE 26 DE JUNHO 2000
+
+    ANEXO III - ALTERADO PELA IN NO 8, DE 27 DE DEZEMBRO DE 2003
+
+                 Glossário da RDC Nº 28, de 26 de Junho de 2000.
+
+                            Termos e Instruções Gerais
+                        - Orientação para Preenchimento –
+
+A.Todos os campos devem ser preenchidos            pela   operadora,    exceto   onde
+explicitamente disposto em contrário.
+
+B.Termos em itálico são aqueles que contém definição neste glossário.
+
+C.Cada anexo tem um glossário específico a ser seguido, as definições apresentadas
+na seção de cada anexo dizem respeito exclusivamente às variáveis nele contidas.
+
+1.Planos
+São os planos ou produtos privados de assistência à saúde definidos no Inciso I e no
+§ 1º do art. 1º, da Lei n.º 9.656/98. Termos equiparados para efeito desta RDC.
+
+2.Operadora
+É a pessoa jurídica definida no Inciso II do art. 1º, da Lei n.º 9.656/98, que
+mantém os planos ou produtos privados de assistência à saúde definidos no Inciso I
+e no § 1º do art. 1º, da referida Lei.
+
+3.Beneficiário
+É a pessoa física que, de acordo com os termos do contrato, tem o direito de
+usufruir de qualquer parte dos serviços de assistência à saúde contratados junto à
+operadora.
+
+4.Despesa Assistencial
+São todas aquelas relacionadas à prestação direta dos serviços de assistência à
+saúde. É composta pelo somatório dos itens de despesa assistencial definidos no
+glossário do Anexo II-A.
+
+5.Contraprestações Pecuniárias
+É o valor total, expresso em Reais, livres de co-participações, sem qualquer outro
+desconto ou dedução adicional, das receitas provenientes de prestação continuada
+de serviços ou cobertura de custos assistenciais a preço pré ou pós estabelecido,
+por prazo indeterminado, com finalidade de garantir, sem limite financeiro,
+assistência à saúde, pela faculdade de acesso e atendimento por profissionais ou
+serviços de saúde livremente escolhidos, integrantes ou não de rede credenciada,
+contratada ou referenciada, visando a assistência médica, hospitalar e odontológica,
+a ser paga integral ou parcialmente às expensas da operadora contratada, mediante
+reembolso e/ou pagamento direto ao prestador.
+                         Glossário da planilha Entrada
+                        - Orientação para Preenchimento –
+
+1.N.º de CNPJ
+É o Nº de CNPJ da operadora de serviços de assistência à saúde. -Inserir o Nº de
+CNPJ da operadora. Preencher sem a utilização de sinais gráficos como “ponto” ou
+“barra”. Adicionalmente, considerar os zeros à esquerda no preenchimento do
+campo.    Por   exemplo,   para o     CNPJ   Nº 00.123.456/0001-78,        inserir
+00123456000178.
+
+2.Período de Análise
+É o período da base de dados utilizada para gerar as estimativas de freqüência e
+custo unitário de cada um dos itens de despesa.
+
+3.N.º de Registro do Plano
+Número de registro concedido pela Agência Nacional de Saúde Suplementar ou pelo
+Ministério da Saúde, através da emissão do Relatório de Registro Provisório LRPS03
+de acordo com o art. 7º da RDC n.º 4, de 18 fevereiro de 2000. -Inserir o número
+fornecido pelo LRPS03.
+-Caso o plano não possua n.º de registro do plano, preencher o campo com
+999999999.
+-Preencher sem a utilização de sinais gráficos como “ponto” ou “barra”.
+
+4.Nome do Plano
+Nome fantasia do plano, vinculado ao Relatório de Registro Provisório LRPS03, de
+acordo com o art. 7º da RDC n.º 4, de 18 de fevereiro de 2000.
+-Inserir o nome fantasia.
+
+5.Abrangência do preço do produto Deve ser especificado se há um único preço
+para todas as regiões onde este plano é comercializado (abrangência do preço
+única), ou alternativamente, se existe mais de um preço entre as diferentes regiões
+onde o plano é comercializado. Caso a operadora pratique preços diferenciados por
+região (abrangência do preço regionalizada), deverá preencher os Anexos II-A e II-
+B para cada uma das regiões, fazendo referência à
+região em questão.
+-Inserir única ou regionalizada.
+
+5.1Região de Abrangência do Preço do Produto
+É o nome, dado pela operadora, do grupo de estados e/ou municípios que possui o
+mesmo preço de comercialização do plano, definido na Nota Técnica de Registro de
+Produto.
+-Inserir o nome da região.
+
+5. Abrangência do preço do produto
+Deve ser especificado se há um único preço para todas as regiões onde este plano é
+comercializado (abrangência do preço única), ou alternativamente, se existe mais
+de um preço entre as diferentes regiões onde o plano é comercializado. Caso a
+operadora pratique preços diferenciados por região (abrangência do preço
+regionalizada), deverá preencher os Anexos II-A e II-B para cada uma das regiões,
+fazendo referência à região em questão.
+-Inserir única ou regionalizada. (Redação dada pela RN nº 320 de 2013)
+
+5.1 Região de Abrangência do Preço do Produto
+É o nome dado pela operadora ao grupo de estados e/ou municípios que possui o
+mesmo preço de comercialização do plano, definido na Nota Técnica de Registro de
+Produto. (Redação dada pela RN nº 320 de 2013)
+-Selecionar municípios
+
+5.2 Municípios de Comercialização do Plano. É o grupo de municípios, selecionado
+pela operadora, onde o plano será comercializado de acordo com os preços, de
+todas as regiões, definidos na Nota Técnica de Registro de Produto (Incluído pela RN
+nº 320 de 2013)
+                             Glossário do Anexo II-A
+                         - Orientação para Preenchimento –
+
+A.O Anexo II-A deve ser preenchido estratificando as informações pelas faixas
+etárias do plano.
+
+B.Deve ser preenchida uma planilha para cada um dos Itens de Despesa
+Assistencial disponíveis no banco de dados da operadora, conforme exemplificado
+no item 1 deste glossário.
+
+1.Itens de Despesa Assistencial
+São os itens que compõem o total da despesa assistencial da operadora, ou seja,
+não deverão existir despesas assistenciais não incluídas nos itens fornecidos pela
+operadora.
+Adicionalmente, as despesas assistenciais da operadora não podem ser
+contabilizadas em mais de um item de despesa assistencial.
+Caso a operadora negocie suas despesas assistenciais com os prestadores de
+serviço mediante “pacotes de procedimentos”, todas as despesas que compõem o
+referido “pacote” deverão ser distribuídas nos itens de despesa assistencial
+utilizados pela operadora.
+Caso a operadora não possua sua base de dados distribuída entre os itens
+mencionados a seguir, outro agrupamento poderá ser utilizado a critério da
+operadora, desde que descritos na Nota Técnica.
+
+A partir de JULHO/03 as operadoras deverão encaminhar os anexos contemplando
+especificamente os subitens 4.1, 4.2, 4.3, 4.4, 4.5 e 4.6 do Anexo II da RDC nº 85.
+Caso a operadora possua dados consistentes, fica facultada a adoção da relação dos
+itens de despesa referente aos subitens 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 e 4.8 do
+Anexo III da RDC nº 85.
+Para preenchimento das informações referentes aos itens de despesa deverão ser
+observadas as definições constantes da RDC n° 85.
+
+2.Faixas Etárias
+Deverão ser apresentadas informações referentes à todas as faixas etárias
+estabelecidas na Resolução CONSU n.º 15, publicada no D.O.U de 29 de março de
+1999.
+
+2.1 Idade Inicial (coluna C)
+Idade inicial de cada faixa etária do plano.
+
+2.2 Idade Final (coluna D)
+Idade final de cada faixa etária do plano.
+
+3.Número de Expostos (coluna E)
+É o valor resultante do somatório de todos os dias de exposição em que cada um
+dos beneficiários da base de dados utilizada teve o direito de usufruir dos serviços
+de assistência à saúde do item de despesa assistencial, calculado para cada item de
+despesa assistencial, durante o período de análise, dividido pelo número de dias do
+período de análise, conforme ilustra a fórmula a seguir:
+Número de expostos = (n.º dias de exposição do usuário 1 durante o período de
+análise + n.º dias de exposição do usuário 2 durante o período de análise + ... +
+n.º dias de exposição do usuário “n” durante o período de análise) / (n.º dias do
+período de análise)
+Alternativamente, o número de expostos pode ser calculado como o somatório do
+número de beneficiários expostos existentes em cada um dos dias do período de
+análise, dividido pelo número de dias do período de análise. Este cálculo é
+exemplificado pela fórmula a seguir:
+N.º de Expostos = (n.º de expostos no primeiro dia do período de análise + ... +
+n.º de expostos no último dia do período de análise) / n.º de dias do período de
+análise.
+-Inserir o número de expostos.
+
+3.1 Dias de Exposição
+É o número de dias, durante o período de análise, calculado individualmente para
+cada item de despesa assistencial, no qual o beneficiário teve o direito de usufruir
+do serviço de assistência à saúde. Deve ser observado que o usuário que estiver
+cumprindo carência deverá ser excluído do cálculo de exposição do item de
+despesa, pois não estará tendo o direito de usufruir do serviço.
+
+3.2 Exposto
+O conceito de exposto, similarmente ao de dias de exposição, se aplica para cada
+um dos itens de despesa assistencial. É definido como o beneficiário que tem o
+direito de usufruir da assistência à saúde do item de despesa assistencial em
+questão.
+Por exemplo: um beneficiário que tem o direito a consultas é um exposto para o
+item de despesa assistencial consulta, podendo, entretanto, não ser um exposto
+para o item de despesa exames complementares (itens de despesa definidos no
+Anexo II).
+
+4.Número de Eventos (coluna F)
+Número total de ocorrências do item de despesa assistencial em questão no
+período, dividido pelo número de meses do período.
+Para os seguintes itens de despesa: 1) taxas hospitalares; 2) medicamentos; 3)
+gases
+hospitalares e 4) materiais hospitalares, contabilizar como número de eventos o
+somatório do número de internações ocorridas no período.
+-Inserir número de eventos.
+
+5.Freqüência de Utilização (coluna G)
+É o número total de eventos, para cada item de despesa assistencial, dividido pelos
+respectivos números de expostos dentro do período de análise, conforme ilustra a
+fórmula a seguir:
+Freqüência de utilização = (n.º de eventos) / (n.º de expostos)
+-A freqüência de utilização será calculada automaticamente.
+6.Total de Despesa Assistencial (coluna H)
+É a despesa total da operadora, expressa em Reais, com o item de despesa
+assistencial no período, excluídas as recuperações de glosas eventualmente
+realizadas, dividido pelo número de meses do período.
+-Inserir valor do total de despesa assistencial com o item de despesa assistencial.
+
+7.Valor Médio do Item de Despesa Assistencial (coluna I)
+É o valor médio, expresso em Reais, do item de despesa assistencial. É obtido
+dividindo-se o total de despesa assistencial do item de despesa assistencial pelo
+número de eventos do mesmo, conforme ilustra a fórmula a seguir:
+Valor médio do item de despesa assistencial = (valor total do item de despesa
+assistencial) / (número de eventos do item de despesa assistencial)
+-O valor médio do item de despesa assistencial será calculado automaticamente.
+
+8.Despesa Assistencial por Exposto (coluna J)
+É a despesa, expressa em Reais, com o item de despesa assistencial por exposto. É
+obtida pela multiplicação da freqüência de utilização do item de despesa assistencial
+pelo valor médio do item de despesa assistencial, conforme ilustra a fórmula a
+seguir:
+Despesa assistencial por exposto = (freqüência de utilização do item de despesa
+assistencial) x (valor médio do item de despesa assistencial)
+-O valor médio do item de despesa assistencial será calculado automaticamente.
+                             Glossário do Anexo II-B
+                         - Orientação para Preenchimento –
+
+A. Anexo a ser preenchido estratificando as informações por faixa etária.
+
+B.O item despesa assistencial por exposto (coluna E) do Anexo II-B deverá ser a
+soma das colunas J (despesa assistencial por exposto) de todas as planilhas
+referentes a cada um dos itens de despesa assistencial do Anexo II-A.
+
+C.Para os planos e produtos que possuam mecanismos de franquia e/ou
+coparticipação, e os valores do Total da Despesa Assistencial (coluna H do Anexo II
+A) já estiverem livres da co-participação e/ou franquia, não deverão constar valores
+na coluna F do Anexo II-B (Recuperação de franquia e co-participação).
+
+1.Faixas Etárias
+Deverão ser detalhadas por plano todas as faixas etárias estabelecidas na Resolução
+CONSU n.º 15, publicada no D.O.U. de 29 de março de 1999.
+1.1.Idade Inicial (coluna C)
+Idade inicial de cada faixa etária do plano.
+
+1.2.Idade Final (coluna D)
+Idade final de cada faixa etária do plano.
+
+2.Despesa Assistencial por Exposto (coluna E)
+É a despesa, expressa em Reais, com todos os itens de despesa assistencial por
+exposto. O item despesa assistencial por exposto do Anexo II-B deverá ser a soma
+das colunas J (despesa assistencial por exposto) de todas as planilhas referentes
+aos itens de despesa assistencial do Anexo II-A.
+-O Valor da Despesa Assistencial por Exposto será calculada automaticamente
+
+3.Recuperação de Co-Participação (coluna F)
+É o valor, expresso em Reais, proveniente de outros pagamentos de beneficiários à
+operadora, a título de co-participação durante o período de análise, dividido pelo
+número de meses no período de análise, e posteriormente dividido pelo número de
+expostos (termo definido no Glossário do Anexo II-A).
+-Inserir o valor, em Reais, do total de recuperação de co-participação por exposto.
+
+3.1.Co-Participação
+Mecanismo de regulação de uso definido no inciso II do art. 3º, da Resolução
+CONSU n.º 08, de 04 de novembro de 1998: “a parte efetivamente paga pelo
+consumidor à operadora de plano ou seguro privado de assistência à saúde e/ou
+operadora de plano odontológico, referente a realização do procedimento.”
+
+4.Recuperação de Seguro (coluna G)
+É o valor, expresso em Reais, proveniente de recuperação de despesas seguradas
+durante o período de análise, dividido pelo número de meses do período de análise,
+e posteriormente dividido pelo número de expostos (termo definido no Glossário do
+Anexo II-A).
+-Inserir o valor, em Reais, do total de recuperação de despesas seguradas por
+exposto.
+
+5.Recuperação de Resseguro e Co-Seguro (coluna H)
+É o valor, expresso em Reais, proveniente de recuperação de despesas
+resseguradas e/ou co-seguradas durante o período de análise, dividido pelo número
+de meses do período de análise, e posteriormente dividido pelo número de exposto
+(termo definido no Glossário do Anexo II-A).
+-Inserir o valor, em Reais, do total de recuperação de despesas resseguradas e/ou
+coseguradas por exposto.
+
+6.Despesa Assistencial Líquida por Exposto (coluna I)
+É a despesa assistencial por exposto, deduzida das receitas de recuperação com
+coparticipações, seguros, resseguros e co-seguros.
+-A despesa assistencial líquida por exposto será calculada automaticamente.
+
+7.Margem de Segurança Estatística por Exposto (coluna J)
+É o valor, expresso em Reais, adicionado à despesa assistencial líquida mensal por
+exposto, com o objetivo de cobrir as majorações da mesma, devido às oscilações
+aleatórias de uso e custo de itens de despesa. A operadora deve apresentar na
+NTRP (bases técnicas) a metodologia de cálculo da margem de segurança estatística
+e sua respectiva justificativa.
+-Inserir o valor, em Reais, da margem de segurança estatística por exposto.
+
+8.Despesa Assistencial Líquida por Exposto com Margem de Segurança Estatística
+por Exposto (coluna K)
+É o total da despesa assistencial líquida por exposto, acrescido das respectivas
+margens de segurança estatística.
+-A despesa assistencial líquida por exposto com margem de segurança estatística
+por exposto será calculada automaticamente.
+
+9.Número de Beneficiários (coluna L)
+É o número de beneficiários da base de dados utilizada. É medido pelo somatório
+dos números mensais de beneficiários existentes no último dia útil de cada mês do
+período de análise cuja prestação de serviços à saúde foi paga à operadora, dividido
+pelo número de meses existentes no período de análise, conforme fórmula abaixo:
+Número de beneficiários = (n.º de beneficiários no último dia útil do primeiro mês
+do período de análise + n.º de beneficiários no último dia útil do segundo mês do
+período de análise + ... + n.º de beneficiários no último dia útil do último mês do
+período de análise) / (n.º de meses do período de análise)
+-Inserir número de beneficiários.
+
+10.Despesas não Assistenciais por Beneficiário
+São todas aquelas não atribuíveis aos itens de despesa assistencial definidos no
+Anexo II-A.
+10.1.Despesas de Comercialização por Beneficiário (coluna M)
+É o valor, expresso em Reais, por faixa etária, do total das despesas que tenham
+relação direta com a promoção, venda, colocação e distribuição do plano durante o
+período de análise, dividido pelo número de meses do período de análise, e
+posteriormente dividido pelo número de beneficiários.
+-Inserir, valor em Reais, do total de despesas de comercialização por beneficiário.
+
+10.2.Outras Despesas da Carteira de Planos por Beneficiário (coluna N)
+É o valor, expresso em Reais, por faixa etária, dos demais gastos indiretos
+referentes a operação e comercialização do plano e que não se configurem como
+despesas de comercialização por beneficiário ou despesas assistenciais durante o
+período de análise, dividido pelo número de meses do período de análise, e
+posteriormente dividido pelo número de beneficiários.
+-Inserir, valor em Reais, do total de outras despesas da carteira de planos por
+beneficiário.
+
+10.3.Despesas Administrativas por Beneficiário (coluna O)
+É o valor expresso em Reais da proporção dos gastos totais da operadora que são
+referentes à direção e gestão da operadora, durante o período de análise, que diz
+respeito ao plano em questão e respectivas faixas etárias. São exemplos dos gastos
+referentes à direção e gestão da operadora: honorário de administração (Diretoria,
+Conselhos ou assemelhados); salários; indenizações; benefícios; treinamentos e
+encargos do pessoal com vínculo empregatício; remunerações e encargos sociais
+por serviços administrativos prestados por terceiros; despesas com localização e
+funcionamento da operadora; despesas com publicidade e propaganda institucional;
+despesas com publicações e comunicação; despesas com tributos; despesas legais e
+judiciais. O valor deverá ser dividido pelo número de meses do período de análise e,
+posteriormente dividido pelos respectivos números de beneficiários.
+-Inserir, valor em Reais, do total de despesas administrativas por beneficiários.
+
+11.Despesa de Prestação de Outros Serviços por Beneficiário (coluna P)
+É o valor, em Reais, do total de despesas de prestação de outros serviços ocorridas
+durante o período de análise, dividido pelo número de meses do período de análise,
+e posteriormente dividido pelo número de beneficiários.
+-Inserir, valor em Reais, do total de despesas de prestação de outros serviços por
+beneficiário.
+
+12.Despesa Total por Beneficiário (coluna Q)
+É o somatório total de despesas assistenciais líquidas, despesas não assistenciais
+por beneficiário e de outros serviços por beneficiário.
+-A despesa total por beneficiário será calculada automaticamente.
+
+13.Valor da Margem de Lucro por Beneficiário (coluna R)
+É o valor, expresso em Reais, da margem de lucro pretendida pela operadora
+durante o período de análise, dividido pelo número de meses do período de análise,
+e posteriormente dividido pelo número de beneficiários.
+-Inserir o valor em Reais, do total do lucro por beneficiário.
+14. Ajuste (coluna S)
+É o valor por faixa etária, expresso em Reais, dos ajustes realizados pela operadora,
+os quais devem estar justificados nas bases técnicas da NTRP. Deve ser observado
+que o valor do(s) ajuste(s) não pode ser superior à soma dos carregamentos
+(colunas M, N, O, P e R do Anexo II-B).
+Caso não haja necessidade de ajuste, a operadora deve preencher toda a coluna
+com zero.
+- Inserir o valor total em Reais do(s) ajuste(s) efetuado(s) por beneficiário.
+
+15.Valor Comercial da Mensalidade (coluna T)
+É o valor, expresso em Reais, da despesa total por beneficiário acrescido da
+margem de lucro por beneficiário e de eventual(is) ajuste(s) realizado(s) pela
+operadora. O percentual de variação da mensalidade por mudança de faixa etária
+deve corresponder ao estabelecido no contrato e ser informado na NTRP (bases
+teóricas). Deve ser observado que os valores apresentados nessa coluna não podem
+ser inferiores aos previstos na coluna K (Despesa Assistencial Líquida por Exposto
+com Margem de Segurança Estatística por Exposto).
+O valor comercial da mensalidade será calculado automaticamente.
+
+Observações
+
+1- Não deverão ser informados as seguintes receitas e despesas da operadora:
+doações e contribuições filantrópicas; participação nos lucros; receitas financeiras;
+despesas financeiras; perda na realização de bens imóveis e de investimentos
+relevantes; e resultado de equivalência patrimonial.
+
+2- Também não deverão ser informadas receitas e despesas de outras operações
+que não sejam decorrentes de comercialização de planos privados de assistência à
+saúde, a exceção das despesas administrativas da operadora, conforme o descrito
+no item 10.3.
+

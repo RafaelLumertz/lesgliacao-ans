@@ -1,0 +1,193 @@
+AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR                                                                        Página 1 de 4
+
+
+
+                      AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR
+                           RESOLUÇÃO-RDC Nº 23, DE 6 DE JUNHO 2000
+
+       Altera a Resolução RDC nº 10, de 3 de março de 2000, institui Ficha de
+       Compensação, estabelece padronização para o envio de informações que
+       menciona e dá outras providências.
+
+
+
+
+       A Diretoria Colegiada da Agência Nacional de Saúde Suplementar - ANS, no uso
+       das atribuições que lhe conferem o inciso III do art. 9º e o § 2º do art. 26 do
+       Regulamento aprovado pelo Decreto n.º 3.327, de 5 de janeiro de 2000, em
+       reunião realizada em 30 de maio de 2000,
+
+       considerando a necessidade de se alterar a sistemática de recolhimento para
+       melhor controle da arrecadação da Taxa de Saúde Suplementar,
+
+       considerando a necessidade de padronização de documentos, conteúdos e rotinas
+       que viabilizem a implementação de procedimentos de controle rápido e eficaz da
+       arrecadação, e
+
+       considerando a necessidade de racionalizar os procedimentos para arrecadação
+       da Taxa de Saúde Suplementar,
+
+       adotou a seguinte Resolução de Diretoria Colegiada e eu, Diretor-Presidente,
+       determino a sua publicação:
+
+       Art. 1º Altera a redação dos parágrafos dos art. 2º e 3º da Resolução de Diretoria
+       Colegiada - RDC n.º 10/2000:
+
+       "Art. 2º ...................................................................................
+
+       § 1º O recolhimento da taxa devida se dará preferencialmente pela Ficha de
+       Compensação do Banco do Brasil, modelo 1.16.821-1, ou em caso de
+       impossibilidade do uso desta, pelo formulário "Guia de depósito", modelo 0.07.099-
+       8, do Banco do Brasil S/A."
+
+       ..................................................................................................
+
+       § 4º A Ficha de Compensação poderá ser paga em qualquer agência bancária
+       integrante do Sistema Nacional de Compensação.
+
+       § 5º O pagamento poderá ser feito por meio de cheque de qualquer praça, desde
+       que emitido pela própria operadora."
+
+       "Art. 3º .....................................................................................
+
+       ...................................................................................................
+
+       § 2º Todas as entidades sujeitas à fiscalização da ANS, designadas
+       genericamente como operadoras, independentemente do número de planos de
+       assistência à saúde que mantenham, ou do seu nível de atividade, deverão enviar
+       a Tabela constante do Anexo III devidamente preenchida.
+
+       § 3º A Tabela mencionada no parágrafo anterior deverá ser preferencialmente
+       enviada através de transmissão eletrônica de dados pela rede INTERNET ou de
+       meio magnético (disquete de 3½").
+AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR                                                   Página 2 de 4
+
+
+
+       § 4º A partir do primeiro decêndio do trimestre seguinte ao de seu registro
+       provisório na ANS, as operadoras de planos de assistência à saúde que não
+       possuem beneficiários de seus planos deverão a enviar a Tabela prevista no
+       Anexo III desta RDC informando que não têm nenhum beneficiário."
+
+       Art. 2º O preenchimento, se necessário da Ficha de Compensação, observará o
+       disposto nos Anexo I desta RDC.
+
+       Art. 3º No envio da planilha padronizada para a comprovação do cálculo da Taxa
+       de Saúde Suplementar as operadoras deverão observar sucessivamente os
+       procedimentos constantes do Anexo II.
+
+       Art. 4º O formulário "Guia de Depósito" modelo 0.07.099-8 do Banco do Brasil
+       continua sendo o único instrumento de recolhimento da Taxa de Saúde
+       Suplementar devida em razão da verificação dos outros fatos geradores previstos
+       na legislação, para os eventos previstos no art. 6o da RDC n.º 6, de 18 de
+       fevereiro de 2000.
+
+       Art. 5º As operadoras que efetuarem o envio de arquivo magnético previsto no Art.
+       4º e o recolhimento com a Ficha de Compensação estão dispensadas de enviar à
+       ANS os documentos previstos no § 4º do art. 3º da Resolução RDC n.º 10/00.
+
+       Art. 6º Os casos omissos e as normas complementares à aplicação do disposto
+       nesta Resolução de Diretoria Colegiada serão resolvidos ou expedidas pelo
+       Diretor responsável pela Diretoria de Gestão.
+
+       Art. 7º Esta Resolução de Diretoria Colegiada entra em vigor na data da sua
+       publicação.
+
+
+                                     JANUARIO MONTONE
+
+                                            ANEXO I
+
+        Instruções para o preenchimento de campos do formulário Ficha de Compensação
+
+       Campo:Conteúdo a ser preenchido:
+
+       Número do Documentopreencher com o código da operadora na ANS;
+
+       Valor do documentopreencher com o valor principal a ser recolhido;
+
+       Mora / Juropreencher com o valor calculado, quando pago após a data de
+       vencimento;
+
+       Valor cobradopreencher com a soma do valor do documentos mais Mora/Juros
+
+       Sacadopreencher com o nome da operadora ;
+
+                                           ANEXO II
+
+                Instruções gerais sobre a planilha padrão de que trata esta RDC.
+
+       A remessa do arquivo contendo a planilha padrão deverá ser feita através de
+       transmissão de dados pela rede INTERNET, utilizando-se o ambiente seguro
+       criado no endereço eletrônico da ANS, no subdiretório de leitura restrita. O acesso
+       a este subdiretório será automático, e dependerá do fornecimento do "NOME DE
+AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR                                                     Página 3 de 4
+
+       USUÁRIO" e sua "SENHA".
+
+       1 - A planilha padrão instituída por esta Resolução efetua automaticamente o
+       cálculo da Taxa de Saúde Suplementar por Plano de Assistência à Saúde referente
+       à competência pretendida, a partir do preenchimento da informação do número de
+       usuários, mês a mês, por segmento assistencial e por abrangência geográfica.
+
+       2 - O nome da planilha é "Cálculo Taxa Saúde Suplementar.xls" e apresenta o
+       formato criado através do software Excel, versão 97.
+
+       3 - A planilha padrão disponível na rede INTERNET possui Macro criada pela ANS
+       que não deverá ser desabilitada em qualquer hipótese.
+
+       4 - O arquivo eletrônico contendo a planilha a ser enviada à ANS deverá ter nome
+       padronizado e será criado automaticamente quando for realizada a gravação do
+       arquivo, a partir da Macro contida na planilha padrão.
+
+       5 - A planilha a ser enviada à ANS deverá apresentar o formato criado através do
+       software Excel, versão 97.
+
+       6 - Para garantir o sigilo das informações, a ANS manterá um servidor de dados
+       seguro (ambiente HTTPS) com um diretório exclusivo para cada operadora, com
+       capacidade de gravação e de leitura pela INTERNET, e um subdiretório com
+       capacidade única de gravação, para o que os arquivos enviados não possam ser
+       retirados, a não ser pelos administradores da rede da ANS.
+
+       Instruções para o envio da planilha referente aos fatos geradores 101/6 e 102/4:
+
+       1 Entrar no página eletrônica da ANS, escolher o item "Recolhimento da Taxa de
+       Saúde Suplementar por Plano de Assistência à Saúde";
+
+       2 Efetuar cópia da planilha padrão (download);
+
+       3 - Sair da INTERNET;
+
+       4 Preencher integralmente a planilha e salvá-la;
+
+       5 Entrar no página eletrônica da ANS, escolher o item "Recolhimento da Taxa de
+       Saúde Suplementar por Plano de Assistência à Saúde";
+
+       6 Informar o seu "NOME DE USUÁRIO" e sua "SENHA" para entrar no respectivo
+       subdiretório de leitura restrita;
+
+       7 Efetuar o envio do arquivo contendo a planilha eletrônica preenchida (upload);
+
+       8 - Sair da INTERNET.
+
+       9 - Com a finalidade de evitar que todos os arquivos transmitidos durante a sessão
+       de acesso ao endereço eletrônico da ANS sejam gravados no mesmo subdiretório,
+       os procedimentos descritos nos incisos VI a IX deverão ser repetidos caso haja
+       necessidade de enviar o arquivo com a planilha padrão por outra operadora.
+
+
+       (Of. El. nº 82/2000)
+
+
+
+
+                Planilha de cálculo da Taxa de Saúde Suplementar
+AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR                             Página 4 de 4
+
+
+
+               Clique aqui para acessar as instruções de uso da
+                                   planilha
+
+                Clique aqui para fazer o download da planilha
+

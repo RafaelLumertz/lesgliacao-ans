@@ -1,0 +1,1171 @@
+                             ANEXO I-A
+    FORMULÁRIO DE GESTÃO DE CONTAS DO SISTEMA DE RESSARCIMENTO
+                    ELETRÔNICO AO SUS – SISREL
+
+
+    DADOS DA OPERADORA DE PLANOS PRIVADOS DE ASSISTÊNCIA À SAÚDE - OPS
+Nome ou Razão Social:
+CNPJ:
+
+                                              DADOS DO(A) SOLICITANTE
+Nome:
+CPF:
+Perfil:
+
+                                              DADOS DO(A) USUÁRIO(A)
+Nome:
+CPF:
+Login*:
+Documento de identificação**:
+Data de Nascimento**:
+Sexo**:
+Telefone**:
+Fax**:
+Endereço**:
+E-mail**:
+Perfil(is) de acesso**: __________________________________________________, conforme permissões e
+poderes discriminados na Tabela de Permissões e Poderes por Perfil de Acesso e Uso do SISREL, em anexo.
+
+
+                                         SOLICITAÇÃO
+          Credenciamento do(a) usuário(a) acima qualificado(a) com o(s) perfis de acesso e de uso
+          do SISREL indicados.
+          Alteração da conta do(a) usuário(a) do SISREL acima qualificado(a), conforme os dados
+          informados neste formulário.
+          Bloqueio do acesso ao SISREL do(a) usuário(a) acima identificado(a).
+          Desbloqueio do acesso ao SISREL do(a) usuário(a) acima identificado(a).
+          Descredenciamento do(a) usuário(a) do SISREL acima identificado(a).
+
+
+                                              ____ de _________________ de _____.
+
+
+                                                           (assinatura digital)
+                                                               Solicitante
+
+
+                                                         (assinatura digital)***
+                                                               Usuário(a)
+
+
+Observações:
+* Preencher apenas em se tratando de alteração de conta, bloqueio, desbloqueio ou descredenciamento de usuário.
+** Preencher apenas em se tratando de credenciamento ou alteração de conta.
+*** Assinar apenas em se tratando de credenciamento ou alteração de conta.
+                                ANEXO I-B
+    TABELA DE PERMISSÕES E PODERES POR PERFIL DE ACESSO E USO DO SISREL
+
+
+         Perfil                                              Permissões e poderes
+                          Confere ao usuário poderes para credenciar outros usuários do SISREL com quaisquer
+Gestão de contas de       perfis, com exceção de “representante legal” e “gestão de contas”, a alterar suas
+usuários                  informações cadastrais e perfis de acesso, bem como a bloquear, desbloquear e
+                          descredenciar esses usuários.
+                          Confere ao usuário poderes para representar a OPS junto à ANS nos processos
+                          administrativos de ressarcimento ao SUS, podendo ter vista aos autos, receber
+                          notificações, confessar dívida, impugnar cobranças, recorrer de decisões administrativas,
+Processo administrativo   desistir de impugnações e recursos, apresentar defesas, encaminhar documentos
+                          comprobatórios, prestar informações e praticar quaisquer outros atos necessários à
+                          salvaguarda dos interesses da OPS, com exceção da apresentação de impugnação e da
+                          interposição de recurso administrativo com motivo de natureza técnica.
+                          Restrito a médicos auditores, confere ao usuário poderes para representar a OPS junto à
+                          ANS nos processos administrativos de ressarcimento ao SUS, podendo ter vista aos
+                          autos, receber notificações, confessar dívida, impugnar cobranças, recorrer de decisões
+Auditoria Técnica         administrativas, desistir de impugnações e recursos, apresentar defesas, encaminhar
+                          documentos comprobatórios, prestar informações e praticar quaisquer outros atos
+                          necessários à salvaguarda dos interesses da OPS, inclusive a apresentação de
+                          impugnação e a interposição de recurso administrativo com motivo de natureza técnica.
+                          Confere ao usuário poderes para representar a OPS junto à ANS nos processos
+                          administrativos de ressarcimento ao SUS, podendo emitir e cancelar Guias de
+Recolhimento
+                          Recolhimento da União, solicitar repetição de indébito, informar depósitos judiciais e
+                          praticar outros atos referentes ao recolhimento dos valores.
+                              ANEXO II
+TERMO DE CONFIDENCIALIDADE E RESPONSABILIDADE PELO ACESSO E USO
+   DO SISTEMA DE RESSARCIMENTO ELETRÔNICO AO SUS – SISREL, DA
+          AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR – ANS
+           Eu, ______________________________________, credenciado(a) pela Operadora de Plano Privado de
+Assistência à Saúde - OPS _________________________________________ como usuário(a) do SISREL,
+comprometo-me a:
+      I - acessar e utilizar o SISREL nos estritos limites das permissões e poderes do(s) perfil(s) de acesso e uso a
+          mim concedido(s), e em conformidade com os instrumentos normativos da ANS que regulamentam o
+          processo de ressarcimento ao SUS e o SISREL;
+
+     II - garantir a disponibilidade de minha conta de e-mail cadastrada no Formulário de Credenciamento de
+          Usuários do SISREL para o recebimento de mensagens do SISREL, bem como configurar qualquer tipo
+          de filtro anti-spam para que não bloqueie mensagens provenientes do domínio “ans.gov.br” ou que
+          tampouco exija confirmação manual;
+
+    III - utilizar os dados e informações do SISREL exclusivamente no âmbito dos processos de ressarcimento ao
+          SUS e no controle, avaliação e qualificação de serviços de assistência à saúde;
+
+    IV - não utilizar e não permitir a utilização os dados e informações do SISREL que crie obrigações ou restrinja
+         direitos de beneficiários de planos privados de assistência à saúde, ou que de qualquer forma os
+         discrimine, impeça ou dificulte seu acesso a serviços de assistência à saúde, ou sua adesão a planos
+         privados de assistência à saúde;
+
+     V - não revelar informações identificadas do atendimento pelo SUS, salvo se estritamente necessário à defesa
+         da OPS em processo administrativo de ressarcimento ao SUS, ou para utilização em controle, avaliação e
+         qualificação dos serviços de assistência à saúde, e desde que os destinatários se comprometam ao mesmo
+         sigilo e às restrições de uso das informações;
+
+    VI - manter a necessária cautela quando da exibição de dados em tela, impressora ou na gravação em meios
+         eletrônicos, a fim de evitar que deles venham a tomar ciência pessoas não autorizadas;
+
+   VII - comunicar por escrito à ANS e ao Representante Legal da OPS ou à pessoa por ele indicada quaisquer
+         indícios ou possibilidades de irregularidades, de desvios ou falhas identificadas no SISREL, sendo
+         proibida a exploração de falhas ou vulnerabilidades porventura existentes;
+
+   VIII - inserir apenas dados verdadeiros no SISREL;
+
+    IX - não me ausentar da estação de trabalho sem encerrar a sessão de uso do sistema, garantindo assim a
+         impossibilidade de acesso indevido por terceiros;
+
+     X - não revelar minha senha de acesso ao SISREL a ninguém e tomar o máximo de cuidado para que ela
+         permaneça somente de meu conhecimento;
+
+    XI - alterar minha senha, sempre que obrigatório ou que tenha suposição de descoberta por terceiros, não
+         usando combinações simples que possam ser facilmente descobertas;
+
+   XII - não fornecer minha chave privada de assinatura digital, e tampouco revelar sua senha para terceiros;
+
+   XIII - requerer imediatamente a revogação de meu certificado digital junto à Autoridade Certificadora habilitada
+          que o emitiu, caso sua segurança tenha sido de alguma forma comprometida;
+
+   XIV - respeitar as normas de segurança e restrições de sistema impostas pelos sistemas de segurança
+         implantados na ANS;
+
+   XV - observar e cumprir as Boas Práticas de Segurança da Informação, e suas diretrizes, bem como este Termo
+        de Responsabilidade;
+   XVI - responder, em todas as instâncias, pelas conseqüências das ações ou omissões de minha parte, que possam
+         pôr em risco ou comprometer a exclusividade de conhecimento de minha senha, de uso de minha chave
+         privada ou das transações a que tenha acesso;
+
+  XVII - manter atualizados os dados cadastrais e os perfis de acesso dos usuários da OPS credenciados no
+         SISREL*;
+
+ XVIII - bloquear as contas de usuários temporariamente afastados dos processos de ressarcimento ao SUS*;
+
+   XIX - descredenciar imediatamente do SISREL os usuários desvinculados da OPS ou das tarefas relacionadas
+         aos processos administrativos de ressarcimento ao SUS*;
+
+    XX - responder, em todas as instâncias, pelas conseqüências das ações ou omissões da parte dos usuários por
+         mim credenciados que possam pôr em risco ou comprometer a exclusividade de conhecimento de suas
+         senhas, de uso de chave privada ou das transações a que tenham acesso.
+
+          Declaro, ainda, estar ciente de que:
+    I - A violação dos compromissos assumidos por meio deste Termo poderão ensejar o bloqueio ou a exclusão
+        de minha conta de usuário do SISREL, sem prejuízo da minha responsabilização administrativa, civil e
+        penal, bem como da responsabilização da OPS;
+
+   II - A divulgação de dados obtidos por meio do SISREL aos quais tenho acesso para outras pessoas não
+        envolvidas nos trabalhos executados e fora dos limites estabelecidos neste Termo e nas normas em vigor
+        pode constituir infração de informação sobre condições de saúde dos consumidores ou de proteção de
+        informação do consumidor, previstas na Resolução Normativa n° 124, de 30 de março de 2006, e pode
+        constituir crime, como o de revelação de segredo profissional, sem prejuízo da responsabilidade civil pelos
+        danos decorrentes;
+
+   III - A inserção de dados falsos no SISREL constitui infração processual prevista na Resolução Normativa n°
+         185, de 31 de dezembro de 2008, e pode constituir crime, como de falsidade ideológica ou de estelionato,
+         sem prejuízo da responsabilidade civil pelos danos decorrentes.
+
+
+Observação: os compromissos marcados com asterisco (*) são exclusivos de usuários com o perfil “representante
+legal” ou “gestão de contas”.
+
+                          ________ de _______________________ de _____________
+
+                                         ___________________________
+                                                  Solicitante
+
+
+
+                                         ___________________________
+                                                  Usuário(a)
+                                       ANEXO III
+                         MOTIVOS DE IMPUGNAÇÃO OU DE RECURSO
+
+1. Motivos de impugnação ou de recurso de natureza administrativa:
+     1.1. Atendimento já pago – são os casos em que a OPS já realizou pagamento por atendimento
+          idêntico, realizado na mesma data do atendimento pelo SUS e ao mesmo paciente.
+     1.2. Produto não cobre procedimento – são os casos em que o produto da OPS ao qual está
+          vinculado o beneficiário identificado não cobre procedimento realizado no atendimento pelo
+          SUS.
+     1.3. Repasse integral e individualizado da despesa assistencial ao beneficiário – são os casos em que
+          o valor integral das despesas assistenciais é repassado de forma individualizada ao beneficiário
+          que utilizou os serviços, nos termos do item 2 Súmula Normativa da ANS n° 9, de 10 de
+          novembro de 2005.
+     1.4. Franquia ou co-participação – são casos em que o contrato ou regulamento do produto da OPS
+          ao qual está vinculado o beneficiário identificado prevê fator moderador a ser pago pelo
+          beneficiário, seja ele franquia ou co-participação, aplicável ao atendimento identificado.
+     1.5. Atendimento fora da abrangência geográfica do produto – são as hipóteses em que o
+          estabelecimento onde foi realizado o atendimento identificado se localiza fora da abrangência
+          geográfica delimitada pelo contrato ou regulamento do produto.
+     1.6. Paciente atendido não é beneficiário de produto da operadora – são os casos de homonímia, em
+          que o paciente atendido pelo SUS não é a mesma pessoa que o beneficiário de produto da OPS.
+     1.7. Beneficiário em carência – são os casos em que o atendimento identificado foi realizado durante
+          o prazo de carência do beneficiário para a utilização dos serviços prestados.
+     1.8. Quantidade do procedimento não coberta pelo produto – são os casos em que a quantidade do
+          procedimento realizado no atendimento identificado ultrapassa a quantidade máxima coberta
+          pelo produto.
+     1.9. Beneficiário excluído a pedido – são os casos de exclusão a pedido do próprio beneficiário, de
+          seu responsável ou do beneficiário titular do plano;
+    1.10. Beneficiário excluído por término da relação de vinculado – são os casos de exclusão do
+          beneficiário por término da condição de dependência entre ele e o beneficiário titular em data
+          anterior à do atendimento pelo SUS.
+    1.11. Beneficiário excluído por extinção do vínculo empregatício – são os casos de exclusão de
+          beneficiário de plano coletivo, de vínculo empregatício ativo, por demissão, aposentadoria ou
+          óbito de beneficiário titular em data anterior à do atendimento pelo SUS, desde que o
+          beneficiário não tenha optado por sua manutenção no produto.
+    1.12. Beneficiário excluído por término do período de manutenção da condição de beneficiário – são
+          as hipóteses de término do período de manutenção da condição de beneficiário após
+          aposentadoria, demissão ou óbito do titular em data anterior à do atendimento identificado, nos
+          termos dos artigos 30 e 31 da Lei n° 9.656, de 1998.
+    1.13. Beneficiário excluído por óbito do beneficiário titular – são os casos de exclusão de beneficiário
+          do produto por óbito do beneficiário titular em data anterior ao atendimento pelo SUS, desde
+          que o beneficiário não tenha optado por sua manutenção no produto.
+    1.14. Óbito do beneficiário identificado – são os casos de falecimento do beneficiário identificado em
+          data anterior ao atendimento pelo SUS.
+    1.15. Beneficiário excluído por inadimplência – são os casos de exclusão do beneficiário em data
+          anterior à do atendimento pelo SUS, por inadimplência ou atraso no pagamento de uma ou mais
+          mensalidades do produto, nos termos do inciso II, do parágrafo único, do artigo 13, da Lei n°
+          9.656, de 1998.
+    1.16. Beneficiário excluído por fraude – são os casos de exclusão do beneficiário identificado, em
+          data anterior à do atendimento pelo SUS, por fraude em declaração de saúde verificada em
+          processo administrativo da ANS, cuja decisão final já tenha sido notificada às partes do
+          processo.
+    1.17. Beneficiário excluído por transferência de carteira – são as hipóteses de realização, em data
+          anterior à do atendimento pelo SUS, transferência de carteira que contenha o contrato do
+          beneficiário identificado.
+    1.18. Outros motivos de natureza administrativa – demais hipótese de impugnação de natureza
+          administrativa.
+2. Motivos de impugnação ou de recurso de natureza técnica:
+2.1. Acidente de trabalho – são os casos em que o atendimento identificado foi realizado em
+     decorrência de acidente de trabalho não coberto pelo produto ao qual está vinculado o
+     beneficiário.
+2.2. Doença ou lesão preexistente – são os casos em que o atendimento identificado, por decorrer de
+     doença ou lesão preexistente à adesão do beneficiário ao produto, não é coberto pelo produto,
+     ou não é coberto durante o prazo de cobertura parcial temporária, vigente à época do
+     atendimento pelo SUS.
+2.3. Procedimento não realizado – são os casos em que o atendimento identificado não foi realizado
+     pelo SUS.
+2.4. Outros motivos de natureza técnica – demais hipótese de impugnação de natureza técnica.
+                                 ANEXO IV
+             CAMPOS DE INFORMAÇÃO ADICIONAIS DOS FORMULÁRIOS DE
+                            IMPUGNAÇÃO/RECURSO
+
+As tabelas deste Anexo descrevem, por motivo de impugnação/recurso, as informações
+       adicionais a serem preenchidas nos formulários de impugnação/recurso.
+ Tabela 4.01 – Informações adicionais para motivo de impugnação/recurso “atendimento já pago”
+                     Campo                       Obrigatoriedade de preenchimento e observações
+Data de início do atendimento                   Obrigatório
+Data de término do atendimento                  Obrigatório
+Prestador - CNPJ                                Obrigatório
+Prestador - nome                                Obrigatório
+Procedimento pago - descrição                   Obrigatório. Preencher uma vez para cada
+                                                procedimento já pago.
+Procedimento pago - quantidade                  Obrigatório. Preencher uma vez para cada
+                                                procedimento já pago.
+Procedimento pago - valor unitário              Obrigatório. Preencher uma vez para cada
+                                                procedimento já pago.
+Valor total pago                                Obrigatório
+Data do pagamento                               Obrigatório
+Informações adicionais                          Opcional
+
+   Tabela 4.02 – Informações adicionais para motivo de impugnação/recurso “produto não cobre
+                                            procedimento”
+                     Campo                         Obrigatoriedade de preenchimento e observações
+Produto                                           Obrigatório
+Tipo de contratação do produto                    Obrigatório
+Segmentação assistencial do produto               Obrigatório
+Procedimento(s) excluído(s) do produto            Obrigatório. Preencher uma vez para cada
+                                                  procedimento.
+Tipo de vínculo do beneficiário                   Obrigatório se “tipo de contratação” = “individual ou
+                                                  familiar”
+Data de adesão do beneficiário identificado       Obrigatório se “tipo de vínculo do beneficiário” =
+                                                  “titular” ou “outros”
+Beneficiário titular                              Obrigatório se “tipo de vínculo do beneficiário” =
+                                                  “cônjuge”, “filho” ou “filha”
+Data de adesão do beneficiário titular            Obrigatório se “tipo de vínculo do beneficiário” =
+                                                  “cônjuge”, “filho” ou “filha”
+Data de contratação                               Obrigatório se “tipo de contratação” = “coletivo
+                                                  empresarial” ou “coletivo por adesão”
+Adaptação do contrato para as coberturas da Lei   Obrigatório se “data de adesão do beneficiário”,
+9.656, de 1998                                    “data de adesão do beneficiário titular” ou “data de
+                                                  contratação” anterior a 02/01/1999
+Informações adicionais                            Opcional
+
+   Tabela 4.03 – Informações adicionais para motivo de impugnação/recurso “repasse integral e
+                        individualizado da despesa assistencial ao beneficiário”
+                     Campo                          Obrigatoriedade de preenchimento e observações
+Produto                                            Obrigatório
+Tipo de contratação do produto                     Obrigatório
+Participação financeira da pessoa jurídica         Obrigatório se “tipo de contratação do produto” =
+contratante                                        “coletivo empresarial” ou “coletivo por adesão”
+Formação do preço                                  Obrigatório se “participação financeira da pessoa
+                                                   jurídica contratante” = “sem patrocínio”
+Tipo de formação de preço pós-estabelecido         Obrigatório se “formação de preço” = “pós-
+                                                   estabelecido”
+Repasse de todas as despesas assistenciais de      Obrigatório se “opção pós-estabelecido” = “custo
+forma integral e individualizada para o          operacional”
+beneficiário do plano
+Informações adicionais                           Opcional
+
+     Tabela 4.04 – Informações adicionais para motivo de impugnação/recurso “franquia ou co-
+                                           participação”
+                     Campo                         Obrigatoriedade de preenchimento e observações
+Produto                                           Obrigatório
+Procedimento(s) com fator moderador               Obrigatório. Preencher uma vez para cada
+                                                  procedimento com fator moderador.
+Fator(es) moderador(es) do procedimento           Obrigatório. Preencher uma vez para cada fator
+                                                  moderador aplicável ao procedimento.
+Tipo de valor de fator moderador do               Obrigatório. Preencher uma vez para cada fator
+procedimento                                      moderador aplicável ao procedimento.
+Valor do fator moderador do procedimento          Obrigatório. Preencher uma vez para cada fator
+                                                  moderador aplicável ao procedimento.
+Informações adicionais                            Opcional
+
+  Tabela 4.05 – Informações adicionais para motivo de impugnação/recurso “atendimento fora da
+                                 abrangência geográfica do produto”
+                     Campo                        Obrigatoriedade de preenchimento e observações
+Produto                                          Obrigatório
+Abrangência geográfica do produto                Obrigatório
+Detalhamento da abrangência "Municipal" ou       Obrigatório se “abrangência geográfica do produto”
+"Grupo de Municípios"                            = “Municipal” ou “Grupo de Municípios”. Informar
+                                                 todos os Município da abrangência geográfica do
+                                                 produto.
+Detalhamento da abrangência "Estadual" ou        Obrigatório se “brangência geográfica do produto” =
+"Grupo de Estados"                               “Estadual” ou “Grupo de Estados”. Informar todos os
+                                                 Estados da abrangência geográfica do produto.
+Cobertura adicional - emergência fora da área de Obrigatório
+abrangência geográfica contratada
+Detalhamento da abrangência geográfica           Obrigatório se “Cobertura adicional - emergência
+adicional para emergência                        fora da área de abrangência geográfica contratada =
+                                                 Sim”. Informar todos os Estados ou Municípios da
+                                                 abrangência geográfica adicional para emergência
+Informações adicionais                           Opcional
+
+Tabela 4.06 – Informações adicionais para motivo de impugnação/recurso “Paciente atendido não é
+                                 beneficiário de produto da operadora”
+                    Campo                            Obrigatoriedade de preenchimento e observações
+Nome do beneficiário                                Obrigatório
+RG do beneficiário                                  Obrigatório
+Órgão emissor do RG do beneficiário                 Obrigatório
+CPF do beneficiário                                 Obrigatório
+PIS do beneficiário                                 Opcional
+Nome do pai ou da mãe do beneficiário               Obrigatório
+Data de nascimento do beneficiário                  Obrigatório
+Residência do beneficiário - logradouro             Obrigatório
+Residência do beneficiário - número do              Obrigatório
+logradouro
+Residência do beneficiário - complemento do         Obrigatório
+logradouro
+Residência do beneficiário - bairro                 Obrigatório
+Residência do beneficiário - Município              Obrigatório
+Residência do beneficiário - Estado                 Obrigatório
+Residência do beneficiário - CEP                    Obrigatório
+Telefone do beneficiário                            Opcional
+Informações adicionais                              Opcional
+     Tabela 4.07 – Informações adicionais para motivo de impugnação/recurso “beneficiário em
+                                                carência”
+                      Campo                          Obrigatoriedade de preenchimento e observações
+Produto                                             Obrigatório
+Tipo de contratação do produto                      Obrigatório
+Segmentação assistencial do produto                 Obrigatório
+Data de adesão do beneficiário identificado         Obrigatório
+Tipo de vínculo do beneficiário                     Obrigatório se “tipo de contratação” = “individual ou
+                                                    familiar”
+Beneficiário titular                                Obrigatório se “tipo de vínculo do beneficiário” =
+                                                    “cônjuge”, “filho” ou “filha”
+Data de adesão do beneficiário titular              Obrigatório se “tipo de vínculo do beneficiário” =
+                                                    “cônjuge”, “filho” ou “filha”
+Data de contratação                                 Obrigatório se “tipo de contratação” = “coletivo
+                                                    empresarial” ou “coletivo por adesão”
+Adaptação do contrato para as coberturas da Lei     Obrigatório se “data de adesão do beneficiário”,
+9.656, de 1998                                      “data de adesão do beneficiário titular” ou “data de
+                                                    contratação” anterior a 02/01/1999
+Quantidade de beneficiários do contrato maior ou Obrigatório se “égide legal do produto” = “posterior
+igual a 50 entre a data de adesão e a data de       à Lei n° 9.656, de 1998”, e “tipo de contratação” =
+internação do beneficiário no SUS                   “coletivo empresarial”
+Pai ou mãe do beneficiário era beneficiário de      Obrigatório se “égide legal do produto” = “posterior
+plano privado de assistência à saúde na data de     à Lei n° 9.656, de 1998”
+nascimento do beneficiário
+Identificação do pai ou da mãe do beneficiário      Obrigatório se “pai ou mãe do beneficiário era
+                                                    beneficiário de plano privado de assistência à saúde
+                                                    na data de nascimento do beneficiário” = “Sim”
+Data de adesão do pai ou da mãe do beneficiário     Obrigatório se “pai ou mãe do beneficiário era
+                                                    beneficiário de plano privado de assistência à saúde
+                                                    na data de nascimento do beneficiário” = “Sim”
+Produto do pai ou da mãe do beneficiário            Obrigatório se “pai ou mãe do beneficiário era
+                                                    beneficiário de plano privado de assistência à saúde
+                                                    na data de nascimento do beneficiário” = “Sim”
+Segmentação assistencial do produto do pai ou da Obrigatório se “pai ou mãe do beneficiário era
+mãe do beneficiário                                 beneficiário de plano privado de assistência à saúde
+                                                    na data de nascimento do beneficiário” = “Sim”
+Prazo de carência do produto (dias)                 Égide legal do produto anterior à Lei n° 9.656, de
+                                                    1998
+Alteração do prazo de carência do produto           Obrigatório
+Prazo de carência reduzido (dias)                   Obrigatório se “alteração do prazo de carência” =
+                                                    “redução do prazo de carência”
+Último dia do prazo de carência                     Obrigatório
+Informações adicionais                              Opcional
+
+     Tabela 4.08 – Informações adicionais para motivo de impugnação/recurso “quantidade do
+                               procedimento não coberta pelo produto”
+                     Campo                        Obrigatoriedade de preenchimento e observações
+Produto                                          Obrigatório
+Tipo de contratação do produto                   Obrigatório
+Tipo de vínculo do beneficiário                  Obrigatório se “tipo de contratação” = “individual ou
+                                                 familiar”
+Data de adesão do beneficiário identificado      Obrigatório se “tipo de vínculo do beneficiário” =
+                                                 “titular” ou “outros”
+Beneficiário titular                             Obrigatório se “tipo de vínculo do beneficiário” =
+                                                 “cônjuge”, “filho” ou “filha”
+Data de adesão do beneficiário titular           Obrigatório se “tipo de vínculo do beneficiário” =
+                                                 “cônjuge”, “filho” ou “filha”
+Data de contratação                              Obrigatório se “tipo de contratação” = “coletivo
+                                                  empresarial” ou “coletivo por adesão”
+Adaptação do contrato para as coberturas da Lei   Obrigatório se “data de adesão do beneficiário”,
+9.656, de 1998                                    “data de adesão do beneficiário titular” ou “data de
+                                                  contratação” anterior a 02/01/1999
+Procedimento com quantidade limitada -            Obrigatório. Informar todos os procedimentos com
+procedimento                                      quantidade limitada.
+Procedimento com quantidade limitada - unidade    Obrigatório. Informar uma vez para cada
+                                                  procedimento com quantidade limitada.
+Procedimento com quantidade limitada -            Obrigatório. Informar uma vez para cada
+quantidade máxima coberta                         procedimento com quantidade limitada.
+Procedimento com quantidade limitada - período    Obrigatório. Informar uma vez para cada
+da limitação de quantidade (meses)                procedimento com quantidade limitada.
+Procedimento com quantidade limitada - período    Obrigatório. Informar uma vez para cada
+de utilização anterior                            procedimento com quantidade limitada.
+Procedimento com quantidade limitada -            Obrigatório. Informar uma vez para cada
+quantidade da utilização anterior                 procedimento com quantidade limitada.
+Informações adicionais                            Opcional
+
+ Tabela 4.09 – Informações adicionais para motivo de impugnação/recurso “beneficiário excluído a
+                                             pedido”
+                    Campo                        Obrigatoriedade de preenchimento e observações
+Data de exclusão do beneficiário do plano de    Obrigatório
+assistência à saúde
+Informações adicionais                          Opcional
+
+  Tabela 4.10 – Informações adicionais para motivo de impugnação/recurso “beneficiário excluído
+                                  por término da relação de vinculado”
+                    Campo                            Obrigatoriedade de preenchimento e observações
+Data de exclusão do beneficiário do plano de        Obrigatório
+assistência à saúde
+Tipo de vínculo do beneficiário                     Obrigatório
+Detalhamento do motivo do término da relação        Obrigatório
+de vinculado ao beneficiário titular
+Informações adicionais                              Opcional
+
+  Tabela 4.11 – Informações adicionais para motivo de impugnação/recurso “beneficiário excluído
+                                  por extinção do vínculo empregatício”
+                     Campo                            Obrigatoriedade de preenchimento e observações
+Data de exclusão do beneficiário do plano de         Obrigatório
+assistência à saúde
+Produto                                              Obrigatório
+Tipo de contratação do produto                       Obrigatório
+Condição de vínculo do beneficiário no plano         Obrigatório se “tipo de contratação do produto” =
+coletivo                                             “coletivo empresarial” ou “coletivo por adesão”
+Data de extinção do vínculo empregatício             Obrigatório se “tipo de contratação do produto” =
+                                                     “coletivo empresarial” ou “coletivo por adesão”
+CNPJ da pessoa jurídica contratante                  Obrigatório se “tipo de contratação do produto” =
+                                                     “coletivo empresarial” ou “coletivo por adesão”
+Pessoa jurídica contratante - nome                   Obrigatório se “tipo de contratação do produto” =
+                                                     “coletivo empresarial” ou “coletivo por adesão”
+Pessoa jurídica contratante - logradouro             Obrigatório se “tipo de contratação do produto” =
+                                                     “coletivo empresarial” ou “coletivo por adesão”
+Pessoa jurídica contratante - número do              Obrigatório se “tipo de contratação do produto” =
+logradouro                                           “coletivo empresarial” ou “coletivo por adesão”
+Pessoa jurídica contratante - complemento do         Obrigatório se “tipo de contratação do produto” =
+logradouro                                           “coletivo empresarial” ou “coletivo por adesão”
+Pessoa jurídica contratante - bairro                 Obrigatório se “tipo de contratação do produto” =
+                                                     “coletivo empresarial” ou “coletivo por adesão”
+Pessoa jurídica contratante - Município              Obrigatório se “tipo de contratação do produto” =
+                                                  “coletivo empresarial” ou “coletivo por adesão”
+Pessoa jurídica contratante - Estado              Obrigatório se “tipo de contratação do produto” =
+                                                  “coletivo empresarial” ou “coletivo por adesão”
+Pessoa jurídica contratante - CEP                 Obrigatório se “tipo de contratação do produto” =
+                                                  “coletivo empresarial” ou “coletivo por adesão”
+Pessoa jurídica contratante - telefone            Obrigatório se “tipo de contratação do produto” =
+                                                  “coletivo empresarial” ou “coletivo por adesão”
+Motivo da extinção do vínculo empregatício        Obrigatório se “tipo de contratação do produto” =
+                                                  “coletivo empresarial” ou “coletivo por adesão”
+Participação financeira da pessoa jurídica        Obrigatório se “motivo da extinção do vínculo
+contratante                                       empregatício” = “demissão sem justa causa” ou
+                                                  “aposentadoria”
+Participação financeira da pessoa jurídica        Obrigatório se “participação financeira da pessoa
+contratante - patrocínio total ou parcial         jurídica contratante” = “com patrocínio”
+Beneficiário optou por permanecer no plano após   Obrigatório se “participação financeira da pessoa
+extinção do vínculo empregatício?                 jurídica contratante” = “sem patrocínio”; ou
+                                                  “patrocínio total ou parcial” = “parcial”
+Tipo de vínculo do beneficiário                   Obrigatório se “motivo da extinção do vínculo
+                                                  empregatício” = “morte”
+Beneficiário titular                              Obrigatório se “motivo da extinção do vínculo
+                                                  empregatício” = morte; e “tipo de vínculo do
+                                                  beneficiário” = qualquer um, exceto “titular”
+Data de adesão do beneficiário titular            Obrigatório se “motivo da extinção do vínculo
+                                                  empregatício” = morte; e “tipo de vínculo do
+                                                  beneficiário” = qualquer um, exceto “titular”
+Informações adicionais                            Opcional
+
+   Tabela 4.12 – Informações adicionais para motivo de impugnação/recurso “beneficiário excluído
+                  por término do período de manutenção da condição de beneficiário”
+                       Campo                       Obrigatoriedade de preenchimento e observações
+Data de exclusão do beneficiário do plano de      Obrigatório
+assistência à saúde
+Produto                                           Obrigatório
+Tipo de contratação do produto                    Obrigatório
+Data de contratação                               Obrigatório
+Data de adesão do beneficiário identificado       Obrigatório
+Condição de vínculo do beneficiário no plano      Obrigatório se “tipo de contratação” = “coletivo
+coletivo                                          empresarial” ou “coletivo por adesão”
+Tipo de vínculo do beneficiário                   Obrigatório
+Beneficiário titular                              Obrigatório se “tipo de vínculo do beneficiário” =
+                                                  “cônjuge”, “filho”, “filha” ou “outros”
+Data de adesão do beneficiário titular            Obrigatório se “tipo de vínculo do beneficiário” =
+                                                  “cônjuge”, “filho”, “filha” ou “outros”
+Motivo da extinção do vínculo empregatício        Obrigatório
+Período de existência do vínculo empregatício do Obrigatório
+beneficiário titular com a pessoa jurídica
+contratante
+O beneficiário titular contribuiu anteriormente   Obrigatório
+para outro plano de assistência vinculado ao
+mesmo empregador?
+Plano anteriormente vinculado ao mesmo            Obrigatório se “o beneficiário contribuiu
+empregador para o qual contribuiu o beneficiário  anteriormente para outro plano de assistência
+titular                                           vinculado ao mesmo empregador?” = “sim”
+Período de vinculação do beneficiário titular ao  Obrigatório se “o beneficiário contribuiu
+plano anterior                                    anteriormente para outro plano de assistência
+                                                  vinculado ao mesmo empregador?” = “sim”
+Justificativa da inconsistência entre a data de   Obrigatório se “data de início do vínculo
+início do vínculo empregatício e a data de adesão empregatício” = “posterior à data de adesão do
+do beneficiário titular                           beneficiário titular”
+Prazo de manutenção da condição de beneficiário      Obrigatório
+Informações adicionais                               Opcional
+
+  Tabela 4.13 – Informações adicionais para motivo de impugnação/recurso “beneficiário excluído
+                                     por óbito do beneficiário titular”
+                      Campo                           Obrigatoriedade de preenchimento e observações
+Data de exclusão do beneficiário do plano de         Obrigatório
+assistência à saúde
+Produto                                              Obrigatório
+Tipo de contratação do produto                       Obrigatório
+Tipo de vínculo do beneficiário                      Obrigatório
+Data de óbito do beneficiário titular                Obrigatório
+Beneficiário titular                                 Obrigatório se “tipo de vínculo do beneficiário” =
+                                                     “cônjuge”, “filho”, “filha” ou “outros”
+Data de adesão do beneficiário titular               Obrigatório se “tipo de vínculo do beneficiário” =
+                                                     “cônjuge”, “filho”, “filha” ou “outros”
+Condição de vínculo do beneficiário ao plano         Obrigatório se “tipo de contratação” = “coletivo
+coletivo                                             empresarial” ou “coletivo por adesão”
+Participação financeira da pessoa jurídica           Obrigatório se “condição de vínculo do beneficiário
+contratante                                          no plano coletivo” = “com vínculo empregatício”
+Participação financeira da pessoa jurídica           Obrigatório “participação financeira da pessoa
+contratante - patrocínio total ou parcial            jurídica contratante” = “com patrocínio”
+O contrato assegura direito de manutenção da         Obrigatório se “patrocínio total ou parcial” = “total”
+condição de beneficiário na hipótese morte do
+beneficiário titular?
+O beneficiário optou por permanecer no plano         Obrigatório se “tipo de contratação” = “individual ou
+após a morte do titular?                             familiar”; ou “condição de vínculo do beneficiário no
+                                                     plano coletivo” = “sem vínculo empregatício”; ou
+                                                     “participação financeira da pessoa jurídica
+                                                     contratante” = “sem patrocínio”; ou “patrocínio é
+                                                     parcial ou total” = “parcial”; ou “contrato assegura
+                                                     direito de manutenção da condição de beneficiário na
+                                                     hipótese morte do beneficiário titular” = “sim”
+Informações adicionais                               Opcional
+
+  Tabela 4.14 – Informações adicionais para motivo de impugnação/recurso “óbito do beneficiário
+                                          identificado”
+                    Campo                        Obrigatoriedade de preenchimento e observações
+Data de óbito do beneficiário                    Obrigatório
+Informações adicionais                           Opcional
+
+  Tabela 4.15 – Informações adicionais para motivo de impugnação/recurso “beneficiário excluído
+                                            por inadimplência”
+                     Campo                            Obrigatoriedade de preenchimento e observações
+Data de exclusão do beneficiário do plano de         Obrigatório
+assistência à saúde
+Mensalidade em atraso - data de vencimento           Obrigatório. Informar as datas de vencimento de
+                                                     todas as mensalidades em atraso anteriores ao
+                                                     atendimento
+Mensalidade em atraso - data de pagamento            Obrigatório. Informar as datas de pagamento de todas
+                                                     as mensalidades em atraso anteriores ao atendimento.
+                                                     Deixar em branco caso a mensalidade não tenha sido
+                                                     paga
+O beneficiário foi notificado da inadimplência?      Obrigatório
+Data de ciência pelo beneficiário da notificação     Obrigatório se “o beneficiário foi notificado da
+de inadimplência                                     inadimplência?” = “sim”
+O beneficiário foi notificado da                     Obrigatório
+rescisão/suspensão unilateral do contrato?
+Data de ciência pelo beneficiário da notificação     Obrigatório se “o beneficiário foi notificado da
+de rescisão/suspensão unilateral do contrato        rescisão/suspensão unilateral do contrato?” = “sim”
+Informações adicionais                              Opcional
+
+  Tabela 4.16 – Informações adicionais para motivo de impugnação/recurso “beneficiário excluído
+                                              por fraude”
+                      Campo                          Obrigatoriedade de preenchimento e observações
+Data de exclusão do beneficiário do plano de        Obrigatório
+assistência à saúde
+A operadora abriu processo administrativo para      Obrigatório
+apurar fraude na declaração de saúde do
+beneficiário identificado?
+Número do processo administrativo para apurar       Obrigatório se “a operadora abriu processo
+fraude na declaração de saúde do beneficiário       administrativo para apurar fraude na declaração de
+identificado                                        saúde do beneficiário identificado?” = “sim”
+Há no processo administrativo decisão da qual       Obrigatório se “a operadora abriu processo
+não caiba mais recurso administrativo?              administrativo para apurar fraude na declaração de
+                                                    saúde do beneficiário identificado?” = “sim”
+Decisão final do processo administrativo foi        Obrigatório se “há no processo administrativo
+favorável à rescisão unilateral por fraude?         decisão da qual não caiba mais recurso
+                                                    administrativo?” = “sim”
+Data da ciência pelo beneficiário, ou da            Obrigatório se “decisão final do processo
+publicação no DOU, da decisão final do processo administrativo foi favorável à rescisão unilateral por
+administrativo de fraude                            fraude?” = “sim”
+Informações adicionais                              Opcional
+
+  Tabela 4.17 – Informações adicionais para motivo de impugnação/recurso “beneficiário excluído
+                                      por transferência de carteira”
+                      Campo                          Obrigatoriedade de preenchimento e observações
+Data de exclusão do beneficiário do plano de        Obrigatório
+assistência à saúde
+Tipo de transferência de carteira                   Obrigatório
+Data do término do prazo de incorporação dos        Obrigatório se “tipo de transferência de carteira” =
+beneficiários pela operadora vencedora do leilão    “compulsória - leilão ou oferta pública (RDC
+                                                    82/2001, RN 112/2005 e RN 145/2007)”
+Operadora vencedora do leilão                       Obrigatório se “tipo de transferência de carteira” =
+                                                    “compulsória - leilão ou oferta pública (RDC
+                                                    82/2001, RN 112/2005 e RN 145/2007)”
+Número do processo administrativo de leilão da      Obrigatório se “tipo de transferência de carteira” =
+carteira                                            “compulsória - leilão ou oferta pública (RDC
+                                                    82/2001, RN 112/2005 e RN 145/2007)”
+Data de registro no cartório do instrumento de      Obrigatório se “tipo de transferência de carteira” =
+cessão da carteira                                  “compulsória - instrumento particular de cessão
+                                                    (RDC 84/2001, RN 112/2005 e RN 145/2007)” ou
+                                                    “voluntária”
+Transferência foi parcial ou total?                 Obrigatório se “tipo de transferência de carteira” =
+                                                    “voluntária”; e “data de registro no cartório do
+                                                    instrumento de cessão da carteira” posterior a
+                                                    27/09/2005
+Produto transferido                                 Obrigatório se “tipo de transferência de carteira” =
+                                                    “voluntária”; e “data de registro no cartório do
+                                                    instrumento de cessão da carteira” posterior a
+                                                    27/09/2005; e “transferência foi parcial ou total?” =
+                                                    “parcial”
+Operadora cessionária                               Obrigatório se “tipo de transferência de carteira” =
+                                                    “compulsória - instrumento particular de cessão
+                                                    (RDC 84/2001, RN 112/2005 e RN 145/2007)” ou
+                                                    “voluntária”
+Número do processo administrativo de                Obrigatório se “tipo de transferência de carteira” =
+transferência de carteira                           “compulsória - Instrumento particular de cessão
+                                                    (RDC 84/2001, RN 112/2005 e RN 145/2007)” ou
+                                                    “voluntária”
+Informações adicionais                              Opcional
+
+ Tabela 4.18 – Informações adicionais para motivo de impugnação/recurso “acidente de trabalho”
+                      Campo                       Obrigatoriedade de preenchimento e observações
+Produto                                          Obrigatório
+Tipo de contratação do produto                   Obrigatório
+Tipo de vínculo do beneficiário                  Obrigatório se tipo de contratação = individual ou
+                                                 familiar
+Data de adesão do beneficiário identificado      Obrigatório se “tipo de vínculo do beneficiário” =
+                                                 “titular” ou “outros”
+Beneficiário titular                             Obrigatório se “tipo de vínculo do beneficiário” =
+                                                 “cônjuge”, “filho” ou “filha”
+Data de adesão do beneficiário titular           Obrigatório se “tipo de vínculo do beneficiário” =
+                                                 “cônjuge”, “filho” ou “filha”
+Data de contratação                              Obrigatório se “tipo de contratação” = “coletivo
+                                                 empresarial” ou “coletivo por adesão”
+Adaptação do contrato para as coberturas da Lei  Obrigatório se “data de adesão do beneficiário”,
+9.656, de 1998                                   “data de adesão do beneficiário titular” ou “data de
+                                                 contratação” = anterior a 02/01/1999
+Previsão específica na regra do produto de       Obrigatório se “égide legal do produto” = “anterior à
+exclusão de cobertura dos procedimentos          Lei n° 9.656, de 1998”
+relacionado com acidente de trabalho ou suas
+conseqüências ou moléstia profissional
+Previsão específica na regra do produto de       Obrigatório se “égide legal do produto” = “posterior
+cobertura dos procedimentos relacionado com      à Lei n° 9.656, de 1998”
+acidente de trabalho ou suas conseqüências ou
+moléstia profissional
+Código CID da doença ou lesão ocupacional        Obrigatório
+Nexo causal entre o acidente de trabalho ou suas Obrigatório
+conseqüências ou moléstia profissional e o
+atendimento realizado pelo SUS
+Informações adicionais                           Opcional
+
+     Tabela 4.19 – Informações adicionais para motivo de impugnação/recurso “doença ou lesão
+                                              preexistente”
+                      Campo                          Obrigatoriedade de preenchimento e observações
+Código CID da doença ou lesão preexistente          Obrigatório
+Procedimento excluído pela doença ou lesão          Obrigatório. Informar todos os procedimentos
+preexistente                                        excluídos.
+Data de adesão do beneficiário identificado         Obrigatório
+Produto                                             Obrigatório
+Tipo de contratação do produto                      Obrigatório
+Tipo de vínculo do beneficiário                     Obrigatório se “tipo de contratação” = “individual ou
+                                                    familiar”
+Beneficiário titular                                Obrigatório se “tipo de vínculo do beneficiário” =
+                                                    “cônjuge”, “filho” ou “filha”
+Data de adesão do beneficiário titular              Obrigatório se “tipo de vínculo do beneficiário” =
+                                                    “cônjuge”, “filho” ou “filha”
+Data de contratação                                 Obrigatório se “tipo de contratação” = “coletivo
+                                                    empresarial” ou “coletivo por adesão”
+Adaptação do contrato para as coberturas da Lei     Obrigatório se “data de adesão do beneficiário”,
+9.656, de 1998                                      “data de adesão do beneficiário titular” ou “data de
+                                                    contratação” anterior a 02/01/1999
+Quantidade de beneficiários do contrato maior ou Obrigatório se “égide legal do produto” = “posterior
+igual a 50 entre a data de adesão e a data de       à Lei n° 9.656, de 1998”, e “tipo de contratação” =
+internação do beneficiário no SUS                   “coletivo empresarial ou coletivo por adesão”
+Doença ou lesão preexistente consta na              Obrigatório se “égide legal do produto” = “posterior
+declaração de saúde do beneficiário                à Lei n° 9.656, de 1998”,
+Beneficiário optou por agravo, cobertura parcial   Obrigatório se “doença ou lesão preexistente consta
+temporária ou foi dispensado do cumprimento de     da declaração de saúde do beneficiário” = “sim”
+cobertura parcial temporária sem agravo?
+A operadora abriu processo administrativo para     Obrigatório se “doença ou lesão preexistente consta
+apurar fraude na declaração de saúde do            da declaração de saúde do beneficiário” = “não”
+beneficiário identificado?
+Número do processo administrativo para apurar      Obrigatório se “a operadora abriu processo
+fraude na declaração de saúde do beneficiário      administrativo para apurar fraude na declaração de
+identificado                                       saúde do beneficiário identificado?” = “sim”
+Há no processo administrativo decisão da qual      Obrigatório se “a operadora abriu processo
+não caiba mais recurso administrativo?             administrativo para apurar fraude na declaração de
+                                                   saúde do beneficiário identificado?” = “sim”
+Decisão final do processo administrativo foi       Obrigatório se “há no processo administrativo
+favorável à rescisão unilateral por fraude?        decisão da qual não caiba mais recurso
+                                                   administrativo?” = “sim”
+Data da ciência pelo beneficiário, ou da           Obrigatório se “decisão final do processo
+publicação no DOU, da decisão final do processo    administrativo foi favorável à rescisão unilateral por
+administrativo de fraude                           fraude?” = “sim”
+Forma como tomou conhecimento da doença ou         Obrigatório se “égide legal do produto” = “anterior à
+lesão preexistente                                 Lei n° 9.656, de 1998”
+Exclusão da cobertura do procedimento por          Obrigatório se “égide legal do produto” = “anterior à
+doença ou lesão preexistente está limitada a       Lei n° 9.656, de 1998”
+prazo?
+Prazo (em meses) de exclusão da cobertura do       Obrigatório se “exclusão da cobertura do
+procedimento por doença ou lesão preexistente      procedimento por doença ou lesão preexistente está
+                                                   limitada a prazo?” = “Sim”
+Há nexo causal entre a doença ou lesão             Obrigatório.
+preexistente e o procedimento realizado pelo
+SUS?
+Informações adicionais                             Opcional
+
+   Tabela 4.20 – Informações adicionais para motivo de impugnação/recurso “procedimento não
+                                           realizado”
+                    Campo                        Obrigatoriedade de preenchimento e observações
+Procedimento não realizado                      Obrigatório. Informar todos os procedimentos não
+                                                realizados
+Informações adicionais                          Opcional
+
+
+    Tabela 4.21 – Informações adicionais para motivo de impugnação/recurso “outros motivos”
+                    Campo                       Obrigatoriedade de preenchimento e observações
+Natureza da alegação                           Obrigatório
+Argumentação                                   Obrigatório
+Informações adicionais                         Opcional
+                               ANEXO V
+           DOCUMENTOS COMPROBATÓRIOS DE IMPUGNAÇÕES E RECURSOS
+
+Os exemplos de documentos comprobatórios devem ser consultados na Tabela 5.2, a
+partir dos tipos de informações declaradas na impugnação ou no recurso, conforme
+indicado na Tabela 5.1.
+ Tabela 5.1 - Tipos de informações declaradas a serem comprovadas por motivo de impugnação ou
+                                              recurso
+Motivo de Impugnação ou Recurso          Tipos de informações declaradas a serem comprovadas
+Atendimento já pago                   • Pagamento de serviços de assistência à saúde.
+Produto não cobre procedimento        • Contratação/Regulamentação do plano de assistência à saúde
+                                         do beneficiário identificado;
+                                      • Regras do plano de assistência à saúde do beneficiário
+                                         identificado;
+                                      • Vínculo do beneficiário identificado ao plano de assistência à
+                                         saúde; e
+                                      • Vínculo do titular ao plano de assistência à saúde do
+                                         beneficiário identificado, conforme o caso.
+Repasse integral e individualizado da • Contratação/Regulamentação do plano de assistência à saúde
+despesa assistencial ao beneficiário     do beneficiário identificado;
+                                      • Regras do plano de assistência à saúde do beneficiário
+                                         identificado; e
+                                      • Vínculo do beneficiário identificado ao plano de assistência à
+                                         saúde.
+Franquia ou co-participação           • Contratação/Regulamentação do plano de assistência à saúde
+                                         do beneficiário identificado;
+                                      • Regras do plano de assistência à saúde do beneficiário
+                                         identificado; e
+                                      • Vínculo do beneficiário identificado ao plano de assistência à
+                                         saúde.
+Atendimento fora da abrangência       • Contratação/Regulamentação do plano de assistência à saúde
+geográfica do produto                    do beneficiário identificado;
+                                      • Regras do plano de assistência à saúde do beneficiário
+                                         identificado; e
+                                      • Vínculo do beneficiário identificado ao plano de assistência à
+                                         saúde.
+Paciente atendido não é beneficiário  • Informações sobre o beneficiário ou seu responsável; e
+de produto da operadora               • Não utilização de serviço do SUS.
+Beneficiário em carência              • Contratação/Regulamentação do plano de assistência à saúde
+                                         do beneficiário identificado;
+                                      • Regras do plano de assistência à saúde do beneficiário
+                                         identificado;
+                                      • Vínculo do beneficiário identificado ao plano de assistência à
+                                         saúde;
+                                      • Vínculo do titular ao plano de assistência à saúde do
+                                         beneficiário identificado, conforme o caso;
+                                      • Contratação/Regulamentação do plano de assistência à saúde
+                                         do pai ou da mãe do beneficiário identificado, conforme o
+                                         caso;
+                                      • Regras do plano de assistência à saúde do pai da mãe do
+                                         beneficiário identificado, conforme o caso;
+                                      • Vínculo do pai ou da mãe do beneficiário identificado ao
+                                         plano de assistência à saúde, conforme o caso; e
+                                      • Quantidade de beneficiários vinculados ao contrato coletivo
+                                         de plano de assistência à saúde, conforme o caso.
+Quantidade do procedimento não        • Contratação/Regulamentação do plano de assistência à saúde
+coberta pelo produto                     do beneficiário identificado;
+                                       •   Regras do plano de assistência à saúde do beneficiário
+                                           identificado;
+                                       •   Vínculo do beneficiário identificado ao plano de assistência à
+                                           saúde;
+                                       •   Vínculo do titular ao plano de assistência à saúde do
+                                           beneficiário identificado, conforme o caso; e
+                                       •   Utilização de serviços de assistência à saúde, conforme o
+                                           caso.
+Beneficiário excluído a pedido         •   Exclusão a pedido do beneficiário identificado ou do titular.
+Beneficiário excluído por término da   •   Contratação/Regulamentação do plano de assistência à saúde
+relação de vinculado                       do beneficiário identificado;
+                                       •   Regras do plano de assistência à saúde do beneficiário
+                                           identificado;
+                                       •   Vínculo do beneficiário identificado ao plano de assistência à
+                                           saúde;
+                                       •   Informações sobre o beneficiário identificado;
+                                       •   Informações sobre o titular.
+Beneficiário excluído por extinção     •   Contratação/Regulamentação do plano de assistência à saúde
+do vínculo empregatício                    do beneficiário identificado;
+                                       •   Regras do plano de assistência à saúde do beneficiário
+                                           identificado;
+                                       •   Vínculo do beneficiário identificado ao plano de assistência à
+                                           saúde;
+                                       •   Vínculo do titular ao plano de assistência à saúde, conforme o
+                                           caso;
+                                       •   Informações sobre a pessoa jurídica contratante;
+                                       •   Extinção do vínculo empregatício; e
+                                       •   Opção do beneficiário por não se manter em plano de
+                                           assistência à saúde após extinção do vínculo empregatício,
+                                           conforme o caso.
+Beneficiário excluído por término do   •   Contratação/Regulamentação do plano de assistência à saúde
+período de manutenção da condição          do beneficiário identificado;
+de beneficiário                        •   Regras do plano de assistência à saúde do beneficiário
+                                           identificado;
+                                       •   Vínculo do beneficiário identificado ao plano de assistência à
+                                           saúde;
+                                       •   Vínculo do titular ao plano de assistência à saúde do
+                                           beneficiário identificado, conforme o caso;
+                                       •   Informações sobre a pessoa jurídica contratante;
+                                       •   Vínculo empregatício;
+                                       •   Extinção do vínculo empregatício; e
+                                       •   Contribuição ou não do beneficiário a produto anterior.
+Beneficiário excluído por óbito do     •   Contratação/Regulamentação do plano de assistência à saúde
+beneficiário titular                       do beneficiário identificado;
+                                       •   Regras do plano de assistência à saúde do beneficiário
+                                           identificado;
+                                       •   Vínculo do beneficiário identificado ao plano de assistência à
+                                           saúde;
+                                       •   Vínculo do titular ao plano de assistência à saúde do
+                                           beneficiário identificado, conforme o caso;
+                                       •   Óbito do titular; e
+                                       •   Opção do beneficiário por não se manter em plano de
+                                           assistência à saúde após extinção do vínculo empregatício,
+                                           conforme o caso.
+Óbito do beneficiário identificado     •   Óbito do beneficiário identificado.
+Beneficiário excluído por              •   Mensalidade não paga ou paga em atraso;
+inadimplência                          •   Notificação de inadimplência;
+                                       •   Rescisão unilateral ou suspensão da assistência pela OPS.
+Beneficiário excluído por fraude     •   Decisão em processo administrativo da ANS para apurar
+                                         fraude em declaração de saúde, da qual não cabe mais recurso
+                                         administrativo;
+                                     •   Ciência do beneficiário da decisão da ANS em processo
+                                         administrativo de fraude em declaração de saúde; e
+                                     •   Rescisão unilateral pela OPS.
+Beneficiário excluído por            •   Vínculo do beneficiário identificado ao plano de assistência à
+transferência de carteira                saúde;
+                                     •   Transferência de carteira.
+Acidente de trabalho                 •   Contratação/Regulamentação do plano de assistência à saúde
+                                         do beneficiário identificado;
+                                     •   Regras do plano de assistência à saúde do beneficiário
+                                         identificado;
+                                     •   Vínculo do beneficiário identificado ao plano de assistência à
+                                         saúde;
+                                     •   Vínculo do titular ao plano de assistência à saúde do
+                                         beneficiário identificado, conforme o caso;
+                                     •   Acidente de trabalho ou suas conseqüências, ou moléstia
+                                         profissional; e
+                                     •   Nexo causal entre o acidente de trabalho ou suas
+                                         conseqüências, ou moléstia profissional, e o atendimento pelo
+                                         SUS.
+Doença ou lesão preexistente         •   Contratação/Regulamentação do plano de assistência à saúde
+                                         do beneficiário identificado;
+                                     •   Regras do plano de assistência à saúde do beneficiário
+                                         identificado;
+                                     •   Vínculo do beneficiário identificado ao plano de assistência à
+                                         saúde;
+                                     •   Vínculo do titular ao plano de assistência à saúde do
+                                         beneficiário identificado, conforme o caso;
+                                     •   Quantidade de beneficiários vinculados ao contrato coletivo
+                                         de plano de assistência à saúde, conforme o caso;
+                                     •   Doença ou lesão preexistente;
+                                     •   Nexo causal entre a doença ou lesão preexistente e o
+                                         atendimento pelo SUS.
+Procedimento não realizado           •   Não utilização de serviço do SUS.
+
+       Tabela 5.2 – Exemplos de documentos comprobatórios por tipo de informação declarada
+   Tipo de informação declarada               Exemplos de documentos comprobatórios
+Contratação/Regulamentação do            Contrato do plano de assistência à saúde; ou
+plano de assistência à saúde             Adendo ao contrato do plano de assistência à saúde; ou
+                                         Regulamento do plano de assistência à saúde; ou
+                                         Termo de adaptação do plano de assistência à saúde às
+                                            coberturas da Lei n° 9.656, de 1998; ou
+                                         Declaração do contratante sobre o plano de assistência à
+                                            saúde.
+Regras do plano de assistência à         Contrato do plano de assistência à saúde; ou
+saúde                                    Adendo ao contrato do plano de assistência à saúde; ou
+                                         Regulamento do plano de assistência à saúde; ou
+                                         Termo de adaptação do plano de assistência à saúde às
+                                            coberturas da Lei n° 9.656, de 1998; ou
+                                         Declaração do contratante sobre o plano de assistência à
+                                            saúde.
+Acidente de trabalho ou suas             Comunicação de Acidente de Trabalho; ou
+conseqüências, ou moléstia               AIH.
+profissional
+Nexo causal entre o acidente de          Relatório de médico auditor
+trabalho ou suas conseqüências, ou
+moléstia profissional, e o
+atendimento pelo SUS
+Vínculo de beneficiário ao plano de       Termo de adesão do beneficiário ao plano de assistência à
+assistência à saúde                        saúde; ou
+                                          Solicitação da pessoa jurídica contratante de inclusão do
+                                           beneficiário no plano de assistência à saúde; ou
+                                          Declaração da pessoa jurídica contratante; ou
+                                          Declaração do beneficiário identificado ou de seu
+                                           responsável
+Informações sobre o beneficiário ou       Termo de adesão do beneficiário ao plano de assistência à
+seu responsável (data de nascimento,       saúde; ou
+endereço, telefone etc)                   Declaração da pessoa jurídica contratante; ou
+                                          Declaração do beneficiário identificado ou de seu
+                                           responsável.
+Informações sobre a pessoa jurídica       Contrato do plano de assistência à saúde; ou
+contratante (CNPJ, endereço,              Declaração da pessoa jurídica contratante; ou
+telefone etc)                             Declaração do beneficiário identificado ou de seu
+                                           responsável.
+Rescisão do contrato do plano de          Termo de rescisão do contrato do plano de assistência à
+assistência à saúde                        saúde; ou
+                                          Declaração da pessoa jurídica contratante; ou
+                                          Declaração do beneficiário identificado ou de seu
+                                           responsável.
+Exclusão a pedido do beneficiário         Solicitação do beneficiário de exclusão do beneficiário do
+                                           plano de assistência à saúde;
+                                          Declaração da pessoa jurídica contratante; ou
+                                          Declaração do beneficiário identificado ou de seu
+                                           responsável.
+Vínculo empregatício                      Declaração do empregador; ou
+                                          Declaração do beneficiário identificado ou do titular; ou
+                                          Contrato de trabalho; ou
+                                          Carteira de trabalho e previdência social; ou
+                                          Termo de posse de cargo público.
+Extinção do vínculo empregatício          Declaração do ex-empregador; ou
+                                          Declaração do beneficiário identificado, de cônjuge, filho
+                                           ou responsável pelo beneficiário identificado; ou
+                                          Anotação em Carteira de Trabalho e Previdência Social;
+                                           ou
+                                          Termo de rescisão de contrato de trabalho; ou
+                                          Termo de pedido de demissão de emprego; ou
+                                          Publicação em diário oficial de exoneração ou demissão
+                                           de cargo público; ou
+                                          Declaração de órgão ou entidade pública de exoneração
+                                           ou demissão de cargo público; ou
+                                          Declaração de aposentadoria pelo INSS; ou
+                                          Carta do INSS de concessão de aposentadoria; ou
+                                          Publicação em Diário Oficial.
+                                          Atestado de óbito;
+Óbito                                     Atestado de óbito; ou
+                                          Declaração de cônjuge, filho ou responsável pelo
+                                           beneficiário identificado; ou
+                                          Declaração da pessoa jurídica contratante.
+Contribuição ou não do beneficiário       Documentos referentes à contratação/regulamentação do
+a produto anterior                         plano anterior de assistência à saúde;
+                                          Documentos referentes a regras do plano anterior de
+                                           assistência à saúde;
+                                          Documentos referentes ao vínculo de beneficiário ao
+                                           plano anterior de assistência à saúde;
+                                          Documentos referentes à rescisão do plano anterior de
+                                           assistência à saúde.
+Quantidade de beneficiários               Nota fiscal do plano de assistência à saúde emitida em
+vinculados ao contrato coletivo de          nome da pessoa jurídica contratante com o detalhamento
+plano de assistência à saúde                da quantidade de beneficiários no contrato coletivo; ou
+                                           Fatura mensal do plano de assistência à saúde paga pela
+                                            pessoa jurídica contratante com o detalhamento da
+                                            quantidade de beneficiários no contrato coletivo,
+                                            acompanhada de recibo de pagamento; ou
+                                           Declaração da pessoa jurídica contratante.
+Pagamento de serviços de assistência       Nota fiscal de pagamento de serviços de assistência à
+à saúde                                     saúde; ou
+                                           Fatura de serviços de assistência à saúde, acompanhada
+                                            de recibo de pagamento de serviços de assistência à
+                                            saúde; ou
+                                           Relatório de utilização de serviços próprios de assistência
+                                            à saúde.
+Doença ou lesão preexistente –             Declaração de saúde do beneficiário; ou
+planos novos                               Decisão em processo administrativo da ANS sobre
+                                            doença ou lesão preexistente omitida em declaração de
+                                            saúde do beneficiário.
+Doença ou lesão preexistente –             Declaração de saúde do beneficiário; ou
+planos antigos                             Relatório de utilização de serviços de assistência à saúde;
+                                            ou
+                                           AIH; ou
+                                           APAC; ou
+                                           Laudo de perícia de admissão no plano.
+Decisão em processo administrativo         Decisão do Diretor da DIPRO ou da Diretoria Colegiada
+da ANS para apurar fraude em                da ANS.
+declaração de saúde, da qual não
+cabe mais recurso administrativo
+Ciência do beneficiário da decisão         Correspondência da ANS de notificação ao beneficiário
+da ANS em processo administrativo           da decisão do processo administrativo e aviso de
+de fraude em declaração de saúde            recebimento da correspondência; ou
+                                           Publicação no Diário Oficial da União de decisão de
+                                            processo administrativo de fraude em declaração de
+                                            saúde.
+Nexo causal entre a doença ou lesão        Relatório de médico auditor.
+preexistente e o atendimento pelo
+SUS
+Não utilização de serviço do SUS           Declaração do beneficiário identificado ou de seu
+                                            responsável de que o primeiro não utilizou o serviço do
+                                            SUS; ou
+                                           Relatório de médico auditor.
+Notificação de inadimplência               Carta ao beneficiário notificando-o da inadimplência e
+                                            informando-o da possibilidade de rescisão unilateral do
+                                            contrato do plano de assistência à saúde em caso de não
+                                            quitação dos débitos e aviso de recebimento dessa carta.
+Rescisão unilateral ou suspensão da        Carta ao beneficiário informando-o da rescisão unilateral
+assistência pela OPS                        ou suspensão do contrato do plano de assistência à saúde
+                                            e aviso de recebimento da carta.
+Utilização de serviços de assistência      Nota fiscal de pagamento de serviços de assistência à
+à saúde                                     saúde com detalhamento; ou
+                                           Fatura de serviços de assistência à saúde com
+                                            detalhamento e recibo de pagamento de serviços de
+                                            assistência à saúde; ou
+                                           Relatório de utilização de serviços de assistência à saúde;
+                                            ou
+                                           AIH; ou
+                                           APAC.
+Transferência de carteira                  Publicação no Diário Oficial da União de Comunicado de
+                                            Autorização de Proposta em face de oferta pública das
+                                            referências operacionais e do cadastro de beneficiários da
+                                       operadora de planos de assistência à saúde; ou
+                                      Instrumento de cessão de carteira registrado em cartório e
+                                       publicação da comunicação de transferência da carteira
+                                       em jornal de grande circulação e comprovação de envio e
+                                       do recebimento de comunicação individual ao
+                                       beneficiário de carteira transferida
+Opção do beneficiário por não se      Termo de opção.
+manter em plano de assistência à
+saúde após extinção do vínculo
+empregatício
+Mensalidade não paga ou paga em       Relatório de posição financeira do beneficiário.
+atraso
+                                   ANEXO VI-A
+                        MODELO DE PETIÇÃO DE IMPUGNAÇÃO
+
+
+
+À
+Diretoria de Desenvolvimento Setorial – DIDES
+Agência Nacional de Saúde Suplementar
+
+Processo nº 33902...................../.........-...
+
+
+                   Prezado Diretor,
+
+       A operadora ________________________________________________, por
+meio de seu representante infra-assinado, apresenta, em face da(s) identificação(ões) de
+atendimento(s) no SUS a beneficiário(s) de plano(s) privado(s) de assistência à saúde,
+bem como da(s) respectiva(s) cobrança(s) de ressarcimento ao SUS notificada(s) por
+meio do Ofício n° _______/_______/GGSUS/DIDES/ANS, a(s) IMPUGNAÇÃO(ÕES)
+AO RESSARCIMENTO AO SUS pelas razões de fato e de direito descritas no(s)
+formulário(s) em anexo, a serem comprovadas por meio do(s) documento(s)
+probatório(s) especificado(s).
+
+                   Nestes termos, pede deferimento.
+
+                            _____ de __________________ de ______.
+
+
+                                            (assinatura digital)
+                                     ANEXO VI-B
+                            MODELO DE PETIÇÃO DE RECURSO
+
+
+
+À
+Diretoria de Desenvolvimento Setorial – DIDES
+Agência Nacional de Saúde Suplementar
+
+Processo nº 33902...................../.........-...
+
+
+                   Prezado Diretor,
+
+       A operadora ________________________________________________, por
+meio de seu representante infra-assinado, apresenta, em face da decisão da(s)
+impugnação(ões) ao ressarcimento ao SUS notificada por meio do Ofício n°
+_______/_______/DIDES/ANS, RECURSO(S) À DIRETORIA COLEGIADA pelas
+razões de fato e de direito descritas no(s) formulário(s) em anexo.
+
+                   Nestes termos, pede provimento.
+
+                            _____ de __________________ de ______.
+
+
+                                            (assinatura digital)
+                                ANEXO VI-C
+                     FORMULÁRIO DE IMPUGNAÇÃO/RECURSO
+
+Operadora: _______________________________________________________________
+CNPJ: _____________________________                   Reg. ANS: ___________
+Processo n° _________________________
+
+AIH/APAC n° __________________                      Competência: ____/________
+Código do beneficiário: _____________________________________________________
+Motivo de impugnação/recurso*:
+Informação(ões) para análise**:
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+
+Documento(s) comprobatório(s)***:
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+
+Pedido(s)****:
+
+
+
+                             _____ de _______________de _____.
+
+
+                                        (assinatura digital)
+
+Orientações de preenchimento:
+
+* Preencher com motivo descrito no Anexo III. Caso seja necessário incluir mais de um motivo de
+impugnação/recurso, deve ser preenchido um quadro com “motivo de impugnação/recurso”, “informação(ões)
+para análise”, “documento(s) comprobatório(s)” e “pedido(s)” para cada motivo.
+** Preencher conforme Anexo IV.
+*** Preencher conforme anexo V.
+**** Preencher conforme inciso III, do artigo 23.
+

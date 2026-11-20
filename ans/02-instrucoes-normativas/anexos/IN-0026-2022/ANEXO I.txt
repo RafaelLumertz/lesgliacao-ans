@@ -1,0 +1,56 @@
+                                            ANEXO I
+                               FORMULÁRIO DE IMPUGNAÇÃO/RECURSO
+
+Tipo de petição*: ( ) Impugnação        ( ) Recurso
+
+Operadora
+Nome*:
+CNPJ*:                                                                        Reg. ANS*:
+
+Referências
+Processo administrativo*:                                                     ABI*:
+
+Instrumento de autorização/registro do atendimento identificado
+Tipo*1:      Número*:                      Competência*:                          Período*:
+
+Beneficiário identificado
+CCO*:                                                  Número de Registro do Produto*:
+
+Tempestividade e outras preliminares2
+
+
+
+Razões da(o) impugnação/recurso3
+Motivo de impugnação/recurso*4:
+Detalhamento do motivo*:
+
+
+
+Memória de cálculo5:
+
+
+Documento(s) comprobatório(s)6:
+
+
+
+
+Pedido(s)*
+( ) Anulação da identificação do atendimento.
+( ) Retificação do valor a ser ressarcido para R$                .
+( ) Anulação da identificação do atendimento ou, subsidiariamente, retificação do valor a ser ressarcido
+      para R$                .
+                                             de                          de   .
+
+                                                  (assinatura digital)
+
+Orientações de preenchimento:
+* Campos obrigatórios
+1  Informar o tipo de instrumento de autorização ou registro, como AIH ou APAC.
+2  Preencher caso seja necessária a devolução de prazo de impugnação ou recurso.
+3  Em havendo mais de um motivo de impugnação/recurso, os campos deste quadro devem ser repetidos para cada
+motivo.
+4  Preencher com um dos motivos listados no Anexo IV.
+5  Preencher no caso de pedido de retificação do valor a ser ressarcido.
+6  Indicar a página, a cláusula, o item ou qualquer outra referência que permita localizar a parte do documento que
+demonstra a alegação.
+

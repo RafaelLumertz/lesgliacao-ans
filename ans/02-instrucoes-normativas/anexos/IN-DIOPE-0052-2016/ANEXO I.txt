@@ -1,0 +1,22 @@
+                                         ANEXO I
+
+           Especificações de formatação dos arquivos a serem enviados à DIOPE
+
+1. Os arquivos enviados pelas operadoras deverão estar no formato PDF (Portable Document
+   Format). Sugerimos que a operadora crie o documento em um editor de texto, converta para o
+   formato PDF e realize o upload no PTA.
+2. O arquivo encaminhado não poderá exceder ao tamanho de 10MB.
+3. O padrão de nomenclatura do arquivo deverá ser REGANS_ASSUNTO_CONTROLE.OPE, onde:
+       a. REGANS: registro da operadora na ANS, sem hífen ou espaçamento entre os números;
+       b. ASSUNTO: de acordo com documento/solicitação/requerimento a ser encaminhado à
+          DIOPE;
+       c. CONTROLE: informação de controle da operadora;
+       d. OPE: tipo de arquivo reconhecido pelo PTA como sendo relativo à DIOPE. A operadora,
+          antes de enviar o arquivo pelo PTA, deverá alterar manualmente a extensão do
+          arquivo de PDF para OPE.
+4. A nomenclatura do arquivo deverá obedecer às seguintes especificações:
+4.1. somente poderá conter até 35 caracteres. Arquivos com nomenclatura que superem este
+limite não serão recebidos pela ANS.
+4.2. não repetir a mesma nomenclatura de arquivos enviados anteriormente. Caso isso ocorra, o
+último arquivo substituirá o anterior.
+

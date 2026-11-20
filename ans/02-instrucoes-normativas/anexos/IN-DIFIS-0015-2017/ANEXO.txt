@@ -1,0 +1,31 @@
+                                   ANEXO I
+     Especificações de formatação dos arquivos a serem enviados pela DIFIS
+
+1. Os arquivos enviados às operadoras, pelo aplicativo PTA, estarão no formato PDF
+(Portable Document Format).
+
+2. O padrão de nomenclatura do arquivo a ser encaminhado deverá ser
+TIPO_SUBTIPO_REGANS_DOC_CONTROLE.FIS, em que:
+
+a. TIPO: Identificador usado para o controle da transmissão do arquivo. Exemplos SIF,
+MIF ou PAS;
+b. SUBTIPO: É o formato do arquivo em PDF;
+c. REGANS: registro da operadora na ANS, sem hífen ou espaçamento entre os números;
+d. DOC: documento a ser encaminhado;
+e. CONTROLE: número do processo, número do documento, ano e unidade
+administrativa;
+f. FIS: tipo de arquivo reconhecido pelo PTA como sendo relativo à DIFIS.
+
+3. Abaixo, exemplo do padrão de nomenclatura no caso de envio de Ofício de número
+1234, do ano 2016, da unidade GEPJI, num processo administrativo de número
+33902.123456/2016-00 à operadora com registro na ANS sob o número 123456:
+PAS_PDF_123456_PROCESSO_33902.123456/2016-
+00_OFICIO_1234_2016_GEPJI.FIS
+
+4.Abaixo, exemplo de padrão de nomenclatura no caso de envio de Ofício de número
+1234, do ano 2016, da unidade Núcleo -RJ, que apesar de não fazer parte da estrutura
+regimental da DIFS, exerce atividade fiscalizatória, num processo administrativo de
+número 33902.123456/2016-00 à operadora com registro na ANS sob o número 123456:
+PAS_PDF_123456_PROCESSO_33902.123456/2016-
+00_OFICIO_1234_2016_NRJ.FIS
+

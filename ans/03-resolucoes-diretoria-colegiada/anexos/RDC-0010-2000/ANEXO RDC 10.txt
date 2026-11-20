@@ -1,0 +1,244 @@
+                                      ANEXO I
+
+ Instruções para o preenchimento do formulário destinado ao recolhimento à conta da
+Agência Nacional de Saúde Suplementar, das receitas de que trata o art. 20, Inciso I da
+Lei n º 9.961 de 28 de janeiro de 2000. (PREENCHER À MÁQUINA OU EM LETRA
+                                     DE FORMA)
+
+1 - no campo "Agência (pref./dv)": 3602-1;
+
+2 - no campo "N .o da conta/dv": 170.500-8;
+
+3 - no campo "Nome do cliente": Agência Nacional de Saúde Suplementar;
+
+4 -no campo "Em dinheiro - R$": importância a ser recolhida, caso o depósito seja feito
+em dinheiro;
+
+5 -no campo "Em cheques - R$": importância a ser recolhida, caso o depósito seja feito
+em cheque;
+
+6 -no campo "Depositado por": nome do recolhedor: empresa, endereço e telefone;
+
+7 - no campo "Depósito identificado (código-dv)/Finalidade, registrar? 25300336213,
+acrescido do Código do Fato Gerador e do dígito de verificação descrito na tabela
+abaixo, com a seguinte configuração: 25300336213XXX-X
+
+          DESCRIÇÃO             IDENTIFICADOR
+                                Fato Gerador          (DV)
+
+                                (XXX)                 (X)
+          Recolhimento no       101                   6
+          prazo
+          Recolhimento com      102                   4
+          multa ou multa e
+          juros
+                                          ANEXO II
+
+CÁLCULO POR PLANO DE ASSISTÊNCIA À SAÚDE (CPAS):
+
+Média dos usuários dos 3 meses que antecederem ao recolhimento, multiplicados pelo desconto
+por abrangência geográfica do plano.
+
+        S [U(m1) + U(m2) + U(m3)]
+
+CPAS = ------------------------------------------- X [R$ 0,50 - R$ 0,50 (DAG+DC)]
+
+                3
+
+Onde:
+
+S = Somatório
+
+U(m1) = número de usuários, excluídos os com idade superior a 60 anos, no dia último do
+primeiro mês do trimestre que anteceder ao mês do recolhimento.
+
+U(m2) = número de usuários, excluídos os com idade superior a 60 anos, no dia último do
+segundo mês do trimestre que anteceder ao mês do recolhimento.
+
+U(m3) = número de usuários, excluídos os com idade superior a 60 anos, no dia último do
+terceiro mês do trimestre que anteceder ao mês do recolhimento.
+
+DAG = Desconto por abrangência geográfica especifica de cada plano de assistência à saúde,
+conforme tabela I do anexo IV
+
+DC = Desconto por cobertura especifica de cada plano de assistência à saúde, conforme tabela
+II do anexo IV.
+
+Obs. O desconto total a ser aplicado a cada plano é obtido pelo somatório dos descontos,
+quando houverem, decorrentes dos enquadramentos nas Tabelas I e II do Anexo IV desta RDC.
+
+Tabela de recolhimento e períodos base de cálculo
+
+            Mês de Recolhimento                  Período Base de Cálculo
+            Março                                Dezembro, Janeiro e Fevereiro
+            Junho                                Março, Abril, Maio
+            Setembro                             Junho, Julho e Agosto
+            Dezembro                             Setembro, Outubro e Novembro
+
+Obs.: O recolhimento deverá ser efetuado até o último dia útil do primeiro decêndio do mês de
+recolhimento.
+
+CÁLCULO DO VALOR DEVIDO POR OPERADORA (VDO):
+
+O valor devido por operadora (VDO) deve ser obtido pelo somatório dos valores devidos de
+cada Plano de Assistência à Saúde, calculado na forma acima.
+VDO = S (VD1 + VD2+ ... + VDn)
+
+Onde:
+
+S = Somatório
+
+VD1 = Valor devido pelo Plano de Assistência à Saúde "1" da operadora.
+
+VD2 = Valor devido pelo Plano de Assistência à Saúde "2" da operadora.
+
+VDn = Valor devido pelo Plano de Assistência à Saúde "n" da operadora.
+
+                                       ANEXO III
+
+                AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR
+
+  FORMULÁRIO DE INFORMAÇÃO DE USUÁRIOS POR TIPO DE PLANO DE
+                     ASSISTÊNCIA À SAÚDE
+
+Denominação da Operadora:
+
+CNPJ:
+
+Nº de Registro na ANS:
+
+Período base de cálculo (mês/ano):
+
+           Tipo de Plano                Nº de         Nº de        Total de
+                                        Usuários      Usuários     Usuários
+                                        com idade     com idade
+                                                      igual ou
+                                        inferior a 60 superior a
+                                        anos          60 anos
+           Abrangência Cobertura
+           Geográfica
+           Nacional    Ambulatorial
+                       (A)
+                       Hospitalar
+                       (H)
+                       Odontológico
+                       (O)
+                       Obstetrícia
+                       (OB)
+                       A+H
+                       A+H+O
+                       A + H + OB
+                       A+H+O+
+                       OB
+                       A+O
+           H+O
+           H + OB
+           H + OB + O
+           Outros
+Grupo de   Ambulatorial
+Estados    (A)
+           Hospitalar
+           (H)
+           Odontológico
+           (O)
+           Obstetrícia
+           (OB)
+           A+H
+           A+H+O
+           A + H + OB
+           A+H+O+
+           OB
+           A+O
+           H+O
+           H + OB
+           H + OB + O
+           Outros
+Estadual   Ambulatorial
+           (A)
+           Hospitalar
+           (H)
+           Odontológico
+           (O)
+           Obstetrícia
+           (OB)
+           A+H
+           A+H+O
+           A + H + OB
+           A+H+O+
+           OB
+           A+O
+           H+O
+           H + OB
+           H + OB + O
+           Outros
+Grupo de   Ambulatorial
+Municípios (A)
+           Hospitalar
+           (H)
+           Odontológico
+            (O)
+            Obstetrícia
+            (OB)
+            A+H
+            A+H+O
+            A + H + OB
+            A+H+O+
+            OB
+            A+O
+            H+O
+            H + OB
+            H + OB + O
+            Outros
+Municipal Ambulatorial
+            (A)
+            Hospitalar
+            (H)
+            Odontológico
+            (O)
+            Obstetrícia
+            (OB)
+            A+H
+            A+H+O
+            A + H + OB
+            A+H+O+
+            OB
+            A+O
+            H+O
+            H + OB
+            H + OB + O
+            Outros
+Total de Usuários :
+Responsável pelo preenchimento:
+                               ANEXO IV
+
+            (Anexo II da Lei nº 9.961, de 28 de janeiro de 2000)
+
+                                TABELA I
+
+    DESCONTOS POR ABRANGÊNCIA GEOGRÁFICA DO PLANO
+
+     Abrangência Geográfica          Desconto (%)
+     Nacional                        5
+     Grupo de Estados                10
+     Estadual                        15
+     Grupo de Municípios             20
+     Municipal                       25
+
+                               TABELA II
+
+DESCONTOS POR COBERTURA MÉDICO-HOSPITALAR-ODONTOLÓGICA
+                      OFERECIDA
+
+     Cobertura                       Desconto (%)
+     Ambulatorial (A)                20
+     A+Hospitalar (H)                6
+     A+H +Odontológico (O)           4
+     A+H+Obstetrícia (OB)            4
+     A+H+OB+O                        2
+     A+O                             14
+     H                               16
+     H+O                             14
+     H+OB                            14
+     H+OB+O                          12
+     O                               32
+

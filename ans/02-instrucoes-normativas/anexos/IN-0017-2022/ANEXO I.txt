@@ -1,0 +1,44 @@
+                               ANEXO I – FORMULÁRIO DE AVALIAÇÃO DO DIRETOR FISCAL
+
+Agente:
+Operadora:
+
+                            Critérios                                Fator   Não se   <.... pior .................. melhor ....>    Nota
+                                                                             aplica   2        4            6        8        10   por item
+ 1    O agente cumpriu os prazos de entrega dos relatórios?           2                                                               0
+ 2    Os relatórios foram bem redigidos e estavam                     3                                                               0
+      adequadamente estruturados em conformidade com o
+      Manual do Diretor Fiscal?
+ 3    Foram encaminhados anexos aos relatórios os documentos          2                                                               0
+      de suporte efetivamente necessários?
+ 4    A validação dos relatórios demandou sucessivas revisões?        3                                                               0
+ 5    O agente demonstra possuir conhecimentos técnicos               2                                                               0
+      adequados?
+ 6    O agente demonstra possuir conhecimentos adequados              2                                                               0
+      acerca da regulamentação da ANS?
+ 7    O agente solicitou as orientações necessárias para questões     1                                                               0
+      não previstas no Manual do Diretor Fiscal?
+ 8    O agente demandou orientação para questões de rotina,           1                                                               0
+      previstas no Manual do Diretor Fiscal?
+ 9    O agente cumpriu adequadamente os procedimentos                 3                                                               0
+      previstos no Manual do Diretor Fiscal?
+ 10   O agente foi pró-ativo na condução do regime especial?          2                                                               0
+ 11   O agente foi célere no envio de informações solicitadas pela    1                                                               0
+      ANS?
+ 12   O agente realizou uma análise detalhada da situação             3                                                               0
+      econômico-financeira atual?
+ 13   O agente realizou uma análise detalhada do Programa de          3                                                               0
+      Saneamento?
+ 14   O agente demonstrou adequadamente a situação em relação         2                                                               0
+      a débitos com a rede assistencial?
+ 15   O agente fez uma análise adequada da situação dos controles     2                                                               0
+      internos e das informações periódicas para a ANS?
+ 16   O relatório final foi conclusivo?                               3                                                               0
+ 17   Na elaboração da nota técnica foi constatado erro na análise    2                                                               0
+      das garantias financeiras?
+ 18   Na elaboração da nota técnica foi constatado equívoco no        2                                                               0
+      desfecho proposto para o regime?
+ 19   O agente demonstrou zelo no atendimento às questões             1                                                               0
+      administrativas da ANS?
+                                                                                                                   Nota Final:        0
+

@@ -1,0 +1,2506 @@
+                  ANEXO I
+
+ESTRUTURA FÍSICA DOS CAMPOS DAS GUIAS E DOS
+     DEMONSTRATIVOS ODONTOLÓGICOS
+1. Documentos preenchidos pelos prestadores e encaminhados às
+operadoras
+
+
+1.1. Guia de Tratamento Odontológico
+
+
+
+
+Padrão TISS – versão 2.01                         Página 2 - 13
+ 1.1.1. Legenda da Guia de Tratamento Odontológico
+
+Número do                                                       Formato /
+          Nome do campo                Descrição                                Obrigatório
+ Campo                                                          Tamanho
+            Registro ANS       Registro da operadora na         String (6)          SIM
+    1
+                               ANS
+            Número da guia     Número da Guia                   String (20)         SIM
+    2
+                               Tratamento Odontológico
+            Data de emissão    Data de preenchimento da         DD/MM/AA            NÃO
+    3
+            da guia            guia
+            Data da            Data em que a autorização
+    4                                                    DD/MM/AA                   NÃO
+            autorização        foi concedida
+    5       Senha              Senha de autorização             String (20)         NÃO
+            Data Validade da
+    6                          Data de validade da senha        DD/MM/AA            NÃO
+            Senha
+            Número da guia
+    7                          Número da guia principal         String (20)         NÃO
+            principal
+Dados do beneficiário
+            Número da          Número do cartão do              String (20)         SIM
+    8
+            carteira           beneficiário
+                               Nome do plano do                                     SIM
+    9       Plano                                               String (40)
+                               beneficiário
+                               Nome da empresa a qual
+    10      Empresa                                             String (40)         NÃO
+                               pertence o beneficiário
+            Data Validade da   Data     da   Validade     da DD/MM/AA               NÃO
+    11
+            carteira           carteira do beneficiário
+            Número do Cartão Número do Cartão Nacional String (15)                  NÃO
+    12
+            Nacional de Saúde de Saúde do beneficiário
+    13      Nome               Nome do beneficiário             String (70)         SIM
+                               Número do telefone para
+    14      Telefone                                            String (8)          NÃO
+                               contato do beneficiário
+            Nome titular do    Nome do titular do plano         String (40)         NÃO
+    15
+            plano
+Dados do contratado solicitante
+            Nome do            Nome       do     profissional
+    16      profissional       solicitante.                     String (70)         NÃO
+            solicitante
+                               Número       no     conselho String (15)             NÃO
+    17      Número no CRO
+                               profissional
+                               Sigla da Unidade Federativa
+    18      UF conselho                                    String (2)               NÃO
+                               do Conselho Profissional
+                               Código da especialidade
+    19      Código CBO-S                                  String (5)                NÃO
+                               conforme tabela de domínio
+            Código na                                                               SIM
+                             Código na operadora ou
+    20      operadora / CNPJ                           String (14)
+                             CNPJ ou CPF do contratado
+            / CPF
+
+
+
+
+ Padrão TISS – versão 2.01                                                   Página 3 - 13
+Número do                                                      Formato /
+          Nome do campo               Descrição                              Obrigatório
+ Campo                                                         Tamanho
+            Nome do           Nome      do      contratado String (70)          SIM
+    21      contratado        (pessoa jurídica ou física)
+            executante
+                              Número       no      conselho String (15)         SIM
+    22      Número no CRO
+                              profissional
+                              Sigla da Unidade Federativa
+    23      UF conselho                                   String (2)            SIM
+                              do Conselho Profissional
+    24      Código CNES       Código CNES do contratado String (7)              NÃO
+            Nome do           Nome     do       profissional
+    25      Profissional      executante                       String (70)      NÃO
+            Executante
+                              Número       no      conselho String (15)         NÃO
+    26      Número no CRO
+                              profissional
+                              Sigla da Unidade Federativa
+    27      UF conselho                                   String (2)            NÃO
+                              do Conselho Profissional
+                              Código da especialidade,
+    28      Código CBO-S                                 String (5)             NÃO
+                              conforme tabela de domínio
+Plano de Tratamento / Procedimentos Solicitados / Procedimentos Executados
+                              Código    identificador   da String (2)           SIM
+                              tabela de codificação dos
+    29      Tabela
+                              procedimentos,      conforme
+                              tabela de domínio
+            Código do         Código   identificador  do
+    30                                                   String (10)            SIM
+            Procedimento      procedimento solicitado
+                              Descrição do procedimento
+    31      Descrição                                   String (70)             SIM
+                              solicitado
+                              Identificação  do   dente
+                              (permanente ou decíduo)
+    32      Dente / Região                              String (4)              NÃO
+                              ou região, segundo tabela
+                              de domínio
+                              Identificação da face do
+                              dente, conforme tabela de
+    33      Face                                        String (5)              NÃO
+                              domínio     constante  na
+                              própria guia
+                              Quantidade   solicitada /
+    34      Qtd                                         Integer (2)             NÃO
+                              executada do procedimento
+                              Quantidade de US do
+    35      Quantidade US     procedimento solicitado/ Double (5,2)             NÃO
+                              executado
+                              Valor   em        Reais     do
+    36      Valor R$          procedimento       solicitado/ Double (5,2)       NÃO
+                              executado
+                              Valor em Reais da franquia
+                              / co-participação de acordo
+            Franquia / Co-
+    37                        com      o      valor      do Double (5,2)        NÃO
+            participação R$
+                              procedimento      solicitado/
+                              executado
+
+
+
+
+ Padrão TISS – versão 2.01                                               Página 4 - 13
+Número do                                                    Formato /
+          Nome do campo                Descrição                            Obrigatório
+ Campo                                                       Tamanho
+                               Indicador de existência de
+                               autorização     para       o
+   38       Aut                procedimento     solicitado/ String (1)          NÃO
+                               executado - letras S (sim)
+                               e N (não)
+            Data de            Data     em       que     o
+   39                                                      DD/MM/AA             NÃO
+            Realização         procedimento foi realizado.
+                               Assinatura do beneficiário
+   40       Assinatura         dando ciência da realização                      NÃO
+                               do procedimento realizado
+            Data Término do    Data   do     término    do
+   41                                                        DD/MM/AA           NÃO
+            tratamento         tratamento
+                               Tipo    do    atendimento
+                               descrito na referida guia.
+                               Pode assumir os valores:
+            Tipo de            1-Tratamento odontológico
+   42                                                     String (1)            NÃO
+            atendimento        2-Exame radiológico
+                               3-Ortodontia
+                               4-Urgência/emergência
+                               5-Auditoria
+                               Informa     o   tipo     de
+                               faturamento      realizado.
+            Tipo de
+   43                          Pode assumir os valores:    String (1)           NÃO
+            Faturamento
+                               T - Total
+                               P - Parcial
+                               Somatório da quantidade
+            Total Quantidade
+   44                          de US dos procedimentos Double (6,2)             NÃO
+            US
+                               solicitados/executados
+                               Somatório do valor total
+                               em        Reais        dos
+   45       Valor Total R$                                Double (6,2)          NÃO
+                               procedimentos solicitados/
+                               executados
+                               Somatório do valor total
+            Total Franquia /   em Reais de franquia/co-
+   46       Co-participação    participação com base nos Double (6,2)           NÃO
+            R$                 procedimentos solicitados/
+                               executados
+                               Texto      livre     para String (240)           NÃO
+   47       Observação
+                               observações em geral
+            Data, local e
+                               Data, local e assinatura do
+            Assinatura do
+   48                          cirurgião-dentista                 -             NÃO
+            Cirurgião-Dentista
+                               solicitante do tratamento
+            Solicitante
+            Data, local e      Data, local e assinatura do
+   49       Assinatura do      cirurgião-dentista                 -             SIM
+            Cirurgião-Dentista executante do tratamento
+            Data, local e
+            Assinatura do      Data, local e assinatura do
+   50                                                             -             SIM
+            Beneficiário/      Beneficiário ou responsável
+            Responsável
+
+
+
+
+ Padrão TISS – versão 2.01                                               Página 5 - 13
+Número do                                                 Formato /
+          Nome do campo               Descrição                        Obrigatório
+ Campo                                                    Tamanho
+            Data, local e
+                              Data, local e Carimbo
+   51       Carimbo da                                         -           NÃO
+                              identificador da empresa
+            Empresa
+
+ Observação: Os campos hachurados devem estar contidos nas guias e representam
+ campos de preenchimento opcionais ou condicionais.
+
+
+
+
+ Padrão TISS – versão 2.01                                          Página 6 - 13
+2. Documentos encaminhados aos prestadores pelas operadoras
+
+
+2.1. Guia de tratamento odontológico – Demonstrativo de Pagamento
+
+
+
+
+Padrão TISS – versão 2.01                                     Página 7 - 13
+ 2.1.1. Legenda da Guia de tratamento odontológico – Demonstrativo de
+ Pagamento
+
+
+
+Número
+                                                               Formato /
+  do   Nome do campo                  Descrição                                Obrigatório
+                                                               Tamanho
+Campo
+         Registro ANS        Registro da operadora na          String (6)           SIM
+   1
+                             ANS
+         Número do           Número identificador do    String (20)                 SIM
+   2
+         demonstrativo       demonstrativo de pagamento
+         Nome da             Razão social da operadora  String (70)                 SIM
+   3     Operadora           que está emitindo o
+                             demonstrativo de pagamento
+                             Código Nacional de Pessoa
+                             Jurídica da operadora que
+   4     CNPJ Operadora                                  String (14)                SIM
+                             está       emitindo       o
+                             demonstrativo de pagamento
+                             Data inicial e data final do
+         Período de
+   5                         período descrito pelo        DD/MM/AA                 NÃO
+         processamento
+                             demonstrativo de pagamento
+Dados do prestador
+         Código na
+                          Código na operadora ou CNPJ
+   6     operadora / CNPJ                             String (14)                  NÃO
+                          ou CPF do prestador
+         / CPF
+                             Razão social     ou   nome   do String (70)            SIM
+   7     Nome Contratado
+                             prestador
+                             Código de Pessoa Física ou
+                             Código Nacional de Pessoa
+         CPF / CNPJ do
+   8                         Jurídica   do    prestador String (14)                 SIM
+         Prestador
+                             dependendo da natureza da
+                             entidade
+Dados do pagamento
+         Número do lote      Número identificador do lote
+   9                                                           String (12)         NÃO
+                             da guia
+         Código do           Código identificador do
+   10    beneficiário        beneficiário do plano privado String (20)              SIM
+                             odontológico
+         Nome do             Nome do beneficiário
+   11                                                          String (70)          SIM
+         beneficiário
+   12    Número da guia      Número da guia                    String (12)          SIM
+                             Código identificador da tabela String (2)              SIM
+   13    Tabela              de       codificação       dos
+                             procedimentos
+         Código do           Código    identificador      do
+   14                                                          String (10)          SIM
+         Procedimento        procedimento realizado
+                             Descrição   do   procedimento
+   15    Descrição                                             String (70)         NÃO
+                             realizado
+
+
+
+
+ Padrão TISS – versão 2.01                                                   Página 8 - 13
+Número
+                                                                Formato /
+  do   Nome do campo                   Descrição                                Obrigatório
+                                                                Tamanho
+Campo
+                              Identificação  dos dentes
+                              permanentes, decíduos ou
+   16     Dente/Região                                  String (5)                  NÃO
+                              região de acordo com a
+                              tabela de domínio
+                              Identificação da face do
+                              dente constante no campo 16
+   17     Face(s)                                         String (4)                NÃO
+                              de acordo com tabela de
+                              domínio.
+          Data de             Data   da    realização     do
+   18                                                           DD/MM/AA            SIM
+          realização          procedimento
+                              Quantidade   realizada      do
+   19     Qtd                                                   Integer (2)         SIM
+                              procedimento
+                              Valor processado sobre       o
+   20     Valor processado                                      Double (5,2)        SIM
+                              procedimento realizado
+                              Valor de estorno ou glosa
+          Valor
+   21                         sobre    um    determinado Double (5,2)               NÃO
+          glosa/estorno
+                              procedimento
+                              Valor    liberado para    o
+                              procedimento      realizado
+   22     Valor liberado                                  Double (5,2)              SIM
+                              levando-se em conta o valor
+                              do estorno/glosa
+                              Motivo da glosa. Pode haver
+   23     Motivo glosa        mais de um código para cada String (4)                NÃO
+                              procedimento.
+          Valor total         Valor   final   em        Reais
+   24                                                           Double (7,2)        SIM
+          processado guia     processado por guia
+                              Somatório       do     valor
+          Valor total glosa
+   25                         glosa/protocolo em Reais da Double (7,2)              SIM
+          guia
+                              guia
+                              Somatório do valor total em
+          Valor Total         Reais dos itens da guia
+   26                                                     Double (7,2)              SIM
+          Liberado guia       levando-se em conta os
+                              descontos de glosa/estorno
+Total Lote
+          Valor total         Valor   final    em       Reais
+   27                                                           Double (7,2)        NÃO
+          processado lote     processado por lote
+                              Somatório       do     valor
+          Valor total glosa
+   28                         glosa/protocolo em Reais do Double (7,2)              NÃO
+          lote
+                              lote
+                              Somatório do valor total em
+          Valor Total         Reais dos itens do lote
+   29                                                     Double (7,2)              NÃO
+          Liberado lote       levando-se em conta os
+                              descontos de glosa/estorno
+Total Geral
+                              Valor   geral     em    Reais
+          Valor Geral         processado incluindo todos os
+   30                                                       Double (5,2)            SIM
+          Processado (R$)     lotes que fazem parte do
+                              demonstrativo de pagamento
+
+
+
+
+  Padrão TISS – versão 2.01                                                   Página 9 - 13
+Número
+                                                                Formato /
+  do   Nome do campo                  Descrição                                Obrigatório
+                                                                Tamanho
+Campo
+                             Valor geral em Reais de
+           Valor Geral Glosa glosa/estorno incluindo todos
+   31                                                      Double (5,2)           SIM
+           (R$)              os lotes que fazem parte do
+                             demonstrativo de pagamento
+                             Valor geral em Reais liberado
+           Valor Geral       incluindo todos os lotes que
+   32                                                      Double (5,2)           SIM
+           Liberado (R$)     fazem         parte        do
+                             demonstrativo de pagamento
+Demais débitos/créditos
+                             Descrição do débito e/ou
+   33      Descrição         crédito. A descrição deve ser String (40)            SIM
+                             obrigatória e clara
+                             Valor em Reais do débito ou
+   34      Valor (R$)                                    Double (5,2)             SIM
+                             crédito.
+Demais débitos/créditos não tributáveis
+                             Descrição do débito e/ou
+                             crédito não tributável. A
+   35      Descrição                                    String (40)               SIM
+                             descrição        deve  ser
+                             obrigatória e clara
+                             Valor em Reais do débito ou
+   36      Valor (R$)                                    Double (5,2)             SIM
+                             crédito não tributável.
+Impostos
+                             Descrição dos impostos sobre
+                             os valores dos campos 33 e
+   37      Descrição                                      String (40)             SIM
+                             34. A descrição deve ser
+                             obrigatória e clara
+                             Valor em Reais dos impostos
+   38      Valor (R$)                                     Double (5,2)            SIM
+                             referente aos campos 33 e 34
+Totais
+           Data do           Data  ou      previsão   para
+   39                                                           DD/MM/AA          NÃO
+           pagamento         pagamento
+           Valor Total       Valor Total em Reais passível
+   40                                                      Double (5,2)           SIM
+           Tributável (R$)   de tributação
+           Valor Total
+                            Valor Total em Reais          dos
+   41      Impostos Retidos                                     Double (5,2)      SIM
+                            Impostos Retidos
+           (R$)
+           Valor Total Não   Valor Total em Reais não
+   42                                                 Double (5,2)                SIM
+           Tributável (R$)   tributável
+           Valor Final a     Valor total    em    Reais    a
+   43                                                           Double (5,2)      SIM
+           Receber (R$)      receber
+                             Texto livre para observações
+   44      Observação                                     String (240)            NÃO
+                             em geral
+
+ Observação: Os campos em cinza na guia representam campos de preenchimento não
+ obrigatórios. Mesmo não sendo preenchidos os campos devem estar contidos dentro das
+ guias.
+
+
+
+
+ Padrão TISS – versão 2.01                                                 Página 10 - 13
+3. Anexos de guias
+
+
+3.1. Guia de Situação Inicial
+
+
+
+
+Padrão TISS – versão 2.01       Página 11 - 13
+3.1.1. Legenda da Guia de Situação Inicial
+
+
+
+
+   Número
+                                                                     Formato /
+     do        Nome do campo                 Descrição
+                                                                     Tamanho
+   Campo
+       1     Registro ANS         Registro da operadora na ANS String (6)
+             Número da guia       Número do anexo guia              String (20)
+       2                          tratamento odontológico –
+                                  situação inicial
+             Número da Guia       Refere-se ao campo 2 da guia      String (20)
+       3
+             Principal            tratamento odontológico
+                                  Número do cartão do               String (20)
+       4     Número da carteira
+                                  beneficiário
+       5     Plano                Nome do plano do beneficiário String (40)
+                                  Nome da empresa a qual
+       6     Empresa                                                String (40)
+                                  pertence o beneficiário
+             Data Validade da     Data da Validade da carteira do DD/MM/AA
+       7
+             carteira             beneficiário
+       8     Nome                 Nome do beneficiário              String (70)
+                                  Número do telefone para
+       9     Telefone                                               String (8)
+                                  contato do beneficiário
+      10     Nome titular do plano Nome do titular do plano         String (40)
+             Código na operadora Código na operadora ou CNPJ
+      11                                                            String (14)
+             / CNPJ / CPF        ou CPF do contratado
+                                  Nome do contratado (pessoa String (70)
+      12     Nome do contratado
+                                  jurídica ou física)
+                                  Número         no       conselho String (15)
+      13     Número no CRO
+                                  profissional
+                                  Sigla da Unidade Federativa do
+      14     UF                                                  String (2)
+                                  Conselho Profissional
+      15     Código CNES          Código CNES do contratado         String (7)
+      16     Nome do profissional Nome do profissional.             String (70)
+                                  Número         no       conselho String (15)
+      17     Número no CRO
+                                  profissional
+                                  Sigla da Unidade Federativa do
+      18     UF                                                  String (2)
+                                  Conselho Profissional
+                                  Código    da     especialidade
+      19     Código CBO-S                                        String (5)
+                                  conforme tabela de domínio
+                                  Preencher de situação inicial
+                                  com       informações      de
+                                  preenchimento de acordo com
+                                  a tabela de domínio constante
+                                  na guia
+             Sinais clínicos de   Indicador de sinais clínicos de
+      20
+             doença periodontal   doenças periodontais
+
+
+
+
+Padrão TISS – versão 2.01                                            Página 12 - 13
+   Número
+                                                                       Formato /
+     do        Nome do campo                 Descrição
+                                                                       Tamanho
+   Campo
+             Alteração dos tecidos Indicador de    alteração     dos
+      21
+             moles?                tecidos moles
+             Observações           Texto livre de observação
+      22                           sobre a situação inicial do
+                                   paciente
+             Data, local e
+                                   Data, local e assinatura do
+      23     Assinatura do
+                                   cirurgião-dentista
+             Cirurgião-Dentista
+             Data, local e
+             Assinatura do         Data, local e assinatura do
+      24
+             Beneficiário/         Beneficiário ou responsável
+             Responsável
+             Data, local e Carimbo Carimbo identificador da
+      25
+             da Empresa            empresa
+
+Observação: Os campos hachurados devem estar contidos nas guias e representam
+campos de preenchimento não obrigatórios.
+
+
+
+
+Padrão TISS – versão 2.01                                              Página 13 - 13
+                ANEXO II
+ ESTRUTURA FÍSICA DO PADRÃO DE COMUNICAÇÃO
+E SEGURANÇA – TABELA DE DOMÍNIO
+1. Tabelas de Domínio
+
+1.1. Tipo de logradouro
+
+    Código                  Descrição
+
+   001        Acesso
+   002        Adro
+   004        Alameda
+   005        Alto
+   007        Atalho
+   008        Avenida
+   009        Balneário
+   010        Belvedere
+   011        Beco
+   012        Bloco
+   013        Bosque
+   014        Boulevard
+   015        Baixa
+   016        Cais
+   017        Caminho
+   019        Chapadão
+   020        Conjunto
+   021        Colônia
+   022        Corredor
+   023        Campo
+   024        Córrego
+   027        Desvio
+   028        Distrito
+   030        Escada
+   031        Estrada
+   032        Estação
+   033        Estádio
+   036        Favela
+   037        Fazenda
+   038        Ferrovia
+   039        Fonte
+   040        Feira
+   043        Forte
+   045        Galeria
+   046        Granja
+   050        Ilha
+   052        Jardim
+   053        Ladeira
+
+
+
+
+Padrão TISS – versão 2.01               Página 2 - 36
+    Código                    Descrição
+   054        Largo
+   055        Lagoa
+   056        Loteamento
+   059        Morro
+   060        Monte
+   062        Paralela
+   063        Passeio
+   064        Pátio
+   065        Praça
+   067        Parada
+   070        Praia
+   071        Prolongamento
+   072        Parque
+   073        Passarela
+   074        Passagem
+   076        Ponte
+   077        Quadra
+   079        Quinta
+   081        Rua
+   082        Ramal
+   087        Recanto
+   088        Retiro
+   089        Reta
+   090        Rodovia
+   091        Retorno
+   092        Sítio
+   094        Servidão
+   095        Setor
+   096        Subida
+   097        Trincheira
+   098        Terminal
+   099        Trevo
+   100        Travessa
+   101        Via
+   103        Viaduto
+   104        Vila
+   105        Viela
+   106        Vale
+   108        Zigue-zague
+   452        Trecho
+   453        Vereda
+   465        Artéria
+   468        Elevada
+
+
+
+Padrão TISS – versão 2.01                 Página 3 - 36
+    Código                           Descrição
+   469        Porto
+   470        Balão
+   471        Paradouro
+   472        Área
+   473        Jardinete
+   474        Esplanada
+   475        Quintas
+   476        Rotula
+   477        Marina
+   478        Descida
+   479        Circular
+   480        Unidade
+   481        Chácara
+   482        Rampa
+   483        Ponta
+   484        Via de pedestre
+   485        Condomínio
+   486        Habitacional
+   487        Residencial
+   495        Canal
+   496        Buraco
+   497        Módulo
+   498        Estância
+   499        Lago
+   500        Núcleo
+   501        Aeroporto
+   502        Passagem Subterrânea
+   503        Complexo Viário
+   504        Praça de Esportes
+   505        Via Elevada
+   506        Rotatória
+   507        1ª Travessa
+   508        2ª Travessa
+   509        3ª Travessa
+   510        4ª Travessa
+   511        5ª Travessa
+   512        6ª Travessa
+   513        7ª Travessa
+   514        8ª Travessa
+   515        9ª Travessa
+   516        10ª Travessa
+   517        11ª Travessa
+   518        12ª Travessa
+
+
+
+Padrão TISS – versão 2.01                        Página 4 - 36
+    Código                   Descrição
+   519        13ª Travessa
+   520        14ª Travessa
+   521        15ª Travessa
+   522        16ª Travessa
+   523        1º Alto
+   524        2º Alto
+   525        3º Alto
+   526        4º Alto
+   527        5º Alto
+   528        1º Beco
+   529        2º Beco
+   530        3º Beco
+   531        4º Beco
+   532        5º Beco
+   533        1ª Paralela
+   534        2ª Paralela
+   535        3ª Paralela
+   536        4ª Paralela
+   537        5ª Paralela
+   538        1ª Subida
+   539        2ª Subida
+   540        3ª Subida
+   541        4ª Subida
+   542        5ª Subida
+   543        6ª Subida
+   544        1ª Vila
+   545        2ª Vila
+   546        3ª Vila
+   547        4ª Vila
+   548        5ª Vila
+   549        1º Parque
+   550        2º Parque
+   551        3º Parque
+   552        1ª Rua
+   553        2ª Rua
+   554        3ª Rua
+   555        4ª Rua
+   556        5ª Rua
+   557        6ª Rua
+   558        7ª Rua
+   559        8ª Rua
+   560        9ª Rua
+   561        10ª Rua
+
+
+
+Padrão TISS – versão 2.01                Página 5 - 36
+    Código                                Descrição
+   562        11ª Rua
+   563        12ª Rua
+   564        Estacionamento
+   565        Vala
+   566        Rua de Pedestre
+   567        Túnel
+   568        Variante
+   569        Rodo Anel
+   570        Travessa Particular
+   571        Calçada
+   572        Via de Acesso
+   573        Entrada Particular
+   645        Acampamento
+   646        Via Expressa
+   650        Estrada Municipal
+   651        Avenida Contorno
+   652        Entre-quadra
+   653        Rua de Ligação
+   654        Área Especial
+
+
+1.2. Conselho profissional
+
+
+    Código                                Descrição
+
+   CRAS        Conselho Regional de Assistência Social
+   COREN       Conselho Federal de Enfermagem
+   CRF         Conselho Regional de Farmácia
+   CRFA        Conselho Regional de Fonoaudiologia
+   CREFITO     Conselho Regional de Fisioterapia e Terapia Ocupacional
+   CRM         Conselho Regional de Medicina
+   CRV         Conselho Regional de Medicina Veterinária
+   CRN         Conselho Regional de Nutrição
+   CRO         Conselho Regional de Odontologia
+   CRP         Conselho Regional de Psicologia
+   OUT         Outros Conselhos
+
+
+
+
+1.3. Tipo de internação
+
+
+    Código                                Descrição
+         1     Clínica
+
+
+Padrão TISS – versão 2.01                                           Página 6 - 36
+    Código                    Descrição
+        2      Cirúrgica
+        3      Obstétrica
+        4      Pediátrica
+        5      Psiquiátrica
+
+
+
+1.4. Regime de Internação
+
+
+    Código                    Descrição
+        1      Hospitalar
+        2      Hospital–dia
+        3      Domiciliar
+
+
+
+
+Padrão TISS – versão 2.01                 Página 7 - 36
+1.5. Tabelas
+
+
+    Código                                 Descrição
+
+       01      Lista de Procedimentos Médicos AMB 90
+       02      Lista de Procedimentos Médicos AMB 92
+       03      Lista de Procedimentos Médicos AMB 96
+
+       04      Lista de Procedimentos Médicos AMB 99
+
+       05      Tabela Brasíndice
+       06      Classificação Brasileira Hierarquizada de Procedimentos Médicos
+       07      Tabela CIEFAS-93
+       08      Tabela CIEFAS-2000
+       09      Rol de Procedimentos ANS
+       10      Tabela de Procedimentos Ambulatoriais SUS
+       11      Tabela de Procedimentos Hospitalares SUS
+       12      Tabela SIMPRO
+       13      Tabela TUNEP
+       14      Tabela VRPO
+       15      Tabela de Intercâmbio Sistema Uniodonto
+       94      Tabela Própria Procedimentos
+       95      Tabela Própria Materiais
+       96      Tabela Própria Medicamentos
+       97      Tabela Própria de Taxas Hospitalares
+       98      Tabela Própria de Pacotes
+       99      Tabela Própria de Gases Medicinais
+       00      Outras Tabelas
+
+
+1.6. Tipo de consulta
+
+
+    Código                                 Descrição
+       1       Primeira Consulta
+       2       Seguimento
+       3       Pré-natal
+
+
+
+
+Padrão TISS – versão 2.01                                           Página 8 - 36
+1.7. Tipo de doença
+
+
+    Código                               Descrição
+       A      Aguda
+       C      Crônica
+
+
+
+1.8. Unidade de tempo de doença referida pelo paciente
+
+
+    Código                               Descrição
+       A      Anos
+       M      Meses
+       D      Dias
+
+
+
+1.9. Indicador de Acidente
+
+
+    Código                               Descrição
+       0      Acidente ou doença relacionada a trabalho
+       1      Acidente ou doença relacionada a trânsito
+       2      Outros
+
+
+
+1.10. Tipo de atendimento
+
+
+    Código                               Descrição
+       01     Remoção
+       02     Pequena Cirurgia
+       03     Terapias
+       04     Consulta
+       05     Exames
+       06     Atendimento Domiciliar
+       07     SADT Internado
+       08     Quimioterapia
+       09     Radioterapia
+       10     Terapia Renal Substitutiva (TRS)
+
+
+
+
+Padrão TISS – versão 2.01                                 Página 9 - 36
+1.11. Tipo de Atendimento (guia odontologia)
+
+
+    Código                                Descrição
+
+        1      Tratamento odontológico
+        2      Exame radiológico
+        3      Ortodontia
+        4      Urgência / Emergência
+        5      Auditoria
+
+
+
+1.12. Tipo de saída na Guia de SP/SADT
+
+
+    Código                                Descrição
+       1      Retorno
+       2      Retorno SADT
+       3      Referência
+       4      Internação
+       5      Alta
+       6      Óbito
+
+
+
+1.13. Tipo de saída na guia de consulta
+
+    Código                                Descrição
+       1      Retorno
+       2      Retorno SADT
+       3      Referência
+       4      Internação
+       5      Alta
+
+
+
+
+1.14. Autorização (Aut)
+
+
+    Código                                Descrição
+       S      Sim
+       N      Não
+
+
+
+
+1.15. Tipo de acomodação
+
+
+    Código                                Descrição
+
+
+
+Padrão TISS – versão 2.01                             Página 10 - 36
+    Código                                 Descrição
+       01     Enfermaria
+       02     Quarto particular
+       03     UTI
+       04     Enfermaria dois leitos
+       05     One Day clinic
+       06     Unidade intermediaria
+       07     Apartamento
+       08     Ambulatório
+       11     Apartamento luxo
+       12     Apartamento Simples
+       13     Apartamento Standard
+       14     Apartamento Suíte
+       15     Apartamento com alojamento conjunto
+       21     Berçário normal
+       22     Berçário patológico / prematuro
+       23     Berçário patológico com isolamento
+       31     Enfermaria (3 leitos)
+       32     Enfermaria (4 ou mais leitos)
+       33     Enfermaria com alojamento conjunto
+       34     Hospital Dia
+       35     Isolamento
+       41     Quarto Coletivo (2 leitos)
+       42     Quarto privativo
+       43     Quarto com alojamento conjunto
+       51     UTI Adulto
+       52     UTI Pediátrica
+       53     UTI Neo-Natal
+       54     TSI - Unidade de Terapia semi-Intensiva
+       55     Unidade coronariana
+       61     Outras diárias
+
+
+
+
+1.16. Motivo de saída da internação
+
+
+    Código                                 Descrição
+   Em caso de alta
+      10     Para complementação em internação domiciliar
+
+
+
+Padrão TISS – versão 2.01                                   Página 11 - 36
+      11     Curado
+      12     Melhorado
+      13     Inalterado
+      14     A pedido
+      15     Internado para diagnóstico
+      16     Administrativa
+      17     Por indisciplina
+      18     Por evasão
+      19     Para completar tratamento
+   Em caso de permanência
+      21      Por características da doença
+      22      Por intercorrência
+      23      Por motivo social
+      24      Por doença crônica
+      25      Por impossibilidade de convívio sócio-familiar
+   Em caso de transferência
+      31      Para tisiologia
+      32      Para psiquiatria
+      33      Para clínica médica
+      34      Para cirurgia
+      35      Para obstetrícia
+      36      Para berçário
+      37      Para pediatria
+      38      Para isolamento
+      39      Para outros (CTI, radioterapia, etc)
+   Em caso de óbito com necrópsia
+      41      Até 24 horas da internação
+      43      Ocorreu após 48 horas da internação
+              Óbito de parturiente, com necrópsia, com permanência do recém-
+      44      nascido
+      45      De 24 ate 48h de internação, paciente chegou agônico
+      46      De 24 ate 48h de internação, paciente não chegou agônico
+   Em caso de óbito sem necrópsia
+      51      Nas primeiras 48 horas, chegou agônico
+      52      Nas primeiras 48 horas, não chegou agônico
+      53      Ocorreu após 48 horas de internação
+              Óbito de parturiente, com necrópsia, com permanência do recém-
+      54      nascido
+
+
+
+
+Padrão TISS – versão 2.01                                            Página 12 - 36
+   Em caso de reoperação
+      61      Em politraumatizado c/menos 24hs da 1ª Cirurgia
+      62      Em politraumatizado 24 a 48hs após 1ª Cirurgia
+      63      Em politraumatizado 48 a 72hs após 1ª Cirurgia
+      64      Em politraumatizado acima 72hs após 1ª Cirurgia
+      65      Em cirurgia de emergência c/menos 24hs após 1ª Cirurgia
+      66      Em cirurgia de emergência 24 a 48hs após 1ª Cirurgia
+      67      Em cirurgia de emergência 48 a 72hs após 1ª Cirurgia
+      68      Em cirurgia emergência acima 72h após 1ª cirurgia
+      69      Alta da parturiente com permanência do recém-nascido
+   Em caso de alta da parturiente com permanência do recém nascido
+              Em caso de alta da parturiente com permanência do recém
+      71
+              nascido
+
+
+
+
+1.17. Óbito em mulher
+
+
+    Código                               Descrição
+       1      Grávida no momento
+       2      Até 42 dias após o termino da gestação
+       3      De 43 dias até 12 meses após o término da gestação
+
+
+
+
+1.18. Tipo de Faturamento
+
+
+    Código                               Descrição
+       T      Total
+       P      Parcial
+
+
+
+
+1.19. Via de acesso
+
+
+    Código                               Descrição
+
+       U      Única
+       M      Mesma via
+       D      Diferentes vias
+
+
+
+
+Padrão TISS – versão 2.01                                            Página 13 - 36
+1.20. Técnica utilizada
+
+
+    Código                                Descrição
+       C      Convencional
+       V      Videolaparoscopia
+
+
+
+1.21. Grau de participação
+
+
+    Código                                Descrição
+      00      Cirurgião
+      01      Primeiro Auxiliar
+      02      Segundo Auxiliar
+      03      Terceiro Auxiliar
+      04      Quarto Auxiliar
+      05      Instrumentador
+      06      Anestesista
+      07      Auxiliar de Anestesista
+      08      Consultor
+      09      Perfusionista
+      10      Pediatra na sala de parto
+      11      Auxiliar SADT
+      12      Clínico
+      13      Intensivista
+
+
+
+
+1.22. Faces do dente
+
+
+    Código                                Descrição
+       O      Oclusal
+       L      Lingual
+       M      Mesial
+       V      Vestibular
+       D      Distal
+       I      Incisal
+       P      Palatina
+
+
+
+
+Padrão TISS – versão 2.01                             Página 14 - 36
+       * A combinação das faces deve envolver os itens que compõem esta
+       tabela. Não existe regra para formação das combinações, ficando isso
+       a cargo dos profissionais, na forma que melhor lhe adequar
+
+
+
+1.23. Situação Inicial
+
+
+    Código                                     Descrição
+       H        Hígido
+       E        Extração indicada
+       A        Ausente
+       C        Cariado
+       R        Restaurado
+
+
+
+1.24. Regiões
+
+
+    Código                                     Descrição
+      AS        Arco Superior
+       AI       Arco Inferior
+     HASD       Hemi-Arco Superior Direito
+     HASE       Hemi-Arco Superior Esquerdo
+     HAID       Hemi-Arco Inferior Direito
+     HAIE       Hemi-Arco Inferior Esquerdo
+     ASAI       Arcadas Superior e inferior
+      S1        Sextante superior posterior direito
+      S2        Sextante superior anterior
+      S3        1.24.1.1. Sextante superior posterior esquerdo
+      S4        Sextante inferior posterior esquerdo
+      S5        Sextante inferior anterior
+      S6        Sextante inferior posterior direito
+      RIS       Região dos Incisivos centrais superiores
+     RCSD       Região do canino e lateral superior direitos
+     RPSD       Região dos pré-molares superiores direitos
+     RMSD       Região dos molares superiores direitos
+     RCSE       Região do canino e lateral superior esquerdos
+     RPSE       Região dos pré-molares superiores esquerdos
+     RMSE       Região dos molares superiores esquerdos
+      RII       Região dos incisivos inferiores
+     RCID       Região de canino inferior direito
+     RPID       Região dos pré-molares inferiores direitos
+
+
+
+Padrão TISS – versão 2.01                                         Página 15 - 36
+     RMID     Região dos molares inferiores direitos
+     RCIE     Região de canino inferior esquerdos
+     RPIE     Região dos pré-molares inferiores esquerdos
+     RMIE     Região dos molares inferiores esquerdos
+     RMD      Região dos molares lado direitos
+      RME     Região dos molares lado esquerdos
+      RPD     Região dos pré-molares lado direitos
+      RPE     Região dos pré-molares lado esquerdos
+     RMPE     Região dos molares e pré-molares lado esquerdos
+     RMPD     Região dos molares e pré-molares lado direitos
+      SM      Região do assoalho do seio maxilar
+      TU      Região do Túber
+       RL     Região lingual
+       RP     Região palatina
+      RV      Região vestibular
+     RSMD     Região Sub-Mandibular Direita
+     RSME     Região Sub-Mandibular Esquerda
+      RSL     Região Sub-Lingual
+       SI     Região de Sínfise
+      FLI     Freio lingual
+      FLA     Freios labiais
+      UV      Úvula
+       PP     Pregas palatinas
+       PI     Papila incisiva
+       LS     Lábio Superior
+       LI     Lábio inferior
+      LG      Língua
+       CL     Comissura labial
+      AB      Assoalho de boca
+       PA     Palato
+       MJ     Mucosa jugal
+      PD      Palato duro
+      PM      Palato mole
+      RM      Região retromolar
+      MA      Mucosa alveolar
+       GI     Gengiva inserida
+       PT     Parótida
+       TP     Tonsilas palatinas
+
+
+
+
+Padrão TISS – versão 2.01                                       Página 16 - 36
+1.25. Dentes
+
+
+  Código       Descrição
+     11        Incisivo Central Superior Direito
+     12        Incisivo Lateral Superior Direito
+     13        Canino Superior Direito
+     14        Primeiro Pré-molar Superior Direito
+     15        Segundo Pré-molar Superior Direito
+     16        Primeiro Molar Superior Direito
+     17        Segundo Molar Superior Direito
+     18        Terceiro Molar Superior Direito
+     19        Dente Permanente Supranumerário em Hemi-arco Superior Direito
+     21        Incisivo Central Superior Esquerdo
+     22        Incisivo Lateral Superior Esquerdo
+     23        Canino Superior Esquerdo
+     24        Primeiro Pré-molar Superior Esquerdo
+     25        Segundo Pré-molar Superior Esquerdo
+     26        Primeiro Molar Superior Esquerdo
+     27        Segundo Molar Superior Esquerdo
+     28        Terceiro Molar Superior Esquerdo
+     29        Dente Permanente Supranumerário em Hemi-arco Superior Esquerdo
+     31        Incisivo Central Inferior Esquerdo
+     32        Incisivo Lateral Inferior Esquerdo
+     33        Canino Inferior Esquerdo
+     34        Primeiro Pré-molar Inferior Esquerdo
+     35        Segundo Pré-molar Inferior Esquerdo
+     36        Primeiro Molar Inferior Esquerdo
+     37        Segundo Molar Inferior Esquerdo
+     38        Terceiro Molar Inferior Esquerdo
+     39        Dente Permanente Supranumerário em Hemi-arco Inferior Esquerdo
+     41        Incisivo Central Inferior Direito
+     42        Incisivo Lateral Inferior Direito
+     43        Canino Inferior Direito
+     44        Primeiro Pré-molar Inferior Direito
+     45        Segundo Pré-molar Inferior Direito
+     46        Primeiro Molar Inferior Direito
+     47        Segundo Molar Inferior Direito
+     48        Terceiro Molar Inferior Direito
+
+
+
+Padrão TISS – versão 2.01                                         Página 17 - 36
+     49      Dente Permanente Supranumerário em Hemi-arco Inferior Direito
+     51      Incisivo Central Decíduo Superior Direito
+     52      Incisivo Lateral Decíduo Superior Direito
+     53      Canino Decíduo Superior Direito
+     54      Primeiro Molar Decíduo Superior Direito
+     55      Segundo Molar Decíduo Superior Direito
+
+     59      Dente Decíduo Supranumerário em Hemi-arco Superior Direito
+     61      Incisivo Central Decíduo Superior Esquerdo
+     62      Incisivo Lateral Decíduo Superior Esquerdo
+     63      Canino Decíduo Superior Esquerdo
+     64      Primeiro Molar Decíduo Superior Esquerdo
+     65      Segundo Molar Decíduo Superior Esquerdo
+     69      Dente Decíduo Supranumerário em Hemi-arco Superior Esquerdo
+     71      Incisivo Central Decíduo Inferior Esquerdo
+     72      Incisivo Lateral Decíduo Inferior Esquerdo
+     73      Canino Decíduo Inferior Esquerdo
+     74      Primeiro Molar Decíduo Inferior Esquerdo
+     75      Segundo Molar Decíduo Inferior Esquerdo
+     79      Dente Decíduo Supranumerário em Hemi-arco Inferior Esquerdo
+     81      Incisivo Central Decíduo Inferior Direito
+     82      Incisivo Lateral Decíduo Inferior Direito
+     83      Canino Decíduo Inferior Direito
+     84      Primeiro Molar Decíduo Inferior Direito
+     85      Segundo molar Decíduo Inferior Direito
+
+     89      Dente Decíduo Supranumerário em Hemi-arco Inferior Direito
+
+
+
+1.26. Status do protocolo
+
+
+    Código                                 Descrição
+       1      Recebido
+       2      Em análise
+       3      Liberado para pagamento
+       4      Encerrado sem pagamento
+       5      Analisado e aguardando liberação para o pagamento
+
+
+
+1.27. CBO-S (especialidade)
+
+
+    Código                                 Descrição
+
+
+
+Padrão TISS – versão 2.01                                         Página 18 - 36
+   01280      Físico nuclear
+   03370      Técnico de saneamento
+   04945      Pedagogo
+   05110      Biologista em geral (biólogo biomédico)
+   05230      Bioquímico
+   05250      Bacteriologista
+   05270      Farmacologista
+   05290      Outros bacteriologistas e trabalhadores assemelhados
+   06105      Médico em geral (clinico geral)
+   06110      Médico cirurgião em geral
+   06112      Médico cirurgião pediátrico
+   06113      Médico de perícias médicas
+   06114      Médico anatomopatologista
+   06115      Médico anestesista
+   06116      Médico broncoesofalogista
+   06117      Médico cardiologista
+   06118      Médico cirurgião vascular
+   06119      Médico dermatologista
+   06120      Médico cirurgião cardiovascular
+   06121      Médico oncologista pediátrico
+   06122      Médico do trabalho
+   06123      Médico gastroenterologista
+   06124      Médico hematologista
+   06125      Médico endocrinologista
+   06126      Médico nuclear
+   06127      Médico endoscopista
+   06128      Médico fisiatra
+   06129      Médico oncologista clinico
+   06130      Médico reumatologista
+   06131      Médico neurocirurgião
+   06132      Médico ginecologista
+   06133      Médico alergista/imunologista
+   06134      Médico geriatra
+   06135      Médico hemoterapeuta
+   06136      Médico hansenologista
+   06137      Médico legista
+   06138      Médico nefrologista
+   06139      Médico mastologista
+   06140      Médico sanitarista
+
+
+
+Padrão TISS – versão 2.01                                            Página 19 - 36
+   06141      Médico de saúde da família
+   06142      Médico neurologista
+   06143      Médico geneticista clinico
+   06144      Médico infectologista
+   06145      Médico obstetra
+   06146      Médico cirurgião de cabeça e pescoço
+   06147      Médico oftalmologista
+   06148      Médico homeopata
+   06149      Médico ginecologista / obstetra
+   06150      Médico ortopedista
+   06151      Médico geral comunitário
+   06152      Médico otorrinolaringologista
+   06153      Médico citopatologista
+   06154      Médico cirurgião torácico
+   06155      Médico pediatra
+   06156      Médico ultrasonografista
+   06157      Médico pneumotisiologista
+   06158      Médico acupunturista
+   06159      Médico cancerologista
+   06160      Médico proctologista
+   06161      Médico cirurgião de mão
+   06162      Médico psiquiatra
+   06163      Médico cirurgião do aparelho digestivo
+   06164      Médico plantonista
+   06165      Médico radiologista
+   06166      Médico intensivista
+   06167      Médico radioterapeuta
+   06168      Médico oncologista cirúrgico
+   06170      Médico urologista
+   06172      Médico patologista clinico
+   06175      Médico angiologista
+   06177      Médico de medicina esportiva
+   06180      Médico cirurgião plástico
+   06190      Outros médicos
+   06310      Cirurgião dentista em geral
+   06330      Cirurgião dentista (saúde pública)
+   06335      Cirurgião dentista (traumatologia buco maxilo facial)
+   06340      Cirurgião dentista (endodontia)
+   06345      Cirurgião dentista (ortodontia)
+
+
+
+Padrão TISS – versão 2.01                                             Página 20 - 36
+   06350      Cirurgião dentista (patologia bucal)
+   06355      Cirurgião dentista (pediatria)
+   06360      Cirurgião dentista (prótese)
+   06365      Cirurgião dentista (radiologia)
+   06370      Cirurgião dentista (periodontia)
+   06510      Médico veterinário em geral
+   06540      Zootecnista
+   06710      Farmacêutico em geral
+   06810      Nutricionista em geral
+   07110      Enfermeiro, em geral
+   07111      Enfermeiro do PACS
+   07112      Enfermeiro do PSF
+   07130      Enfermeiro sanitarista
+   07140      Enfermeiro do trabalho
+   07145      Enfermeiro obstetra
+   07150      Enfermeiro de centro cirúrgico
+   07155      Enfermeiro de terapia intensiva
+   07160      Enfermeiro peuricultor e pediátrico
+   07165      Enfermeiro psiquiátrico
+   07210      Técnico de enfermagem em geral
+   07215      Técnico de enfermagem do trabalho
+   07220      Técnico de enfermagem de terapia intensiva
+   07230      Técnico de enfermagem psiquiátrica
+   07231      Fiscal sanitário
+   07234      Técnico em vigilância sanitária
+   07236      Técnico em reabilitação
+   07238      Técnico em equipamento médico-hospitalar
+   07290      Técnico de enfermagem do PSF
+   07310      Assistente social em geral
+   07410      Psicólogo em geral
+   07525      Ortoptista
+   07530      Ótico
+   07550      Técnico em orientação e mobilidade de cegos e deficientes visuais
+   07620      Fisioterapeuta
+   07630      Terapeuta ocupacional
+   07690      Terapeutas em geral (outros terapeutas)
+   07720      Operador de raio-x
+   07730      Operador de eletrocardiógrafo
+   07740      Operador de eletroencefalografo
+
+
+
+Padrão TISS – versão 2.01                                           Página 21 - 36
+   07790        Outros operadores de equipamentos médicos e odontológicos
+   07914        Foniatra
+   07915        Acupunturista
+   07925        Fonoaudiólogo
+   07935        Técnico de higiene dental
+   07945        Quiropata
+   07946        Técnico em laboratório
+   07948        Técnico de radiologia
+   07950        Técnico de ortopedia
+   19998        Outros profissionais de nível superior
+   19999        Outros profissionais de nível técnico e médio
+   31120        Agente Administrativo
+   31120        Técnico administrativo
+   31122        Auxiliar administrativo
+   57210        Auxiliar de enfermagem
+   57216        Auxiliar de enfermagem no PSF
+   57220        Atendente de enfermagem
+   57232        Agente de vigilância sanitária
+   57233        Agente de saneamento
+                Guarda de endemias/Agente de zoonoses/Agente de controle de
+   57235
+                vetores
+   57260        Parteira
+   57275        Auxiliar de análises clínicas
+   57280        Socorrista habilitado
+   57282        Agente comunitário
+   99999        Outros profissionais não classificáveis nessa tabela
+
+
+
+1.28. Glosas, negativas e demais mensagens
+
+
+                   Código da
+    Grupo                                        Descrição da Mensagem
+                   Mensagem
+Elegibilidade          1001      Número da carteira inválido
+Elegibilidade          1002      Número do Cartão Nacional de Saúde inválido
+                                 A admissão do Beneficiário no prestador ocorreu
+Elegibilidade          1003
+                                 antes da inclusão do Beneficiário na Operadora
+Elegibilidade          1004      Solicitação Anterior à Inclusão do Beneficiário
+Elegibilidade          1005      Atendimento anterior à inclusão do Beneficiário
+Elegibilidade          1006      Atendimento após o desligamento do Beneficiário
+Elegibilidade          1007      Atendimento dentro da carência do Beneficiário
+Elegibilidade          1008      Assinatura divergente
+Elegibilidade          1009      Beneficiário com pagamento em aberto
+
+
+
+Padrão TISS – versão 2.01                                              Página 22 - 36
+                 Código da
+       Grupo                              Descrição da Mensagem
+                 Mensagem
+Elegibilidade        1010    Assinatura do Titular / Responsável inexistente
+Elegibilidade        1011    Identificação do beneficiário não consistente
+                             Serviço Profissional Hospitalar não é coberto pelo
+Elegibilidade        1012
+                             plano do beneficiário
+Elegibilidade        1013    Cadastro do beneficiário com problemas
+Elegibilidade        1014    Beneficiário com data de exclusão
+Elegibilidade        1015    Idade do Beneficiário acima idade limite
+Elegibilidade        1016    Beneficiário com atendimento suspenso
+Elegibilidade        1017    Data Validade da Carteira Vencida
+Elegibilidade        1018    Empresa do beneficiário suspensa / excluída
+Elegibilidade        1019    Família do Beneficiário com atendimento suspenso
+Elegibilidade        1020    Via de Cartão do Beneficiário Cancelada
+Elegibilidade        1021    Via de Cartão do Beneficiário não liberada
+Elegibilidade        1022    Via de Cartão do beneficiário não compatível
+Elegibilidade        1023    Nome do titular inválido
+Elegibilidade        1024    Plano não existente
+Elegibilidade        1099    Outros
+                             Quantidade de Guias informadas no Protocolo
+Protocolo            1101
+                             diferente das cadastradas
+Protocolo            1102    Protocolo é de re-apresentação
+Protocolo            1103    Protocolo não é de reapresentação
+                             Valor total do protocolo diferente do valor total das
+Protocolo            1104
+                             guias
+Protocolo            1199    Outros
+                             Atendimento fora da vigência do contrato com o
+Prestador            1201
+                             credenciado
+Prestador            1202    Número do CNES inválido
+Prestador            1203    Código Prestador inválido
+Prestador            1204    Admissão anterior à inclusão do credenciado na rede
+                             Admissão após o desligamento do credenciado da
+Prestador            1205
+                             rede
+Prestador            1206    CPF / CNPJ inválido
+Prestador            1207    Credenciado não pertence à Rede Credenciada
+Prestador            1208    Solicitação anterior à inclusão do Credenciado
+Prestador            1209    Solicitação após o desligamento do Credenciado
+Prestador            1210    Solicitante Credenciado não cadastrado
+Prestador            1211    Assinatura / Carimbo do Credenciado inexistente
+                             Atendimento / Referência fora da vigência do
+Prestador            1212
+                             contrato do prestador
+Prestador            1213    CBO-S (especialidade) inválido
+Prestador            1214    Credenciado não habilitado a realizar o procedimento
+Prestador            1215    Credenciado fora da abrangência geográfica do plano
+Prestador            1216    Especialidade não cadastrada
+Prestador            1217    Especialidade não cadastrada para o prestador
+Prestador            1299    Outros
+Guia                 1301    Tipo Guia inválido
+                             Código Tipo Guia Principal e Número Guias
+Guia                 1302
+                             Incompatíveis
+
+
+Padrão TISS – versão 2.01                                          Página 23 - 36
+                 Código da
+       Grupo                              Descrição da Mensagem
+                 Mensagem
+Guia                 1303    Não existe o Número Guia Principal informado
+Guia                 1304    Cobrança em guia indevida
+Guia                 1305    Item pago em outra Guia
+                             Não existe Número Guia Principal e/ou Código Guia
+Guia                 1306
+                             Principal
+Guia                 1307    Número da guia inválido
+Guia                 1308    Guia já apresentada
+                             Procedimento contratado não está de acordo com o
+Guia                 1309
+                             tipo de guia utilizado
+                             Serviço do tipo cirúrgico e invasivo. Equipe médica
+Guia                 1310
+                             não informada na guia
+Guia                 1311    Prestador executante não informado
+Guia                 1312    Prestador contratado não informado
+Guia                 1313    Guia com rasura
+Guia                 1314    Guia sem assinatura e/ou carimbo do credenciado.
+Guia                 1315    Guia sem data do ato cirúrgico.
+                             Guia com local de atendimento preenchido
+Guia                 1316
+                             incorretamente.
+Guia                 1317    Guia sem data do atendimento
+                             Guia     com      código   de   serviço  preenchido
+Guia                 1318
+                             incorretamente.
+Guia                 1319    Guia sem assinatura do assistido.
+Guia                 1320    Identificação do assistido incompleta
+Guia                 1321    Validade da guia expirada
+Guia                 1399    Outros
+Autorização /                Acomodação não autorizada
+                     1401
+Solicitação
+Autorização /                Procedimento não autorizado
+                     1402
+Solicitação
+Autorização /                Não existe informação sobre a senha de autorização
+                     1403
+Solicitação                  do procedimento
+Autorização /                Não existe guia de autorização relacionada
+                     1404
+Solicitação
+Autorização /                Data de Validade da Senha é anterior a Data do
+                     1405
+Solicitação                  Atendimento
+Autorização /                Número da Senha informado diferente do liberado
+                     1406
+Solicitação
+Autorização /                Serviço solicitado não possui cobertura
+                     1407
+Solicitação
+Autorização /                Quantidade Serviço Solicitada acima da Autorizada
+                     1408
+Solicitação
+Autorização /                Quantidade Serviço solicitada acima coberta
+                     1409
+Solicitação
+Autorização /                Serviço solicitado em Carência
+                     1410
+Solicitação
+Autorização /                Solicitante não Informado
+                     1411
+Solicitação
+Autorização /                Problemas no sistema autorizador
+                     1412
+Solicitação
+
+
+Padrão TISS – versão 2.01                                          Página 24 - 36
+                 Código da
+    Grupo                                 Descrição da Mensagem
+                 Mensagem
+Autorização /                Acomodação não possui cobertura
+                     1413
+Solicitação
+Autorização /                Data de validade da senha expirada
+                     1414
+Solicitação
+Autorização /                Procedimento não autorizado para o Beneficiário
+                     1415
+Solicitação
+Autorização /                Solicitante não Cadastrado
+                     1416
+Solicitação
+Autorização /                Solicitante não habilitado
+                     1417
+Solicitação
+Autorização /                Solicitante suspenso
+                     1418
+Solicitação
+Autorização /                Serviço solicitado já autorizado
+                     1419
+Solicitação
+Autorização /                Serviço solicitado fora da cobertura
+                     1420
+Solicitação
+Autorização /                Serviço solicitado é de pré-existência
+                     1421
+Solicitação
+Autorização /                Especialidade não cadastrada para o Solicitante
+                     1422
+Solicitação
+Autorização /                Quantidade solicitada acima da quantidade permitida
+                     1423
+Solicitação
+Autorização /                Quantidade    autorizada   acima   da       quantidade
+                     1424
+Solicitação                  permitida
+Autorização /                Necessita pré-autorização da empresa
+                     1425
+Solicitação
+Autorização /                Não autorizado pela auditoria médica
+                     1426
+Solicitação
+Autorização /                Necessidade de auditoria médica
+                     1427
+Solicitação
+Autorização /                Falta de autorização da empresa de conectividade
+                     1428
+Solicitação
+Autorização /                CBO-S (especialidade) não autorizado a realizar o
+                     1429
+Solicitação                  serviço
+Autorização /                Procedimento odontológico não autorizado
+                     1430
+Solicitação
+Autorização /                Procedimento não autorizado na face solicitada
+                     1431
+Solicitação
+Autorização /                Procedimento não autorizado para dente/região
+                     1432
+Solicitação                  solicitada
+Autorização /                Procedimento não autorizado, dente ausente
+                     1433
+Solicitação
+Autorização /                Outros
+                     1499
+Solicitação
+Diagnóstico          1501    Tempo de Evolução da doença Inválido
+Diagnóstico          1502    Tipo de Doença inválido
+Diagnóstico          1503    Indicador de Acidente Inválido
+Diagnóstico          1504    Caráter de Internação Inválido
+Diagnóstico          1505    Regime da internação inválido
+
+
+Padrão TISS – versão 2.01                                             Página 25 - 36
+                 Código da
+    Grupo                                 Descrição da Mensagem
+                 Mensagem
+Diagnóstico          1506    Tipo de Internação Inválido
+Diagnóstico          1507    Urgência não aplicável
+Diagnóstico          1508    Código CID não Informado
+Diagnóstico          1509    Código CID inválido
+Diagnóstico          1599    Outros
+Atendimento          1601    Reincidência no atendimento
+Atendimento          1602    Tipo de atendimento inválido ou não informado
+Atendimento          1603    Tipo de consulta inválido
+Atendimento          1604    Tipo de saída inválido
+Atendimento          1605    Intervenção anterior a Admissão
+                             Final da Intervenção anterior ao Início da
+Atendimento          1606
+                             Intervenção
+Atendimento          1607    Alta Hospitalar anterior ao Final da Intervenção
+Atendimento          1608    Alta anterior à data de internação
+Atendimento          1609    Motivo Saída Inválido
+Atendimento          1610    Óbito Mulher Inválido
+Atendimento          1611    Intervenção anterior a Internação
+Atendimento          1612    Serviço não pode ser realizado no local especificado
+Atendimento          1613    Consulta não autorizada
+Atendimento          1614    Serviço ambulatorial não autorizado
+Atendimento          1615    Internação não autorizada
+Atendimento          1699    Outros
+Regra de                     Cobrança fora do prazo de validade
+                     1701
+Valorização
+Regra de                     Cobrança de procedimento em duplicidade
+                     1702
+Valorização
+Regra de                     Horário do atendimento não está na faixa de
+                     1703
+Valorização                  urgência/emergência
+Regra de                     Valor cobrado superior ao acordado em pacote
+                     1704
+Valorização
+Regra de                     Valor apresentado a maior
+                     1705
+Valorização
+Regra de                     Valor apresentado a menor
+                     1706
+Valorização
+                             Não existe informação sobre a tabela que será
+Regra de
+                     1707    utilizada na Valoração. Verifique o Contrato do
+Valorização
+                             Prestador
+Regra de                     Não existe valor para o procedimento realizado
+                     1708
+Valorização
+Regra de                     Falta prescrição médica
+                     1709
+Valorização
+Regra de                     Falta visto da Enfermagem
+                     1710
+Valorização
+Regra de                     Procedimento pertence a um pacote acordado e já
+                     1711
+Valorização                  cobrado
+Regra de                     Assinatura do Médico responsável pelo exame
+                     1712
+Valorização                  inexistente
+
+
+
+
+Padrão TISS – versão 2.01                                         Página 26 - 36
+                 Código da
+    Grupo                                 Descrição da Mensagem
+                 Mensagem
+Regra de                     Faturamento Inválido
+                     1713
+Valorização
+Regra de                     Valor do serviço superior ao valor de tabela
+                     1714
+Valorização
+Regra de                     Valor do serviço inferior ao valor de tabela
+                     1715
+Valorização
+Regra de                     Percentual de redução/acréscimo fora dos valores
+                     1716
+Valorização                  definidos em tabela
+Regra de                     Outros
+                     1799
+Valorização
+Procedimento         1801    Procedimento inválido
+                             Procedimento      incompatível    com    o    sexo   do
+Procedimento         1802
+                             Beneficiário
+                             Idade     do    Beneficiário   incompatível    com     o
+Procedimento         1803
+                             Procedimento
+                             Número de dias liberados / sessões autorizadas não
+Procedimento         1804
+                             informadas
+                             Valor total do procedimento diferente do Valor
+Procedimento         1805
+                             Processado
+                             Quantidade de procedimento deve ser maior que
+Procedimento         1806
+                             zero
+Procedimento         1807    Procedimentos médicos duplicados
+Procedimento         1808    Procedimento não conforme com CID
+Procedimento         1809    Cobrança de procedimento não executado
+                             Cobrança de procedimento não solicitado pelo
+Procedimento         1810
+                             médico
+Procedimento         1811    Procedimento sem registro de execução
+                             Cobrança de procedimento não correlacionado ao
+Procedimento         1812
+                             relatório específico
+                             Cobrança de procedimento sem justificativa para
+Procedimento         1813
+                             realização ou com justificativa insuficiente.
+                             Cobrança de procedimento com data de autorização
+Procedimento         1814
+                             posterior à do atendimento.
+Procedimento         1815    Procedimento não autorizado
+                             Cobrança      de     procedimento     em     quantidade
+Procedimento         1816
+                             incompatível com o procedimento/evolução clínica
+                             Cobrança de procedimento incluso no procedimento
+Procedimento         1817
+                             principal
+                             Cobrança de procedimento que exige autorização
+Procedimento         1818
+                             prévia
+                             Cobrança       de     procedimento      com     história
+Procedimento         1819
+                             clínica/hipótese diagnóstica não compatível
+                             Cobrança de procedimento em quantidade acima da
+Procedimento         1820
+                             máxima permitida/autorizada
+                             Cobrança de procedimento não compatível com a
+Procedimento         1821
+                             idade.
+                             Cobrança de procedimento com ausência de
+Procedimento         1822
+                             resultado ou laudo técnico.
+                             Procedimento realizado pelo mesmo profissional, na
+Procedimento         1823
+                             mesma especialidade, no prazo inferior ao estipulado
+
+
+
+Padrão TISS – versão 2.01                                            Página 27 - 36
+                 Código da
+    Grupo                                 Descrição da Mensagem
+                 Mensagem
+                             sem justificativa adequada.
+
+                             Procedimento cobrado não corresponde ao exame
+Procedimento         1824
+                             executado
+                             Cobrança de procedimento ambulatorial com data de
+Procedimento         1825
+                             autorização posterior à do atendimento.
+Procedimento         1899    Outros
+Diária               1901    Acomodação inválida
+                             Acomodação informada não está de acordo com
+Diária               1902
+                             acomodação contratada
+                             Permanência hospitalar incompatível com a evolução
+Diária               1903
+                             clínica
+                             Permanência      hospitalar   incompatível   com    o
+Diária               1904
+                             procedimento autorizado
+Diária               1905    Quantidade de diárias deve ser maior que zero
+Diária               1906    Acomodação não informada
+Diária               1907    Quantidade UTI não prevista para procedimento
+Diária               1908    Usuário não possui cobertura de UTI
+Diária               1909    Acomodação não autorizada
+                             Cobrança de diárias em locais de acomodações
+Diária               1910
+                             diferentes, no mesmo dia.
+                             Permanência       hospitalar     para    investigação
+Diária               1911
+                             injustificada.
+                             Evolução clínica não compatível com a permanência
+Diária               1912
+                             em UTI.
+                             Código de diária incompatível com o local de
+Diária               1913
+                             atendimento.
+                             Cobrança de diária em quantidade incompatível com
+Diária               1914
+                             a permanência hospitalar.
+                             Mudança de acomodação sem comunicação ao
+Diária               1915    paciente, familiar ou acompanhante, ou sem
+                             solicitação destes.
+                             Cobrança de diárias de UTI incompatível com
+Diária               1916
+                             diagnóstico e evolução clínica.
+Diária               1999    Outros
+Material             2001    Material inválido
+                             Material     sem    cobertura     para   atendimento
+Material             2002
+                             ambulatorial
+Material             2003    Material não especificado
+Material             2004    Material sem nota fiscal do fornecedor
+Material             2005    Quantidade de material deve ser maior que zero
+Material             2006    Material informado não coberto
+                             Cobrança de material em quantidade incompatível
+Material             2007
+                             com a permanência.
+                             Cobrança de material em quantidades incompatíveis
+Material             2008
+                             com o procedimento realizado.
+                             Quantidade de material superior a quantidade
+Material             2009
+                             coberta
+Material             2010    Cobrança de materiais inclusos nas taxas
+
+
+
+Padrão TISS – versão 2.01                                          Página 28 - 36
+                 Código da
+      Grupo                              Descrição da Mensagem
+                 Mensagem
+Material             2011    Cobrança de material incluso no pacote negociado.
+                             Cobrança de material incompatível com o relatório
+Material             2012
+                             técnico.
+                             Cobrança de material em permanência hospitalar não
+Material             2013
+                             autorizada.
+Material             2014    Cobrança de material não utilizado
+Material             2099    Outros
+Medicamento          2101    Medicamento inválido
+                             Medicamento sem cobertura para atendimento
+Medicamento          2102
+                             ambulatorial
+Medicamento          2103    Medicamento não especificado
+Medicamento          2104    Medicamento sem nota fiscal do fornecedor
+                             Quantidade de medicamentos deve ser maior que
+Medicamento          2105
+                             zero
+Medicamento          2106    Medicamento informado não coberto
+                             Cobrança      de   medicamento      em    quantidade
+Medicamento          2107
+                             incompatível com a permanência.
+                             Cobrança     de    medicamento     em    quantidades
+Medicamento          2108
+                             incompatíveis com o procedimento realizado.
+                             Quantidade de medicamento superior a quantidade
+Medicamento          2109
+                             coberta
+Medicamento          2110    Cobrança de medicamento inclusos nas taxas
+                             Cobrança de medicamento incluso no pacote
+Medicamento          2111
+                             negociado.
+                             Cobrança de medicamento incompatível com o
+Medicamento          2112
+                             relatório técnico.
+                             Cobrança     de    medicamento    em    permanência
+Medicamento          2113
+                             hospitalar não autorizada.
+Medicamento          2114    Cobrança de medicamento não utilizado
+Medicamento          2199    Outros
+OPM                  2201    OPM inválido
+OPM                  2202    OPM sem cobertura para atendimento ambulatorial
+OPM                  2203    OPM sem nota fiscal do fornecedor
+OPM                  2204    Quantidade de OPM deve ser maior que zero
+OPM                  2205    OPM informado não coberto
+OPM                  2206    OPM informado não autorizado
+OPM                  2207    Cobrança de OPM não utilizado
+OPM                  2208    Cobrança de OPM no item material e medicamentos.
+                             Cobrança de OPM em desacordo com relatório
+OPM                  2209
+                             técnico
+                             Cobrança de OPM em quantidade incompatível com o
+OPM                  2210
+                             procedimento realizado
+OPM                  2211    Cobrança de OPM inclusa no pacote
+OPM                  2299    Outros
+Gases                        Gases Medicinais inválidos
+                     2301
+Medicinais
+Gases                        Cobrança de oxigenoterapia sem prescrição médica.
+                     2302
+Medicinais
+
+
+
+
+Padrão TISS – versão 2.01                                         Página 29 - 36
+                 Código da
+    Grupo                                 Descrição da Mensagem
+                 Mensagem
+Gases                        Cobrança de oxigenoterapia com quantitativo de uso
+                     2303
+Medicinais                   em divergência/pago valor corrigido.
+Gases                        Cobrança de oxigênio incluso na taxa de nebulização
+                     2304
+Medicinais                   especificada.
+Gases                        Cobrança de oxigenoterapia em uso prolongado sem
+                     2305
+Medicinais                   justificativa de uso.
+Gases                        Cobrança de oxigenoterapia sem registro de controle
+                     2306
+Medicinais                   de uso (entrada e saída).
+Gases                        Cobrança de gases em quantidade superior ao
+                     2307
+Medicinais                   período de permanência
+                             Cobrança de CO2 nas cirurgias videolaparoscópicas
+Gases
+                     2308    durante toda a realização do procedimento (início ao
+Medicinais
+                             fim).
+Gases                        Cobrança de ar comprimido sem registro no Boletim
+                     2309
+Medicinais                   Anestésico e duração de uso.
+Gases                        Cobrança de gases incompatível com o utilizado/
+                     2310
+Medicinais                   prescrito.
+Gases                        Outros
+                     2399
+Medicinais
+Taxas e                      Taxa / Aluguel inválido
+                     2401
+aluguéis
+                             Cobrança de taxa por uso de equipamento
+Taxas e
+                     2402    incompatível com o procedimento realizado/uso
+aluguéis
+                             previsto no procedimento.
+Taxas e                      Cobrança de taxa de uso de bomba de infusão em
+                     2403
+aluguéis                     paciente internado na UTI
+Taxas e              2404    Cobrança de outras taxas associadas/inclusas na
+aluguéis                     cobrança da taxa de sala prevista.
+                     2405    Cobrança de mais de uma taxa de sala de cirurgia,
+Taxas e
+                             por conta do número de procedimentos realizados no
+aluguéis
+                             mesmo tempo cirúrgico.
+Taxas e              2406    Cobrança indevida de taxa de sala por administração
+aluguéis                     de medicamentos.
+                     2407    Cobrança de taxas, de serviços realizados em
+Taxas e
+                             ambientes incompatíveis com o uso de
+aluguéis
+                             equipamentos.
+Taxas e              2408    Cobrança de taxas em quantidade superior ao tempo
+aluguéis                     de permanência hospitalar
+Taxas e              2409    Cobrança de taxa de observação em pronto socorro
+aluguéis                     com permanência menor que o período estipulado
+Taxas e              2410    Cobrança de taxa de observação em pronto socorro
+aluguéis                     sem o registro da permanência.
+Taxas e              2411    Cobrança de taxa de sala de pronto socorro, para
+aluguéis                     aplicação de medicamentos.
+Taxas e              2412    Cobrança de taxa de recuperação anestésica não
+aluguéis                     justificada para o procedimento.
+Taxas e              2413    Cobrança de taxa inclusa no pacote negociado.
+aluguéis
+Taxas e              2414    Cobrança de taxa de equipamento em concomitância
+aluguéis                     com a cobrança de taxa para o procedimento.
+Taxas e              2415    Taxa exige informação do valor na Guia.
+
+
+
+Padrão TISS – versão 2.01                                         Página 30 - 36
+                 Código da
+    Grupo                                 Descrição da Mensagem
+                 Mensagem
+aluguéis
+                     2416    Cobrança de taxa de recuperação anestésica para
+Taxas e
+                             pacientes com pós-operatório imediato realizado na
+aluguéis
+                             UTI/CTI.
+Taxas e              2417    Cobrança de taxa de recuperação anestésica sem a
+aluguéis                     presença do anestesista.
+Taxas e                      Cobrança de taxa de sala incompatível com o
+                     2418
+aluguéis                     procedimento.
+Taxas e                      Cobrança de taxa de observação para atendimento
+                     2419
+aluguéis                     que gerou uma internação.
+                             Cobrança de taxa de sala cirúrgica com porte
+Taxas e
+                     2420    anestésico       diferente    do       procedimento
+aluguéis
+                             autorizado/realizado.
+Taxas e                      Cobrança de taxa em quantidade incorreta.
+                     2421
+aluguéis
+                             Cobrança de taxa por uso de equipamento de uso
+Taxas e
+                     2422    obrigatório na sala de cirurgia, cuja taxa de sala
+aluguéis
+                             cirúrgica já inclui seu uso.
+Taxas e                      Cobrança de taxa de equipamentos de uso
+                     2423
+aluguéis                     obrigatório no local de atendimento.
+Taxas e                      Cobrança de taxa de observação para atendimento
+                     2424
+aluguéis                     que gerou uma internação.
+Taxas e                      Outros
+                     2499
+aluguéis
+Procedimentos                Procedimento em série inválido
+                     2501
+em Série
+Procedimentos                Cobrança de duas avaliações fisioterápicas
+                     2502
+em Série
+Procedimentos                Cobrança de psicoterapia individual, quando o
+                     2503
+em Série                     aplicado é a cobrança de psicoterapia em grupo
+Procedimentos                Quantidade de sessões cobradas não condizem com
+                     2504
+em Série                     as assinaturas no controle de tratamento seriado
+Procedimentos                O código cobrado é diferente do código autorizado
+                     2505
+em Série
+Procedimentos                A quantidade de sessões cobradas é diferente da
+                     2506
+em Série                     quantidade autorizada
+Procedimentos                O código autorizado está incompatível com a
+                     2507
+em Série                     prescrição médica solicitada
+Procedimentos                Cobrança de sessões sem o devido plano de
+em Série             2508    tratamento e, ou, com o prazo de pagamento
+                             expirado
+Procedimentos                Cobrança do procedimento seriado incompatível com
+                     2509
+em Série                     o quadro clínico
+Procedimentos                Cobrança do procedimento seriado em número de
+                     2510
+em Série                     sessões acima da quantidade estabelecida
+Procedimentos                Ausência de evolução no prontuário médico do
+                     2511
+em Série                     tratamento seriado realizado.
+Procedimentos                Cobrança de sessões de fisioterapia em desacordo
+                     2512
+em Série                     com as evoluções do prontuário médico
+
+
+
+
+Padrão TISS – versão 2.01                                          Página 31 - 36
+                 Código da
+    Grupo                                Descrição da Mensagem
+                 Mensagem
+Procedimentos                Cobrança de tratamento seriado sem justificativa
+                     2513
+em Série                     clínica/técnica
+Procedimentos                Serviço não contratado para o prestador
+                     2514
+em Série
+Procedimentos                Local de atendimento inadequado
+                     2515
+em Série
+Procedimentos                Quantidade cobrada diferente da realizada
+                     2516
+em Série
+Procedimentos                Outros
+                     2599
+em Série
+Honorários           2601    Codificação incorreta/inadequada do procedimento.
+Honorários                   Cobrança de honorário incluso no procedimento
+                     2602
+                             principal
+Honorários                   Cobrança de honorário sem registro da efetiva
+                     2603
+                             participação do profissional
+Honorários           2604    Procedimento principal não requer equipe médica
+Honorários                   Não cabe pagamento do honorário integral por ser a
+                     2605
+                             mesma via de acesso cirúrgico.
+Honorários                   Cobrança do honorário em local de atendimento
+                     2606
+                             incorreto (inexistente).
+Honorários           2607    Cobrança de Honorários em duplicidade.
+Honorários                   Cobrança     de    consulta   indevida,     quando o
+                     2608
+                             procedimento principal já está sendo remunerado.
+Honorários           2609    Local de atendimento não informado.
+Honorários           2699    Outros
+Exames               2701    Procedimento inválido
+Exames               2702    Cobrança de exame não solicitado pelo médico
+Exames               2703    Exame sem registro de execução
+                             Cobrança de exame não correlacionado ao relatório
+Exames               2704
+                             específico
+                             Cobrança de procedimento/exame sem justificativa
+Exames               2705
+                             para realização ou com justificativa insuficiente.
+                             Cobrança de procedimento/exame com data de
+Exames               2706
+                             autorização posterior à do atendimento.
+Exames               2707    Exame não autorizado
+                             Cobrança de exame em quantidade incompatível com
+Exames               2708
+                             o procedimento/evolução clínica
+                             Cobrança de procedimento incluso no procedimento
+Exames               2709
+                             principal
+Exames               2710    Cobrança de exame que exige autorização prévia
+                             Cobrança de exame com história clínica/hipótese
+Exames               2711
+                             diagnóstica não compatível
+                             Cobrança de exame em quantidade acima da
+Exames               2712
+                             máxima permitida/autorizada
+Exames               2713    Cobrança de exame não compatível com a idade.
+                             Cobrança de exame com ausência de resultado ou
+Exames               2714
+                             laudo técnico.
+                             Exame realizado pelo mesmo profissional, na mesma
+Exames               2715
+                             especialidade, no prazo inferior ao estipulado sem
+
+
+
+Padrão TISS – versão 2.01                                         Página 32 - 36
+                 Código da
+    Grupo                                 Descrição da Mensagem
+                 Mensagem
+                             justificativa adequada.
+
+                             Exame cobrado não corresponde ao exame
+Exames               2716
+                             executado
+                             Cobrança de exame ambulatorial com data de
+Exames               2717
+                             autorização posterior à do atendimento.
+Exames               2718    Exames não justificam caráter de urgência
+Exames               2799    Outros
+Pacotes              2801    Pacote inválido
+Pacotes              2802    Pacote incompatível com o sexo do Beneficiário
+Pacotes              2803    Idade do Beneficiário incompatível com o Pacote
+Pacotes              2804    Valor total do pacote diferente do Valor Processado
+Pacotes              2805    Valor do pacote superior ao valor dos itens
+Pacotes              2806    Cobrança de pacote não executado
+Pacotes              2807    Cobrança de pacote não solicitado pelo médico
+Pacotes              2808    Pacote sem registro de execução
+                             Cobrança de pacote não correlacionado ao relatório
+Pacotes              2809
+                             específico
+                             Cobrança de pacote sem justificativa para realização
+Pacotes              2810
+                             ou com justificativa insuficiente.
+                             Cobrança de pacote com data de autorização
+Pacotes              2811
+                             posterior à do atendimento.
+Pacotes              2812    Pacote não autorizado
+                             Cobrança de pacote em quantidade incompatível com
+Pacotes              2813
+                             o procedimento/evolução clínica
+Pacotes              2814    Itens de composição do pacote não realizados
+Pacotes              2815    Cobrança do pacote exige autorização prévia
+                             Cobrança de pacote com história clínica/hipótese
+Pacotes              2816
+                             diagnóstica não compatível
+                             Cobrança de pacote em quantidade acima da
+Pacotes              2817
+                             máxima permitida/autorizada
+Pacotes              2818    Cobrança de pacote não compatível com a idade.
+                             Cobrança de pacote com ausência de resultado ou
+Pacotes              2819
+                             laudo técnico.
+                             Pacote realizado pelo mesmo profissional, na mesma
+Pacotes              2820    especialidade, no prazo inferior ao estipulado sem
+                             justificativa adequada.
+                             Pacote cobrado não corresponde ao exame
+Pacotes              2821
+                             executado
+                             Cobrança de pacote ambulatorial com data de
+Pacotes              2822
+                             autorização posterior à do atendimento.
+Pacotes              2899    Outros
+Revisão de                   Revisão de glosa inválida
+                     2901
+glosa
+Revisão de                   Glosa mantida
+                     2902
+glosa
+Revisão de                   Pedido de revisão sem justificativa
+                     2903
+glosa
+Revisão de           2904    Mais de um recurso de glosa para a mesma
+
+
+
+Padrão TISS – versão 2.01                                          Página 33 - 36
+                 Código da
+    Grupo                                 Descrição da Mensagem
+                 Mensagem
+glosa                        guia/protocolo
+Revisão de                   A guia não é de revisão
+                     2905
+glosa
+Revisão de                   Número da guia inválido
+                     2906
+glosa
+Revisão de                   Outros
+                     2999
+glosa
+Odontologia          3001    Procedimento odontológico inválido
+                             Cobrança de procedimento odontológico que exige
+Odontologia          3002
+                             autorização prévia
+                             Idade      do   Beneficiário  incompatível    com    o
+Odontologia          3003
+                             Procedimento odontológico
+                             Cobrança      de   procedimento     odontológico   em
+Odontologia          3004
+                             quantidade acima da máxima permitida/autorizada
+                             Valor total do procedimento diferente do Valor
+Odontologia          3005
+                             Processado
+                             Quantidade de procedimento deve ser maior que
+Odontologia          3006
+                             zero
+Odontologia          3007    Procedimentos odontológicos duplicados
+                             Cobrança de procedimento odontológico incluso no
+Odontologia          3008
+                             procedimento principal
+                             Cobrança de        procedimento     odontológico   não
+Odontologia          3009
+                             executado
+                             Cobrança de procedimento não solicitado pelo
+Odontologia          3010
+                             cirurgião-dentista
+Odontologia          3011    Procedimento odontológico sem registro de execução
+                             Cobrança de        procedimento     odontológico   não
+Odontologia          3012
+                             correlacionado ao relatório específico
+                             Cobrança de procedimento odontológico sem
+Odontologia          3013    justificativa para realização ou com justificativa
+                             insuficiente.
+                             Cobrança de procedimento odontológico com data de
+Odontologia          3014
+                             autorização posterior à do atendimento.
+                             Cobrança de procedimento odontológico com
+Odontologia          3015
+                             ausência de resultado ou laudo técnico.
+                             Procedimento odontológico realizado pelo mesmo
+Odontologia          3016    profissional, na mesma especialidade, no prazo
+                             inferior ao estipulado sem justificativa adequada.
+                             Procedimento cobrado não corresponde a perícia
+Odontologia          3017
+                             (especificar).
+Odontologia          3018    Evento glosado por auditoria (especificar)
+                             Evento sob análise técnica, aguardando liberação de
+Odontologia          3019
+                             confirmação para posterior pagamento
+                             Conforme      documentação     radiográfica   enviada,
+Odontologia          3020
+                             evento realizado inadequadamente
+                             Falha em informação de dados de arcadas/hemi-
+Odontologia          3021
+                             arcos
+                             Falha em informação de dados de dente inicial e/ou
+Odontologia          3022
+                             final
+Odontologia          3023    Falha em informação de dados de faces dos dentes
+Odontologia          3024    Evento só possível em dentes decíduos
+
+
+Padrão TISS – versão 2.01                                           Página 34 - 36
+                 Código da
+    Grupo                                  Descrição da Mensagem
+                 Mensagem
+Odontologia          3025    Evento só possível em dentes permanentes
+                             Erro nas informações de ordem dos dentes inicial e
+Odontologia          3026
+                             final
+                             Desacordo entre o tipo de dente e o número de
+Odontologia          3027
+                             canais solicitados
+Odontologia          3028    Evento restrito à especialistas
+Odontologia          3029    Evento não indicado pela Auditoria Inicial
+                             Auditoria final consta que a restauração foi realizada
+Odontologia          3030
+                             em outro material
+Odontologia          3031    RX fora dos padrões técnicos
+Odontologia          3032    Intervalo da última MPP inferior a três meses
+Odontologia          3033    Intervalo da última MPP inferior a quatro meses
+
+Odontologia          3034    Justificativa tecnicamente não satisfatória
+Odontologia          3035    Paciente em tratamento com o mesmo profissional
+Odontologia          3036    Paciente em tratamento com outro profissional
+Odontologia          3037    Procedimento cobrado não é igual ao executado
+Odontologia          3038    RX inicial incongruente com o RX final
+Odontologia          3039    RX não corresponde ao procedimento cobrado
+Odontologia          3040    Glosa técnica (especificar detalhadamente)
+Odontologia          3099    Outros
+Mensagens de                 Mensagem eletrônica fora do padrão TISS
+                     5001
+Sistema
+Mensagens de                 Não foi possível validar o arquivo XML
+                     5002
+Sistema
+Mensagens de                 Endereço do Remetente inválido
+                     5003
+Sistema
+Mensagens de                 Endereço do destinatário inválido
+                     5004
+Sistema
+Mensagens de                 Remetente não identificado
+                     5005
+Sistema
+Mensagens de                 Destinatário não identificado
+                     5006
+Sistema
+Mensagens de                 Mensagem inconsistente ou incompleta
+                     5007
+Sistema
+Mensagens de                 Espaço reservado para a caixa de saída insuficiente
+                     5008
+Sistema
+Mensagens de                 Espaço reservado para a caixa de entrada
+                     5009
+Sistema                      insuficiente
+Mensagens de                 Envio de mensagem não foi terminado
+                     5010
+Sistema
+Mensagens de                 Envio de mensagem finalizada
+                     5011
+Sistema
+Mensagens de                 Recebimento de mensagem não finalizado
+                     5012
+Sistema
+Mensagens de                 Recebimento de mensagem finalizada
+                     5013
+Sistema
+Mensagens de                 Código Hash inválido. Mensagem pode estar
+                     5014
+Sistema                      corrompida.
+
+
+
+Padrão TISS – versão 2.01                                              Página 35 - 36
+                 Código da
+    Grupo                                 Descrição da Mensagem
+                 Mensagem
+Mensagens de                 Número de guias/demonstrativos dentro da
+                     5015
+Sistema                      mensagem superior ao tamanho máximo permitido.
+Mensagens de                 Erro não identificado
+                     5099
+Sistema
+                             Intervalo de códigos destinados as mensagens
+Mensagens
+                 9901 a 9999 particulares de cada entidade tendo a apresentação
+reservadas
+                             da descrição obrigatória
+
+
+
+
+Padrão TISS – versão 2.01                                         Página 36 - 36
+

@@ -1,0 +1,3674 @@
+                                              ANEXO I
+
+
+ RELAÇÂO DOS INDICADORES, COM AS RESPECTIVAS METODOLOGIAS ESTATÍSTICAS, A
+  SEREM USADOS NA AVALIAÇÃO DE DESEMPENHO DAS OPERADORAS, REFERENTE AO
+    ANO DE 2010, PELO DO PROGRAMA DE QUALIFICAÇÃO DA SAÚDE SUPLEMENTAR -
+                               QUALIFICAÇÃO DAS OPERADORAS
+
+
+                     AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR – ANS
+
+
+
+
+        1 – Indicadores da dimensão da atenção à saúde:
+
+         1.1 - Taxa de citologia oncótica de colo de útero - não se aplicará nenhuma metodologia
+estatística;
+
+        1.2 - Taxa de mamografia - não se aplicará nenhuma metodologia estatística;
+
+        1.3 - Proporção de parto cesáreo - não se aplicará nenhuma metodologia estatística;
+
+         1.4 – Número de consultas médicas por beneficiário - aplicar-se-ão as metodologias
+estatísticas do Bayes Empírico e a da padronização indireta por faixa etária;
+
+         1.5 – Número de Internações Hospitalares por beneficiário - aplicar-se-ão as metodologias
+estatísticas do Bayes Empírico e a da padronização indireta por faixa etária;
+
+         1.6 – Proporção de consulta médica em pronto socorro – aplicar-se-ão as metodologias
+estatísticas do Bayes Empírico e a da padronização indireta por faixa etária;
+
+         1.7 – Número de consultas odontológicas iniciais por beneficiário – aplicar-se-à a metodologia
+estatística do Bayes Empírico;
+
+       1.8 - Taxa de aplicação tópica profissional de flúor - aplicar-se-á a metodologia estatística do
+Bayes Empírico;
+
+       1.9 - Taxa de selantes – aplicar-se-ão as metodologias estatísticas do Bayes Empírico e a da
+padronização indireta por faixa etária;
+
+       1.10 - Taxa de raspagens supra-gengivais – aplicar-se-ão as metodologias estatísticas do
+Bayes Empírico e a da padronização indireta por faixa etária;
+
+       1.11 - Taxa de dentes permanentes com tratamento endodôntico concluído – aplicar-se-ão as
+metodologias estatísticas do Bayes Empírico e a da padronização indireta por faixa etária;
+
+       1.12 - Taxa de exodontias de permanentes - aplicar-se-ão as metodologias estatísticas do
+Bayes Empírico e a da padronização indireta por faixa etária; e
+
+       1.13 - Programa de promoção da saúde e prevenção de riscos e doenças aprovado na ANS -
+pontuação bônus - não se aplicará nenhuma metodologia estatística.
+
+        2 – Indicadores da dimensão econômico-financeira
+       2.1 - Liquidez corrente ;
+
+       2.2 - Liquidez de necessidade de capital de giro;
+
+       2.3 - Patrimônio líquido; e
+
+       2.4 - Adicional em garantias financeiras.
+
+       Não se aplicará nenhuma metodologia estatística aos indicadores dessa dimensão.
+
+       3 - Indicadores da dimensão estrutura e operação:
+
+       3.1 - Dispersão de procedimentos e serviços básicos de saúde;
+
+       3.2 - Dispersão da rede assistencial médico-hospitalar;
+
+       3.3 - Dispersão de serviços de urgência e emergência vinte e quatro horas;
+
+       3.4 - Dispersão da rede assistencial exclusivamente odontológica;
+
+       3.5 - Percentual de qualidade cadastral; e
+
+       3.6 - Índice de regularidade de envio dos sistemas de informação.
+
+       Não se aplicará nenhuma metodologia estatística aos indicadores dessa dimensão.
+
+
+
+
+       4 - Indicadores da dimensão satisfação do beneficiário:
+
+         4.1 - Proporção de permanência dos beneficiários - não se aplicará nenhuma metodologia
+estatística;
+
+         4.2 - Proporção de beneficiários com desistência no primeiro ano - aplicar-se-á a metodologia
+estatística do Bayes Empírico; e
+
+         4.3 - Sanção pecuniária em primeira instância - não se aplicará nenhuma metodologia
+estatística.
+                                               ANEXO II
+
+
+
+
+   FICHAS TÉCNICAS DOS INDICADORES DO PROGRAMA DE QUALIFICAÇÃO DA SAÚDE
+    SUPLEMENTAR – QUALIFICAÇÃO DAS OPERADORAS, AVALIAÇÃO DE DESEMPENHO
+                                   REFERENTE AO ANO DE 2010
+
+
+                     AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR – ANS
+
+
+
+
+1- INDICADORES DA DIMENSÃO DA ATENÇÃO À SAÚDE
+
+
+
+
+                   1.1- TAXA DE CITOLOGIA ONCÓTICA DE COLO DE ÚTERO
+
+
+Conceituação
+
+Número médio de exames citopatológicos de colo de útero por 100 beneficiárias da operadora na
+faixa etária de 25 a 59 anos fora do período de carência para o procedimento, no ano considerado.
+
+
+Método de cálculo
+
+          Número de exames citopatológicos em beneficiárias de 25 a 59 anos
+                                                                                           x 100
+    Total de beneficiárias de 25 a 59 anos fora do período de carência para exames
+                                     citopatológicos
+
+
+Definição de termos utilizados no indicador
+
+Numerador - Exame colpocitopatológico de colo do útero (exame Papanicolau) realizado na faixa
+etária de 25 a 59 anos completos de idade, no período considerado. É o colpocitopatológico de
+esfregaço de material do colo uterino para identificação de células atípicas.
+Denominador - Número de beneficiárias fora do período de carência para exame colpocitopatológico
+de colo de útero (25 a 59 anos) é o número total de mulheres na faixa etária de 25 a 59 anos
+completos de idade com direito a realizar o exame colpocitopatológico de colo de útero, no período
+considerado.
+
+
+Interpretação do indicador
+
+É um indicador de captação anual que permite a estimativa de cobertura do exame Papanicolaou, ou
+seja, estima a frequência relativa da população beneficiária que está realizando o exame em relação
+ao total que deveria realizá-lo anualmente.
+O indicador permite avaliar o alcance da mobilização da população beneficiária em relação ao
+rastreamento citopatológico num determinado período de tempo.
+Taxas reduzidas podem refletir dificuldade de sensibilização para o rastreamento do câncer de colo
+de útero por parte da operadora sobre profissionais de saúde e beneficiárias, ou por dificuldades de
+acesso ao serviço.
+
+
+Usos
+Estimar a cobertura deste procedimento para detecção precoce do câncer de colo de útero.
+Analisar a evolução da cobertura do exame, por operadora, identificando tendências e situações de
+desigualdade que possam demandar a realização de estudos especiais.
+
+
+Parâmetros, Dados Estatísticos e Recomendações
+
+Segundo o Consenso do Seminário Interno de Prevenção e Controle do Câncer - INCA (MS),
+publicado nas Normas e Recomendações do Instituto Nacional do Câncer e baseado nas
+recomendações do National Cancer Institute (www.cancer.gov), Canadian Task Force, U.S. Task
+Force e American Cancer Society, o exame deve ser oferecido para mulheres com atividade sexual
+(MS, 2002). Entretanto, para garantir comparação com outros dados obtidos do programa nacional,
+utilizaremos a faixa etária de 25 a 59 anos.
+Programas de rastreamento, realizados com 1 exame citopatológico a cada 3 anos entre mulheres
+de 30 a 50 anos e a cada 6 anos entre 30 e 72 anos, apresentaram redução de 1/3 na taxa de
+mortalidade por câncer de colo de útero (MS, 2000).
+Considera-se grupo de risco todas as mulheres com vida sexual, na faixa etária de 25 a 59 anos.
+Mulheres em grupo de alto risco em função de serem HIV positivas ou imunodeprimidas devem
+realizar o rastreamento anualmente (MS, 2002).
+A periodicidade de rastreamento recomendada é um exame citopatológico a cada 3 anos, após 2 exames
+negativos em dois anos consecutivos, a partir do primeiro exame, para 80% das mulheres sob risco e o
+rastreamento anual (01 exame citopatológico) para 100% das beneficiárias dos grupos de alto risco (MS,
+2002).
+Segundo a Organização Mundial de Saúde, os níveis de cobertura adequados para controle do
+câncer do colo de útero devem ser superiores a 80% na população alvo, em um determinado período
+de tempo (OMS, 2002).
+A faixa etária de 25 a 59 anos é definida como prioritária para programas de rastreamento
+populacional. A definição de faixa etária de risco não impede a realização de exame citopatológico do
+colo do útero fora da faixa etária estabelecida pelo indicador.
+
+
+                                                  Meta
+
+A meta anual é de 28% de exames de citologia oncótica nas mulheres na faixa etária de 25 a 59
+anos (Realização de exame de citologia oncótica em 80% das mulheres nessa faixa etária, no
+período de três anos).
+                                              Pontuação
+
+Os valores para pontuação estabelecidos para este indicador foram obtidos a partir das diretrizes da
+política nacional de controle do câncer.
+
+
+
+           Resultado obtido pela operadora                                   Pontuação
+
+Nº de exames de citologia oncótica em cada 100
+                                                                Valor de 0 a 1             Peso 3
+beneficiárias de 25 a 59 anos
+
+S/ Informação ou resultado = 0                                         0                      0
+
+
+Resultado > 0 e < 28%                                             v (>0 e <1)               vx3
+
+
+Resultado  28%                                                        1                      3
+
+V= (Resultado > 0 e < 28%) /28
+
+
+Fonte de dados
+
+Numerador: Sistema de Informações de Produtos (SIP); Item C3 “Procedimento diagnóstico em
+citopatologia cérvico-vaginal oncótica em mulheres de 25 a 59 anos”; coluna II (Eventos ocorridos)
+Denominador: Sistema de Informações de Produtos (SIP); Item C3 “Procedimento diagnóstico em
+citopatologia cérvico-vaginal oncótica em mulheres de 25 a 59 anos”; coluna III (Beneficiários da
+operadora fora do período de carência)
+
+
+Ações esperadas para causar impacto no indicador
+
+Capacitar os profissionais de saúde no sentido de assegurar o exame citológico (Papanicolaou)
+durante a consulta ginecológica, seguindo protocolo previamente definido pelo Ministério da Saúde.
+Incentivar a divulgação de informações a respeito do câncer de colo uterino e sua ocorrência nas diversas
+faixas etárias da população feminina, dos fatores de risco - como a infecção por HPV -, garantindo
+orientação adequada quanto à forma de prevenção desta doença às mulheres atendidas nos serviços de
+saúde.
+Pactuar e sensibilizar os prestadores sobre a importância do processo de prevenção e qualificação
+da assistência.
+Construir sistema de informações que permita a definição do perfil epidemiológico (demográfico, de
+morbidade, de utilização, entre outros) da população beneficiária.
+Divulgar os indicadores e metas estabelecidas para as operadoras junto aos prestadores de serviço.
+Para as operadoras que não conseguem identificar seus beneficiários de acordo com os critérios
+estabelecidos pelo indicador, a expectativa é que organizem o seu sistema de informação.
+Limitações e vieses
+
+A utilização do total de procedimentos de exames de citologia oncótica no cálculo deste indicador,
+pode levar à superestimação do mesmo, o que ocorreria com a inclusão de beneficiárias que
+realizaram mais de um exame num mesmo período.
+Considerando as informações mencionadas anteriormente acerca do uso deste indicador e que este
+serve para estimar a frequência de utilização deste procedimento, o mesmo não deve ser utilizado
+como único instrumento de avaliação da qualidade da assistência prestada por uma determinada
+operadora.
+
+
+Referências
+
+BRASIL. Ministério da Saúde. Instituto Nacional do Câncer. Normas e Recomendações do Instituto
+Nacional do Câncer (INCA). Revista Bras. de Cancerologia, V. 48, n. 3, p. 317 - 32. 2002.
+BRASIL. Ministério da Saúde. Instituto Nacional do Câncer. Programa Nacional de Prevenção do
+Câncer. Falando sobre câncer de colo de útero. 2000.
+BRASIL. Ministério da Saúde. Instituto Nacional do Câncer. Programa Nacional de Controle do
+Câncer do Colo de Útero – Viva Mulher.
+IBGE. Pesquisa Nacional por Amostra de Domicílio. Acesso e Utilização de Serviços de Saúde 2003.
+Rio de janeiro 2005
+ORGANIZAÇÃO MUNDIAL DE SAÚDE. National Cancer Control Programs, Policies and
+managerial guidelines. 2nd Edition. Genebra: 2002.
+ORGANIZAÇÃO PAN-AMERICANA DA SAÚDE. Indicadores básicos de saúde no Brasil: conceitos e
+aplicações. Rede Interagencial de Informações para a Saúde - Ripsa - Brasília, Publicação da
+OPAS, 2002.
+1.2- TAXA DE MAMOGRAFIA
+
+
+
+
+                                           Conceituação
+
+Número médio de mamografias por 100 beneficiárias da operadora na faixa etária de 50 a 69 anos
+fora do período de carência para o procedimento, no ano considerado.
+
+
+                                         Método de cálculo
+
+          Número de exames de mamografia na faixa etária de 50 a 69 anos
+  Total de beneficiárias de 50 a 69 anos fora do período de carência para o exame de       x 100
+                                     mamografia
+
+
+Definição de termos utilizados no indicador
+Numerador – Número de exames de mamografia na faixa etária de 50 a 69 anos completos de
+idade, no período considerado. É o exame radiológico para a detecção de alterações do tecido
+mamário que serve ao rastreamento do câncer de mama.
+Denominador – Número total de mulheres, na faixa etária de 50 a 69 anos completos de idade, com
+direito a realizar o exame de mamografia, no período considerado.
+
+
+                                    Interpretação do indicador
+
+É um indicador de cobertura que estima a proporção de mulheres que realizaram exame
+mamográfico na população beneficiária.
+O indicador permite avaliar indiretamente o alcance da mobilização da população beneficiária em
+relação ao rastreamento da doença num determinado período de tempo.
+Taxas reduzidas podem refletir dificuldade de sensibilização e captação da população beneficiária
+para o rastreamento de câncer de mama ou dificuldades de acesso ao serviço.
+
+
+                                               Usos
+
+Avaliar a cobertura deste procedimento para detecção do câncer de mama.
+Analisar a evolução da cobertura do exame, por operadora, identificando tendências e situações de
+desigualdade que possam demandar a realização de estudos especiais.
+
+
+                       Parâmetros, Dados Estatísticos e Recomendações
+
+A sensibilidade da mamografia para detecção do câncer de mama varia entre 46% e 88% e é
+dependente dos seguintes fatores: tamanho e localização da lesão, densidade do tecido mamário,
+idade da paciente, qualidade do exame e habilidade de interpretação do radiologista (MS, 2002)
+Mulheres de alto risco para câncer de mama são aquelas que:
+      têm um ou mais parentes de 1º grau (mãe, irmã ou filha) com câncer de mama antes de 50
+        anos;
+      têm um ou mais parentes de 1º grau (mãe, irmã, ou filha) com câncer de mama bilateral ou
+        câncer de ovário;
+      apresentam história familiar de câncer de mama masculina;
+      apresentam lesão mamária proliferativa com atipia comprovada em biópsia.
+
+
+Mulheres com risco elevado de câncer de mama devem ser submetidas à mamografia, anualmente,
+a partir dos 35 anos de idade (MS, 2004).
+Recomenda-se realizar uma mamografia, pelo menos a cada 2 anos, em mulheres de 50 a 69 anos
+de idade (MS, 2004).
+Ensaios clínicos sugerem redução de 15% na mortalidade por câncer de mama em mulheres de 50 a
+69 anos, rastreada pela mamografia combinada com exame clínico (MS, 2002).
+A faixa etária de 50 a 69 anos é definida como prioritária para programas organizados de
+rastreamento populacional, para esse exame. A definição de faixa etária de risco não impede a
+realização de mamografia fora da faixa etária estabelecida pelo indicador.
+
+
+Meta
+Realização de exame mamográfico em 60% das mulheres na faixa etária de 50 a 69 anos.
+
+
+                                               Pontuação
+
+Os valores para pontuação estabelecidos para este indicador foram obtidos a partir das diretrizes da
+                               política nacional de controle do câncer.
+
+
+  Resultado obtido pela
+                                                                             Pontuação
+         operadora
+
+Número de exames de
+mamografia em cada 100                                                                         Peso
+                              Valor de 0 a 1
+beneficiárias de 50 a 69                                                                         3
+anos
+
+S/ Informação ou resultado
+                                                              0                                  0
+=0
+
+                                                              v
+                                                              (
+                                                              >
+Resultado > 0 e < 60%                                         0                                vx3
+                                                              e
+                                                              <
+                                                              1
+                                                              )
+
+
+Resultado  60%                                               1                                  3
+
+V= (Resultado > 0 e < 60%) / 60
+
+
+Fonte de dados
+Numerador: Sistema de Informações de Produtos (SIP); Item C10.1 “Mamografia em mulheres de 50
+a 69 anos”; Coluna II (Eventos ocorridos).
+Denominador: Sistema de Informações de Produtos (SIP); Itens C10.1 “Mamografia em mulheres de
+50 a 69 anos”; coluna III (Beneficiários da operadora fora do período de carência)
+
+
+                        Ações esperadas para causar impacto no indicador
+
+Incentivar o exame mamográfico para rastreamento do câncer de mama em mulheres de 50 a 69
+anos e na população de risco elevado.
+Incentivar o exame clínico de mamas nas consultas ginecológicas, pelo menos uma vez ao ano, em
+especial na população nas faixas etárias de risco para a doença.
+Incentivar a divulgação de informações a respeito do câncer de mama e sua ocorrência nas diversas
+faixas etárias da população feminina dos fatores de risco – história familiar, obesidade, fumo,
+exposição à radiação ionizante, nuliparidade, etc. - garantindo às mulheres atendidas uma orientação
+adequada quanto à forma de prevenção desta doença.
+Pactuar e sensibilizar os prestadores sobre a importância do processo de prevenção e qualificação
+da assistência.
+Construir sistema de informações que permita a definição do perfil epidemiológico (demográfico, de
+morbidade, de utilização, entre outros) da população beneficiária.
+Divulgar os indicadores e metas estabelecidas para as operadoras junto aos prestadores de serviço.
+Para as operadoras que não conseguem identificar seus beneficiários de acordo com os critérios
+estabelecidos pelo indicador, a expectativa é que organizem o seu sistema de informação.
+
+
+                                        Limitações e vieses
+
+A utilização do total de procedimentos de exames de mamografia no cálculo deste indicador, pode
+levar à superestimação do mesmo, o que ocorreria com a inclusão de beneficiárias que realizaram
+mais de um exame num mesmo período.
+
+
+                                             Referências
+
+ALBERTA MEDICAL ASSOCIATION – Canadian Guideline for The Early Detection of Breast
+Cancer. Reviewed, 2002.
+BRASIL. Ministério da Saúde. Instituto Nacional do Câncer. Consenso para o Controle do Câncer
+de Mama. 2004. 39 pp.
+BRASIL. Ministério da Saúde. Instituto Nacional do Câncer. Normas e Recomendações do Instituto
+Nacional do Câncer (INCA). Revista Bras. de Cancerologia, V. 48, n. 3, p. 317 - 32. 2002.
+FEDERAÇÃO BRASILEIRA DE GINECOLOGIA E OBSTETRÍCIA; SOCIEDADE BRASILEIRA DE
+MASTOLOGIA; SOCIEDADE BRASILEIRA DE PATOLOGIA; SOCIEDADE BRASILEIRA DE
+CANCEROLOGIA. Projeto Diretrizes. 2002.
+IBGE. Pesquisa Nacional por Amostra de Domicílio. Acesso e Utilização de Serviços de Saúde 2003.
+Rio de janeiro 2005.
+ORGANIZAÇÃO PAN-AMERICANA DA SAÚDE. Indicadores básicos de saúde no Brasil:
+conceitos e aplicações / Rede Interagencial de Informações para a Saúde - RIPSA - Brasília,
+Publicação da OPAS, 2002.
+1.3- PROPORÇÃO DE PARTO CESÁREO
+
+
+
+
+Conceituação
+Percentual de partos cesáreos realizados nas beneficiárias da operadora, no ano considerado.
+
+
+Método de Cálculo
+
+                              Número de partos cesáreos
+                                                                                            x 100
+                          Total de partos (normais + cesáreos)
+
+
+Definição de termos utilizados no Indicador
+Numerador: Parto cesáreo é o procedimento cirúrgico no qual o concepto é extraído mediante
+incisão das paredes abdominal e uterina.
+Denominador: Parto normal é o procedimento no qual o concepto nasce por via vaginal.
+
+
+Interpretação do Indicador
+Mede a ocorrência de partos cesáreos em relação ao total de partos realizados em uma determinada
+operadora no período considerado.
+Permite avaliar a qualidade da assistência prestada, uma vez que o aumento excessivo de partos
+cesáreos, acima do padrão de 15% definido pela Organização Mundial de Saúde - OMS, pode refletir
+um acompanhamento pré-natal inadequado e/ou indicações equivocadas do parto cirúrgico em
+detrimento do parto normal.Em geral, entre 70 e 80% de todas as gestantes podem ser consideradas
+de baixo risco no início do trabalho de parto (OMS, 1996).
+
+
+Usos
+Avaliar, indiretamente, o acesso e a qualidade da assistência pré-natal e ao parto, supondo que uma
+boa assistência diminua o valor do indicador.
+Analisar as variações do indicador, por operadora, identificando tendências e situações de
+desigualdade que possam demandar a realização de estudos especiais.
+Subsidiar a elaboração e avaliação de políticas e ações de saúde voltadas para a atenção materno-
+infantil e a assistência médico-hospitalar prestada aos beneficiários de planos de saúde.
+
+
+Parâmetros, Dados Estatísticos e Recomendações
+A OMS preconiza que o total de partos cesáreos em relação ao número total de partos realizados em
+um serviço de saúde seja de até 15%. Esta determinação está fundamentada no conhecimento
+empírico de que apenas 15% do total de partos apresentam indicação precisa de cesariana, ou seja,
+existe uma situação real onde é fundamental para preservação da saúde materna e/ou fetal que
+aquele procedimento seja realizado cirurgicamente e não por via natural (OMS, 1996).
+A cesariana é um procedimento cirúrgico com indicações bem estabelecidas, o que não justifica o
+seu aumento alarmante. Assumindo que as cesarianas que ultrapassam a taxa recomendada pela
+OMS não teriam indicação médica, milhões de cirurgias não justificadas estariam sendo realizadas
+anualmente, trazendo risco para a mãe e, principalmente, para o recém-nascido.
+Entre os potenciais riscos associados à cesariana, particularmente a cirurgia eletiva, está o
+nascimento prematuro. A prematuridade é reconhecida como um dos principais determinantes da
+morbimortalidade infantil, mesmo entre aqueles recém-natos quase a termo.
+Embora os nascimentos pré-termo espontâneos, sem complicações maternas, respondam por 60%
+dos casos de prematuridade, a indução do trabalho de parto e a cesárea eletiva vêm respondendo
+por parcelas crescentes dos casos de partos prematuros, apresentando um crescimento importante
+nos últimos 20 anos.
+Além da prematuridade limítrofe, alguns autores têm apontado para o maior risco de morbidade
+respiratória em crianças nascidas a termo por cesárea eletiva. Fetos com 37 a 38 semanas de
+gestação, quando comparados a fetos de 39 a 40 semanas, possuem 120 vezes mais chances de
+necessitarem suporte ventilatório. Assim, o nascimento antes de 39 semanas deve ser realizado
+somente por fortes razões médicas.
+As normas nacionais estabelecem limites percentuais, por estado, para a realização de partos
+cesáreos, bem como critérios progressivos para o alcance do valor máximo de 25% para todos os
+estados brasileiros (Portaria Técnica/GM no. 466 de 14 de maio de 2000). Percentuais elevados
+podem significar, entre outros fatores, a concentração de partos considerados de alto risco, em
+municípios onde existem unidades de referência para a assistência ao parto.
+A proporção de partos cesáreos pagos pelo SUS passou de 23,92 em 2000 para 34,65 em 2009.
+
+
+Proporção de partos cesáreos pagos pelo SUS (Brasil – 2000 a 2009)
+        Ano               Indicador
+        2000                23,92
+        2001                25,06
+        2002                25,19
+        2003                26,41
+        2004                27,53
+        2005                28,61
+        2006                30,14
+        2007                31,68
+        2008                33,25
+        2009                34,65
+Fonte: DATASUS/MS
+
+
+A análise deste indicador evidenciou que a parto cirúrgico predomina no mercado privado de planos
+de saúde no Brasil. Foram identificadas altas taxas de cesariana, variando de 64,30% em 2003 a
+83,56% em 2009, valores muito acima dos 15% recomendados pela OMS. O impacto negativo desta
+taxa, nos dados nacionais, é expressivo, pois a proporção de cesarianas no Setor de Saúde
+Suplementar é cerca de três vezes maior que a proporção encontrada no SUS e duas vezes maior
+que a média nacional.
+Comparada às taxas mundiais, observa-se que os valores do setor suplementar são os mais
+elevados: nos países que compõem a OECD (Organization for Economic Cooperation and
+Development), a variação nas taxas de cesarianas foi desde taxas baixas de 14-18% na Holanda,
+Noruega, Finlândia, Islândia e Bélgica até taxas consideradas muito altas como as encontradas na
+Turquia, Itália e México (36 a 39,9%). As taxas também foram muito mais altas que a média nos
+Estados Unidos, Portugal, Hungria e Austrália (variando de 30 a 31%).
+Meta
+A meta é atingir um máximo de 35% de partos cesáreos.
+
+
+Pontuação
+
+          Resultado obtido pela operadora                                   Pontuação
+
+% de partos cesáreos                                        Valor de 0 a 1              Peso 3
+
+S/ Informação ou resultado = 100%                                  0                      0
+
+Resultado > 35% e < 100 %                                     v (>0 e <1)                vx3
+
+Resultado  35%                                                    1                      3
+
+V= 1- ((Resultado > 35% e  100% - 35)/ 65))
+
+
+Fonte de dados
+Numerador: Sistema de Informações de Produtos (SIP); Item E3.2 “Parto cesáreo”; coluna II
+(Eventos ocorridos)
+Denominador: Sistema de Informações de Produtos (SIP); Itens E3.1 “Parto normal” + E3.2 “Parto
+cesáreo”; coluna II (Eventos ocorridos)
+
+
+Ações esperadas para causar impacto no indicador
+Incentivar o acompanhamento ao pré-natal a fim de reduzir as indicações de cirurgia decorrentes de
+condições clínicas, de forma que o parto cirúrgico seja realizado somente sob indicações precisas.
+Incentivar a disseminação de informações a respeito das vantagens do parto normal em comparação
+com o parto cesáreo e dos riscos da realização do parto cesáreo na ausência de indicações precisas.
+Implantar um sistema de informações sobre indicações de cesáreas a fim de supervisionar a
+adequabilidade das indicações.
+Pactuar e sensibilizar os prestadores sobre a importância do processo de qualificação da assistência
+materno neonatal.
+Criar campanhas de informação sobre os tipos de parto, seus benefícios e riscos, procurando motivar
+a realização do parto normal sempre que indicado.
+Divulgar os indicadores e metas estabelecidas para as operadoras junto aos prestadores de serviço.
+Limitações e Vieses
+As variações geográficas desse indicador só se aplicam para o SUS onde é possível relacionar o tipo
+de parto ao local de residência da parturiente.
+
+
+Referências
+BRASIL. Ministério da Saúde. Agência Nacional de Saúde Suplementar. Programa de Qualificação
+da Saúde Suplementar. Rio de Janeiro: ANS, 2005.
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações
+Programáticas Estratégicas. Área Técnica de Saúde da Mulher. Pré-natal e Puerpério: atenção
+qualificada e humanizada - manual técnico/Ministério da Saúde, Secretaria de Atenção à
+Saúde, Departamento de Ações Programáticas Estratégicas – Brasília: Ministério da Saúde, 2005.
+158 p.
+BRASIL. Ministério da Saúde/DATASUS, Sistema de Informações Hospitalares, disponível em
+http//www.datasus.gov.br, acessado em abril de 2007.
+ORGANIZATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT. Health at a Glance:
+OECD Indicators 2005. OECD, Paris, 2005.
+ORGANIZAÇÃO MUNDIAL DE SAÚDE. Assistência ao parto normal: um guia prático. Genebra.
+1996.
+ORGANIZAÇÃO MUNDIAL DE SAÚDE. Assistência ao parto normal: um guia prático. Genebra:
+1996.
+1.4- NÚMERO DE CONSULTAS MÉDICAS POR BENEFICIÁRIO
+
+
+                                           Conceituação
+
+
+        Número de consultas médicas por beneficiário da operadora fora do período de carência
+para o procedimento, no ano considerado.
+
+
+                                         Método de Cálculo*
+
+
+
+                                      Número de Consultas Médicas
+
+               Total de beneficiários fora do período de carência para Consultas Médicas
+
+
+*Observação: O resultado direto obtido desse indicador será ajustado pela metodologia estatística
+da Padronização Indireta por Faixa Etária e pelo Bayes Empírico, cuja fórmula simplificada pode ser
+representada pela seguinte equação:
+
+
+Taxa padronizada e estimada ou resultado padronizado e ajustado do indicador = (RIE da
+operadora com ajuste pelo Bayes Empírico) X (Taxa da população de referência).
+RIE da operadora com ajuste pelo Bayes Empírico = (RIE da operadora sem ajuste X Fator de ajuste)
++ (RIE média de todas as operadoras) X (1 – Fator de ajuste).
+RIE = Razão Informados Esperados = (Número de eventos informados pela operadora) / (Número de
+eventos esperados para operadora caso ela tivesse as mesmas taxas encontradas em cada faixa
+etária da população de referência).
+Razão Informados Esperados - RIE é um correlato ao termo em inglês Standardized Incidence Rate –
+SIR ou ao termo Standardized Mortality Rate – SMR.
+Fator de ajuste = fator calculado especificamente para cada operadora. Esse fator depende da
+dispersão dos valores das taxas entre operadoras e aumenta progressivamente, de zero (0) a um (1),
+conforme aumenta o denominador do indicador (número de beneficiários da operadora expostos ao
+evento ou ao procedimento).
+Taxa da população de referência = Taxa média do evento na população tomada como referência para
+a padronização de faixa etária.
+
+
+                           Definição de termos utilizados no Indicador
+Número de Consultas Médicas: total de consultas médicas realizadas pela operadora, no período
+considerado.
+Número de Beneficiários Fora do Período de Carência para Consultas Médicas: total de
+beneficiários fora do período de carência para consultas médicas identificados no Sistema de
+Informações de Produtos, no período considerado.
+                                    Interpretação do Indicador
+Mede a disponibilidade de consultas médicas, por beneficiários.
+Aponta situações de dificuldade de acesso à assistência à saúde adequada dos beneficiários, uma
+vez que a consulta corresponde à porta de entrada para os demais serviços assistenciais.
+
+
+                                           Usos
+Acompanhar a coerência da produção assistencial das operadoras quanto às consultas médicas,
+verificando possíveis situações de restrição do acesso e redução de assistência à saúde dos
+beneficiários.
+Analisar o acesso e cobertura à consulta médica, na atenção suplementar à saúde, identificando
+variações e tendências que demandem a implementação de ações para a ampliação do acesso aos
+serviços de saúde.
+Subsidiar o planejamento, o monitoramento e a avaliação dos serviços prestados pela operadora.
+O indicador é influenciado pelas características da infra-estrutura da rede prestadora de serviços e
+pelo modelo operacional da operadora, quando existirem barreiras para o acesso às consultas
+médicas.
+
+
+                        Parâmetros, Dados Estatísticos e Recomendações
+O Ministério da Saúde, por meio da Portaria/GM nº 1.101/2002, estimou a necessidade de 3
+consultas médicas/pessoa/ano. A média de consultas médicas por beneficiário no setor suplementar
+informada pelas operadoras no Sistema de Informações de Produtos – SIP tem se mantido em torno
+de 5 consultas médicas/beneficiário/ano.
+
+
+Meta
+Apresentar um resultado igual ou superior a 5 consultas médicas/beneficiário/ano.
+
+
+   Pontuação
+
+Resultado obtido pela operadora                                             Pontuação
+
+Número de consultas médicas por beneficiário                Valor de 0 a 1              Peso 2
+
+Resultado  3                                                     0                        0
+
+Resultado > 3 e < 5                                           v (>0 e <1)                vx2
+
+Resultado  5                                                     1                        2
+
+V= (Resultado > 3 e < 5) / 5
+
+
+Fonte
+Numerador: Sistema de Informações de Produtos (SIP); Item A. “Consultas médicas”; coluna II
+(Eventos ocorridos)
+Denominador: Sistema de Informações de Produtos (SIP); Item A. “Consultas médicas”; coluna III
+(Beneficiários da operadora fora do período de carência)
+
+
+Ações esperadas para causar impacto no Indicador
+Construir sistema de informações que permita a definição do perfil de utilização de serviços da
+população beneficiária.
+Conhecer o perfil epidemiológico dos beneficiários, identificar as necessidades de saúde dos
+indivíduos e adotar estratégias de busca ativa para a captação de beneficiários e aumento da
+cobertura assistencial.
+
+
+Limitações e Vieses
+Por apresentar o resultado como um valor médio, o indicador é influenciado pela contagem
+cumulativa de consultas médicas em um mesmo beneficiário no período considerado.
+
+
+Referências
+AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR. Caderno de Informação da Saúde Suplementar:
+beneficiários, operadoras e planos. Dados eletrônicos. Rio de Janeiro: ANS, set. 2010. 64p.
+BRASIL. Ministério da Saúde. Portaria n.º 1101/GM em 12 de junho de 2002.
+BRASIL. Rede Interagencial de Informação para a Saúde. Indicadores básicos para a saúde no
+Brasil: conceitos e aplicações. Rede Interagencial de Informação para a Saúde – Ripsa. 2 ed.
+Brasília: Organização Pan-Americana da Saúde, 2008.
+1.5- NÚMERO DE INTERNAÇÕES HOSPITALARES POR BENEFICIÁRIO
+
+
+                                              Conceituação
+
+
+Número de internações realizadas por 100 beneficiários da operadora fora do período de carência
+para internações hospitalares, no ano considerado.
+
+
+                                          Método de Cálculo*
+
+
+                         Número de internações hospitalares
+                                                                                         x 100
+   Total de beneficiários fora do período de carência para internações hospitalares
+
+
+*Observação: O resultado direto obtido desse indicador será ajustado pela metodologia estatística
+da Padronização Indireta por Faixa Etária e pelo Bayes Empírico, cuja fórmula simplificada pode ser
+representada pela seguinte equação:
+
+
+Taxa padronizada e estimada ou resultado padronizado e ajustado do indicador = (RIE da
+operadora com ajuste pelo Bayes Empírico) X (Taxa da população de referência).
+RIE da operadora com ajuste pelo Bayes Empírico = (RIE da operadora sem ajuste X Fator de ajuste)
++ (RIE média de todas as operadoras) X (1 – Fator de ajuste).
+RIE = Razão Informados Esperados = (Número de eventos informados pela operadora) / (Número de
+eventos esperados para operadora caso ela tivesse as mesmas taxas encontradas em cada faixa
+etária da população de referência).
+Razão Informados Esperados - RIE é um correlato ao termo em inglês Standardized Incidence Rate –
+SIR ou ao termo Standardized Mortality Rate – SMR.
+Fator de ajuste = fator calculado especificamente para cada operadora. Esse fator depende da
+dispersão dos valores das taxas entre operadoras e aumenta progressivamente, de zero (0) a um (1),
+conforme aumenta o denominador do indicador (número de beneficiários da operadora expostos ao
+evento ou ao procedimento).
+Taxa da população de referência = Taxa média do evento na população tomada como referência para
+                                      a padronização de faixa etária.
+
+
+                           Definição de termos utilizados no Indicador
+Numerador - número de internações hospitalares da operadora, no período considerado.
+Denominador - beneficiários fora do período de carência para internações hospitalares, no período
+considerado.
+
+
+                                       Interpretação do Indicador
+Mede a relação entre a produção de internações hospitalares e a população beneficiária. Aponta
+situações de dificuldade de assistência à saúde adequada aos beneficiários por indisponibilidade de
+leitos para internações, podendo a redução de internações ser devida ao compartilhamento de rede
+de prestadores ou pela existência de barreiras ao acesso. A produção elevada de internações
+hospitalares pode apontar a incapacidade da operadora em evitar parte das internações hospitalares
+por meio do controle de beneficiários com doenças crônicas e pelo desenvolvimento de ações de
+prevenção de riscos e doenças.
+
+
+                                              Usos
+Acompanhar a coerência da produção assistencial das operadoras quanto às internações
+hospitalares, verificando a adequação do volume de internações às necessidades da população
+beneficiária.
+Subsidiar processos de planejamento, gestão e avaliação da assistência médico-hospitalar no setor
+suplementar.
+
+
+                        Parâmetros, Dados Estatísticos e Recomendações
+O Ministério da Saúde, por meio da Portaria/GM nº 1.101/2002, estimou que de 7 a 9% da população
+apresentam necessidade de internações hospitalares durante um ano. O setor suplementar
+apresentou uma taxa de internação de 13% para o ano de 2009.
+
+
+Meta
+Atingir um valor situado no intervalo entre 70% da taxa padronizada do setor e 15% além da taxa
+padronizada do setor.
+
+
+                                           Pontuação
+
+Resultado obtido pela
+                                                                       Pontuação
+       operadora
+       Número de
+    internações por                                    Valor
+                                                                                             Peso
+      beneficiário                                     de 0
+                                                                                             3
+ (Internações por 100                                  a1
+     beneficiários)
+S/     Informação     ou
+resultado          taxa
+padronizada do setor *
+                                                         0                                    3
+2,00     ou        taxa
+padronizada do setor *
+0,20.
+Resultado    >   taxa
+padronizada do setor *                                   V1
+                                                                                             V1 x
+0,20    e    <   taxa                                  (>0 e
+                                                                                              3
+padronizada do setor *                                  <1)
+0,70.
+Resultado    >   taxa
+padronizada do setor *                                   V2
+                                                                                             V2 x
+1,15    e    <   taxa                                  (>0 e
+                                                                                              3
+padronizada do setor *                                  <1)
+2,00.
+Resultado         taxa
+padronizada do setor *
+1,15    e         taxa                                  1                                      3
+padronizada do setor *
+0,70.
+V1= (Resultado da operadora – taxa padronizada do setor*0,2)/(taxa padronizada do setor*0,7 – taxa
+                                       padronizada do setor*0,2)
+V2= 1 – (Resultado da operadora - taxa padronizada do setor*1,15)/(taxa padronizada do setor*2,0 –
+taxa do setor*1,15)
+
+
+Fonte
+Numerador: Sistema de Informações de Produtos (SIP); Item E “Internações”; Regime de internação
+“1. Hospitalar”; coluna II (Eventos ocorridos)
+Denominador: Sistema de Informações de Produtos (SIP); Item E “Internações”; Regime de
+internação “1. Hospitalar”; coluna III (Beneficiários da operadora fora do período de carência)
+
+
+Ações esperadas para causar impacto no Indicador
+Construir sistema de informações que permita a definição do perfil epidemiológico (demográfico, de
+morbidade, de utilização, entre outros) da população beneficiária.
+Divulgar os indicadores e metas estabelecidas para as operadoras junto aos prestadores de serviço.
+Para as operadoras que não conseguem identificar as informações de acordo com os critérios
+estabelecidos pelo indicador, a expectativa é que organizem o seu sistema de informação.
+Sensibilizar e pactuar com os prestadores sobre a importância da prevenção e qualificação da
+assistência.
+
+
+Limitações e Vieses
+A fidedignidade do indicador depende da qualidade dos dados enviados pelas operadoras.
+O indicador é influenciado pela contagem cumulativa de internações hospitalares de um mesmo
+beneficiário, no período analisado.
+
+
+Referências
+AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR. Caderno de Informação da Saúde Suplementar:
+beneficiários, operadoras e planos. Dados eletrônicos. Rio de Janeiro: ANS, set. 2010. 64p.
+BRASIL. Ministério da Saúde. Portaria n.º 1101/GM em 12 de junho de 2002.
+BRASIL. Rede Interagencial de Informação para a Saúde. Indicadores básicos para a saúde no
+Brasil: conceitos e aplicações. Rede Interagencial de Informação para a Saúde – Ripsa. 2 ed.
+Brasília: Organização Pan-Americana da Saúde, 2008.
+              1.6- PROPORÇÃO DE CONSULTA MÉDICA EM PRONTO SOCORRO
+
+
+
+
+                                              Conceituação
+
+
+Razão entre o número de consultas médicas em pronto socorro e o número total de consultas
+médicas ocorridas em um ano.
+
+                                          Método de Cálculo*
+
+
+                   Número de Consultas Médicas em Pronto Socorro
+                                                                                         x 100
+                              Total de Consultas Médicas
+
+
+*Observação: O resultado direto obtido desse indicador será ajustado pela metodologia estatística
+da Padronização Indireta por Faixa Etária e pelo Bayes Empírico, cuja fórmula simplificada pode ser
+representada pela seguinte equação:
+
+
+Taxa padronizada e estimada ou resultado padronizado e ajustado do indicador = (RIE da
+operadora com ajuste pelo Bayes Empírico) X (Taxa da população de referência).
+RIE da operadora com ajuste pelo Bayes Empírico = (RIE da operadora sem ajuste X Fator de ajuste)
++ (RIE média de todas as operadoras) X (1 – Fator de ajuste).
+RIE = Razão Informados Esperados = (Número de eventos informados pela operadora) / (Número de
+eventos esperados para operadora caso ela tivesse as mesmas taxas encontradas em cada faixa
+etária da população de referência).
+Razão Informados Esperados - RIE é um correlato ao termo em inglês Standardized Incidence Rate –
+SIR ou ao termo Standardized Mortality Rate – SMR.
+Fator de ajuste = fator calculado especificamente para cada operadora. Esse fator depende da
+dispersão dos valores das taxas entre operadoras e aumenta progressivamente, de zero (0) a um (1),
+conforme aumenta o denominador do indicador (número de beneficiários da operadora expostos ao
+evento ou ao procedimento).
+Taxa da população de referência = Taxa média do evento na população tomada como referência para
+                                      a padronização de faixa etária.
+
+
+                           Definição de termos utilizados no Indicador
+
+
+Numerador: total de consultas médicas em pronto socorro entre os beneficiários da operadora no
+ano considerado.
+Denominador: total de consultas médicas entre os beneficiários da operadora no ano considerado.
+                                     Interpretação do Indicador
+A procura excessiva pelo atendimento em pronto socorro pode apontar indícios de atendimento
+precário, demora na marcação de atendimento ou na realização de exames laboratoriais e
+radiológico, além de oferta insuficiente de prestadores na rede credenciada. Nesse caso, diante da
+dificuldade na marcação de consulta médica ambulatorial ou na presença de sinais e sintomas de
+problemas agudos, o beneficiário tende a procurar de maneira mais frequente o atendimento em
+serviços de pronto socorro.
+
+                                               Usos
+Acompanhar a coerência da produção assistencial das operadoras quanto às consultas, verificando
+possíveis situações de redução de assistência à saúde dos beneficiários.
+
+                        Parâmetros, Dados Estatísticos e Recomendações
+O Ministério da Saúde, por meio da Portaria/GM nº 1.101/2002, estimou que cerca de 15% do total de
+consultas médicas decorram de situações de urgência e emergência.
+
+
+Meta
+Apresentar uma proporção entre 5% e 20% de Consulta Médica em Pronto Socorro com relação ao
+total de Consultas Médicas. O parâmetro inferior de 5% foi estabelecido, considerando as situações
+de urgência e emergência não preveníveis por ações de iniciativa da operadora.
+
+
+Pontuação
+
+           Resultado obtido pela operadora                                 Pontuação
+
+
+Proporção de Consulta Médica em Pronto Socorro               Valor de 0 a 1            Peso 2
+
+
+S/ Informação ou resultado = 0 ou resultado > 20%                   0                    0
+
+
+Resultado > 0 e < 5%                                           v (>0 e <1)              vx2
+
+
+Resultado  5% e  20%                                              1                    2
+
+V= (Resultado > 0 e < 5%) / 5
+
+Fonte
+
+
+Numerador: Sistema de Informações de Produtos (SIP); Item A.2 “Consultas médicas em pronto
+socorro”; coluna II (Eventos ocorridos)
+Denominador: Sistema de Informações de Produtos (SIP); Item A “Consultas médicas”; coluna II
+(Eventos ocorridos)
+
+
+Ações esperadas para causar impacto no Indicador
+Construir sistema de informações que permita a identificação do perfil de utilização de serviços da
+população beneficiária.
+Para as operadoras que não conseguem identificar os procedimentos de acordo com os critérios
+estabelecidos pelo indicador, a expectativa é que organizem o seu sistema de informação.
+Reestruturação da oferta de prestadores na rede credenciada, para que os beneficiários obtenham
+acesso adequado às consultas médicas ambulatoriais.
+
+
+Limitações e Vieses
+A fidedignidade do indicador depende da qualidade dos dados enviados pelas operadoras. As
+consultas em pronto-socorro podem ser identificadas por meio de código específico da Terminologia
+Unificada em Saúde Suplementar – TUSS. No entanto, operadoras que não identifiquem
+adequadamente a consulta médica em pronto socorro podem vir a subestimar o seu registro e, por
+consequência, a proporção apresentada como resultado do indicador.
+
+
+Referências
+AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR. Caderno de Informação da Saúde Suplementar:
+beneficiários, operadoras e planos. Dados eletrônicos. Rio de Janeiro: ANS, set. 2010. 64p.
+BRASIL. Ministério da Saúde. Portaria n.º 1101/GM em 12 de junho de 2002.
+1.7- NÚMERO DE CONSULTAS ODONTOLÓGICAS INICIAIS POR BENEFICIÁRIO
+
+
+
+
+                                                Conceituação
+
+Número médio de consultas odontológicas iniciais por beneficiário da operadora fora do período de
+carência para o procedimento, no período considerado.
+
+
+                                            Método de cálculo*
+
+                                 Número total de consultas odontológicas iniciais
+
+
+           Total de beneficiários fora do período de carência para consultas odontológicas iniciais
+
+
+
+
+*Observação: O resultado direto obtido desse indicador, ou seja, a taxa bruta será ajustada pela
+metodologia estatística do Bayes Empírico, cuja fórmula simplificada pode ser representada pela
+seguinte equação:
+Taxa estimada ou resultado ajustado do indicador = (Taxa bruta X Fator de ajuste) + (Taxa média
+de todas as operadoras) X (1 – Fator de ajuste).
+Fator de ajuste = fator calculado especificamente para cada operadora. Esse fator depende da
+dispersão dos valores das taxas entre operadoras e aumenta progressivamente, de zero (0) a um (1),
+conforme aumenta o denominador do indicador (número de beneficiários da operadora fora do
+período de carência para o evento ou procedimento).
+
+
+                              Definição de termos utilizados no indicador
+
+Numerador - Número total de consultas odontológicas iniciais: total de atendimentos com consultas
+odontológicas destinadas ao exame e diagnóstico para a elaboração do plano de tratamento,
+incluindo anamnese, preenchimento de ficha clínica odontolegal, diagnóstico das doenças e
+anomalias bucais do paciente e prognóstico. Neste item não devem ser informadas as consultas de
+caráter   emergencial    ou     pericial,   a   serem   lançadas   no   item   “I.   PROCEDIMENTOS
+ODONTOLÓGICOS”.
+Denominador - Total de beneficiários fora do período de carência para consultas odontológicas
+iniciais: total de beneficiários da operadora que estão fora do período de carência no item em questão
+(consulta odontológica inicial), no período considerado.
+
+
+                                       Interpretação do indicador
+
+A atenção odontológica em nível individual é uma importante estratégia para a qualificação do acesso
+à assistência na medida em que possibilita a avaliação por um profissional de saúde, visando à
+prevenção das doenças bucais, avaliação dos fatores de risco individuais, realização de diagnóstico
+precoce com redução das seqüelas e limitação dos danos, contribuindo para a redução dos custos
+com tratamento odontológico, melhora nas condições de saúde bucal e aumento da qualidade de vida
+dos indivíduos.
+Desta forma, este indicador estima o acesso da população exposta à assistência odontológica
+individual, visando à execução de um plano preventivo-terapêutico estabelecido a partir de uma
+avaliação/exame clínico, no âmbito da atenção suplementar à saúde.
+
+
+                                                 Usos
+
+Analisar o acesso e cobertura à consulta odontológica inicial, na atenção suplementar à saúde,
+identificando variações e tendências que demandem a implementação de ações para a ampliação do
+acesso qualificado ao serviço odontológico.
+Analisar a orientação dos modelos assistenciais praticados na assistência odontológica suplementar.
+Subsidiar o planejamento, o monitoramento e a avaliação dos serviços odontológicos prestados pela
+operadora.
+Poderá ser influenciado pela infra-estrutura da rede prestadora de serviços e pelo modelo operacional
+da operadora, quando existirem barreiras para o acesso às consultas odontológicas iniciais.
+
+
+                       Parâmetros, Dados Estatísticos e Recomendações
+
+Em 2003, o Ministério da Saúde concluiu a realização de um levantamento epidemiológico,
+denominado Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira, para avaliar
+os principais agravos bucais em diferentes grupos etários da população brasileira. A metodologia
+utilizada nesta pesquisa foi recomendada pela Organização Mundial da Saúde (OMS), na quarta
+edição (1997) da publicação Oral health surveys: basic methods, e sugere a composição da amostra
+em determinadas idades-índice e faixas etárias para verificar a ocorrência das doenças bucais ao
+longo da vida, uma vez que estas apresentam forte correlação com a idade do indivíduo.
+O número de indivíduos em cada faixa etária, ou idade-índice, foi preconizado de acordo com a
+prevalência e severidade das doenças bucais, não havendo correlação com a representatividade
+desses grupos etários na população brasileira.
+O SB Brasil 2003 constitui um marco na epidemiologia em saúde bucal, representando a mais ampla
+pesquisa já empreendida no país, e gerou resultados importantes para o incremento das ações de
+planejamento e avaliação na área de saúde bucal coletiva. Os resultados do estudo foram referência
+para a construção dos parâmetros dos indicadores odontológicos do Programa de Qualificação da
+Saúde Suplementar.
+O parâmetro utilizado para o indicador Consultas Odontológicas Iniciais baseou-se na necessidade
+de tratamento, em nível individual, das principais doenças bucais. A necessidade de tratamento para
+a cárie dentária e a necessidade de tratamento periodontal, em indivíduos com ceo-d / CPO-D=0,
+segundo faixa etária, medidas pelas variáveis descritas acima, estão demonstradas no quadro
+abaixo:
+                                                             Número de
+                                   Número de
+                                                     indivíduos com ceo-d            Número de indivíduos
+                                 indivíduos com
+                   Número de                               / CPO-D=0 e                com necessidade de
+ Faixa Etária                    necessidade de
+                   indivíduos                             necessidade de            tratamento odontológico
+                                 tratamento para
+                                                             tratamento             individual/100 indivíduos
+                                  cárie dentária
+                                                             periodontal
+18 a 36 meses        12.117              3.344                    -                          27,60
+    5 anos           26.641          14.931                       -                          56,05
+   12 anos           34.550          19.738                      3.680                       67,78
+ 15 a 19 anos        16.833          11.139                      1.864                       77,25
+ 35 a 44 anos        13.431              8.450                   3.210                       86,81
+ 65 a 74 anos         5.349              1.670                        393                    38,57
+     Total          108.921          59.272                      9.147                       62,82
+Fonte: Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira – Resultados
+Principais.
+
+
+
+                                                   Meta
+
+O parâmetro acima estima a necessidade de tratamento dos indivíduos no país, em nível individual,
+das principais doenças bucais, conforme os resultados do Projeto SB Brasil 2003. Para o Programa
+de Qualificação da Saúde Suplementar, a meta estabelecida é a realização de 0,50 consulta
+inicial/beneficiário/ano, ampliando e qualificando o acesso à assistência odontológica suplementar por
+meio da consulta odontológica inicial.
+
+
+                                                 Pontuação
+
+                A pontuação do indicador foi definida de acordo com o quadro abaixo:
+
+             Resultado obtido pela operadora                                        Pontuação
+
+    Número de Consultas Odontológicas Iniciais por
+                                                                       Valor de 0 a 1            Peso 2
+                         Beneficiário
+
+S/ Informação ou resultado = 0                                                  0                    0
+
+
+Resultado > 0 e < 0,50                                                      v (>0 e <1)           vx2
+
+
+Resultado  0,50                                                                1                    2
+
+                                  V= (Resultado > 0 e < 0,50) / 0,50
+                                                 Fonte
+
+Numerador: Sistema de Informações de Produtos (SIP); Item I.1 “Consultas odontológicas iniciais”;
+coluna II (Eventos ocorridos)
+Denominador: Sistema de Informações de Produtos (SIP); Item I.1 “Consultas odontológicas
+iniciais”, coluna III (Beneficiários da operadora fora do período de carência)
+
+
+                        Ações esperadas para causar impacto no indicador
+
+    Conhecer o perfil epidemiológico dos beneficiários, identificar os indivíduos acometidos pelas
+doenças cárie e periodontal com necessidade de tratamento em nível individual, e adotar estratégias
+        de busca ativa para a captação de beneficiários e aumento da cobertura assistencial.
+Desenvolver programas de promoção da saúde e prevenção de riscos e doenças com enfoque
+multiprofissional, de modo a inserir a consulta odontológica individual nos cuidados básicos de saúde,
+visando a integralidade e a qualificação da assistência à saúde.
+
+
+                                          Limitações e vieses
+
+O indicador poderá ser influenciado pela contagem cumulativa de consultas odontológicas iniciais,
+considerando a possibilidade de realização e registro de mais de uma consulta, no mesmo indivíduo,
+durante o período analisado.
+Poderão ocorrer inconsistências no registro das informações referentes ao numerador, por parte das
+operadoras, uma vez que não devem ser informadas as consultas de caráter pericial, emergencial, de
+revisão e/ou manutenção.
+
+
+                                               Referências
+
+BRASIL. Portaria MS n° 493/GM, de 13 de março de 2006. Aprova a Relação de Indicadores da
+Atenção               Básica               –              2006.              Disponível              em:
+http://tabnet.datasus.gov.br/cgi/siab/pacto2006/portaria_493.pdf. Acesso em: 7 jan. 2008.
+BRASIL. Portaria MS nº 91/GM, de 10 de janeiro de 2007. Regulamenta a unificação do processo
+de pactuação de indicadores do Pacto pela Saúde, a serem pactuados por Municípios, Estados
+e Distrito Federal.
+BRASIL. Portaria MS nº 325/GM, de 21 de fevereiro de 2008. Estabelece prioridades, objetivos e
+metas do Pacto pela Vida para 2008, os indicadores de monitoramento e avaliação do Pacto
+pela Saúde e as orientações, prazos e diretrizes para a sua pactuação.
+MINISTÉRIO DA SAÚDE. Coordenação Nacional de Saúde Bucal. Projeto SB Brasil 2003:
+condições de saúde bucal da população brasileira 2002-2003. Brasília, DF, 2004. Disponível em:
+http://dtr2004.saude.gov.br/dab/cnsb/vigilancia.php. Acesso em: 7 jan. 2008.
+1.8- TAXA DE APLICAÇÃO TÓPICA PROFISSIONAL DE FLÚOR
+
+
+
+
+Conceituação
+Número médio de aplicações tópicas profissionais de flúor por 100 beneficiários da operadora fora do
+período de carência para procedimentos preventivos, no período considerado.
+
+
+Método de Cálculo*
+
+
+  Número total de aplicações tópicas profissionais de flúor por hemi-arcada
+                                                                                 4**
+                                                                                           x 100
+
+    Total de beneficiários fora do período de carência para procedimentos
+                                 preventivos
+
+
+*Observação: O resultado direto obtido desse indicador, ou seja, a taxa bruta será ajustada pela
+metodologia estatística do Bayes Empírico, cuja fórmula simplificada pode ser representada pela
+seguinte equação:
+
+
+Taxa estimada ou resultado ajustado do indicador = (Taxa bruta X Fator de ajuste) + (Taxa média
+de todas as operadoras) X (1 – Fator de ajuste).
+Fator de ajuste = fator calculado especificamente para cada operadora. Esse fator depende da
+dispersão dos valores das taxas entre operadoras e aumenta progressivamente, de zero (0) a um (1),
+conforme aumenta o denominador do indicador (número de beneficiários da operadora fora do
+período de carência para o evento ou procedimento).
+
+
+**Observação 2: Considerando, para o cálculo do valor médio, que o evento é registrado “por hemi-
+arcada” no Sistema de Informações de Produtos - SIP e que uma arcada completa é constituída por
+quatro hemi-arcadas.
+
+
+Definição dos termos utilizados no indicador
+Numerador - Número total de aplicações tópicas profissionais de flúor por hemi-arcada: número total
+de aplicações tópicas profissionais de flúor em consultório ou escovódromo (verniz, gel, bochecho
+e/ou outros veículos), por hemi-arcada.
+Denominador - Total de beneficiários fora do período de carência para procedimentos preventivos:
+total de beneficiários da operadora que estão fora do período de carência no item em questão
+(procedimentos preventivos), no período considerado.
+Interpretação do indicador
+A aplicação tópica de flúor é um importante método de prevenção, de baixo custo, fácil aplicação e,
+se utilizado oportunamente, proporciona a proteção específica do indivíduo contra a cárie dentária,
+reduzindo em proporção significativa a incidência da doença.
+O flúor pode ser utilizado como agente preventivo e terapêutico na modulação da atividade de cárie
+dentária. O mecanismo de ação, dinamicamente importante, depende da presença de fluoretos
+constantemente na boca, disponível para atuação no processo de cárie. Em baixa concentração e
+alta freqüência de aplicação, os fluoretos alteram o metabolismo das bactérias inibindo a produção de
+ácidos e elevando o pH da placa bacteriana; reduzem a aderência microbiana ao esmalte dentário;
+interferem diretamente no processo de desmineralização, favorecendo a formação de fluoreto de
+cálcio e a remineralização dentária.
+A aplicação tópica profissional de produtos fluoretados é um mecanismo importante na redução da
+atividade de cárie, mas deve-se ressaltar que somente um conjunto de medidas possibilitará o não
+desenvolvimento da doença.
+Desta forma, este indicador estima a cobertura e o acesso dos indivíduos à aplicação tópica de flúor,
+sob orientação de um profissional de saúde, com finalidade terapêutica (remineralização de mancha
+branca ativa) e/ou preventiva da doença cárie, na atenção suplementar à saúde.
+
+
+Usos
+Analisar o acesso à aplicação tópica profissional de flúor, na atenção suplementar à saúde,
+identificando variações e tendências que demandem a implementação de ações para a prevenção da
+doença cárie.
+Possibilitar a realização de análises epidemiológicas comparativas, observando a série histórica do
+indicador, e correlacionando o uso do flúor com a incidência de cárie na população exposta.
+Analisar a orientação dos modelos assistenciais praticados na assistência odontológica suplementar.
+Subsidiar o planejamento, o monitoramento e a avaliação das ações para a prevenção e redução da
+doença cárie.
+
+
+Parâmetros, Dados Estatísticos e Recomendações
+Em 2003, o Ministério da Saúde concluiu a realização de um levantamento epidemiológico,
+denominado Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira, para avaliar
+os principais agravos bucais em diferentes grupos etários da população brasileira. A metodologia
+utilizada nesta pesquisa foi recomendada pela Organização Mundial da Saúde (OMS), na quarta
+edição (1997) da publicação Oral health surveys: basic methods, e sugere a composição da amostra
+em determinadas idades-índice e faixas etárias para verificar a ocorrência das doenças bucais ao
+longo da vida, uma vez que estas apresentam forte correlação com a idade do indivíduo.
+O número de indivíduos em cada faixa etária, ou idade-índice, foi preconizado de acordo com a
+prevalência e severidade das doenças bucais, não havendo correlação com a representatividade
+desses grupos etários na população brasileira.
+O SB Brasil 2003 constitui um marco na epidemiologia em saúde bucal, representando a mais ampla
+pesquisa já empreendida no país, e gerou resultados importantes para o incremento das ações de
+planejamento e avaliação na área de saúde bucal coletiva. Os resultados do estudo foram referência
+para a construção dos parâmetros dos indicadores odontológicos do Programa de Qualificação da
+Saúde Suplementar.
+Pesquisas científicas identificam a idade do indivíduo como um dos fatores associados ao risco de
+desenvolvimento da doença cárie. De acordo com os resultados do ataque de cárie na dentição
+decídua, apresentados nas tabelas 7 a 9 da publicação Projeto SB Brasil 2003: Condições de Saúde
+Bucal da População Brasileira – Resultados Principais, uma criança brasileira com 3 anos de idade,
+ou menos, possui em média um dente com experiência de cárie (ceo-d=1,07). Aos 5 anos, esta
+média aumenta para quase 3 dentes (ceo-d=2,8). O componente cariado representa 82,14% do
+índice na idade de 5 anos e 96,26% na faixa etária de 18 a 36 meses.
+Quanto ao ataque de cárie na dentição permanente, crianças brasileiras de 12 anos de idade e
+adolescentes de 15 a 19 anos apresentaram, respectivamente, em média, 2,8 e 6,2 dentes com
+experiência de cárie, sendo o componente cariado responsável por 58,27% e 42,14% do índice,
+respectivamente.
+O parâmetro utilizado para o indicador Taxa de Pessoas Submetidas à Aplicação Profissional de
+Flúor baseou-se na distribuição da atividade de cárie dos indivíduos examinados, segundo os grupos
+etários de 18 a 36 meses, 5 anos, 12 anos, 15 a 19 anos, 35 a 44 anos, 65 a 74 anos. A atividade de
+cárie, identificada pelas variáveis acima, possibilita classificar os indivíduos nas situações de risco
+moderado e alto, conforme recomendações da Secretaria de Estado de Saúde de São Paulo (SES-
+SP).
+A distribuição da atividade de cárie, segundo faixa etária, está demonstrada no quadro abaixo:
+                                                                        Número de indivíduos com
+                        Número de           Número de indivíduos
+   Faixa Etária                                                            atividade de cárie/100
+                        indivíduos          com atividade de cárie
+                                                                                indivíduos
+  18 a 36 meses               12.117                   3.482                       28,74
+       5 anos                 26.641                  14.617                       54,87
+       12 anos                34.550                  18.689                       54,09
+  15 a 19 anos                16.833                  10.240                       60,83
+  35 a 44 anos                13.431                   7.535                       56,10
+  65 a 74 anos                 5.349                   1.183                       22,12
+        Total               108.921                   55.746                       51,18
+Fonte: Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira – Resultados
+Principais.
+
+Com relação ao número médio de dentes com atividade de cárie por indivíduo, segundo faixa etária,
+os resultados obtidos no Projeto SB Brasil 2003 são apresentados no quadro abaixo:
+
+                      Média de dentes          Média de dentes
+   Faixa Etária
+                         cariados             obturados/cariados
+  18 a 36 meses               1,03                       0,01
+     05 anos                  2,30                       0,06
+     12 anos                  1,62                       0,07
+   15 a 19 anos               2,60                       0,19
+   35 a 44 anos               2,33                       0,35
+   65 a 74 anos               1,17                       0,06
+Fonte: Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira – Resultados
+Principais.
+Até 2009, a aplicação tópica profissional de flúor era registrada por pessoa (1ª vez no ano). Em 2010,
+com a entrada em vigor da RN nº 205/2009 e IN/DIPRO nº 21/2009, a aplicação tópica profissional de
+flúor passou a ser registrada no SIP “por hemi-arcada”.
+
+
+                                                 Meta
+
+Atingir um valor igual ou superior a 80% da taxa padronizada do setor, de modo a estimular o acesso
+ao flúor tópico profissional nos indivíduos de maior risco, visando à diminuição da atividade de cárie
+no setor suplementar.
+
+
+                                              Pontuação
+
+                  A pontuação do indicador foi definida de acordo com o quadro abaixo:
+
+Resultado obtido pela
+                                                                          Pontuação
+     operadora
+  Taxa de Aplicação                                         Valor
+                                                                                                Peso
+Tópica Profissional de                                      de 0
+                                                                                                1,5
+        Flúor                                               a1
+S/    Informação        ou
+                                                                0                                 0
+resultado = 0
+Resultado > 0 e < taxa                                        V
+                                                                                                 Vx
+padronizada do setor *                                      (>0 e
+                                                                                                 1,5
+0,80.                                                        <1)
+ Resultado        taxa
+ padronizada do setor *                                   1                                      1,5
+ 0,80.
+V = (Resultado da operadora)/taxa padronizada do setor* 0,80
+
+
+                                                 Fonte
+
+Numerador: Sistema de Informações de Produtos (SIP); Item I.3.2 “Aplicação tópica profissional de
+flúor por hemi-arcada”; coluna II (Eventos ocorridos)
+Denominador: Sistema de Informações de Produtos (SIP); Item I.3 “Procedimentos preventivos”;
+coluna III (Beneficiários da operadora fora do período de carência)
+
+
+Ações esperadas para causar impacto no indicador
+Conhecer o perfil epidemiológico dos beneficiários, identificar os grupos de risco para doença cárie e
+   adotar estratégias de busca ativa, organizando a rede assistencial para a prestação de serviços
+                      voltados para a prevenção, em nível individual e/ou coletivo.
+Utilizar o flúor tópico profissional (1) com finalidade terapêutica na remineralização das manchas
+brancas ativas, intervindo nos estágios iniciais da doença inibindo a progressão das lesões cariosas;
+(2) com finalidade preventiva atuando no processo de desmineralização dentária, de modo a evitar o
+aparecimento dos sinais clínicos da doença cárie.
+Desenvolver programas de promoção da saúde e prevenção de riscos e doenças que realizem a
+aplicação tópica profissional de flúor em nível coletivo.
+Implantar uma política de capacitação e educação permanente para a rede de prestadores, visando à
+uniformidade operacional e ao desenvolvimento de práticas centradas na promoção da saúde e na
+prevenção das doenças bucais.
+
+
+Limitações e vieses
+     Variabilidade da necessidade do procedimento em função dos diferentes fatores etiológicos
+              gerais/condicionantes relacionados ao risco da doença cárie na população.
+ A perspectiva de cobertura do indicador sofre interferência da forma de registro: por hemi-arcada e
+  por procedimento (podendo ocorrer aplicações repetidas em um mesmo indivíduo no decorrer do
+                                                período).
+
+
+Referências
+BRASIL. Portaria MS n° 493/GM, de 13 de março de 2006. Aprova a Relação de Indicadores da
+Atenção               Básica                –               2006.           Disponível            em:
+http://tabnet.datasus.gov.br/cgi/siab/pacto2006/portaria_493.pdf. Acesso em: 7 jan. 2008.
+BRASIL. Portaria MS nº 91/GM, de 10 de janeiro de 2007. Regulamenta a unificação do processo
+de pactuação de indicadores do Pacto pela Saúde, a serem pactuados por Municípios, Estados
+e Distrito Federal.
+BRASIL. Portaria MS nº 325/GM, de 21 de fevereiro de 2008. Estabelece prioridades, objetivos e
+metas do Pacto pela Vida para 2008, os indicadores de monitoramento e avaliação do Pacto
+pela Saúde e as orientações, prazos e diretrizes para a sua pactuação.
+MINISTÉRIO DA SAÚDE. Coordenação Nacional de Saúde Bucal. Projeto SB Brasil 2003:
+condições de saúde bucal da população brasileira 2002-2003. Brasília, DF, 2004. Disponível em:
+http://dtr2004.saude.gov.br/dab/cnsb/vigilancia.php. Acesso em: 7 jan. 2008.
+SECRETARIA DE ESTADO DE SAÚDE DE SÃO PAULO. Recomendações sobre o uso de
+produtos fluorados no âmbito do SUS/SP em função do risco de cárie dentária. São Paulo, SP,
+2000. Disponível em: http:// www.saude.sp.gov.br/ftpsessp/novo_site/bucal/bucal_protocolo.doc
+                                      1.9- TAXA DE SELANTES
+
+
+                                            Conceituação
+Número médio de dentes que receberam selantes por 10 beneficiários da operadora fora do período
+de carência para o procedimento (menores de 12 anos de idade), no período considerado.
+
+
+Método de Cálculo*
+
+        Número total de dentes que receberam selantes (menores de 12 anos)
+
+                                                                                         x 10
+   Total de beneficiários fora do período de carência para selantes (menores de 12
+                                         anos)
+
+
+*Observação: O resultado direto obtido desse indicador, ou seja, a taxa bruta será ajustada pela
+metodologia estatística da Padronização Indireta por Faixa Etária e pelo Bayes Empírico, cuja
+fórmula simplificada pode ser representada pela seguinte equação:
+Taxa padronizada e estimada ou resultado padronizado e ajustado do indicador = (RIE da
+operadora com ajuste pelo Bayes Empírico) X (Taxa da população de referência).
+RIE da operadora com ajuste pelo Bayes Empírico = (RIE da operadora sem ajuste X Fator de ajuste)
++ (RIE médio de todas as operadoras) X (1 – Fator de ajuste).
+RIE = Razão Informados Esperados = (Número de eventos informados pela operadora) / (Número de
+eventos esperados para operadora caso ela tivesse as mesmas taxas encontradas em cada faixa
+etária da população de referência).
+Razão Informados Esperados - RIE é um correlato ao termo em inglês Standardized Incidence Rate –
+SIR ou ao termo Standardized Mortality Rate – SMR.
+Fator de ajuste = fator calculado especificamente para cada operadora. Esse fator depende da
+dispersão dos valores das taxas entre operadoras e aumenta progressivamente, de zero (0) a um (1),
+conforme aumenta o denominador do indicador (número de beneficiários da operadora fora do
+período de carência para o evento ou procedimento).
+Taxa da população de referência = Taxa média do evento na população tomada como referência para
+a padronização de faixa etária.
+
+
+                           Definição dos termos utilizados no indicador
+Numerador - Número total de dentes que receberam selantes (menores de 12 anos): número de
+dentes, em menores de 12 anos completos de idade (até 11 anos, 11 meses e 29 dias) que
+receberam aplicação de selante de fóssulas e fissuras.
+Denominador - Total de beneficiários fora do período de carência para selantes (menores de 12
+anos): número de pessoas menores de 12 anos completos de idade (até 11 anos, 11 meses e 29
+dias) com direito a receber aplicação de selante de fóssulas e fissuras dentárias.
+                                     Interpretação do indicador
+Os índices ceo-d e CPO-D são os mais utilizados mundialmente como referência para o diagnóstico
+das condições de ataque à cárie dentária e avaliação dos programas de saúde bucal. Há diferenças
+importantes quanto aos componentes do índice segundo o nível de saúde e a existência ou não de
+serviços
+odontológicos satisfatórios. Em países com acentuadas desigualdades sociais e nos quais o acesso
+aos serviços de saúde é limitado, como o caso do Brasil e demais países latino-americanos, o
+aumento do índice durante a infância se dá em função, essencialmente, do componente cariado. De
+acordo com os resultados do levantamento epidemiológico SB Brasil: Condições de Saúde Bucal da
+População Brasileira, concluído pelo Ministério da Saúde em 2003, este componente representa
+96,26% do índice na faixa etária de 18 a 36 meses, 82,14% do índice na idade de 5 anos e 58,27%
+do índice aos 12 anos, sendo as superfícies de fóssulas e fissuras as mais atacadas pela cárie.
+O selamento dentário, aliado a outros recursos preventivos, representa um importante método de
+proteção específica para as superfícies de fóssulas e fissuras e, aplicado oportunamente, reduz
+significativamente a incidência de cárie na medida em que impede o acúmulo de placa bacteriana e
+facilita a higienização.
+Desta forma, este indicador estima a cobertura de selantes, visando à prevenção da doença cárie nas
+superfícies de fóssulas e fissuras dentárias, em indivíduos menores de 12 anos, na atenção
+suplementar à saúde.
+
+
+                                                Usos
+Analisar a cobertura de selantes na atenção suplementar à saúde, identificando variações e
+tendências que demandem a implementação de ações para a prevenção da cárie de fóssulas e
+fissuras.
+Possibilitar a realização de análises epidemiológicas comparativas, observando a série histórica do
+indicador, e correlacionando o selamento dentário com a incidência de cárie em fóssulas e fissuras,
+na população de expostos menores de 12 anos.
+Analisar a orientação dos modelos assistenciais praticados na assistência odontológica suplementar.
+Subsidiar o planejamento, o monitoramento e a avaliação das ações para a prevenção e redução da
+doença cárie.
+
+
+                           Parâmetros, Dados Estatísticos e Recomendações
+Em 2003, o Ministério da Saúde concluiu a realização de um levantamento epidemiológico,
+denominado Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira, para avaliar
+os principais agravos bucais em determinadas idades-índice e faixas etárias da população brasileira.
+A necessidade de selantes foi registrada no estudo na presença simultânea das seguintes
+condições: quando o dente estava presente na cavidade bucal há menos de dois anos; o dente
+homólogo apresentava experiência de cárie; e na presença de placa visível clinicamente. Através
+desta variável foi possível calcular o número de indivíduos que apresentavam necessidade de
+selantes.
+De acordo com os resultados do ataque de cárie, apresentados na publicação Projeto SB Brasil 2003:
+Condições de Saúde Bucal da População Brasileira – Resultados Principais, aproximadamente 27%
+das crianças de 18 a 36 meses apresentaram pelo menos um dente decíduo com experiência de
+cárie (ceo-d= 1,1) sendo que esta proporção chega 60% nas crianças de 5 anos de idade (ceo-
+d=2,8), destacando-se que o componente cariado é responsável por mais de 80% do índice na idade
+de 5 anos e 90% nas crianças de 18 a 36 meses.
+As crianças brasileiras de 12 anos de idade apresentaram, em média, 3 dentes com experiência de
+cárie (CPO-D=2,78), sendo o componente cariado responsável por 58,27% do índice.
+A fim de estabelecer uma projeção entre os resultados obtidos para as faixas etárias especificadas
+acima e o restante da população brasileira, foi adotada uma metodologia estatística conforme ficha
+técnica específica da padronização. Esses resultados foram a referência utilizada para a definição do
+parâmetro deste indicador.
+
+
+O número de indivíduos da população brasileira, menores de 12 anos de idade, com necessidade de
+selantes está demonstrado no quadro abaixo:
+
+                                           Projeção do número de
+                                                                    Projeção do número de
+                     Número total de           indivíduos com
+  Faixa Etária                                                   indivíduos com necessidade
+                       indivíduos              necessidade de
+                                                                  de selantes/100 indivíduos
+                                                   selantes
+
+  01 a 03 anos            9.806.906                  103.924                      1,06
+  04 a 06 anos           10.121.197                  238.239                      2,35
+  07 a 09 anos            9.776.642                  357.257                      3,65
+  10 a 12 anos           10.325.823                  512.767                      4,97
+      Total              40.030.568                1.212.187                      3,03
+Fontes:
+Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira – Resultados Principais,
+2003.
+Censo Demográfico Brasileiro - IBGE, 2000.
+
+
+Até 2009, o selamento dentário era registrado por pessoa (1ª vez no ano), em indivíduos menores de
+15 anos. Em 2010, com a entrada em vigor da RN nº 205/2009 e IN/DIPRO nº 21/2009, o selamento
+dentário passou a ser registrado no SIP por elemento dentário, em indivíduos menores de 12 anos.
+
+
+Com relação ao número médio de dentes com necessidade de selante a cada 10 indivíduos, o
+Projeto SB Brasil 2003 apontou os seguintes resultados:
+                   Número de dentes com
+  Faixa Etária    necessidade de selante/10
+                         indivíduos
+ 18 a 36 meses                 0,5
+     05 anos                   1,1
+     12 anos                   2,7
+        Total                    1,4
+Fonte:
+Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira – Resultados Principais.
+                                             Meta
+
+Considerando o parâmetro nacional identificado no Projeto SB Brasil 2003, a meta estabelecida para
+    este indicador é um valor igual ou superior a 1,4 selantes por elemento dentário/10 indivíduos
+                                          menores de 12 anos/ano.
+
+
+
+
+Pontuação
+Os valores para pontuação da operadora neste indicador foram definidos de acordo com o quadro
+abaixo:
+
+                Resultado obtido pela operadora                                   Pontuação
+
+
+          Taxa de selantes em menores de 12 anos                      Valor de 0 a 1          Peso 1,5
+
+
+S/ Informação ou resultado = 0                                                0                  0
+
+
+Resultado > 0 e < 1,4                                                     v (>0 e <1)          v x 1,5
+
+
+Resultado  1,4                                                               1                 1,5
+
+                                       V= (Resultado > 0 e < 1,4) / 1,4
+
+
+Fonte
+
+Numerador: Sistema de Informações de Produtos (SIP); Item I.3.3 “Selante por elemento dentário
+(menores de 12 anos)”; coluna II (Eventos ocorridos)
+Denominador: Sistema de Informações de Produtos (SIP); Item I.3.3 “Selante por elemento dentário
+(menores de 12 anos)”; coluna III (Beneficiários da operadora fora do período de carência)
+
+
+
+
+Ações esperadas para causar impacto no indicador
+Conhecer o perfil epidemiológico dos beneficiários, identificar os grupos de risco para a cárie de
+fóssulas e fissuras e adotar estratégias de busca ativa, organizando a rede assistencial para a
+prestação de serviços voltados para a prevenção da doença.
+Desenvolver programas de promoção da saúde e prevenção de riscos e doenças que utilizem o
+selamento na dentição permanente como estratégia de ação para a redução da cárie de fóssulas e
+fissuras em menores de 12 anos de idade.
+Implantar uma política de capacitação e educação permanente para a rede de prestadores, visando à
+uniformidade operacional e ao desenvolvimento de práticas centradas na promoção da saúde e na
+prevenção das doenças bucais.
+
+
+Limitações e vieses
+     Variabilidade da necessidade do procedimento em função dos diferentes fatores etiológicos
+              gerais/condicionantes relacionados ao risco da doença cárie na população.
+
+
+Referências
+BRASIL. Portaria MS n° 493/GM, de 13 de março de 2006. Aprova a Relação de Indicadores da
+Atenção               Básica              –             2006.             Disponível             em:
+http://tabnet.datasus.gov.br/cgi/siab/pacto2006/portaria_493.pdf. Acesso em: 7 jan. 2008.
+BRASIL. Portaria MS nº 91/GM, de 10 de janeiro de 2007. Regulamenta a unificação do processo
+de pactuação de indicadores do Pacto pela Saúde, a serem pactuados por Municípios, Estados
+e Distrito Federal.
+BRASIL. Portaria MS nº 325/GM, de 21 de fevereiro de 2008. Estabelece prioridades, objetivos e
+metas do Pacto pela Vida para 2008, os indicadores de monitoramento e avaliação do Pacto
+pela Saúde e as orientações, prazos e diretrizes para a sua pactuação.
+MINISTÉRIO DA SAÚDE. Coordenação Nacional de Saúde Bucal. Projeto SB Brasil 2003:
+condições de saúde bucal da população brasileira 2002-2003. Brasília, DF, 2004. Disponível em:
+http://dtr2004.saude.gov.br/dab/cnsb/vigilancia.php. Acesso em: 7 jan. 2008.
+1-10- TAXA DE RASPAGENS SUPRA-GENGIVAIS
+
+
+
+
+Conceituação
+Número médio de raspagens supra-gengivais, em cada 100 beneficiários da operadora fora do
+período de carência para o procedimento (com 12 anos de idade ou mais), no período considerado.
+
+
+Método de Cálculo*
+
+ Número total de raspagens supra-gengivais por hemi-arcada (12 anos ou mais)
+
+
+                                                                                  4**    x 100
+    Total de beneficiários fora do período de carência para raspagens supra-
+                           gengivais (12 anos ou mais)
+
+
+
+*Observação: O resultado direto obtido desse indicador, ou seja, a taxa bruta será ajustada pela
+metodologia estatística da Padronização Indireta por Faixa Etária e pelo Bayes Empírico, cuja
+fórmula simplificada pode ser representada pela seguinte equação:
+Taxa padronizada e estimada ou resultado padronizado e ajustado do indicador = (RIE da
+operadora com ajuste pelo Bayes Empírico) X (Taxa da população de referência).
+RIE da operadora com ajuste pelo Bayes Empírico = (RIE da operadora sem ajuste X Fator de ajuste)
++ (RIE médio de todas as operadoras) X (1 – Fator de ajuste).
+RIE = Razão Informados Esperados = (Número de eventos informados pela operadora) / (Número de
+eventos esperados para operadora caso ela tivesse as mesmas taxas encontradas em cada faixa
+etária da população de referência).
+Razão Informados Esperados - RIE é um correlato ao termo em inglês Standardized Incidence Rate –
+SIR ou ao termo Standardized Mortality Rate – SMR.
+Fator de ajuste = fator calculado especificamente para cada operadora. Esse fator depende da
+dispersão dos valores das taxas entre operadoras e aumenta progressivamente, de zero (0) a um (1),
+conforme aumenta o denominador do indicador (número de beneficiários da operadora expostos ao
+evento ou ao procedimento).
+Taxa da população de referência = Taxa média do evento na população tomada como referência para
+a padronização de faixa etária.
+
+
+**Observação 2: Considerando, para o cálculo do valor médio, que o evento é registrado “por hemi-
+arcada” no Sistema de Informações de Produtos - SIP e que uma arcada completa é constituída por
+quatro hemi-arcadas.
+Definição de termos utilizados no Indicador
+Numerador - Número total de raspagens supra-gengivais por hemi-arcada (12 anos ou mais):
+número total de raspagens supra-gengivais, por hemi-arcada, em beneficiários com 12 anos
+completos de idade ou mais
+Denominador - Total de beneficiários fora do período de carência para raspagens supra-gengivais
+(12 anos ou mais): número de pessoas com 12 anos completos de idade ou mais com direito a
+realizar raspagens supra-gengivais.
+
+
+Interpretação do Indicador
+De acordo com os resultados do levantamento epidemiológico Projeto SB Brasil 2003: Condições de
+Saúde Bucal da População Brasileira, concluído pelo Ministério da Saúde em 2003, a ocorrência de
+sangramento gengival como maior grau de condição periodontal está presente em 18,77% dos
+indivíduos na faixa etária de 15 a 19 anos de idade, 9,97% de 35 a 44 anos e 3,27% de 65 a 74 anos.
+Quanto à presença de cálculo, como maior grau de condição periodontal apresentado pelos
+indivíduos, foi encontrado um percentual de 33,4% na faixa de 15 a 19 anos, 46,76% de 35 a 44 anos
+e 21,74% de 65 a 74 anos.
+A placa bacteriana é o principal fator etiológico da gengivite e da periodontite. A terapia periodontal
+básica, que compreende a orientação e motivação para a higiene bucal, remoção mecânica de placa
+e cálculo, polimento coronário e/ou alisamento radicular e remoção dos fatores retentivos de placa, é
+um importante método de eliminação dos depósitos bacterianos nas superfícies dentárias e, realizada
+oportunamente, proporciona a proteção específica do indivíduo contra as periodontopatias.
+Desta forma, este indicador estima a cobertura de procedimentos periodontais básicos visando à
+redução dos fatores de risco, à prevenção e à limitação dos danos ocasionados pela gengivite e
+periodontite, em indivíduos com 15 anos de idade ou mais, na atenção suplementar à saúde.
+
+
+Usos
+Analisar a cobertura de terapia periodontal básica, na atenção suplementar à saúde, identificando
+variações e tendências que demandem a implementação de ações para a prevenção e intervenção
+precoce nas periodontopatias.
+Possibilitar a realização de análises epidemiológicas comparativas, observando a série histórica do
+indicador, e correlacionando a realização de procedimentos periodontais básicos com a incidência de
+gengivite e periodontite, na população de expostos com 15 anos de idade ou mais.
+Analisar a orientação dos modelos assistenciais praticados na assistência odontológica suplementar.
+Subsidiar o planejamento, o monitoramento e a avaliação das ações para a promoção da saúde
+bucal, prevenção e controle das doenças periodontais.
+
+
+Parâmetros, Dados Estatísticos e Recomendações
+Em 2003, o Ministério da Saúde concluiu a realização de um levantamento epidemiológico,
+denominado Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira, para avaliar
+os principais agravos bucais em determinadas idades-índice e faixas etárias da população brasileira.
+Este estudo mediu o número médio de sextantes afetados e respectiva proporção no Índice
+Periodontal Comunitário (CPI), segundo as faixas etárias de 15 a 19 anos, 35 a 44 anos e 65 a 74
+anos, por macrorregião do país, de acordo com os resultados apresentados na tabela 28 da
+publicação Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira – Resultados
+Principais. Os resultados relativos à condição de Cálculo dentário constam na tabela abaixo:
+
+                    Média de sextantes afetados pela Condição
+  Faixa Etária                Periodontal de Cálculo
+
+                             n                          %
+  15 a 19 anos              0,88                       14,67
+  35 a 44 anos              1,31                       21,8
+  65 a 74 anos              0,5                        8,33
+                                             Fonte:
+Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira – Resultados Principais.
+
+Até 2009, o SIP possuía o item “Pessoas submetidas à terapia periodontal básica (15 anos ou mais)”.
+Este item abarcava, além da raspagem supra-gengival, a raspagem sub-gengival, o alisamento
+coronário e/ou radicular (com ou sem curetagem de bolsa periodontal), desconsiderando os
+procedimentos repetidos no mesmo beneficiário no decorrer de um ano. Em 2010, com a entrada em
+vigor da RN nº 205/2009 e IN/DIPRO nº 21/2009, a avaliação da intervenção em estágios iniciais do
+acometimento da saúde periodontal passou a ser efetuada através do item “Raspagem supra-
+gengival por hemi-arcada (12 anos ou mais)”.
+
+
+                                                Meta
+
+Atingir um valor igual ou superior a 80% da taxa padronizada do setor, buscando estimular a
+realização de raspagens supra-gengivais, visando à prevenção e ao controle de doenças
+periodontais.
+
+
+Pontuação
+Os valores para pontuação da operadora neste indicador foram definidos de acordo com o quadro
+abaixo:
+
+Resultado obtido pela
+                                                                          Pontuação
+     operadora
+                                                            Valor
+  Taxa de raspagens                                                                            Peso
+                                                            de 0
+   supra-gengivais                                                                             2
+                                                            a1
+S/    Informação      ou
+                                                               0                                0
+resultado = 0
+Resultado > 0 e < taxa                                        V
+padronizada do setor *                                      (>0 e                              Vx2
+0,80.                                                        <1)
+Resultado   >=   taxa                                          1                                2
+padronizada do setor *
+0,80.
+
+V = (Resultado da operadora)/taxa padronizada do setor* 0,80
+
+                                                 Fonte
+
+Numerador: Sistema de Informações de Produtos (SIP); Item I.4 “Raspagem-supra-gengival por
+hemi-arcada (12 anos ou mais)”; coluna II (Eventos ocorridos).
+Denominador: Sistema de Informações de Produtos (SIP); Item I.4 “Raspagem-supra-gengival por
+hemi-arcada (12 anos ou mais)”; coluna III (Beneficiários da operadora fora do período de carência)
+
+
+
+
+Ações esperadas para causar impacto no Indicador
+  Conhecer o perfil epidemiológico dos beneficiários, identificar os grupos de risco para as doenças
+periodontais e adotar estratégias de busca ativa, organizando a rede assistencial para a prestação de
+                      serviços voltados para a prevenção e intervenção precoce.
+   Desenvolver programas de promoção da saúde e prevenção de riscos e doenças que utilizem a
+  raspagem supra-gengival como estratégia de ação para a redução das doenças periodontais em
+                                     maiores de 12 anos de idade.
+Implantar uma política de capacitação e educação permanente para a rede de prestadores, visando à
+ uniformidade operacional e ao desenvolvimento de práticas centradas na promoção e prevenção da
+                                              saúde bucal.
+
+
+Limitações e Vieses
+     Variabilidade da necessidade do procedimento em função dos diferentes fatores etiológicos
+           gerais/condicionantes relacionados ao risco da doença periodontal na população.
+ A perspectiva de cobertura do indicador sofre interferência da forma de registro: por hemi-arcada e
+   por procedimento (podendo ocorrer eventos repetidos em um mesmo indivíduo no decorrer do
+                                               período).
+        O indicador poderá ser influenciado pela composição etária da carteira de beneficiários.
+
+
+Referências
+BRASIL. Portaria MS n° 493/GM, de 13 de março de 2006. Aprova a Relação de Indicadores da
+Atenção               Básica              –                2006.           Disponível              em:
+http://tabnet.datasus.gov.br/cgi/siab/pacto2006/portaria_493.pdf. Acesso em: 7 jan. 2008.
+BRASIL. Portaria MS nº 91/GM, de 10 de janeiro de 2007. Regulamenta a unificação do processo
+de pactuação de indicadores do Pacto pela Saúde, a serem pactuados por Municípios, Estados
+e Distrito Federal.
+BRASIL. Portaria MS nº 325/GM, de 21 de fevereiro de 2008. Estabelece prioridades, objetivos e
+metas do Pacto pela Vida para 2008, os indicadores de monitoramento e avaliação do Pacto
+pela Saúde e as orientações, prazos e diretrizes para a sua pactuação.
+MINISTÉRIO DA SAÚDE. Coordenação Nacional de Saúde Bucal. Projeto SB Brasil 2003:
+condições de saúde bucal da população brasileira 2002-2003. Brasília, DF, 2004. Disponível em:
+http://dtr2004.saude.gov.br/dab/cnsb/vigilancia.php. Acesso em: 7 jan. 2008.
+1.11- TAXA DE DENTES PERMANENTES COM TRATAMENTO ENDODÔNTICO CONCLUÍDO
+
+
+
+
+Conceituação
+Número médio de dentes permanentes com tratamento endodôntico concluído, em cada 10
+beneficiários da operadora fora do período de carência para o procedimento (com 12 anos ou mais),
+no período considerado.
+
+
+Método de Cálculo*
+
+Número total de dentes permanentes com tratamento endodôntico concluído (12
+                                   anos ou mais)
+                                                                                   x 10
+
+ Total de beneficiários fora do período de carência para tratamento endodôntico
+                                  (12 anos ou mais)
+
+
+*Observação: O resultado direto obtido desse indicador, ou seja, a taxa bruta será ajustada pela
+metodologia estatística da Padronização Indireta por Faixa Etária e pelo Bayes Empírico, cuja
+fórmula simplificada pode ser representada pela seguinte equação:
+Taxa padronizada e estimada ou resultado padronizado e ajustado do indicador = (RIE da
+operadora com ajuste pelo Bayes Empírico) X (Taxa da população de referência).
+RIE da operadora com ajuste pelo Bayes Empírico = (RIE da operadora sem ajuste X Fator de ajuste)
++ (RIE médio de todas as operadoras) X (1 – Fator de ajuste).
+RIE = Razão Informados Esperados = (Número de eventos informados pela operadora) / (Número de
+eventos esperados para operadora caso ela tivesse as mesmas taxas encontradas em cada faixa
+etária da população de referência).
+Razão Informados Esperados - RIE é um correlato ao termo em inglês Standardized Incidence Rate –
+SIR ou ao termo Standardized Mortality Rate – SMR.
+Fator de ajuste = fator calculado especificamente para cada operadora. Esse fator depende da
+dispersão dos valores das taxas entre operadoras e aumenta progressivamente, de zero (0) a um (1),
+conforme aumenta o denominador do indicador (número de beneficiários da operadora expostos ao
+evento ou ao procedimento).
+Taxa da população de referência = Taxa média do evento na população tomada como referência para
+a padronização de faixa etária.
+
+
+Definição de termos utilizados no Indicador
+Numerador - Número total de dentes permanentes com tratamento endodôntico concluído (12 anos
+ou mais): número total de dentes permanentes que receberam Tratamento Endodôntico Concluído
+(independente do nº de condutos).
+Denominador - Total de beneficiários fora do período de carência para tratamento endodôntico (12
+anos ou mais): total de beneficiários da operadora que estão fora do período de carência no item em
+questão (endodontia), no período considerado.
+
+
+Interpretação do Indicador
+Dentre as principais causas das doenças da polpa dentária está a doença cárie. A progressão da
+lesão cariosa para as regiões mais profundas da estrutura dentária agride a polpa, causando um
+processo inflamatório. Quando esta inflamação progride e torna-se irreversível ocorre a necessidade
+de tratamento endodôntico, em função da odontalgia ou da evolução para a necrose (morte) da polpa.
+De acordo com os resultados do levantamento epidemiológico Projeto SB Brasil 2003: Condições de
+Saúde Bucal da População Brasileira, concluído pelo Ministério da Saúde em 2003, 8,11% dos
+indivíduos examinados possuíam, pelo menos, 1 dente com indicação endodôntica.
+Altas taxas de tratamento endodôntico sugerem um modelo assistencial insatisfatório, com baixo
+estímulo às ações de promoção e prevenção.
+No entanto, devemos atentar para o fato que tratamentos endodônticos também são indicados por
+causas não evitáveis com ações preventivas, tais como traumatismo dentário ou por indicação
+protética. Portanto, taxas muito baixas de tratamento endodôntico não são desejadas, pois sugerem
+dificuldade de acesso aos serviços especializados e de maior complexidade.
+Desta forma, este indicador estima o risco (probabilidade) dos expostos realizarem tratamento
+endodôntico nas dentições decídua e permanente, motivado pela progressão da cárie e doença
+periodontal, na atenção suplementar à saúde.
+
+
+Usos
+Dimensionar a realização de tratamento endodôntico, na atenção suplementar à saúde, identificando
+variações e tendências que demandem a implementação de ações para a prevenção da cárie e
+doença periodontal, o diagnóstico precoce das lesões inflamatórias da polpa e o acesso aos serviços
+especializados.
+Possibilitar a realização de análises epidemiológicas comparativas, observando a série histórica do
+indicador, e correlacionando as ações implementadas com a taxa de dentes com tratamento
+endodôntico concluído.
+Analisar a orientação dos modelos assistenciais praticados na atenção odontológica suplementar,
+bem como a existência de barreiras para o acesso aos procedimentos de maior complexidade.
+
+
+Parâmetros, Dados Estatísticos e Recomendações
+Em 2003, o Ministério da Saúde concluiu a realização de um levantamento epidemiológico,
+denominado Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira, para avaliar
+os principais agravos bucais em determinadas idades-índice e faixas etárias da população brasileira.
+Este estudo mediu a distribuição do número de dentes com necessidade de tratamento pulpar e
+restauração, segundo as faixas etárias 18 a 36 meses, 5 anos, 12 anos, 15 a 19 anos, 35 a 44 anos,
+65 a 74 anos, por macrorregião do país. O registro desta variável foi realizado quando havia
+necessidade de tratamento endodôntico, previamente à colocação de restauração ou coroa, devido à
+cárie profunda e extensa, ou trauma.
+Segundo a pesquisa, 8,11% dos indivíduos examinados possuíam, pelo menos, 1 dente com
+indicação endodôntica.
+A fim de estabelecer uma projeção entre os resultados obtidos para as faixas etárias especificadas
+acima e o restante da população brasileira, foi adotada uma metodologia estatística conforme ficha
+técnica específica da padronização. Esses resultados foram a referência utilizada para a definição do
+parâmetro deste indicador.
+A distribuição de dentes com necessidade de tratamento endodôntico, em cada 10 indivíduos da
+população brasileira maior de 12 anos, está demonstrada no quadro a seguir:
+
+                                           Projeção do número de        Projeção do número de
+                     Número total de
+  Faixa Etária                              dentes com indicação       dentes com indicação de
+                       indivíduos
+                                               de endodontia           endodontia/10 indivíduos
+
+  12 a 14 anos           10.547.058               1.751.753                       1,66
+  15 a 19 anos           17.939.815               3.086.774                       1,72
+  20 a 24 anos           16.141.515               2.698.689                       1,67
+  25 a 29 anos           13.849.665               2.140.977                       1,55
+  30 a 34 anos           13.028.944               1.810.049                       1,39
+  35 a 39 anos           12.261.529               1.507.809                       1,23
+  40 a 44 anos           10.546.694               1.137.483                       1,08
+  45 a 49 anos            8.721.541                820.782                        0,94
+  50 a 54 anos            7.062.601                579.987                        0,82
+  55 a 59 anos            5.444.715                390.237                        0,72
+  60 a 64 anos            4.600.929                288.722                        0,63
+  65 a 69 anos            3.581.106                197.757                        0,55
+  70 a 74 anos            2.742.302                134.106                        0,49
+  75 a 79 anos            1.779.587                 77.613                        0,44
+ 80 anos e mais           1.832.105                 67.684                        0,37
+      Total              130.080.106              16.690.422                      1,28
+Fontes:
+Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira – Resultados Principais,
+2003.
+Censo Demográfico Brasileiro- IBGE, 2000.
+
+
+                                               Meta
+
+Considerando como parâmetro nacional 1,28 dentes com indicação de endodontia/10 beneficiários, e
+tendo em vista que existem indicações de tratamento endodôntico por causas não evitáveis através
+de medidas preventivas, foi estabelecido para este indicador um limite inferior permitindo uma
+redução de até 75% do parâmetro nacional. Sabendo que a realização de endodontias acima dos
+padrões esperados indica um modelo assistencial insatisfatório, centrado em práticas curativas, em
+detrimento das ações de promoção e prevenção, foi estabelecido para o indicador um limite superior
+permitindo um aumento de até 100% do parâmetro nacional.
+Diante do exposto, a meta estabelecida para este indicador é um valor maior ou igual a 0,30 e menor
+ou igual a 1,28 dentes com tratamento endodôntico concluído/10 beneficiários/ano.
+                                              Pontuação
+
+Os valores para pontuação da operadora neste indicador foram definidos de acordo com o quadro
+abaixo:
+
+
+
+               Resultado obtido pela operadora                              Pontuação
+
+Taxa      de   Dentes    Permanentes      com     Tratamento
+                                                                  Valor de 0 a 1         Peso 1
+Endodôntico Concluído
+
+S/ Informação ou resultado =0                                           0                    0
+
+
+Resultado > 0 e < 0,30                                             V1 (>0 e <1)              1
+
+
+Resultado  0,30 e  1,28                                               1                    1
+
+
+Resultado > 1,28 e < 2,56                                          V2 (<1 e >0)            vx1
+
+
+Resultado  2,56                                                        0                    0
+
+V1 = (Resultado > 0 e < 0,30) / 0,30
+V2 = 1- ((Resultado > 1,28 e < 2,56) – 1,28/ 1,28))
+
+
+                                                Fonte
+
+Numerador: Sistema de Informações de Produtos (SIP); Item I.9 “Tratamento endodôntico concluído
+em dentes permanentes por elemento (12 anos ou mais)”; coluna II (Eventos ocorridos)
+Denominador: Sistema de Informações de Produtos (SIP); Item I.9 “Tratamento endodôntico
+concluído em dentes permanentes por elemento (12 anos ou mais)”; coluna III (Beneficiários da
+operadora fora do período de carência)
+
+
+
+
+Ações esperadas para causar impacto no Indicador
+Conhecer o perfil epidemiológico dos beneficiários, identificar os grupos de risco para cárie e doença
+periodontal, e adotar estratégias de busca ativa, organizando a rede assistencial para a prestação de
+serviços voltados para a prevenção dos fatores de risco, diagnóstico precoce e intervenção
+adequada.
+Desenvolver programas de promoção da saúde e prevenção de riscos e doenças que utilizem ações
+para a redução das lesões inflamatórias da polpa.
+Implantar uma política de capacitação e educação permanente para a rede de prestadores, visando à
+uniformidade operacional e ao desenvolvimento de práticas centradas na promoção da saúde e na
+prevenção das doenças bucais.
+
+
+Limitações e Vieses
+Poderá ser influenciado pelo tempo de permanência do beneficiário no plano, quando este for
+insuficiente para evitar endodontias por meio de ações de promoção e prevenção implementadas
+pela operadora; e quando não houver possibilidade de evitar endodontias, diante da entrada de novos
+beneficiários com a necessidade já instalada.
+O indicador poderá ser influenciado pela composição etária da carteira de beneficiários.
+
+
+Referências
+BRASIL. Portaria MS n° 493/GM, de 13 de março de 2006. Aprova a Relação de Indicadores da
+Atenção               Básica              –             2006.              Disponível             em:
+http://tabnet.datasus.gov.br/cgi/siab/pacto2006/portaria_493.pdf. Acesso em: 7 jan. 2008.
+BRASIL. Portaria MS nº 91/GM, de 10 de janeiro de 2007. Regulamenta a unificação do processo
+de pactuação de indicadores do Pacto pela Saúde, a serem pactuados por Municípios, Estados
+e Distrito Federal.
+BRASIL. Portaria MS nº 325/GM, de 21 de fevereiro de 2008. Estabelece prioridades, objetivos e
+metas do Pacto pela Vida para 2008, os indicadores de monitoramento e avaliação do Pacto
+pela Saúde e as orientações, prazos e diretrizes para a sua pactuação.
+MINISTÉRIO DA SAÚDE. Coordenação Nacional de Saúde Bucal. Projeto SB Brasil 2003:
+condições de saúde bucal da população brasileira 2002-2003. Brasília, DF, 2004. Disponível em:
+http://dtr2004.saude.gov.br/dab/cnsb/vigilancia.php. Acesso em: 7 jan. 2008.
+1.12- TAXA DE EXODONTIAS DE PERMANENTES
+
+
+
+
+                                              Conceituação
+
+Número médio de exodontias de permanentes, em cada 10 beneficiários da operadora fora do
+período de carência para o procedimento (com 12 anos de idade ou mais), no período considerado.
+
+
+                                        Método de cálculo*
+
+                                                                                           x 10
+       Número total de exodontias simples de permanentes (12 anos ou mais)
+     Total de beneficiários fora do período de carência para exodontia simples de
+                           permanentes (12 anos ou mais)
+
+
+
+*Observação: O resultado direto obtido desse indicador, ou seja, a taxa bruta será ajustada pela
+metodologia estatística da Padronização Indireta por Faixa Etária e pelo Bayes Empírico, cuja
+fórmula simplificada pode ser representada pela seguinte equação:
+Taxa padronizada e estimada ou resultado padronizado e ajustado do indicador = (RIE da
+operadora com ajuste pelo Bayes Empírico) X (Taxa da população de referência).
+RIE da operadora com ajuste pelo Bayes Empírico = (RIE da operadora sem ajuste X Fator de ajuste)
++ (RIE médio de todas as operadoras) X (1 – Fator de ajuste).
+RIE = Razão Informados Esperados = (Número de eventos informados pela operadora) / (Número de
+eventos esperados para operadora caso ela tivesse as mesmas taxas encontradas em cada faixa
+etária da população de referência).
+Razão Informados Esperados - RIE é um correlato ao termo em inglês Standardized Incidence Rate –
+SIR ou ao termo Standardized Mortality Rate – SMR.
+Fator de ajuste = fator calculado especificamente para cada operadora. Esse fator depende da
+dispersão dos valores das taxas entre operadoras e aumenta progressivamente, de zero (0) a um (1),
+conforme aumenta o denominador do indicador (número de beneficiários da operadora expostos ao
+evento ou ao procedimento).
+Taxa da população de referência = Taxa média do evento na população tomada como referência para
+a padronização de faixa etária.
+                           Definição de termos utilizados no indicador
+
+Numerador - Número total de exodontias simples de permanentes (12 anos ou mais): total de
+procedimentos de extrações de permanentes normalmente implantados, à exceção das extrações de
+siso incluso/semi-incluso e extrações com indicação ortodôntica, que devem ser informadas no item
+de despesa I. “PROCEDIMENTOS ODONTOLÓGICOS”.
+Denominador - Total de beneficiários fora do período de carência para exodontia simples de
+permanentes (12 anos ou mais): total de beneficiários da operadora, maiores de 12 anos, que estão
+fora do período de carência no item em questão (exodontia), no período considerado.
+
+
+                                      Interpretação do indicador
+
+Os estudos epidemiológicos realizados na área de saúde bucal têm fornecido informações sobre as
+condições bucais e as necessidades de tratamento das populações, apontando a cárie e a doença
+periodontal, evitáveis com ações preventivas, como as doenças responsáveis pela maioria das
+perdas dentárias. De acordo com os resultados do levantamento epidemiológico Projeto SB Brasil
+2003: Condições de Saúde Bucal da População Brasileira, concluído pelo Ministério da Saúde em
+2003, 13,64% dos indivíduos com 12 anos de idade ou mais possuem, pelo menos, 1 dente
+permanente com indicação para exodontia.
+Sabe-se que as perdas dentárias são influenciadas pelas condições sociais dos indivíduos, bem
+como pelo modelo de atenção odontológica praticado no país, baseado no acesso limitado e na
+realização de ações curativas, centrado nas seqüelas das doenças e não na prevenção das mesmas,
+e que tem nas extrações dentárias a solução prática e econômica para o alívio da dor.
+Altas taxas de exodontias sugerem um modelo assistencial insatisfatório, com dificuldade de acesso
+aos serviços odontológicos básicos e baixo estímulo às ações de promoção e prevenção.
+Desta forma, este indicador estima o risco (probabilidade) dos expostos, com 12 anos de idade ou
+mais, realizarem exodontias de permanentes, motivadas pela progressão da doença cárie ou da
+doença periodontal, na atenção suplementar à saúde.
+
+
+                                               Usos
+
+Possibilitar a realização de análises epidemiológicas comparativas, observando a série histórica do
+indicador, correlacionando a implementação de ações de promoção, prevenção e diagnóstico
+precoce, com a taxa de exodontias, na população de expostos com 12 anos de idade ou mais.
+Dimensionar a magnitude dos procedimentos mutiladores na dentição permanente.
+Analisar a orientação dos modelos assistenciais praticados na assistência odontológica suplementar.
+Subsidiar o planejamento, o monitoramento e a avaliação das ações para a prevenção e diminuição
+das seqüelas da cárie e doença periodontal.
+
+
+                       Parâmetros, Dados Estatísticos e Recomendações
+
+O Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira avaliou os principais
+agravos bucais em determinadas idades-índice e faixas etárias da população brasileira.
+Este estudo mediu a distribuição de dentes com necessidade de exodontia, segundo as faixas etárias
+de 12 anos, 15 a 19 anos, 35 a 44 anos, 65 a 74 anos e macrorregião do país. De acordo com a
+variável, um dente é registrado como indicado para extração quando foi totalmente destruído pela
+cárie; quando apresenta mobilidade que compromete sua recuperação periodontal; por indicação
+protética ou ortodôntica. Segundo a pesquisa, 13,64% dos indivíduos com 12 anos de idade ou mais
+possuíam, pelo menos, 1 dente com indicação para exodontia.
+A fim de estabelecer uma projeção entre os resultados obtidos para as faixas etárias especificadas
+acima, e o restante da população brasileira, foi adotada uma metodologia estatística conforme ficha
+técnica específica da padronização. Esses resultados foram a referência utilizada para a definição do
+parâmetro deste indicador.
+A distribuição da necessidade de exodontia de permanentes, em cada 10 indivíduos da população
+brasileira com 12 anos de idade ou mais, segundo faixa etária, está demonstrada no quadro abaixo:
+
+                                      Projeção do número de        Projeção do número de dentes
+                  Número total de
+  Faixa Etária                        dentes com indicação de      com indicação de exodontia/10
+                     indivíduos
+                                              exodontia                       indivíduos
+
+  12 a 14 anos       10.547.058                 1.568.758                        1,49
+  15 a 19 anos       17.939.815                 5.423.772                        3,02
+  20 a 24 anos        16.141.515                 7.916.300                        4,90
+  25 a 29 anos        13.849.665                 8.212.285                        5,93
+  30 a 34 anos        13.028.944                 8.172.338                        6,27
+  35 a 39 anos        12.261.529                 7.806.459                        6,37
+  40 a 44 anos        10.546.694                 6.740.779                        6,39
+  45 a 49 anos          8.721.541                5.579.862                        6,40
+  50 a 54 anos          7.062.601                4.519.663                        6,40
+  55 a 59 anos          5.444.715                3.484.538                        6,40
+  60 a 64 anos          4.600.929                2.944.578                        6,40
+  65 a 69 anos          3.581.106                2.291.904                        6,40
+  70 a 74 anos          2.742.302                1.755.073                        6,40
+  75 a 79 anos          1.779.587                1.138.936                        6,40
+80 anos e mais          1.832.105                1.172.547                        6,40
+     Total           130.080.106               68.727.791                         5,28
+Fontes:
+ Projeto SB Brasil 2003: Condições de Saúde Bucal da População Brasileira – Resultados Principais,
+                                             2003.
+Censo Demográfico Brasileiro - IBGE, 2000.
+
+
+
+
+                                                Meta
+
+  O parâmetro nacional, de 5,28 dentes com indicação de exodontia/10 indivíduos com 12 anos de
+       idade ou mais, é considerado elevado quando comparado aos padrões internacionais.
+  Desta forma, a meta estabelecida para este indicador propõe uma redução de 70% do parâmetro
+ nacional, ou seja, a realização de 1,60 exodontias de permanentes/10 beneficiários com 12 anos de
+  idade ou mais/ano, buscando reduzir o número de exodontias na dentição permanente, no setor
+                                            suplementar.
+
+
+
+
+                                             Pontuação
+                 A pontuação do indicador foi definida de acordo com o quadro abaixo:
+
+             Resultado obtido pela operadora                                Pontuação
+
+
+Taxa de Exodontias de Permanentes                                Valor de 0 a 1          Peso 1
+
+
+S/ Informação ou resultado  5,28                                       0                  0
+Resultado < 5,28 e >1,60                                            v(>0 e <1)               1
+
+
+Resultado  1,60                                                         1                   1
+
+V = 1- ((Resultado < 5,28 e > 1,60) – 1,60/ 3,68 ))
+
+
+                                                 Fonte
+
+Numerador: Sistema de Informações de Produtos (SIP); Item I.7 “Exodontias simples de
+permanentes (12 anos ou mais)”; coluna II (Eventos ocorridos)
+Denominador: Sistema de Informações de Produtos (SIP); Item I.7 “Exodontias simples de
+permanentes (12 anos ou mais)”; coluna III (Beneficiários da operadora fora do período de carência)
+
+
+                        Ações esperadas para causar impacto no indicador
+
+  Conhecer o perfil epidemiológico dos beneficiários, identificar os grupos de risco para as doenças
+    cárie e periodontal e adotar estratégias de busca ativa, organizando a rede assistencial para a
+    prestação de serviços voltados para a prevenção das doenças e redução dos fatores de risco,
+                             diagnóstico precoce e intervenção adequada.
+ Desenvolver programas de promoção da saúde e prevenção de riscos e doenças com o objetivo de
+                             evitar as exodontias na dentição permanente.
+Implantar uma política de capacitação e educação permanente para a rede de prestadores, visando à
+ uniformidade operacional, de modo a evitar medidas mutiladoras, estimulando as práticas centradas
+                        na promoção da saúde bucal e prevenção de doenças.
+
+
+Limitações e vieses
+    Poderá ser influenciado pelo tempo de permanência do beneficiário no plano, quando este for
+insuficiente para evitar exodontias por meio de ações de promoção e prevenção implementadas pela
+  operadora; e quando não houver possibilidade de evitar as exodontias diante da entrada de novos
+                             beneficiários com a necessidade já instalada.
+       O indicador poderá ser influenciado pela composição etária da carteira de beneficiários.
+
+
+                                               Referências
+
+BRASIL. Portaria MS n° 493/GM, de 13 de março de 2006. Aprova a Relação de Indicadores da
+Atenção               Básica               –             2006.               Disponível               em:
+http://tabnet.datasus.gov.br/cgi/siab/pacto2006/portaria_493.pdf. Acesso em: 7 jan. 2008.
+BRASIL. Portaria MS nº 91/GM, de 10 de janeiro de 2007. Regulamenta a unificação do processo
+de pactuação de indicadores do Pacto pela Saúde, a serem pactuados por Municípios, Estados
+e Distrito Federal.
+BRASIL. Portaria MS nº 325/GM, de 21 de fevereiro de 2008. Estabelece prioridades, objetivos e
+metas do Pacto pela Vida para 2008, os indicadores de monitoramento e avaliação do Pacto
+pela Saúde e as orientações, prazos e diretrizes para a sua pactuação.
+MINISTÉRIO DA SAÚDE. Coordenação Nacional de Saúde Bucal. Projeto SB Brasil 2003:
+condições de saúde bucal da população brasileira 2002-2003. Brasília, DF, 2004. Disponível em:
+http://dtr2004.saude.gov.br/dab/cnsb/vigilancia.php. Acesso em: 7 jan. 2008.
+
+
+
+
+1.13- PROGRAMA DE PROMOÇÃO DA SAÚDE E PREVENÇÃO DE RISCOS E DOENÇAS
+APROVADO NA ANS - PONTUAÇÃO BÔNUS
+
+
+
+
+Conceituação
+Pontuação bônus atribuída ao resultado do Índice de Desempenho da Atenção à Saúde – IDAS, para
+as operadoras que tiverem programas de promoção da saúde e prevenção de riscos e doenças
+aprovados junto à ANS, conforme disposto na Instrução Normativa Conjunta DIOPE/DIPRO nº 1, de
+30 de dezembro de 2008, na data do processamento do IDSS.
+
+
+Método de Cálculo*
+                                 Resultado do IDAS + (IDAS*0,1)
+
+
+
+
+*Observação: Pontuação bônus = pontuação calculada especificamente para cada operadora. Para
+obter esta pontuação a operadora deverá ter o Formulário de Cadastramento devidamente
+preenchido, até 31 de dezembro do ano de referência da avaliação de desempenho, além do
+Formulário de Monitoramento anual (quando devido). Os programas de promoção da saúde e
+prevenção de riscos e doenças deverão estar aprovados pela ANS, até a data do processamento do
+IDSS, conforme disposto na Instrução Normativa Conjunta DIOPE/DIPRO nº 1, de 30 de dezembro
+de 2008,. O resultado final do IDAS acrescido da pontuação bônus não poderá ultrapassar o valor 1
+(um).
+Interpretação da Pontuação Bônus
+Bonifica a operadora que desenvolve programas de promoção da saúde e prevenção de riscos e
+doenças, elevando a pontuação do IDAS.
+A ANS tem buscado estimular as operadoras de planos de saúde a repensarem a organização do
+sistema de saúde com vistas a contribuir para mudanças que possibilitem sair do modelo
+hegemonicamente centrado na doença, em procedimentos e baseado na demanda espontânea, para
+um modelo de atenção integral à saúde, no qual haja incorporação progressiva de ações de
+Promoção da Saúde e Prevenção de Riscos e Doenças. Desta forma, esta Pontuação Bônus valoriza
+as operadoras de planos privados de assistência à saúde que têm desenvolvido estratégias alinhadas
+a esta proposta de reorientação dos modelos assistenciais.
+
+
+Usos
+Estimular as operadoras de planos privados de assistência à saúde a desenvolverem programas de
+promoção da saúde e prevenção de doenças, contribuindo, indiretamente, para a melhoria dos níveis
+de saúde da população beneficiária.
+
+
+Parâmetros, Dados Estatísticos e Recomendações
+Segundo a Organização Mundial de Saúde (OMS), o fumo está relacionado a 8% do total de mortes
+no mundo, a obesidade a 4%, o colesterol elevado a 8% e a hipertensão a 12%. O controle desses e
+de outros riscos poderia evitar pelo menos 80% de todas as doenças do coração, de derrames e de
+diabetes mellitus tipo 2. Só o controle da hipertensão arterial sistêmica reduziria em 35 a 40% a
+incidência de Acidente Vascular Cerebral, 20 a 25% de Infarto Agudo do Miocárdio e mais de 50% de
+Insuficiência Cardíaca Congestiva. Os cânceres também poderiam ser prevenidos em 40% ou mais.
+Atenta a essa situação, a ANS adotou medidas de incentivo ao desenvolvimento de programas de
+promoção da saúde e prevenção de riscos e doenças pelas operadoras de planos privados de
+assistência à saúde. Os objetivos da ANS ao adotar diretrizes de incentivo à adoção, implementação
+e qualificação de programas de promoção da saúde e prevenção de riscos e doenças pelas
+operadoras de planos de saúde são: (1) contribuir para o desenvolvimento de ações de promoção da
+saúde e prevenção de riscos e doenças no setor de saúde suplementar; (2) induzir a reorientação dos
+modelos assistenciais vigentes; (3) contribuir para a qualificação da gestão das operadoras,
+incentivando-as a conhecer o perfil de saúde e morbidade da sua população de beneficiários; (4)
+estimular a multidisciplinaridade e a integralidade do cuidado; (5) contribuir para a qualificação da
+assistência prestada; e (6) contribuir para a melhoria da qualidade de vida dos usuários de planos
+privados de saúde.
+A ANS considera como um Programa de Promoção da Saúde e Prevenção de Riscos e Doenças
+aquele que possua um conjunto de atividades estrategicamente ordenadas e sistematizadas pelas
+operadoras de planos privados de saúde, não só para o controle de patologias e agravos, mas
+prioritariamente, para a sua prevenção, direcionadas a toda a população da carteira, ou com perfil
+epidemiológico de risco conhecido, sob a ação e a coordenação multiprofissional.
+Além disso, um programa deve garantir o acompanhamento específico de sua clientela, bem como a
+avaliação e o monitoramento por meio de indicadores de saúde.
+Para a elaboração e a implementação de programas dessa natureza, que se proponham efetivos, é
+fundamental, como ponto de partida para a tomada de decisão dos temas priorizados, a realização de
+um diagnóstico do perfil demográfico e epidemiológico da carteira, que pode ser feito por meio de
+questionários de perfil de saúde e doença, com identificação de fatores de risco.
+Antes de iniciar o Programa de Promoção da Saúde e Prevenção de Riscos e Doenças, é de suma
+relevância planejar sua estrutura, com a determinação da população-alvo, das formas de identificação
+dessa população e das metas de cobertura. Além disso, o sistema de informação participa como um
+componente fundamental de qualquer programa, por permitir o acompanhamento e o monitoramento
+das ações desenvolvidas.
+
+
+Limitações e vieses
+A análise e aprovação dos programas levam em conta o plano de ação do programa cadastrado na
+ANS. Não há uma análise in loco da operação do programa. Desse modo podem existir programas
+cadastrados que, contudo, não estão sendo oferecidos aos beneficiários efetivamente.
+Esse sistema de análise, que considera apenas o plano de ação, pode não detectar inconsistências
+na operação dos programas de promoção da saúde e prevenção de doenças, cadastrados.
+
+
+
+
+Referências
+AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR - ANS. Instrução Normativa Conjunta
+DIPRO/DIOPE nº 01, de 30 de dezembro de 2008. Dispõe sobre o cadastramento, monitoramento e
+os investimentos em programas de promoção da saúde e prevenção de riscos e doenças por parte
+das operadoras de planos privados de assistência à saúde. Diário Oficial da União, Brasília, DF, 31
+dez. 2008c. Disponível em: <http://www.ans.gov.br/ portal/site/legislacao/legislacao.asp>. Acesso em:
+16 jul. 2009.
+BRASIL. Lei no 9.961, de 28 de janeiro de 2000. Cria a Agência Nacional de Saúde Suplementar e dá
+outras providências. Diário Oficial da União, Brasília, DF, 28 jan. 2000. Disponível em:
+<http://www.ans.gov.br/portal/site/legislacao/legislacao.asp>. Acesso em: 16 jul. 2009.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Análise de
+Situação de Saúde. Guia metodológico de avaliação e definição de indicadores: doenças crônicas
+não transmissíveis e Rede Carmen. Brasília: Ministério da Saúde, 2007. 233p.
+BUSS, P.M. Uma introdução ao conceito de promoção da saúde. p.15-38. In: CZERESNIA, D.,
+FREITAS, CM. (Orgs.). Promoção da saúde: conceitos, reflexões, tendências. Rio de Janeiro: editora
+Fiocruz, 2003.
+CARTA DE OTTAWA. Primeira conferência internacional sobre promoção da saúde. Ottawa, 1986.
+CZERESNIA, D. O conceito de saúde e a diferença entre prevenção e promoção. p.39-53. In:
+CZERESNIA, D., FREITAS, C.M. (Orgs.). Promoção da saúde: conceitos, reflexões, tendências. Rio
+de Janeiro: editora Fiocruz, 2003.
+FURTADO, J.P. Avaliação de programas e serviços. In: CAMPOS, G.W.S. et al. Tratado de saúde
+coletiva. p.715-739. São Paulo: Hucitec; Rio de Janeiro: Ed. Fiocruz, 2006.
+FARINATTI, P.T.V., FERREIRA, M.S. Saúde, promoção da saúde e educação física: conceitos,
+princípios e aplicações. Rio de Janeiro: Ed. UERJ, 2006.
+MÉDICI, A.C. Aspectos teóricos e conceituais do financiamento das políticas de saúde. In: PIOLA,
+S.F.; VIANNA, S.M. (Orgs.). Economia da saúde: conceito e contribuição para a gestão da saúde.
+Brasília: IPEA, 1995. 298p.
+NAVARRO, J.C. Evaluación de programas de salud y toma de decisions. Serie material de apoyo
+para la capacitación em gerencia de programas de salud maternoinfantil y planificación familiar.
+Washington, DC: OPAS/OMS, 1992.
+ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). Relatório Mundial da Saúde. Genebra, 2000.
+PAIM, J.S. Políticas de descentralização e atenção primária à saúde. In: Rouquayrol, Z.; Almeida, N.
+Epidemiologia e Saúde. 5 ed. Rio de Janeiro: MEDSI, 1999, p.489-503.
+PASCHE, D.F., HENNINGTON, E.A. O Sistema Único de Saúde e a promoção da saúde. p. 19-40. In:
+CASTRO, A., MALO, M. SUS: ressignificando a promoção da saúde. São Paulo: Hucitec: OPAS,
+2006.
+SILVA, L.M.S. Conceitos, abordagens e estratégias para a avaliação em saúde. In: HARTZ, Z.M.A.,
+SILVA, L.M.S. (Orgs.). Avaliação em saúde: dos modelos teóricos à prática na avaliação de
+programas e sistemas de saúde. Salvador: EDUFBA; Rio de Janeiro: Fiocruz. p.15-39, 2005.
+SILVA JUNIOR, A.G. Modelos tecnoassistenciais em saúde: o debate no campo da saúde coletiva. 2
+ed. São Paulo: Hucitec, 2006. 143p.
+2- INDICADORES DA DIMENSÃO ECONÔMICO-FINANCEIRA
+
+
+
+
+2.1 - LIQUIDEZ CORRENTE
+
+
+
+                                           Conceituação
+Representa o quanto existe de ativo circulante para cada unidade monetária de dívida a curto prazo.
+
+
+                                        Método de Cálculo
+
+
+
+                                                Ativo Circulante
+       I LC 
+                                              Passivo Circulante
+
+
+
+
+                           Definição de termos utilizados no Indicador
+Ativo circulante: são aplicações no curto prazo de recursos da operadora
+Passivo circulante: são as fontes de recursos de curto prazo da operadora
+
+
+                                    Interpretação do Indicador
+Quanto maior o indicador, mais alta a capacidade da empresa financiar suas necessidades de capital
+de giro.
+
+
+                                 Parâmetros e Dados Estatísticos
+O parâmetro é dado pelo comportamento médio do mercado para cada modalidade de operação.
+
+
+Meta
+A Liquidez Corrente da operadora deve ser maior ou igual a 2.
+
+
+Pontuação
+Segundo percentil da Modalidade
+
+
+                 Resultado obtido pela operadora
+                   Índice de Liquidez Corrente                        Valor de 0 a 1      Peso 2
+
+         Sem informação/Situado no intervalo de I LC  I 5%                 0                0
+
+               Situado no intervalo de I 5%  I LC  2                 V (>0 e <1)         Vx2
+
+                  Situado no intervalo de I LC  2                          1                2
+
+                                                                                     I LC  I 5%
+                                                                        Onde, V =
+                                                                                       2  I 5%
+
+
+
+
+Referências
+
+
+ASSAF NETO, Alexandre. Estrutura e Análise de Balanços. Sexta Edição, São Paulo: Atlas, 2001.
+2.2 - LIQUIDEZ DA NECESSIDADE DE CAPITAL DE GIRO
+
+
+
+                                          Conceituação
+O ILNCG representa o quanto a operadora emprega de recursos de curto prazo no financiamento de
+suas operações.
+
+
+                                        Método de Cálculo
+
+                                                     T
+                                        ILNCG 
+                                                    NCG
+
+
+                           Definição de termos utilizados no Indicador
+T: o Saldo de Tesouraria (T) representa, principalmente, a diferença entre aplicações financeiras e
+disponibilidades de curto prazo, e os empréstimos e financiamentos bancários de curto prazo.
+
+
+NCG: A Necessidade de Capital de Giro (NCG) representa a demanda de recursos de natureza
+operacional que, pelo seu forte vínculo com as operações, assume caráter de longo prazo.
+
+
+         VARIÁVEL                                   FÓRMULA
+           ACP                                      121 + 122
+           AOP                                    12 – 121 - 122
+           PCP                                         217
+           POP                               2 – 217 – (23 + 24 + 25)
+           NCG                                     [AOP]-[POP]
+             T                                     [ACP]-[PCP]
+           ILNCG                                [T]/Módulo([NCG])
+
+
+ACP – Ativo de curto prazo.
+AOP – Ativo operacional.
+
+
+PCP – Passivo de curto prazo.
+POP – Passivo operacional.
+Os números das fórmulas são referentes aos códigos das contas contábeis definidas no plano de
+contas das operadoras (Instrução Normativa Nº 09 de 14 de fevereiro de 2007).
+
+
+                                    Interpretação do Indicador
+Valores positivos indicam que o saldo de tesouraria é uma aplicação de recursos e não uma fonte.
+
+
+                                Parâmetros e Dados Estatísticos
+O parâmetro é dado pelo comportamento médio do mercado para cada modalidade de operação.
+Meta
+O ILNCG da operadora deve ser maior ou igual a 2.
+
+
+Pontuação
+Segundo percentil da Modalidade
+
+
+
+
+                 Resultado obtido pela operadora
+
+
+
+
+       Índice de Liquidez de Necessidade de Capital de Giro               Valor de 0 a 1      Peso 1
+        Sem informação/Situado no intervalo de I LNCG  I 5%                    0                0
+
+              Situado no intervalo de I 5%  I LNCG  2                    V (>0 e <1)          V
+
+                  Situado no intervalo de I LNCG  2                            1                1
+
+                                                                                      I LNCG  I 5%
+                                                                          Onde, V =
+                                                                                         2  I 5%
+Referências
+
+
+VIEIRA, M. V. Administração estratégica do capital de giro. Editora Atlas. São Paulo: 2005.
+2.3 - PATRIMÔNIO LÍQUIDO
+
+
+
+
+                                          Conceituação
+Representa a identidade contábil medida pela diferença entre o total do ativo e os grupos do passivo
+exigível e resultados de exercícios futuros. Indica, em outras palavras, o volume dos recursos
+próprios da empresa, pertencente a seus acionistas ou sócios.
+
+
+                                        Método de Cálculo
+
+
+
+
+       I PL                                  Patrimônio Líquido
+
+
+
+
+                                    Interpretação do Indicador
+Quanto maior o indicador, maior o volume dos recursos próprios.
+
+
+
+
+                                Parâmetros e Dados Estatísticos
+O parâmetro é dado pelo comportamento médio do mercado para cada modalidade de operação e
+porte da operadora.
+
+
+
+
+Meta
+O Patrimônio Líquido da operadora deve estar entre os 20% maiores, de acordo com sua modalidade
+e porte.
+
+
+
+
+Pontuação
+
+
+Segundo percentil da Modalidade e Porte
+
+
+                 Resultado obtido pela operadora
+                         Patrimônio Líquido                           Valor de 0 a 1       Peso 1
+
+         Sem informação/Situado no intervalo de I PL  I 5%                 0                 0
+
+              Situado no intervalo de I 5%  I PL  I 80%              V (>0 e <1)            V
+
+                 Situado no intervalo de I PL  I 80%                       1                 1
+
+                                                                                      I PL  I 5%
+                                                                       Onde, V =
+                                                                                     I 80%  I 5%
+
+
+
+
+Referências
+
+
+ASSAF NETO, Alexandre. Estrutura e Análise de Balanços. Sexta Edição, São Paulo: Atlas, 2001.
+2.4 - ADICIONAL EM GARANTIAS FINANCEIRAS
+
+
+
+
+                                         Conceituação
+Para receber uma pontuação positiva no Programa de Qualificação, a operadora precisa ter, para o
+ano-base de 2010, 90% das Provisões Exigidas. Dessa forma, o indicador em questão representa o
+percentual do adicional que a operadora possui em relação a essa exigência. Não se aplica às
+operadoras do segmento exclusivamente odontológico.
+
+
+                                       Método de Cálculo
+
+
+                              Provisões Calculadas – 0,9 * Provisões Exigidas
+  ADICGF                                  0,9 * Provisões Exigidas
+
+
+
+
+                          Definição de termos utilizados no Indicador
+
+
+Provisões Calculadas: soma dos valores das provisões calculadas de acordo com as informações
+contidas no DIOPS;
+Provisões Exigidas: soma dos valores das provisões exigidas, de acordo com a norma RN160.
+
+
+
+
+                                   Interpretação do Indicador
+Quanto maior o adicional em Garantias Financeiras, maior será a segurança desta operadora.
+
+
+Meta
+
+O ADICGF da operadora deve estar entre os 20% maiores ADICGF de acordo com seu
+
+segmento.
+
+
+
+
+Pontuação
+Segundo percentil da Modalidade
+
+
+
+
+                 Resultado obtido pela operadora
+        Adicional de garantias financeiras             Valor de 0 a 1     Peso 2
+
+Sem informação/Situado no intervalo de ADIC GF  0           0              0
+
+    Situado no intervalo de 0  ADICGF  I 80%           V (>0 e <1)      Vx2
+
+      Situado no intervalo de ADIC GF  I 80%                1              2
+
+                                                                 ADICGF  I 5%
+                                                     Onde, V =
+                                                                  I 80%  I 5%
+3- INDICADORES DA DIMENSÃO ESTRUTURA E OPERAÇÃO
+
+
+3.1 - DISPERSÃO DE PROCEDIMENTOS E SERVIÇOS BÁSICOS DE SAÚDE
+
+
+
+
+                                            Conceituação
+Percentual de municípios listados na área geográfica de abrangência e atuação dos planos que
+apresentam disponibilidade de procedimentos e serviços básicos de saúde na rede assistencial da
+operadora ao final do ano em análise.
+
+
+                                         Método de Cálculo
+
+   Nº de municípios com previsão de cobertura assistencial com disponibilidade de
+                     procedimentos e serviços básicos de saúde
+                                                                                         x 100
+               Nº de municípios com previsão de cobertura assistencial
+
+
+                            Definição de termos utilizados no Indicador
+Área Geográfica de Abrangência dos planos: área em que a operadora fica obrigada a garantir
+todas as coberturas de assistência à saúde contratadas pelos beneficiários.
+Área de Atuação dos planos: especificação dos municípios ou UF, de acordo com a abrangência
+adotada acima.
+Procedimentos e serviços básicos de saúde: São serviços ou procedimentos considerados de
+menor complexidade (Anatomopatologia, Eletrocardiograma, Patologia clínica, Radiodiagnóstico,
+Ultrassonografia e Fisioterapia)
+
+
+Municípios com disponibilidade de procedimentos e serviços básicos de saúde: Quantidade de
+municípios com indicação de prestadores na rede assistencial da operadora com disponibilidade dos
+6 procedimentos ou serviços básicos de saúde. Para os planos com área geográfica de abrangência
+Estadual, Grupo de Estados e Nacional, serão contabilizados os municípios contidos em cada UF.
+
+
+Municípios com previsão de cobertura assistencial: quantidade de municípios indicados na área
+de atuação dos planos Registrados, Adequados e Em Adequação no sistema RPS/ARPS. Para os
+planos com área geográfica de abrangência Estadual, Grupo de Estados e Nacional, serão
+contabilizados os municípios contidos em cada UF.
+
+
+Situações excetuadas:
+Serão contabilizados neste indicador apenas os municípios que contemplem no mínimo 90% dos
+beneficiários da operadora em planos não exclusivamente odontológicos.
+No caso de beneficiários vinculados a planos anteriores a lei 9.656/98, como não existe informação
+da área de atuação no cadastro destes planos no SCPA, será entendida como área de previsão de
+cobertura assistencial os municípios de residência dos beneficiários.
+Serão desconsiderados os beneficiários vinculados a planos registrados no RPS que indicarem, nos
+Dados Gerais deste registro, que o plano opera exclusivamente com livre escolha.
+A disponibilidade dos procedimentos e serviços básicos de saúde será verificada a partir da
+informação do CNES referente aos prestadores informados pelas Operadoras no RPS. Quando este
+cadastro não estiver informado, mas existir no CNES, será considerado o CNPJ informado neste
+sistema para identificar e contabilizar a disponibilidade destes serviços.
+
+
+                                      Interpretação do Indicador
+Verifica a disponibilidade de procedimentos e serviços básicos de saúde encontrada na área prevista
+para cobertura assistencial, definida nos planos das operadoras.
+
+
+                                                  Usos
+Acompanhar a oferta dos prestadores nas áreas de atuação dos planos que favoreça a dispersão
+dos procedimentos e serviços básicos de saúde.
+
+
+                        Parâmetros, Dados Estatísticos e Recomendações
+O parâmetro é ter disponibilidade de serviços básicos em 100% dos municípios que concentram os
+beneficiários da operadora e fazem parte da área de atuação desta.
+As operadoras exclusivamente odontológicas não terão avaliação neste indicador.
+
+
+Meta
+Apresentar 100% dos municípios que concentram os beneficiários da operadora e integram a área de
+atuação dos seus planos com disponibilidade dos procedimentos e serviços básicos de saúde.
+
+
+Pontuação
+         Resultado Obtido Pela Operadora                                     Pontuação
+% de municípios com previsão de cobertura
+assistencial que disponibilizam os procedimentos           Valor de 0 a 1          Peso 2
+e serviços básicos de saúde
+
+Resultado = 0%                                                        0                      0
+
+Resultado > 0% e < 100%                                         V (> 0 e < 1)               Vx2
+Resultado = 100%                                                      1                      2
+V= (Resultado > 0% e < 100%)
+
+Fonte
+MS/ANS – Sistema de Registro de Produtos (RPS)
+MS/DATASUS/CNES
+MS/ANS – Sistema de Informações de Beneficiários (SIB)
+
+
+Ações esperadas para causar impacto no Indicador
+Incentivar a estruturação da rede assistencial das operadoras, observando se a indicação de
+prestadores para área geográfica de abrangência/atuação descrita nos planos apresenta uma
+distribuição dos procedimentos e serviços básicos de saúde coerente com o melhor acesso dos
+beneficiários.
+Melhorar a qualidade de informação dos prestadores no CNES
+
+
+
+
+Limitações e Vieses
+    1.   O indicador não avalia a indisponibilidade local dos prestadores;
+    2.   O indicador não avalia a dispersão geográfica, quanto à disponibilidade de prestadores em
+         municípios limítrofes;
+    3. Problemas referentes a qualidade de preenchimento e cobertura do CNES
+
+
+
+
+Referências
+BRASIL. Ministério da Saúde. Agência Nacional de Saúde Suplementar.
+Qualificação da Saúde Suplementar: uma nova perspectiva no processo de regulação. Rio de
+Janeiro: ANS, 2004.
+RN nº. 100, de 3 de junho de 2005.
+Consulta pública ANS nº 26/2006. Minuta e anexos de RN disponibilizados para consulta pública no
+período de 28/12/2006 a 24/02/2007.
+3.2 - DISPERSÃO DA REDE ASSISTENCIAL MÉDICO-HOSPITALAR
+
+
+
+
+                                            Conceituação
+Percentual dos municípios listados na área geográfica de abrangência e atuação dos planos, que
+apresentam indicação de rede assistencial para operadoras com segmentação Médico-hospitalar ao
+final do ano em análise.
+
+
+                                         Método de Cálculo
+
+                 nº de municípios com indicação de prestador hospitalar
+                                                                                         x 100
+          o nº de municípios com previsão de cobertura assistencial hospitalar
+
+
+                            Definição de termos utilizados no Indicador
+Área Geográfica de Abrangência dos planos: área em que a operadora fica obrigada a garantir
+todas as coberturas de assistência à saúde contratadas pelos beneficiários.
+Área de Atuação dos planos: especificação dos municípios ou UF de acordo com a abrangência
+adotada acima.
+Municípios com indicação de prestador: Quantidade de municípios com prestadores hospitalares
+(Hospital Geral ou Hospital Especializado) informados na rede assistencial da operadora no RPS.
+Para os planos com área geográfica de abrangência Estadual, Grupo de Estados e Nacional serão
+contabilizados os municípios contidos em cada UF.
+
+
+Municípios com previsão de cobertura assistencial hospitalar: quantidade de municípios
+indicados na área de atuação dos planos com segmentação hospitalar Registrados, Adequados e Em
+Adequação no sistema RPS/ARPS. No cálculo do denominador serão considerados apenas os
+municípios que apresentam disponibilidade dos prestadores hospitalares não exclusivos do SUS,
+segundo a informação contida no CNES/DATASUS.
+
+
+Situações excetuadas:
+Serão contabilizados neste indicador apenas os municípios e prestadores que estiverem localizados
+no conjunto dos municípios que contemplem 90% dos beneficiários da operadora em planos com
+cobertura hospitalar.
+No caso de beneficiários vinculados a planos anteriores a lei 9.656/98, como não existe informação
+da área de atuação no cadastro destes planos no SCPA, será entendida como área de previsão de
+cobertura assistencial os municípios de residência dos beneficiários.
+Serão desconsiderados os beneficiários vinculados a planos registrados no RPS que indicarem, nos
+Dados Gerias deste registro, que o plano opera exclusivamente com livre escolha.
+Operadoras com segmentação Médico-hospitalar que apresentem beneficiários em planos
+exclusivamente odontológicos serão avaliadas apenas quanto à indicação de prestadores
+hospitalares.
+A classificação dos estabelecimentos será verificada a partir da informação do CNES constante nos
+prestadores informados pelas Operadoras no RPS. Quando este cadastro não estiver informado, mas
+existir no CNES, serão considerados os CNPJ informados neste sistema para identificar e contabilizar
+a disponibilidade destes prestadores.
+
+
+Interpretação do Indicador
+Verifica o quanto à disponibilidade de prestadores hospitalares na rede assistencial da operadora
+está coerente com a área geográfica de abrangência/atuação prevista para cobertura assistencial
+definida nos planos, favorecendo um melhor acesso para os beneficiários.
+
+
+                                               Usos
+Acompanhar a distribuição dos prestadores nas áreas previstas para oferta de cobertura assistencial.
+
+
+                       Parâmetros, Dados Estatísticos e Recomendações
+O parâmetro é ter disponibilidade de serviços hospitalares onde estão concentrados os beneficiários
+da operadora.
+
+
+
+
+Meta
+Apresentar um resultado de 100% dos municípios (com beneficiários) da área geográfica de
+abrangência / atuação dos planos das operadoras, com disponibilidade de prestador com serviços
+hospitalares.
+
+
+Pontuação
+         Resultado Obtido Pela Operadora                                 Pontuação
+% de municípios com previsão de cobertura
+                                                        Valor de 0 a 1                 Peso 1
+assistencial que disponibiliza prestador hospitalar
+Resultado = 0%                                                     0                      0
+Resultado > 0% e < 100%                                      V (> 0 e < 1)              Vx1
+Resultado = 100%                                                   1                      1
+V= (Resultado > 0% e < 100%)
+
+Fonte
+MS/ANS – Sistema de Registro de Produtos (RPS)
+MS/DATASUS/CNES
+MS/ANS – Sistema de Informações de Beneficiários (SIB)
+
+
+Ações esperadas para causar impacto no Indicador
+Incentivar a estruturação da rede assistencial das operadoras, observando se a indicação de
+prestadores hospitalares para área geográfica de abrangência/atuação descrita nos planos
+representa uma distribuição coerente com o melhor acesso dos beneficiários.
+Melhorar a qualidade de informação dos prestadores no CNES.
+
+
+Limitações e Vieses
+   1. Não avaliada neste indicador a dispersão geográfica, quanto à disponibilidade de prestadores
+   hospitalares em municípios limítrofes;
+   2. Não avalia a distribuição dos demais estabelecimentos não hospitalares, para as operadoras
+com segmentação Médico-hospitalar, vinculados a rede assistencial da operadora.
+   3. Problemas referentes a qualidade de preenchimento e cobertura do CNES.
+
+
+
+
+Referências
+BRASIL. Ministério da Saúde. Agência Nacional de Saúde Suplementar.
+Qualificação da Saúde Suplementar: uma nova perspectiva no processo de regulação. Rio de
+Janeiro: ANS, 2004.
+RN nº. 100, de 3 de junho de 2005.
+Consulta pública ANS nº 26/2006. Minuta e anexos de RN disponibilizados para consulta pública no
+período de 28/12/2006 a 24/02/2007.
+           3.3 - DISPERSÃO DE SERVIÇOS DE URGÊNCIA E EMERGÊNCIA 24 HORAS
+
+
+
+
+                                            Conceituação
+Percentual dos municípios que possuem beneficiários da operadora e que apresentam rede
+assistencial com disponibilidade de serviços de urgência e emergência 24 horas ao final do ano em
+análise.
+
+
+                                         Método de Cálculo
+
+
+
+    nº de municípios com beneficiários da operadora que disponibilizam serviços de
+                          Urgência e Emergência 24 horas
+                                                                                        x 100
+                   nº de municípios com beneficiários da operadora
+
+
+
+
+                           Definição de termos utilizados no Indicador
+
+
+Municípios que disponibilizam serviços de Urgência e Emergência 24 horas: quantidade de
+municípios com beneficiários e que apresentam rede assistencial não exclusiva do SUS que
+disponibiliza serviços de Urgência e Emergência 24 horas em prestador Hospitalar ou Não-Hospitalar.
+
+
+Municípios com beneficiários da operadora:
+Quantidade de municípios de residência dos beneficiários de cada operadora, identificados no
+cadastro do SIB, independentemente da área de atuação (cobertura assistencial) prevista nos
+planos.
+
+
+Situações excetuadas: Serão contabilizados neste indicador apenas os municípios com mais de
+300 beneficiários vinculados a planos não exclusivamente odontológicos.
+Serão desconsiderados os beneficiários vinculados a planos registrados no RPS que indicarem, nos
+Dados Gerais deste registro, que o plano opera exclusivamente com livre escolha.
+Apenas os municípios que apresentam rede assistencial com oferta de serviços de Urgência e
+Emergência 24 horas em prestadores hospitalares ou Não-Hospitalares, identificados a partir do
+cadastro dos prestadores no RPS e com confirmação da disponibilidade destes serviços no Cadastro
+Nacional dos Estabelecimentos de Saúde - CNES/DATASUS/MS, serão contabilizados no
+numerador. Além disso, a disponibilidade destes serviços será verificada a partir da informação do
+CNES referente aos prestadores informados pelas Operadoras no RPS. Quando este cadastro não
+estiver informado, mas o prestador existir no CNES, serão considerados os CNPJ informados neste
+sistema para identificar e contabilizar a disponibilidade dos mesmos.
+
+
+Interpretação do Indicador
+Verifica se a dispersão quantitativa dos serviços de Urgência e Emergência 24 horas em prestadores
+hospitalares ou Não–Hospitalares da operadora está coerente em relação à localização dos seus
+beneficiários por município de residência.
+
+
+                                               Usos
+Acompanhar a configuração da rede assistencial da operadora em conformidade ao seu crescimento,
+observando a melhor possibilidade de acesso local dos beneficiários aos serviços de Urgência e
+Emergência 24 horas.
+
+
+                        Parâmetros, Dados Estatísticos e Recomendações
+O parâmetro é que todos os municípios com mais de 300 beneficiários da operadora devem
+disponibilizar serviços de Urgência e Emergência 24 horas.
+As operadoras exclusivamente odontológicas não terão avaliação neste indicador.
+
+
+
+
+Meta
+
+
+Apresentar um valor igual a 100% dos municípios com disponibilidade serviços de urgência e
+emergência 24 horas, para aqueles com mais de 300 beneficiários.
+
+
+
+
+Pontuação
+
+
+Resultado Obtido Pela Operadora                                          Pontuação
+% de municípios com beneficiários com
+disponibilidade de serviços de urgência e emergência         Valor de 0 a 1       Peso 2
+24 horas
+
+Resultado = 0%                                                     0                        0
+
+Resultado > 0% e < 100%                                      V (> 0 e < 1)                 Vx2
+Resultado = 100%                                                   1                        2
+V= (Resultado > 0% e < 100%)
+
+Fonte
+
+
+MS/ANS – Sistema de Registro de Produtos (RPS)
+MS/DATASUS/CNES
+MS/ANS – Sistema de Informações de Beneficiários (SIB)
+
+
+
+
+Ações esperadas para causar impacto no Indicador
+Incentivar a estruturação da rede assistencial hospitalar, formada por prestadores hospitalares e Não-
+Hospitalares localizados em municípios que permitam melhores condições de acesso dos
+beneficiários aos serviços de urgência e emergência 24 horas.
+
+
+
+
+Limitações e Vieses
+
+
+    1. O indicador não avalia a indisponibilidade local dos serviços de urgência e emergência 24
+    horas;
+    2. O indicador não avalia a dispersão geográfica dos serviços, quanto à disponibilidade de
+    prestadores em municípios limítrofes;
+    3. Não avalia a suficiência dos serviços em relação ao quantitativo dos beneficiários.
+    4. Problemas referentes a qualidade de preenchimento e cobertura do CNES.
+
+
+Referências
+BRASIL. Ministério da Saúde. Agência Nacional de Saúde Suplementar.
+Qualificação da Saúde Suplementar: uma nova perspectiva no processo de regulação. Rio de
+Janeiro: ANS, 2004.
+RN nº. 100, de 3 de junho de 2005.
+BRASIL. Portaria MS nº 2.048/GM, de 5 de novembro de 2002. Aprova o Regulamento Técnico
+dos Sistemas Estaduais de Urgência e Emergência. (ATENDIMENTO PRÉ-HOSPITALAR).
+Consulta pública ANS nº 26/2006. Minuta e anexos de RN disponibilizados para consulta pública no
+período de 28/12/2006 a 24/02/2007.
+3.4 - DISPERSÃO DA REDE ASSISTENCIAL EXCLUSIVAMENTE ODONTOLÓGICA
+
+
+
+
+                                            Conceituação
+Percentual dos municípios listados na área geográfica de abrangência e atuação dos planos, que
+apresentam indicação de rede assistencial odontológica ao final do ano em análise.
+
+
+                                         Método de Cálculo,
+
+
+
+
+              nº de municípios com indicação de prestador odontológico                  x 100
+
+         nº de municípios com previsão de cobertura assistencial odontológica
+
+
+                            Definição de termos utilizados no Indicador
+Área Geográfica de Abrangência dos planos: área em que a operadora fica obrigada a garantir
+todas as coberturas de assistência à saúde contratadas pelos beneficiários.
+Área de Atuação dos planos: especificação dos municípios ou UF de acordo com a abrangência
+adotada acima.
+Municípios com indicação de prestador: total dos municípios com indicação de prestador
+odontológico. Para os planos com área geográfica de abrangência Estadual, Grupo de Estados e
+Nacional serão contabilizados os municípios contidos em cada UF.
+No cálculo do numerador serão contabilizados os prestadores informados na rede assistencial da
+operadora no RPS.
+Municípios com previsão de cobertura assistencial hospitalar/odontológica: total dos municípios
+indicados na área de atuação dos planos com segmentação odontológica, Registrados, Adequados e
+Em Adequação no sistema RPS/ARPS.
+
+
+
+
+Situações excetuadas:
+Serão contabilizados neste indicador apenas os municípios e prestadores que estiverem localizados
+no conjunto dos municípios que contemplem 90% dos beneficiários da operadora em planos com
+cobertura odontológica.
+No caso de beneficiários vinculados a planos anteriores a lei 9.656/98, como não existe informação
+da área de atuação no cadastro destes planos no SCPA, será entendida como área de previsão de
+cobertura assistencial os municípios de residência dos beneficiários.
+Serão desconsiderados os beneficiários vinculados a planos registrados no RPS que indicarem, nos
+Dados Gerais deste registro, que o plano opera exclusivamente com livre escolha.
+A disponibilidade dos estabelecimentos será verificada a partir da informação dos prestadores
+informados pelas Operadoras no RPS.
+                                    Interpretação do Indicador
+Verifica o quanto disponibilidade de prestadores odontológicos na rede assistencial da operadora está
+coerente com a área geográfica de abrangência/atuação prevista para cobertura assistencial definida
+nos planos, favorecendo um melhor acesso para os beneficiários.
+
+
+                                               Usos
+Acompanhar a distribuição dos prestadores nas áreas previstas para oferta de cobertura assistencial.
+
+
+                       Parâmetros, Dados Estatísticos e Recomendações
+O parâmetro é ter disponibilidade de serviços básicos em 100% dos municípios que concentram os
+beneficiários da operadora e fazem parte da área de atuação de seus planos.
+
+
+Meta
+Apresentar um resultado de 100% dos municípios (com beneficiários) da área geográfica de
+abrangência/atuação dos planos das operadoras, com disponibilidade de prestador com serviços
+odontológicos.
+
+
+
+
+Pontuação
+         Resultado Obtido Pela Operadora                                 Pontuação
+% de municípios com previsão de cobertura
+assistencial que disponibiliza prestador                    Valor de 0 a 1             Peso 1
+Odontológico
+Resultado = 0%                                                     0                      0
+Resultado > 0% e < 100%                                      V (> 0 e < 1)              Vx1
+Resultado = 100%                                                   1                      1
+V= (Resultado > 0% e < 100%)
+
+Fonte
+MS/ANS – Sistema de Registro de Produtos (RPS)
+MS/DATASUS/CNES
+MS/ANS – Sistema de Informações de Beneficiários (SIB)
+
+
+Ações esperadas para causar impacto no Indicador
+Incentivar a estruturação da rede assistencial das operadoras, observando se a indicação de
+prestadores odontológicos para área geográfica de abrangência/atuação descrita nos planos
+representa uma distribuição coerente com o melhor acesso dos beneficiários.
+
+
+Limitações e Vieses
+Não avaliada neste indicador a dispersão geográfica, quanto à disponibilidade de prestadores
+odontológicos em municípios limítrofes.
+
+
+
+
+Referências
+BRASIL. Ministério da Saúde. Agência Nacional de Saúde Suplementar.
+Qualificação da Saúde Suplementar: uma nova perspectiva no processo de regulação. Rio de
+Janeiro: ANS, 2004.
+RN nº. 100, de 3 de junho de 2005.
+Consulta pública ANS nº 26/2006. Minuta e anexos de RN disponibilizados para consulta pública no
+período de 28/12/2006 a 24/02/2007.
+
+
+                        3.5 - PERCENTUAL DE QUALIDADE CADASTRAL
+
+
+
+
+                                            Conceituação
+
+É uma medida da qualidade dos dados cadastrais de beneficiários de uma operadora, relativa aos
+campos de identificação do beneficiário e de identificação do plano ao qual está vinculado que é
+obtida por meio do número de beneficiários ativos identificados e com planos identificados em relação
+ao total de beneficiários ativos no ano considerado no Sistema de Informações de Beneficiários.
+
+
+                                          Método de Cálculo
+
+   N.º de beneficiários ativos identificados no cadastro da operadora e com planos
+                                       identificados
+                                                                                          x 100
+  Total de beneficiários ativos da operadora no Cadastro de Beneficiários na ANS
+
+
+
+
+                           Definição de termos utilizados no Indicador
+
+Beneficiário de plano privado de assistência à saúde: pessoa física, titular ou dependente, que
+possua direitos e deveres definidos em legislação e em contrato assinado com operadora de plano
+privado de assistência à saúde, para garantia da assistência médico-hospitalar ou odontológica
+(definição conforme RN nº 187, de 09 de março de 2009)
+
+
+Beneficiário ativo: É o beneficiário de plano privado de assistência à saúde cujo contrato do
+respectivo plano está em vigor, (conforme definição da RN nº 187, de 09 de março de 2009)
+Beneficiário dependente: é o beneficiário de plano privado de assistência à saúde cujo vínculo
+contratual com a operadora depende da existência de relação de dependência ou de agregado a um
+beneficiário titular, (conforme definição da RN nº 187, de 09 de março de 2009).
+Beneficiário ativo identificado: Beneficiário ativo, titular ou dependente, cujos conteúdos dos
+campos seguintes estejam preenchidos e válidos:
+      “Nome do beneficiário”, “Data de nascimento do beneficiário”, “CPF” para beneficiário titular e
+        “CPF para beneficiário dependente com idade maior ou igual a dezoito anos;
+      “Se beneficiário ativo titular ou beneficiário dependente com idade maior ou igual a dezoito
+        anos, pelo menos um dos três seguintes campos: “PIS/PASEP” do beneficiário, “Cadastro
+        Nacional de Saúde-CNS” ou “nome da mãe do beneficiário”;
+      Se beneficiário dependente com idade inferior a dezoito anos, pelo menos um dos quatro
+        campos: “PIS/PASEP” do beneficiário, “Cadastro Nacional de Saúde-CNS”, “Nome da mãe
+        do beneficiário” ou “CPF” caso possua:
+      O campo “Nome do beneficiário” é considerado válido quando o último sobrenome do
+        beneficiário não for abreviado com apenas uma letra ou o campo não contiver apenas uma
+        palavra, presença de números, caracteres especiais ou espaços à esquerda do nome;
+      O campo “Data de nascimento do beneficiário” é considerado válido, quando a data de
+        nascimento for maior que 01/01/1902, menor ou igual a data de adesão ou menor que a data
+        de mudança do plano; menor ou igual à data de envio do arquivo de cadastro/atualização de
+        beneficiários;
+      Os campos “CPF”, “PIS/PASEP” e “CNS” são considerados válidos quando o dígito
+        verificador esteja validado e houve no máximo 10 (dez) repetições para cada um desses no
+        Cadastro de Beneficiários da operadora.
+      O campo “Nome da mãe” é considerado válido quando o último sobrenome da mãe não for
+        abreviado ou não contiver apenas uma palavra, presença de números, caracteres especiais
+        ou espaços à esquerda do nome e houver no máximo 10 (dez) repetições desse nome no
+        cadastro de beneficiários da operadora.
+
+
+Beneficiário ativo com plano identificado: beneficiário, titular ou dependente, cujo conteúdo dos
+campos seguintes esteja preenchido e válido:
+      Para planos posteriores à Lei 9.656/98, de 03 de junho de 1998, o campo “Número do código
+        do plano na ANS”;
+      Para planos anteriores à Lei 9.656/98, de 03 de junho de 1998 o campo “Número do código
+        do plano na operadora”;
+      Os campos “Número do código do plano na ANS” e “Número do código do plano na
+        operadora” são considerados válidos, se estiverem preenchidos conforme o registrado no
+        Registro de Planos de Saúde – RPS e o cadastrado no Sistema de Cadastro de Planos
+        Antigos – SCPA, respectivamente.
+
+
+Beneficiários ativos da operadora no Cadastro de Beneficiários na ANS: todos os beneficiários
+ativos da operadora existentes no Cadastro de Beneficiários na ANS.
+                                     Interpretação do indicador
+
+      Avalia a qualidade do preenchimento dos campos identificadores do beneficiário e do plano
+        ao qual o beneficiário está vinculado.
+      Quanto maior o valor do indicador, maior a qualidade dos dados da operadora no Cadastro
+        de Beneficiários na ANS, tanto em relação aos dados de beneficiários como aos dados de
+        planos, possibilitando identificar indivíduos e respectivas coberturas.
+
+
+                                                   Usos
+
+      Avaliar e acompanhar a qualidade dos dados da operadora no Cadastro de Beneficiários na
+        ANS em relação à identificação de beneficiários e de planos;
+      Incentivar a operadora a aprimorar a qualidade dos seus dados no Cadastro de Beneficiários
+        na ANS.
+
+
+                                                   Meta
+
+100% de beneficiários ativos identificados no cadastro da operadora e com planos identificados
+
+
+                                                 Pontuação
+
+         Resultado Obtido Pela Operadora                                    Pontuação
+% do resultado de identificação do beneficiário                Valor de 0 a 1           Peso 3
+Resultado = 0%                                                        0                   0
+Resultado > 0% e < 100%                                          V (>0 e < 1)           Vx3
+Resultado = 100%                                                      1                   3
+V= (Resultado > 0% e < 100%)
+
+
+
+
+                                           Fonte de Dados
+
+MS/ANS – Sistema de Informações de Beneficiários, Registro de Planos de Saúde (RPS) e Sistema
+de Cadastro de Planos Antigos (SCPA)
+
+
+                   Ações esperadas para causar impacto positivo no indicador
+
+      Aprimoramento das ações orientadoras e sancionadoras da ANS sobre as operadoras com
+        baixa qualidade cadastral;
+      Ação da operadora junto aos seus beneficiários para apuração das informações não
+        disponíveis ou inadequadamente informadas.
+                                    Limitações e Vieses do indicador
+
+O método de cálculo não permite que o indicador seja ponderado de acordo com a relação entre o
+número de campos de identificação complementar (isto é, “CPF”, “PIS/PASEP”, “CNS” e “Nome da
+mãe do beneficiário”) com conteúdo válido e o número de campos de identificação complementar
+informados no registro.
+Este indicador reflete a qualidade do preenchimento dos campos identificadores do beneficiário e do
+plano, não refletindo, porém, a qualidade dos demais atributos constantes no Cadastro de
+Beneficiários na ANS.
+
+
+Referências
+Brasil. Agência Nacional de Saúde Suplementar. Resolução Normativa (RN) nº 88, de 04 de janeiro
+de 2005. Atualiza o Sistema de Informações de Beneficiários – SIB e aprova novas normas para
+o envio de informações de beneficiários das operadoras de planos de assistência à saúde à
+ANS, revoga a Resolução Normativa RN n.º 17, de 11 de novembro de 2002, com as alterações
+introduzidas pelas Resoluções Normativas RN n.º 37, de 05 de maio de 2003, e RN nº 53, de 14
+de      novembro          de    2003,        e    dá   outras       providências.       Disponível    em:
+http://www.ans.gov.br/portal/site/legislacao/legislacao_integra.asp?id=633&id_original=0. Acesso em
+19 de maio de 2008.
+Brasil. Agência Nacional de Saúde Suplementar. Instrução Normativa (IN) nº 15 da Diretoria de
+Desenvolvimento Setorial, de 5 de janeiro de 2005.
+Brasil. Agência Nacional de Saúde Suplementar. Instrução Normativa (IN) nº 18 da Diretoria de
+Desenvolvimento Setorial, de 30 de dezembro de 2005.
+Brasil. Agência Nacional de Saúde Suplementar. Resolução Normativa (RN) nº 100, de 3 de junho de
+2005.     Altera      a        RN       85   e    dá    outras        providências.     Disponível    em
+http://www.ans.gov.br/portal/site/legislacao/legislacao_integra.asp?id=700&id_original=0.
+Brasil. Agência Nacional de Saúde Suplementar. Resolução Normativa (RN) nº 85, de 7 de dezembro
+de 2004. Dispõe sobre a concessão de Autorização de Funcionamento das Operadoras de
+Planos    de    Assistência         à    Saúde,    e   dá    outras     providências.    Disponível   em
+http://www.ans.gov.br/portal/site/legislacao/legislacao_integra.asp?id=625&id_original=0. Acesso em
+19 mai. 2008.
+Brasil. Agência Nacional de Saúde Suplementar. Instrução Normativa (IN) nº 9 da Diretoria de
+Normas e Habilitação dos Produtos, de 4 de fevereiro de 2005. Define o procedimento de envio
+das informações do Registro de Produtos previsto na Resolução Normativo - RN nº 85, de 07
+de              Dezembro                     de             2004.             Disponível              em
+http://www.ans.gov.br/portal/site/legislacao/legislacao_integra.asp?id=641&id_original=0. Acesso em
+19 mai. 2008.
+3.6 - ÍNDICE DE REGULARIDADE DE ENVIO DOS SISTEMAS DE INFORMAÇÃO
+
+
+
+
+                                          Conceituação
+Corresponde ao grau de cumprimento das obrigações periódicas das operadoras, quanto aos
+encaminhamentos devidos dos dados dos sistemas de informações (Sistema de Informações do
+Beneficiário (SIB), Sistema de Informações de Produtos (SIP) e Documento de Informações
+Periódicas das Operadoras de Planos de Saúde (DIOPS), dentro dos prazos estabelecidos nos Atos
+Normativos da ANS.
+
+
+                                       Método de Cálculo
+
+   Envio SIB Envio SIP Envio DIOPS
+                     
+      12         4          4                                             X 100
+
+                   3
+
+Medicina de grupo, odontologia de grupo, filantropia, autogestão não mantida, autogestão mantida*,
+seguradora e cooperativa médica e odontológica.
+Para o ano base de análise 2010 as autogestões por RH estão desobrigadas do envio dos dados do
+DIOPS. Portanto, os envios trimestrais deste sistema não se incluem na fórmula acima.
+                          Definição de termos utilizados no Indicador
+Envio SIP/SIB/DIOPS: número de envios periódicos desses dados pela operadora à ANS, dentro dos
+prazos para as competências estabelecidas nos normativos vigentes.
+
+
+                                   Interpretação do Indicador
+Demonstra o grau de efetividade das obrigações devidas das operadoras quanto à regularização do
+DIOPS, SIB, SIP, dentro dos prazos estabelecidos nas normas, quando devidos pela operadora.
+
+
+                                              Usos
+Permitir o acompanhamento da operadora em relação ao cumprimento às normas estabelecidas para
+DIOPS, SIB e SIP.
+
+
+                       Parâmetros, Dados Estatísticos e Recomendações
+Número de obrigações definidas nos atos normativos da ANS
+
+
+Meta
+Cumprimento das obrigações devidas em 100%.
+
+
+Pontuação
+        Resultado Obtido Pela Operadora                                Pontuação
+% de regularidade                                         Valor de 0 a 1            Peso 3
+Resultado = 0%                                                  0                     0
+Resultado > 0% e < 100%                                   V (> 0 e < 1)              Vx3
+Resultado = 100%                                                1                     3
+
+V = (Resultado > 0% < 100%)
+
+
+
+
+Fonte
+MS/ANS – DIOPS
+MS/ANS – Sistema de Informações de Produtos (SIP)
+MS/ANS – Sistema Cadastro de Operadoras
+MS/ANS – Sistema de Informações de Beneficiários (SIB)
+
+
+
+
+Ações esperadas para causar impacto no Indicador
+Rever as rotinas operacionais para atendimento integral e tempestivo das informações periódicas
+requisitadas pelos normativos da ANS.
+
+
+Limitações e Vieses
+Não avalia a qualidade dos dados informados nos sistemas de informações (SIB, SIP e DIOPS).
+
+
+Referências
+BRASIL. Ministério da Saúde. Agência Nacional de Saúde Suplementar. Qualificação da Saúde
+Suplementar: uma nova perspectiva no processo de regulação. Rio de Janeiro: ANS, 2004.
+4 - INDICADORES DA DIMENSÃO SATISFAÇÃO DOS BENEFICIÁRIOS
+
+
+
+
+4.1- PROPORÇÃO DE PERMANÊNCIA DOS BENEFICIÁRIOS
+
+
+
+
+                                             Conceituação
+Relação entre o tempo de permanência de uma coorte de beneficiários em suas operadoras e o
+tempo máximo possível para este grupo em um período de 36 meses.
+
+
+                                           Método de Cálculo
+
+     Somatório dos meses de permanência dos beneficiários da coorte, no período de análise
+
+                           Número de beneficiários da coorte x 36 meses
+
+
+
+
+                             Definição de termos utilizados no Indicador
+Meses de permanência: tempo (em número de meses) em que não se verificou cancelamento do
+vínculo existente do beneficiário com a operadora.
+Beneficiários da coorte: subconjunto dos beneficiários que tinham vínculo com a operadora no
+início do período de análise, constituído pelos beneficiários que permaneceram por 36 meses,
+somados aos beneficiários que cancelaram o contrato antes desse tempo, de acordo com o item
+Critérios de inclusão.
+Período de análise: triênio compreendido pelo ano base e dois anos anteriores ao mesmo.
+
+
+Critérios de inclusão:
+Para inclusão no cálculo do indicador o seguinte motivo de cancelamento do SIB será considerado:
+rompimento do contrato por iniciativa do beneficiário.
+
+
+Critérios de exclusão:
+Serão excluídos do cálculo do indicador os vínculos com os seguintes motivos de cancelamento:
+término da relação de vinculado a um beneficiário titular; desligamento da empresa (para planos
+coletivos); óbito; exclusão decorrente de mudança de código de beneficiário motivada pela adaptação
+de sistema da operadora; alteração individual do código do beneficiário; inclusão indevida de
+beneficiário; fraude (art. 13 da Lei nº 9.656/98), inadimplência, transferência de carteira.
+Observação:
+1. A nomenclatura empregada no sistema (SIB) refere-se a todos os tipos de contratos coletivos.
+Para os planos coletivos por adesão, o motivo de cancelamento “desligamento da empresa (para
+planos coletivos)” denota o desligamento do clube ou associação ao qual o beneficiário estava
+vinculado.
+
+
+                                    Interpretação do Indicador
+   1. Informa a fração do tempo máximo possível de vínculo a uma operadora, utilizada pela coorte
+        de beneficiários no período estudado.
+   2. Avalia indiretamente a satisfação do beneficiário com o serviço prestado, com base na
+        proporção do tempo de permanência do mesmo em uma operadora, para o período
+        estudado.
+
+
+                                                Usos
+1. Analisar o grau de permanência dos beneficiários em uma operadora.
+2. Contribuir para avaliações sobre satisfação dos beneficiários, desde que sejam identificados os
+   motivos da permanência e do cancelamento.
+
+
+                       Parâmetros, Dados Estatísticos e Recomendações
+Recomenda-se que a pontuação obtida pelo indicador seja utilizada para comparações no interior de
+um mesmo segmento (médico-hospitalar ou exclusivamente odontológico).
+
+
+Meta
+100% dos beneficiários com permanência de 36 meses
+
+
+
+
+Pontuação
+         Resultado Obtido Pela Operadora                                 Pontuação
+Proporção de permanência dos beneficiário em 36
+                                                            Valor de 0 a 1             Peso 1
+meses
+Resultado = 0                                                      0                      0
+Resultado > 0 e < 1                                          V (> 0 e < 1)              Vx1
+Resultado = 1                                                      1                      1
+V = Resultado
+
+
+                                         Fonte de Dados
+
+MS/ANS – Sistema de Informações de Beneficiários (SIB)
+
+
+Ações esperadas para causar impacto no Indicador
+Estimular a operadora e o contratante a conhecer os motivos de desligamento dos beneficiários dos
+seus planos, para que estas possam intervir, visando à permanência destes na operadora.
+Limitações e Vieses
+1. Confiabilidade das informações fornecidas pelas operadoras.
+2. O indicador considera conjuntamente os planos individuais e coletivos, não permitindo análises por
+estas dimensões. Também não considera separadamente os registros com informação ignorada
+para o tipo de contratação.
+3.Nas análises a serem realizadas, o tempo de permanência será limitado à data do último envio do
+SIB.
+
+
+
+
+Referências
+BRASIL. Ministério da Saúde. Agência Nacional de Saúde Suplementar. Qualificação da Saúde
+Suplementar: uma nova perspectiva no processo de regulação. Rio de Janeiro: ANS, 2004.
+Legislação de Saúde Suplementar.
+
+
+4.2 - PROPORÇÃO DE BENEFICIÁRIOS COM DESISTÊNCIA NO PRIMEIRO ANO
+
+
+
+
+                                           Conceituação
+Proporção de beneficiários que ingressaram nos dois anos anteriores ao ano avaliado pelo Programa
+de Qualificação e desistiram do vínculo com a operadora no primeiro ano do contrato.
+
+
+                                        Método de Cálculo*
+
+    Nº de beneficiários que ingressaram no biênio anterior ao ano base e desistiram no primeiro ano
+                                              de contrato
+
+                 Total de beneficiários que ingressaram no biênio anterior ao ano base
+
+
+*Observação: O resultado direto obtido desse indicador, ou seja a taxa bruta, será ajustada pela
+metodologia estatística do Bayes Empírico, cuja fórmula simplificada pode ser representada pela
+seguinte equação:
+
+
+Taxa ajustada ou resultado ajustado do indicador = (Taxa bruta X Fator de ajuste) + (Taxa média
+de todas as operadoras) X (1 – Fator de ajuste)
+Fator de ajuste = fator calculado especificamente para cada operadora. Esse fator depende da
+dispersão dos valores das taxas entre operadoras e aumenta progressivamente, de zero (0) a um (1),
+conforme aumenta o denominador do indicador (número de beneficiários da operadora expostos ao
+evento ou ao procedimento).
+                             Definição de termos utilizados no indicador
+Beneficiários que ingressaram e desistiram no primeiro ano de contrato: beneficiários que
+assinaram contrato com a operadora nos dois anos anteriores ao ano base de avaliação do Programa
+de Qualificação e romperam esse contrato no primeiro ano de vigência pelos motivos de
+cancelamento determinados no item Critérios de inclusão.
+Beneficiários que ingressaram:- subconjunto dos beneficiários que assinaram contrato com a
+operadora nos dois anos anteriores ao ano base de avaliação do Programa de Qualificação da Saúde
+Suplementar, constituído pelos beneficiários que romperam esse contrato no primeiro ano de vigência
+pelos motivos de cancelamento determinados no item Critérios de inclusão, somados àqueles que
+permaneceram com o contrato por mais de um ano.
+Biênio anterior ao ano base: período de dois anos anteriores ao ano base de avaliação do
+Programa de Qualificação.
+Observação 1: o período de análise do tempo de permanência dos beneficiários inicia-se no primeiro
+dia do biênio anterior ao ano base de avaliação do Programa de Qualificação da Saúde Suplementar
+e encerra-se no o último dia do referido ano base.
+
+
+Critérios de inclusão:
+Para inclusão no cálculo do indicador será considerado apenas o seguinte motivo de cancelamento
+do SIB: rompimento do contrato por iniciativa do beneficiário.
+Critérios de exclusão:
+Serão excluídos do cálculo do indicador os vínculos com os seguintes motivos de cancelamento:
+término da relação de vinculado a um beneficiário titular; desligamento da empresa (para planos
+coletivos); óbito; exclusão decorrente de mudança de código de beneficiário, motivada pela
+adaptação de sistema da operadora; alteração individual do código do beneficiário; inclusão indevida
+de beneficiário; fraude (art. 13 da Lei nº 9.656/98), inadimplência, transferência de carteira.
+
+
+Observação 2: a nomenclatura empregada no sistema (SIB) refere-se a todos os tipos de contratos
+coletivos.   Para os planos coletivos por adesão, o motivo de cancelamento “desligamento da
+empresa (para planos coletivos)” denota o desligamento do clube ou associação ao qual o
+beneficiário estava vinculado.
+                                    Interpretação do Indicador
+1. Indica a fração de beneficiários que permaneceu por menos de um ano após ingresso na
+operadora.
+2. Avalia indiretamente a satisfação do beneficiário com o serviço prestado, com base na proporção
+de beneficiários com desistência no primeiro ano de contrato.
+
+
+                                                Usos
+1. Analisar o grau de desistência dos beneficiários de uma operadora.
+2. Contribuir para avaliações sobre satisfação dos beneficiários, desde que sejam identificados os
+motivos do cancelamento.
+
+
+                       Parâmetros, Dados Estatísticos e Recomendações
+Recomenda-se que a pontuação obtida pelo indicador seja utilizada para comparações no interior de
+um mesmo segmento (médico-hospitalar ou exclusivamente odontológico).
+
+
+Meta
+Nenhum beneficiário com desistência no primeiro ano.
+
+
+Pontuação
+         Resultado Obtido Pela Operadora                                    Pontuação
+Proporção de beneficiários que desistiram no
+                                                            Valor de 0 a 1              Peso 1
+primeiro ano de contrato
+Resultado = 1                                                        0                    0
+Resultado > 0 e < 1                                             V (> 0 e < 1)           Vx1
+Resultado = 0                                                        1                    1
+V = 1 – Resultado
+
+
+
+
+Fonte
+MS/ANS – Sistema de Informações de Beneficiários (SIB).
+
+
+Ações esperadas para causar impacto no Indicador
+Estimular a operadora a conhecer os motivos de desligamento dos beneficiários dos seus planos,
+para que estas possam intervir, visando à permanência destes na operadora.
+
+
+Limitações e Vieses
+1. Confiabilidade das informações fornecidas pelas operadoras.
+2. O indicador considera conjuntamente os planos individuais e coletivos, não permitindo análises por
+estas dimensões. Também não considera separadamente os registros com informação ignorada
+para o tipo de contratação.
+
+
+Referências
+BRASIL. Ministério da Saúde. Agência Nacional de Saúde Suplementar. Qualificação da Saúde
+Suplementar: uma nova perspectiva no processo de regulação. Rio de Janeiro: ANS, 2004.
+Legislação de Saúde Suplementar.
+4.3 - SANÇÃO PECUNIÁRIA EM PRIMEIRA INSTÂNCIA
+
+
+Conceituação:
+É a soma dos valores das multas julgadas em primeira instância de uma operadora em um período,
+excetuadas as multas diárias e aquelas provenientes de representações.
+
+
+Método de Cálculo:
+   Somatório das multas julgadas em primeira instância de uma operadora, no período analisado
+
+
+
+
+Definição de termos utilizados no indicador
+Multas julgadas em primeira instância de uma operadora: multas aplicadas à operadora decorrentes
+de processos julgados em primeira instância no ano avaliado, independente do ano de lavratura do
+auto de infração. Serão excluídas do cálculo do indicador as multas diárias e as multas provenientes
+das representações feitas à Diretoria de Fiscalização por parte das demais diretorias.
+Período analisado: ano base de avaliação do Programa de Qualificação da Saúde Suplementar
+
+
+Interpretação do Indicador
+O indicador baseia-se no valor total das multas aplicadas a uma operadora no período analisado,
+excetuando-se as multas diárias e as multas provenientes das representações feitas à Diretoria de
+Fiscalização por parte das demais diretorias. O valor de cada multa está diretamente relacionado à
+gravidade da infração praticada e ao porte da operadora segundo a RN124.
+
+
+Usos
+Medir a gravidade do conjunto das infrações à legislação cometidas por parte das operadoras.
+
+
+Parâmetros, Dados Estatísticos e Recomendações
+Recomenda-se que a pontuação obtida pelo indicador seja utilizada para comparações no interior de
+um mesmo segmento (médico-hospitalar ou exclusivamente odontológico). Para o cálculo da média
+do porte utiliza-se o valor médio das multas aplicadas às operadoras de um mesmo porte conforme
+definido na RN 124.
+
+
+Meta
+Operadora com zero de sanção pecuniária.
+
+
+Pontuação
+Resultado Obtido Pela Operadora                             Pontuação
+Valor total das multas aplicadas na
+                                                            Valor de 0 a 1               Peso 1
+operadora
+
+
+
+
+   Programa de Qualificação da Saúde Suplementar - Qualificação das Operadoras – ANS                 1
+Resultado >= média do porte x2                                        0                     0
+Resultado > 0 e < média do porte x2                             V (> 0 e < 1)             Vx1
+Resultado = 0                                                         1                     1
+V = [1 – (Resultado / Média do porte x 2)] x 0,9Média do porte= valor médio das multas aplicadas às
+operadoras de um mesmo porte conforme definido na RN 124.
+
+
+Fonte de dados
+MS/ANS – Sistema de Informações de Beneficiários (SIB), Sistema Integrado de Fiscalização (SIF).
+
+
+Ações esperadas para causar impacto no indicador
+As operadoras devem cumprir a Legislação de Saúde Suplementar.
+
+
+Limitações e Vieses
+Lapso de tempo entre a reclamação e o julgamento.
+
+
+Referências
+BRASIL. Ministério da Saúde. Agência Nacional de Saúde Suplementar.
+Qualificação da Saúde Suplementar: uma nova perspectiva no processo de
+regulação. Rio de Janeiro: ANS, 2004.
+Legislação de Saúde Suplementar (RN 124).
+
+
+
+
+    Programa de Qualificação da Saúde Suplementar - Qualificação das Operadoras – ANS             2
+                                     ANEXO III
+
+      PESO DOS INDICADORES – PROGRAMA DE QUALIFICAÇÃO OPERADORAS – 2010
+                                  INDICADOR                  PESO
+        1. INDICADORES DA DIMENSÃO DA ATENÇÃO À SAÚDE
+       1.1. TAXA DE CITOLOGIA ONCÓTICA DE COLO DE ÚTERO         3
+                         1.2. TAXA DE MAMOGRAFIA                3
+                   1.3. PROPORÇÃO DE PARTO CESÁREO              3
+     1.4. NÚMERO DE CONSULTAS MÉDICAS POR BENEFICIÁRIO          2
+          1.5. NÚMERO DE INTERNAÇÕES HOSPITALARES POR           3
+                                 BENEFICIÁRIO
+  1.6. PROPORÇÃO DE CONSULTA MÉDICA EM PRONTO SOCORRO           2
+    1.7. NÚMERO DE CONSULTAS ODONTOLÓGICAS INICIAIS POR         2
+                                 BENEFICIÁRIO
+     1.8. TAXA DE APLICAÇÃO TÓPICA PROFISSIONAL DE FLUOR       1,5
+                           1.9. TAXA DE SELANTES               1,5
+    1.10. TAXA DE APLICAÇÃO TÓPICA PROFISSIONAL DE FLUOR        2
+      1.11. TAXA DE DENTES PERMANENTES COM TRATAMENTO           1
+                         ENDODÔNTICO CONCLUÍDO
+             1.12. TAXA DE EXODONTIAS DE PERMANENTES            1
+   1.13. PROGRAMA DE PROMOÇÃO DA SAÚDE E PREVENÇÃO DE      Bônus 10%
+                 RISCOS E DOENÇAS APROVADO NA ANS          sobre IDAS
+      2. INDICADORES DA DIMENSÃO ECONÔMICO-FINANCEIRA
+                          2.1. LIQUIDEZ CORRENTE                2
+         2.2. LIQUIDEZ DE NECESSIDADE DE CAPITAL DE GIRO        1
+                          2.3. PATRIMÔNIO LÍQUIDO               1
+              2.4. ADICIONAL EM GARANTIAS FINANCEIRAS           2
+      3. INDICADORES DA DIMENSÃO ESTRUTURA E OPERAÇÃO
+  3.1. DISPERSÃO DE PROCEDIMENTOS E SERVIÇOS BÁSICOS DE         2
+                                    SAÚDE
+   3.2. DISPERSÃO DA REDE ASSISTENCIAL MÉDICO HOSPITALAR        1
+3.3. DISPERSÃO DE SERVIÇOS DE URGÊNCIA E EMERGÊNCIA VINTE       2
+                              E QUATRO HORAS
+     3.4. DISPERSÃO DA REDE ASSISTENCIAL EXCLUSIVAMENTE         1
+                                ODONTOLÓGICA
+              3.5. PERCENTUAL DE QUALIDADE CADASTRAL            3
+    3.6. ÍNDICE DE REGULARIDADE DO ENVIO DOS SISTEMAS DE        3
+                                 INFORMAÇÃO
+  4. INDICADORES DA DIMENSÃO SATISFAÇÃO DO BENEFICIÁRIO
+       4.1. PROPORÇÃO DE PERMANÊNCIA DOS BENEFICIÁRIOS          1
+    4.2. PROPORÇÃO DE BENEFICIÁRIOS COM DESISTEÊNCIA NO         1
+                                 PRIMEIRO ANO
+           4.3. SANÇÃO PECUNIÁRIA EM PRIMEIRA INSTÂNCIA         1
+
+
+
+
+  Programa de Qualificação da Saúde Suplementar - Qualificação das Operadoras – ANS   3
+

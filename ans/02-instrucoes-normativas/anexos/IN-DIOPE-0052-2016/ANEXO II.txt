@@ -1,0 +1,10 @@
+                                        ANEXO II
+
+             Especificações de formatação dos arquivos enviados pela DIOPE
+
+1. Os arquivos enviados às operadoras estarão no formato PDF (Portable Document Format).
+2. O padrão de nomenclatura do arquivo deverá ser ASSUNTO_CONTROLE.OPE, onde:
+       a. ASSUNTO: código determinado pela diretoria;
+       b. CONTROLE: número do ofício, ano e unidade administrativa;
+       c. OPE: tipo de arquivo reconhecido pelo PTA como sendo relativo à DIOPE.
+

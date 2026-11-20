@@ -1,0 +1,69 @@
+     (ANEXO III REVOGADO PELA RDC nº 20, DE 28/04/2000)
+
+(RDC E ANEXOS I E II REVOGADOS PELA RN nº 7, DE 15/05/2002)
+
+(RDC E ANEXOS I E II REVOGADOS PELA RN nº 89, DE 15/02/2005)
+                                      ANEXO I
+
+Instruções para o preenchimento do formulário destinado ao recolhimento à conta da
+Agência Nacional de Saúde Suplementar, das receitas de que trata o art. 20, Inciso II da
+Lei n º 9.961 de 28 de janeiro de 2000. (PREENCHER À MÁQUINA OU EM LETRA
+DE FORMA)
+
+1 - no campo "Agência (pref./dv)": 3602-1;
+
+2 - no campo "N .o da conta/dv": 170.500-8;
+
+3 - no campo "Nome do cliente": Agência Nacional de Saúde Suplementar;
+
+4 - no campo "Em dinheiro - R$": importância a ser recolhida, caso o depósito seja feito
+em dinheiro;
+
+5 - no campo "Em cheques - R$": importância a ser recolhida, caso o depósito seja feito
+em cheque;
+
+6 - no campo "Depositado por": nome do recolhedor: empresa, endereço e telefone;
+
+7 - no campo "Depósito identificado (código-dv)/Finalidade, registrar? 25300336213,
+acrescido do Código do Fato Gerador e do dígito de verificação descrito no Anexo II,
+com a seguinte configuração: 25300336213XXX-X
+                         ANEXO II
+
+DESCRIÇÃO IDENTIFICADOR              VALOR   VALOR
+                                    DA TAXA COM
+                                    (R$)    DESCONTO
+                                            Até
+                                            31/12/2000
+                                            (§ 5º do art.
+                                            20 da Lei n.º
+                                            9.961/00)
+               Fato      (DV)
+               Gerador
+Registro do    201       2          1.000,00   500,00
+Produto
+Registro de    202       0          2.000,00   1.000,00
+Operadora
+Alteração de   203       9          500,00     250,00
+Dados
+Produto
+Alteração de   204       7          1.000,00   500,00
+dados
+Operadora
+Pedido de      205       5          1.000,00   500,00
+Reajuste de
+Mensalidade
+                                    ANEXO III
+
+                Protocolo da Agência Nacional de Saúde Suplementar
+
+Ministério da Saúde
+Esplanada dos Ministérios
+Bloco G, 7º andar, sala 730
+CEP 70.058-900
+Brasília DF
+
+Agência Nacional de Saúde Suplementar
+Rua Augusto Severo n.º 84, 11º andar, Bairro Glória
+CEP: 20.021-040
+Rio de Janeiro - RJ
+

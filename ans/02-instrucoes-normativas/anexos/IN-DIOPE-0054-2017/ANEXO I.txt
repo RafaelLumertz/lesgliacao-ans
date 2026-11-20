@@ -1,0 +1,158 @@
+                                                    Anexo I
+             Relação de informações e documentos a serem divulgados na página da internet da
+                                operadora de plano de assistência à saúde
+
+1.      Para que possa requerer a autorização prévia anual para movimentar seus ativos garantidores, a
+operadora de plano de assistência à saúde deverá comprovar que divulga periodicamente, de forma clara e
+objetiva, em local de destaque e fácil acesso de sua página na internet, cumprindo forma e conteúdo
+especificados, de modo a zelar pela previsibilidade e transparência de atos, compromissos, situação de
+negócio e decisões, as seguintes informações:
+    a) demonstrações contábeis parciais, no mínimo, dos últimos 4 (quatro) trimestres, obedecendo
+        classificação contábil prevista em Plano de Contas da ANS;
+    b) indicadores conforme metodologia de cálculo constante do Anexo II desta IN;
+    c) demonstrações contábeis completas e respectivo parecer de auditoria independente externa acerca,
+        no mínimo, dos 2 (dois) últimos exercícios, conforme a regulamentação do sistema de saúde
+        suplementar;
+    d) relatório da administração, contendo, além do determinado na regulamentação do sistema de saúde
+        suplementar, informações sobre o andamento do negócio, desempenho e expectativas para curto,
+        médio e longo prazo, bem como metas e ações projetadas para cumprimento das normas da ANS
+        sobre critérios de manutenção de Recursos Próprios Mínimos e constituição de Provisões Técnicas;
+        e
+     e) ata da assembleia geral de acionistas, quotistas, cooperados ou associados ou da reunião de sócios,
+        ou do órgão competente no caso de fundações, que deliberou sobre o relatório da administração e
+        sobre as demonstrações contábeis, no mínimo, do último exercício social, devendo ser observado,
+        no que couber, o disposto no art. 130 da Lei nº 6.404, de 15 de dezembro de 1976.
+2.      As atualizações das informações previstas no subitem 1.a deverão ser divulgadas trimestralmente,
+no prazo do envio à ANS do Documento de Informações Periódicas das Operadoras de Planos de
+Assistência à Saúde – DIOPS.
+3.      Referente ao subitem 1.b, as atualizações dos indicadores previstos dos numerais 1 a 3 e 7 a 11 do
+Anexo II deverão ser divulgadas anualmente, no prazo do envio à ANS do DIOPS referente ao 4º (quarto)
+trimestre (mantendo-se os indicadores referentes ao ano anterior nos outros trimestres); e dos previstos nos
+numerais 4 a 6 e 12 a 13 do Anexo II, trimestralmente, no prazo do envio à ANS do respectivo DIOPS.
+4.      As atualizações da documentação prevista nos subitens 1.c e 1.d deverão ser divulgadas anualmente,
+no prazo do envio à ANS das Demonstrações Contábeis e parecer de auditoria independente.
+5.      As atualizações da documentação prevista no subitem 1.e deverão ser divulgadas a cada novo
+exercício ou sempre que houver modificação, em virtude de anulação da deliberação original ou por
+qualquer outro motivo, em até 30 (trinta) dias da data da realização da assembleia.
+6.      Com referência a todas as informações constantes nos subitens do item 1, deverão ser sempre
+preservadas as divulgações referentes a períodos pretéritos, mantendo-se, pelo menos, na página de internet
+da operadora os registros de todas as informações apresentadas da data da formulação do requerimento da
+autorização em diante, incluindo eventuais retificações.
+                                              Anexo II
+       Relação de Indicadores a serem Divulgados e Metodologia para Cálculo dos Indicadores,
+                        com Base nos Dados Acumulados em 12 (doze) meses
+
+
+1.   Margem de Lucro Líquida (MLL)
+
+        Mostra a relação entre o resultado líquido e o total das receitas com operação de planos de saúde
+        (contraprestações efetivas):
+
+                                                 Resultado Líquido
+                                     MLL = Contraprestações Efetivas
+
+2.   Retorno sobre o Patrimônio Líquido (ROE)
+
+        Mostra a relação entre o resultado líquido e o patrimônio líquido:
+
+                                               Resultado Líquido
+                                        ROE = Patrimônio Líquido
+
+
+3.   Retorno sobre o Ativo (ROA)
+
+        Mostra a relação entre o resultado líquido e o ativo total:
+
+                                                 Resultado Líquido
+                                         ROA =      Ativo Total
+
+4.   Percentual de Despesas Assistenciais em relação às Receitas de Contraprestações (DM)
+
+        Mostra a relação entre despesas assistenciais (ou despesas médicas ou sinistralidade) e o total
+        das receitas com contraprestações efetivas (ou operação de planos de saúde):
+
+                                               Eventos Indenizáveis Líquidos
+                                        DM =    Contraprestações Efetivas
+
+
+5.   Percentual de Despesas Administrativas em relação às Receitas de Contraprestações (DA)
+
+        Mostra a relação entre despesas administrativas e o total das receitas com contraprestações
+        efetivas (ou operação de planos de saúde):
+
+                                              Despesa Administrativa
+                                      DA = Contraprestações Efetivas
+
+6.   Percentual de Despesa Comercial em relação à Receita de Contraprestações (DC)
+
+     Mostra a relação entre despesas comerciais e o total das receitas com contraprestações efetivas (ou
+     operação de planos de saúde):
+
+                                                    Despesa Comercial
+                                          DC = Contraprestações Efetivas
+7.    Índice combinado ampliado (COMBA)
+
+      Mostra a relação entre despesas operacionais (administrativas, comercialização e assistenciais) e as
+      receitas (contraprestações efetivas), incluindo o resultado financeiro líquido:
+
+                            Despesas administra tivas  Despesas de comerciali zação  Eventos indenizáve is líquidos
+                  COMBA 
+                                            Contraprestações efetivas  Resultado financeiro líquido
+
+
+
+
+8.    Liquidez Corrente (LC)
+
+      Mostra a relação entre os ativos conversíveis em dinheiro no curto prazo e as dívidas de curto prazo:
+                                                               Ativo circulante
+                                                       LC 
+                                                              Passivo circulante
+
+
+
+ 9.   Capital de terceiros sobre o Capital próprio (CT/CP)
+
+      Representa a relação entre o total das dívidas e o Patrimônio líquido:
+
+                                                                  Exigível total
+                                                    CT/CP 
+                                                               Patrimônio líquido
+
+
+
+10.   Índice de endividamento de curto prazo (ENDIVCP)
+
+      Mostra a relação entre o Passivo Circulante e o Ativo total:
+
+                                                                 Passivo circulante
+                                                   ENDIVCP 
+                                                                    Ativo total
+
+
+11.   Endividamento (ENDIV)
+
+      Índice de endividamento. Mostra a relação entre o Exigível total e o Ativo total:
+
+                                                    Passivo circulante+Exigível a longo prazo
+                                        ENDIV =
+                                                                   Ativo Total
+
+
+
+12.   Margem EBIT (LAJIR)
+
+      Lucro Antes de Juros e Impostos:
+
+
+                                      ResultadoL íq  DespFinanc eiras  IR  CSLL  ImpDiferid os
+                             EBIT 
+                                                       ContraprestaçõesEfet ivas
+13.   Margem EBITDA (LAJIDA)
+
+      Lucro Antes de Juros, Impostos, Depreciação e Amortização:
+
+                              ResultLíq  DespFinanc  IR  CSLL  ImpDifer  Deprec  Amortiz
+                   EBITDA 
+                                                 Contrapres tações Efetivas
+
