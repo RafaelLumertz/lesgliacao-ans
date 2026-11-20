@@ -1,0 +1,335 @@
+      Resolução Normativa – Cadastro de Planos de assistência à saúde
+   comercializados anteriormente à data de vigência da Lei nº 9.656, de 3 de
+                               junho de 1998
+
+
+
+                    Anexo I – Informações Econômico-financeiros
+
+                                          Informações
+1.Código nº ___________                2.Código do Plano na Operadora ________________
+
+3.Nome do Plano:________________________________________________________
+
+4.Segmentação Assistencial da Cobertura do Plano: ______
+
+5. Abrangência Geográfica da Cobertura do Plano:________
+
+6.Tipo de Contratação:__________           7.Modalidade de Financiamento:__________
+
+8.Mês/Ano Início de Comercialização:__/____ 9.Mês/Ano Fim de Comercialização:__/____
+
+10.Número de Beneficiários:__________             11.Idade Média dos Beneficiários:_________
+
+12.Tipo de Cláusula de Reajuste:__________
+
+13.Transcrição da Cláusula de Reajuste:_________________________________________
+_________________________________________________________________________
+
+14.Outra(s) cláusula(s) de impacto financeiro:___________ (*)
+
+15.Transcrição da(s) outra(s) cláusula(s) de impacto financeiro:______________________
+_________________________________________________________________________
+
+16.Tipo de Cláusula de Rescisão:___________
+
+17.Transcrição da Cláusula de Rescisão:_________________________________________
+_________________________________________________________________________
+
+18.Tipo de Cláusula de Faixa Etária:___________
+
+19.Transcrição da Cláusula de Faixa Etária:_______________________________________
+_________________________________________________________________________
+
+20.Faixas Etárias (*)
+
+20.1De ______ a ______ anos          Percentual:______
+
+(*) Serão disponibilizados quantas vezes forem necessárias para o cadastro do plano.
+1. Código número
+Número de 6 dígitos que identifica o registro da operadora junto à ANS.
+
+2. Código do Plano na Operadora
+Letra/número atribuído pela operadora para identificação do plano em sua operação,
+considerando um código para cada conjunto de contratos que contenham cláusulas
+idênticas com relação aos itens informados neste cadastramento.
+
+
+3. Nome do Plano
+Nome comercial do produto utilizado pela operadora na venda e no relacionamento com
+os beneficiários do plano e constante ou não do contrato de assistência à saúde.
+
+
+4. Segmentação Assistencial da Cobertura do Plano
+Deverão ser adotados os mesmos códigos e classificação de segmentação do plano
+dispostos na tabela 1 do Anexo III da Resolução de Diretoria Colegiada - RDC n.º 4, de
+22 de fevereiro de 2000, que trata de registro provisório de produtos. Utilizar a mesma
+lógica para enquadramento adotada no recolhimento de taxa
+O campo deve ser preenchido de acordo com a seguinte codificação:
+          01-    Ambulatorial
+          02-    Hospitalar com obstetrícia
+          03-    Hospitalar sem obstetrícia
+          04-    Odontológico
+          06-    Ambulatorial + Hospitalar com obstetrícia
+          07-    Ambulatorial + Hospitalar sem obstetrícia
+          08-    Ambulatorial + Odontológico
+          10-    Hospitalar com obstetrícia + Odontológico
+          11-    Hospitalar sem obstetrícia + Odontológico
+          13-    Ambulatorial + Hospitalar com obstetrícia + Odontológico
+          14-    Ambulatorial + Hospitalar sem obstetrícia + Odontológico
+
+
+5. Abrangência Geográfica da Cobertura do Plano
+Entende-se por abrangência geográfica do plano a região onde a operadora oferece
+cobertura de assistência à saúde.
+Deverão ser adotados os m esmos códigos e classificação dispostos na tabela 3 do Anexo
+III da Resolução de Diretoria Colegiada - RDC n.º 4, de 2000 que trata de registro
+provisório de produto
+          1-   Nacional
+          2-   Grupo de estados
+          3-   Estadual
+          4-   Grupo de municípios
+          5-   Municipal
+
+
+6. Tipo de Contratação
+O campo deve ser preenchido de acordo com a seguinte codificação:
+          1-   Individual ou familiar
+          2-   Coletivo empresarial
+          3-   Coletivo por adesão
+
+
+7. Modalidade de Financiamento
+Caso a operadora tenha preenchido os códigos 2 ou 3 no item 6, deve ser informado se
+o plano contém ou não patrocinador, conforme definições constantes nos artigos 6º e 7º
+da Resolução Normativa - RN n.º 36, de 17 de abril de 2003.
+O campo deve ser preenchido de acordo com a seguinte codificação:
+          1-   Com patrocinador
+          2-   Sem patrocinador
+
+
+As autogestões devem adotar o conceito de plano sem patrocinador apenas quando
+financiado exclusivamente por recursos de seus beneficiários.
+
+
+8. Mês / Ano de Início de Comercialização
+É o mês e ano no qual foi firmado o primeiro contrato de prestação de serviços ou termo
+de adesão ao plano.
+
+
+9. Mês / Ano de Fim de Comercialização
+É o mês e ano no qual foi firmado o último contrato de prestação de serviços ou termo
+de adesão ao plano. A inclusão de dependentes não deve ser considerada.
+
+
+10.   Número de Beneficiários
+É o número de beneficiário existente no plano no último dia útil do mês imediatamente
+anterior ao de envio das informações.
+11.    Idade Média dos Beneficiários
+Idade média dos beneficiários vinculados ao plano. É medida pela soma da idade de
+todos os beneficiários ativos no plano no último dia útil do mês imediatamente anterior
+ao envio dividido pelo número de beneficiários.
+
+
+12.   Tipo de Cláusula de Reajuste
+O campo deve ser preenchido com base na cláusula de correção monetária e de acordo
+com a seguinte codificação:
+             0- Sem cláusula
+             1- Índice
+             2- Fórmula
+             3- Variação de Custos Assistenciais
+             4- Percentual submetido ao órgão regulador
+             5- Outros
+
+
+13.   Transcrição da Cláusula de Reajuste
+Transcrever a cláusula contratual referente ao reajuste.
+
+
+14.   Outra(s) cláusula(s) de impacto financeiro
+O campo deve ser preenchido com base em cláusulas de equilíbrio do plano e demais
+cláusulas, exceto as de correção monetária e de acordo com a seguinte codificação:
+              0- Sem cláusula
+              1- Fórmula
+              2- Percentual submetido ao órgão regulador
+              3- Percentual de Índice de Utilização
+              4- Outros
+
+
+15.   Transcrição da(s) outra(s) cláusula(s) com impacto financeiro
+Transcrever a(s) cláusula(s) contratual(is) referente(s) à reajuste que contemple
+qualquer outro tipo de impacto financeiro.
+
+
+16.   Tipo de Cláusula de Rescisão
+O campo deve ser preenchido de acordo com a seguinte codificação:
+              0- Sem cláusula
+              1- Com cláusula
+17.   Transcrição da Cláusula de Rescisão
+Transcrever a cláusula contratual referente à rescisão.
+
+
+18.   Tipo de Cláusula de Faixa Etária
+O campo deve ser preenchido de acordo com a seguinte codificação:
+               0 - Sem cláusula
+               1 - Possui cláusula contratual com faixa etária e percentuais definidos
+               2 - Possui cláusula contratual somente com faixa etária definida
+               3- Possui cláusula contratual, porém sem definição de faixa etária e
+                   percentuais.
+
+
+19.   Transcrição da Cláusula de Faixa Etária
+Transcrever a cláusula contratual referente à variação por mudança de faixa etária.
+
+
+20.   Faixas etárias e percentuais
+Caso a operadora tenha preenchido os códigos 1 e 2 no item 18, informar as faixas
+etárias e os respectivos percentuais de variação, conforme o caso.
+                         Anexo II – Informações Assistenciais
+
+
+                                          Informações
+1.Código nº ___________                2.Código do Plano na Operadora ________________
+
+3.Nome do Plano:________________________________________________________
+
+4.Transcrição das Cláusulas em vigor de Cobertura Assistencial:______________________
+_________________________________________________________________________
+________________________________________________________________________
+_________________________________________________________________________
+
+5.Transcrição das Cláusulas em vigor de Exclusão:_________________________________
+_________________________________________________________________________
+________________________________________________________________________
+_________________________________________________________________________
+
+6.Exclusões de Cobertura do Plano (*)
+
+6.1 Exclusão de Cobertura:___________________________________________________
+6.2 Tipo de Exclusão: ______________         6.3 Quantidade/ano: ________________
+6.4 Atendimento(s):________________________________________________________
+6.5 Especialidade(s): _______________________________________________________
+6.6 Diagnóstico(s): _________________________________________________________
+6.7 Outras, especificar: _____________________________________________________
+
+(*) Serão disponibilizados quantas vezes forem necessárias para o cadastro do plano.
+
+
+
+
+1. Código número
+Número de 6 dígitos que identifica o registro da operadora junto à ANS.
+
+
+2. Código do Plano na Operadora
+   Letra/número atribuído pela operadora para identificação do plano em sua operação,
+considerando um código para cada conjunto de contratos que contenham cláusulas
+idênticas com relação aos itens informados neste cadastramento.
+
+
+3. Nome do Plano
+    Nome comercial do produto utilizado pela operadora na venda e no relacionamento
+com os beneficiários do plano e constante ou não do contrato de assistência à saúde.
+
+
+4. Transcrição das Cláusulas de Cobertura Assistencial em vigor
+   Transcrever todas as cláusulas contratuais em vigor referentes à definição da
+cobertura assistencial do plano, conforme descrito no instrumento original de contrato,
+acrescido das ampliações previstas nos aditivos celebrados.
+5. Transcrição das Cláusulas de Exclusão ou Limitação de cobertura assistencial
+   em vigor
+   Transcrever todas as cláusulas contratuais em vigor referentes à definição da
+exclusão ou limitação de cobertura do plano, conforme descrito no instrumento original
+de contrato, acrescido das ampliações previstas nos aditivos celebrados.
+
+
+6. Exclusões de Cobertura
+   Indicar os itens da tabela abaixo que estão excluídos da cobertura assistencial do
+   plano e para cada item informar o tipo de exclusão (Total ou Parcial).
+
+
+   No caso de exclusões parciais, a operadora deverá informar todos os itens que
+   indicam a parcialidade da cobertura, seja por limite de 6.3 - quantidade/ano, 6.4 -
+   tipo de atendimento, 6.5 - especialidade, 6.6 - diagnóstico e/ou 6.7 – outras,
+   especificar.
+
+
+                             EXCLUSÕES DE COBERTURA
+01 - Cirurgias Cardíacas
+02 - Cirurgia de miopia
+03 - Cirurgia para tratamento de obesidade mórbida
+04 - Cirurgias Videolaparoscópicas ou Guiadas por Vídeo
+05 – Consultas
+06 – Fisioterapia
+07 - Hemodinâmica
+08 - Internação em terapia intensiva, semi-intensiva ou similar
+09 - Internações hospitalares
+10 – Lesão ou Doença
+11 - Lesão Auto-Infringida
+12 - Marcapasso
+13 – Órtese e prótese
+14 - Quimioterapia
+15 – Radiologia Intervencionista
+16 - Radioterapia
+
+17 - Ressonância Magnética
+18 - Terapia renal substitutiva - Hemodiálise - CAPD
+19 - Tomografia Computadorizada
+20 - Transplantes de Córnea
+21 - Transplante Renal
+22 – Outras, especificar: ___________________
+
+
+
+
+                                   ATENDIMENTO
+01 - Domiciliar
+02 – Ambulatorial
+03 – Internações Clínicas e Cirúrgicas
+04 – Internações Clínicas
+05 – Internações Cirúrgicas
+
+
+
+ESPECIALIDADES - Especialidades reconhecidas pelo Conselho Federal de Medicina.
+
+DIAGNÓSTICOS - Categorias da Classificação Internacio nal de Doenças – 10ª revisão.
+           Anexo III – Informações da Rede de Entidades Hospitalares
+
+
+                                      Informações
+1.Código nº ___________            2.Código do Plano na Operadora ________________
+
+3.Nome do Plano:________________________________________________________
+
+
+                                 4.Entidades Hospitalares
+4.1.Razão Social                           4.2.CNPJ       4.3.UF     4.4.Município
+
+
+
+
+1. Código número
+Número de 6 dígitos que identifica o registro da operadora junto à ANS.
+
+
+2. Código do Plano na Operadora
+   Letra/número atribuído pela operadora para identificação do plano em sua operação,
+considerando um código para cada conjunto de contratos que contenham cláusulas
+idênticas com relação aos itens informados neste cadastramento.
+
+
+3. Nome do Plano
+   Nome comercial do produto utilizado pela operadora na venda e no relacionamento
+com os beneficiários do plano e constante ou não do contrato de assistência à saúde.
+
+
+4. Entidades Hospitalares
+   Deverá ser informada a rede de entidades hospitalares que se encontra em
+atendimento por ocasião da informação.
+   Itens por entidade:
+   4.1.Razão Social
+   4.2.CNPJ
+   4.3.Unidade da Federação (UF)
+   4.3.Município
+

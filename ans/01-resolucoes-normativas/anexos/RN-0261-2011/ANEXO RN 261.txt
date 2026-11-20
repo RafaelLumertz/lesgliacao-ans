@@ -1,0 +1,8 @@
+                                             Anexo
+
+
+PROCEDIMENTO       SUBGRUPO         GRUPO    CAPÍTULO        OD   AMB   HCO   HSO   PAC   D.UT
+                                             PROCEDIMENTOS
+IMPLANTE COCLEAR   ORELHA INTERNA   ORELHA   CIRÚRGICOS E               HCO   HSO   PAC
+                                             INVASIVOS
+

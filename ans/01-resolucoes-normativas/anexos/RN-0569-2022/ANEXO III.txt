@@ -1,0 +1,36 @@
+                                       ANEXO III
+
+                        Apuração do Capital Baseado em Risco
+
+
+
+1. O capital de risco para as operadoras referente aos riscos de subscrição, de crédito,
+legal e operacional e mercado será constituído de acordo com a fórmula a seguir:
+
+
+
+
+Na qual:
+
+
+
+- CBR: é o capital baseado nos riscos de subscrição, de crédito, mercado, legal e
+operacional;
+
+
+
+- CRS: é o capital baseado no risco de subscrição, calculado conforme o Anexo IV; e
+
+
+
+- CRC: é o capital baseado no risco de crédito, calculado conforme o Anexo V; e
+
+
+
+- CRO: é o capital baseado no risco operacional, incluindo o risco legal, calculado
+conforme o Anexo VI;
+
+
+
+- CRM: é o capital baseado no risco de mercado calculado conforme o Anexo VII.
+

@@ -1,0 +1,7 @@
+      PROCEDIMENTO              SUBGRUPO               GRUPO             CAPÍTULO    OD AMB HCO HSO REF PAC DUT
+PROSTATECTOMIA RADICAL                           SISTEMA GENITAL E   PROCEDIMENTOS
+                          PRÓSTATA E VESÍCULAS
+ASSISTIDA POR ROBÔ (COM                          REPRODUTOR          CIRÚRGICOS E           HCO HSC   REF   173
+                          SEMINAIS
+DIRETRIZ DE UTILIZAÇÃO)                          MASCULINO           INVASIVOS
+

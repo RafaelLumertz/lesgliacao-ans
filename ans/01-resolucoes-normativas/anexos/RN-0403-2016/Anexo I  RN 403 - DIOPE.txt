@@ -1,0 +1,246 @@
+                                                    (ANEXO I)
+                               MODELO DE PROJEÇÕES FINANCEIRAS
+                                     BALANÇO PATRIMONIAL
+(Valores em R$ mil)                                                    MÊS 1   MÊS 2   MÊS 3   MÊS N
+ATIVO
+ATIVO CIRCULANTE
+  Disponível
+  Aplicações Financeiras
+    Aplicações Garantidores de Provisões Técnicas
+    Aplicações Livres
+  Créditos de Operações com Planos de Assist. à Saúde
+  Créditos de Operações de Assist. à Saúde Não Relacionados com
+   Planos de Assist. à Saúde
+   Despesas Diferidas
+   Créditos Tributários e Previdênciários
+   Bens e Títulos à Receber
+   Despesas Antecipadas
+   Conta-Corrente com Cooperados
+ATIVO NÃO CIRCULANTE
+  Realizável a Longo Prazo
+  Investimentos
+  Imobilizado
+  Intangível
+PASSIVO
+PASSIVO CIRCULANTE
+  Provisões Técnicas de Operações de Assistência à Saúde
+    Provisões Técnicas de Operações de Assistência Médico-Hospitalar
+      Provisão de Prêmios/Contribuições Não Ganhas
+      Provisão de Insuficiência de Prêmios
+      Provisão para Remissão
+      Provisão de Eventos/Sinistros a Liquidar SUS
+      Provisão de Eventos/Sinistros a Liquidar Outros Prestadores
+      Provisão para Eventos/Sinistros Ocorridos e Não Avisados
+      Outras Provisões Técnicas
+    Provisões Técnicas de Operações de Assistência Odontológicas
+      Provisão de Prêmios/Contribuições Não Ganhas
+      Provisão de Insuficiência de Prêmios
+      Provisão para Remissão
+      Provisão de Eventos/Sinistros a Liquidar SUS
+      Provisão de Eventos/Sinistros a Liquidar Outros Prestadores
+      Provisão para Eventos/Sinistros Ocorridos e Não Avisados
+      Outras Provisões Técnicas
+  Débitos de Operações de Assistência à Saúde
+  Débitos de Operações de Assist. à Saúde Não Relacionados com
+   Planos de Assist. à Saúde
+  Provisões
+  Tributos e Encargos Sociais a Recolher
+  Empréstimos e Financiamento a Pagar
+  Débitos Diversos
+  Conta-Corrente de Cooperados
+PASSIVO NÃO CIRCULANTE
+  Exigível a Longo Prazo
+  Provisões Técnicas de Operações de Assistência à Saúde
+    Provisões Técnicas de Operações de Assistência Médico-Hospitalar
+      Provisão de Prêmios/Contribuições Não Ganhas
+      Provisão de Insuficiência de Prêmios
+      Provisão para Remissão
+      Provisão de Eventos/Sinistros a Liquidar SUS
+      Provisão de Eventos/Sinistros a Liquidar Outros Prestadores
+      Provisão para Eventos/Sinistros Ocorridos e Não Avisados
+      Outras Provisões Técnicas
+    Provisões Técnicas de Operações de Assistência Odontológicas
+      Provisão de Prêmios/Contribuições Não Ganhas
+      Provisão de Insuficiência de Prêmios
+      Provisão para Remissão
+      Provisão de Eventos/Sinistros a Liquidar SUS
+      Provisão de Eventos/Sinistros a Liquidar Outros Prestadores
+      Provisão para Eventos/Sinistros Ocorridos e Não Avisados
+      Outras Provisões Técnicas
+  Provisões
+  Tributos e Encargos Sociais a Recolher
+  Empréstimos e Financiamento a Pagar
+  Débitos Diversos
+PATRIMÔNIO LÍQUIDO (OU SOCIAL)
+  Capital Social/Patrimônio Social
+  Adiantamento para Futuro Aumento de Capital
+  Reservas
+  Ajustes de Avaliação Patrimonial
+  (-) Ações em Tesouraria
+  Lucros/Prejuízos/-Superávits/Déficits Acumulados ou Resultado
+                                 MODELO DE PROJEÇÕES FINANCEIRAS
+                                   DEMONSTRAÇÃO DE RESULTADOS
+
+  (Valores em R$ mil)                                                               MÊS 1 MÊS 2 MÊS 3 MÊS N
+             Receita Líquida com Operações de Assistência à Saúde
+   3 1 1      Contraprestações Líquidas/Prêmios Retidos
+   3 1 2      Variação das Provisões Técnicas de Operações de Assistência à Saúde
+   3 1 3      Receitas com Administração
+   3 1 4      Receitas com Resseguros
+   3 2        (-) Tributos Diretos de Operações de Assistência à Saúde
+             Eventos Indenizáveis Líquidos/Sinistros Retidos
+   4 1 1 1    Eventos/Sinistros Conhecidos ou Avisados de Assistência à Saúde
+              Variação Provisão de Eventos/Sinistros Ocorridos e Não Avisados de
+   4 1 4 1    Assistência à Saúde
+   4 1 5      Despesas de Resseguro
+             Resultado das Operações com Planos de Assist. à Saúde
+   4 3        Despesas de Comercialização
+              Outras Despesas Operacionais
+   3 3 1      Outras Receitas Operacionais de Planos de Assistência à Saúde
+   4 4 1 3    Outras Despesas de Operações de Planos de Assistência à Saúde
+   4 4 1 5    Programas de Promoção da Saúde e Prevenção de Riscos e Doenças
+              (-) Recuperação de Outras Despesas Operacionais de Assistência à
+   4 4 1 6    Saúde
+   4 4 1 9    Provisão Para Perdas Sobre Créditos
+              Receitas de Assistência à Saúde Não Relacionadas com Planos de
+   3 3 2      Saúde da Operadora
+              Outras Despesas Operacionais de Assist. à Saúde Não Relacionadas
+   4 4 2      com Planos de Saúde da Operadora
+   3 4        (-) Tributos Diretos de Outras Atividades de Assistência à Saúde
+   3 5        Receitas Financeiras
+   4 5        Despesas Financeiras
+   3 6        Receitas Patrimoniais
+   4 6        Despesas Administrativas
+   4 7        Despesas Patrimoniais
+             Resultado Antes dos Impostos e Participações
+   6 1        Impostos e Participações Sobre o Lucro
+             Resultado Líquido
+Obs: Os valores deste quadro devem sempre representar o saldo acumulado desde o início do exercício
+em questão, só sendo reiniciados no mês de janeiro. As contas que representarem despesas devem ser
+preenchidas com sinal negativo.
+                          MODELO DE PROJEÇÕES FINANCEIRAS
+                                PATRIMÔNIO AJUSTADO
+
+
+(Valores em R$ mil)                                           MÊS 1   MÊS 2   MÊS 3   MÊS N
+      Patrimônio Líquido / Patrimônio Social
+(+) Diferença entre Peona Contabilizada e Peona Exigida
+    para fins de apuração do patrimônio.
+    Obrigações Legais classificadas no passivo não
+    circulante exigível a longo prazo (apenas Passivos
+    tributários)
+(+) Receitas operacionais, efetivamente recebidas
+
+(-)   Participações diretas ou indiretas em outras OPS e
+      em entidades reguladas pela SUSEP, BACEN e SPC.
+
+
+
+(-)   Parcela do ativo referente à transferência da
+      responsabilidade de pagamento das Obrigações
+      Legais ocorrida nos termos do art. 4º da Instrução
+      Normativa da Diretoria de Normas e Habilitação das
+      Operadoras – IN/DIOPE nº 20, de 2008 e IN/DIOPE
+      nº 39, de 2010.
+
+(-)   Créditos tributários decorrentes de prejuízos fiscais
+      de imposto de renda e bases negativas de
+      contribuição social
+(-)   Despesas de comercialização diferida
+(-)   Despesas antecipadas
+(-)   Ativo não circulante permanente diferido
+(-)   Ativo não circulante permanente intangível, exceto o
+      montante referente a gastos com aquisição de
+      carteira de plano de assistência à saúde e com
+      programas de promoção da saúde e prevenção de
+      riscos e doenças aprovados nos termos da Instrução
+      Normativa Conjunta nº 001, de 30 de dezembro de
+      2008, da DIOPE/DIPRO
+
+(-)   Custos operacionais, efetivamente despendidos
+
+
+(=) Patrimônio Apurado com Ajustes para a Margem de
+    Solvência e PMA
+                          MODELO DE PROJEÇÕES FINANCEIRAS
+                                MARGEM DE SOLVÊNCIA
+APURAÇÃO DA MARGEM DE SOLVÊNCIA 1 – TODAS OPS, EXCETO SEGURADORAS ESPECIALIZADAS
+EM SAÚDE QUE INICIARAM SUAS OPERAÇÕES ANTES DA PUBLICAÇÃO DA RN nº 209/09
+
+                    Descrição                    MÊS 1    MÊS 2      MÊS 3    MÊS N
+  Contraprestações Líquidas - Preço Pré-
+A Estabelecido – Soma dos últimos 12 meses
+  Eventos Indenizáveis Líquidos – Preço Pré-
+B Estabelecido – média anual dos últimos 36
+  meses
+  Contraprestações Líquidas - Preço Pós-
+C Estabelecido – Soma dos últimos 12 meses
+  Eventos Indenizáveis Líquidos – Preço Pós-
+D Estabelecido – média anual últimos 36
+  meses
+E Valor I - 20% x (A + 50% x C)
+F Valor II - 33% x (B + 50% x D)
+     Margem de Solvência Calculada - Maior
+G entre valor I e II (RN 209/2009)
+  Margem de Solvência Exigida – Caso OPS se
+  enquadre nas situações previstas nos art. 8º
+H e 9º da RN 209/2009, deverá observar
+  escala exigida nestes artigos
+
+
+APURAÇÃO DA MARGEM DE SOLVÊNCIA 2 – APENAS SEGURADORAS ESPECIALIZADAS EM SAÚDE
+QUE INICIARAM SUAS OPERAÇÕES ANTES DA PUBLICAÇÃO DA RN nº 209/09
+
+                   Descrição                     MÊS 1   MÊS 2       MÊS 3    MÊS N
+  Contraprestações Líquidas - Preço Pré-
+A
+  Estabelecido – Soma dos últimos 12 meses
+  Eventos Indenizáveis Líquidos – Preço Pré-
+B Estabelecido – média anual dos últimos 36
+  meses
+  Contraprestações Líquidas - Preço Pós-
+C
+  Estabelecido – Soma dos últimos 12 meses
+  Eventos Indenizáveis Líquidos – Preço Pós-
+D Estabelecido – média anual últimos 36
+  meses
+  Contraprestações Líquidas - Preço Pré-
+E
+  Estabelecido – Soma dos últimos 36 meses
+  Eventos Indenizáveis Líquidos – Preço Pré-
+F Estabelecido – média anual dos últimos 60
+  meses
+  Contraprestações Líquidas - Preço Pós-
+G
+  Estabelecido – Soma dos últimos 36 meses
+  Eventos Indenizáveis Líquidos – Preço Pós-
+H Estabelecido – média anual últimos 60
+  meses
+I Valor AI - 20% x (E + 50% x G)
+J Valor AII - 33% x (F + 50% x H)
+K Valor BI - 20% x (A + 50% x C)
+L Valor BII - 33% x (B + 50% x D)
+  Margem de Solvência – ITEM A Maior entre
+M valor I e J (Anexo VII - RN 209/2009
+  alterada pela RN 246/2011)
+  Margem de Solvência – ITEM B Maior entre
+N valor K e L (Anexo VII - RN 209/2009
+  alterada pela RN 246/2011)
+  Margem de Solvência Exigida – M + “n”1 x
+O
+  (N-M)/84
+
+
+
+
+1
+    Deve ser observado o anexo VII da RN 209/2009 e respectivas alterações.
+Observação:
+
+Os saldos demonstrados nas projeções deverão ser líquidos, já contemplando
+os impactos de eventuais contas redutoras, como por exemplo, Provisão para
+Perdas Sobre Créditos – PPSC, etc).
+
+Todas as informações de natureza contábil devem estar de acordo com o
+Plano de Contas Padrão instituído pela ANS.
+

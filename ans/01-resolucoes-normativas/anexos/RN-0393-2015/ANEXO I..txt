@@ -1,0 +1,536 @@
+                                        ANEXO I
+
+Aspectos mínimos a serem observados na elaboração das Notas Técnicas Atuariais
+                                de Provisões
+
+1. Os documentos relativos às Provisões Técnicas devem conter a assinatura do atuário
+habilitado e seu número de identificação profissional perante o órgão competente e
+deverão permanecer à disposição da ANS.
+
+2. Quanto aos aspectos gerais as Notas Técnicas Atuariais de Provisões – NTAPs deverão
+conter:
+
+2.1. O Objetivo da NTAP.
+
+2.2. Definições Gerais: no que couber, este item deverá incluir a definição de termos
+técnicos necessária à perfeita compreensão da NTAP.
+
+2.3. Bases Técnicas:
+
+2.3.1. Incluir a definição de todos os parâmetros e variáveis utilizados;
+
+2.3.2. Incluir a especificação do critério técnico adotado na metodologia atuarial e a sua
+respectiva justificativa técnica;
+
+ 2.3.3. No caso de utilização de tábuas biométricas, estas deverão ser reconhecidas pelo
+Instituto Brasileiro de Atuária – IBA e ser especificada na NTAP;
+
+2.3.4. No caso da utilização de índices financeiros de atualização, especificar o índice, o
+seu critério de aplicação e a sua referência;
+
+2.3.5. Quando as bases técnicas contemplarem premissas de qualquer natureza, estas
+deverão estar fundamentadas tecnicamente pelo atuário responsável.
+
+2.4. Metodologia Atuarial de Cálculo:
+
+2.4.1. Apresentar as formulações utilizadas;
+
+2.4.2. Apresentar base de dados e estatísticas utilizadas, acompanhadas da especificação
+do período e das fontes, bem como demonstrativo de cálculo;
+
+ 2.4.3. Quanto à reavaliação, deverão ser estabelecidos na NTAP a periodicidade, os
+critérios, o período de referência dos dados a serem utilizados e a sua formulação;
+
+ 2.4.4. Definição da periodicidade de cálculo e os critérios de constituição da Provisão,
+observando a legislação vigente;
+2.4.5. Quaisquer alterações adotadas na metodologia atuarial de cálculo da provisão
+deverão ser documentadas contendo o devido embasamento técnico para alteração;
+
+3. Quanto à Provisão para Remissão:
+
+3.1. A metodologia atuarial de cálculo referente à Provisão para Remissão deve levar em
+consideração a expectativa de despesas assistenciais (médico-hospitalares e/ou
+odontológica) durante o prazo de remissão concedido;
+
+3.2. No cálculo de apuração da expectativa de despesa assistencial o atuário deverá
+observar se a base de dados utilizada apresenta consistência estatística suficiente;
+
+3.3. Caso a apuração da expectativa de despesa assistencial seja feita por faixa etária,
+estas deverão ser apresentadas;
+
+3.4. A Provisão para Remissão deverá ser calculada ao fim de cada mês, considerando-se
+como período inicial o mês do fato gerador do benefício de remissão;
+
+3.5. Deve ser demonstrada a formulação de cálculo da Provisão para Remissão na entrada
+de gozo do benefício e sua sistemática de cálculo mensal.
+
+4. Quanto à PEONA e à PEONA SUS:
+
+4.1 Caso a metodologia atuarial adotada na NTAP de PEONA ou de PEONA SUS seja a
+da “Sinistralidade Esperada”, o percentual de sinistralidade considerado deverá ser
+justificado e estar acompanhado de seu respectivo embasamento técnico.
+
+5. Quanto às outras Provisões Técnicas:
+
+5.1 Deverão ser encaminhadas à DIOPE as NTAPs em versão original e acompanhados
+por correspondência assinada pelo representante da OPS junto à ANS e observar, no
+mínimo o definido no item 2 deste Anexo.
+
+5.2 As metodologias atuariais de cálculo constantes em notas técnicas atuariais aprovadas
+pela DIOPE só poderão ser modificadas mediante prévia solicitação de alteração a ser
+encaminhada à DIOPE para nova aprovação, acompanhadas de estudo técnico que a
+justifique.
+                                       ANEXO II
+
+                      Observações para avaliação das Provisões
+
+1. Para fins desta norma, entende-se como teste de consistência a comparação entre os
+valores de provisão estimados com os valores efetivamente observados a fim de avaliar a
+adequação da metodologia atuarial constante da NTAP.
+
+1.1 O período de escolha das datas-base constantes do teste de consistência deve ser
+suficiente para a avaliação da adequação da metodologia atuarial e considerar aspectos
+relacionados à sazonalidade.
+
+2. O atuário deve verificar se a metodologia atuarial constante da NTAP é adequada à
+realidade operacional da operadora, em especial nas OPS em início de atividade,
+considerando dentre outros aspectos a forma e o tempo de remuneração dos prestadores,
+justificando a sua adoção.
+
+3. Para OPS com experiência de no mínimo 12 meses, a NTAP de PEONA, deverá conter,
+em anexo, o teste de consistência da metodologia atuarial.
+
+4. Quando a metodologia atuarial de cálculo de PEONA for obtida com base na diferença
+entre a estimativa do total de eventos/sinistros ocorridos e não pagos e o total de
+eventos/sinistros a liquidar, não poderão ser considerados os valores referentes às disputas
+judiciais e ressarcimentos ao SUS, salvo quando devidamente justificado e autorizado
+pela ANS.
+
+5. Para fins de cálculo ou de apuração das contraprestações/prêmios a que se refere o
+inciso I do artigo 11 da presente Resolução, deverão ser observados os montantes
+reconhecidos como contraprestações líquidas/prêmios retidos.
+
+6. Para fins de cálculo ou de apuração dos eventos/sinistros a que se refere o cálculo da
+PEONA, deverão ser observados os montantes reconhecidos como eventos/sinistros
+conhecidos ou avisados e suas deduções, exceto as variações de PEONA e os montantes
+relativos aos eventos/sinistros originados no SUS.
+                                       ANEXO III
+
+ Aspectos mínimos a serem observados no Relatório Circunstanciado de auditores
+independentes referentes a dados que acompanham as Notas Técnicas Atuariais de
+                               Provisões Técnicas
+
+1. O Relatório Circunstanciado referente às bases de dados utilizadas na elaboração das
+metodologias atuariais de cálculo das provisões técnicas consubstanciadas em NTAP
+deverá obedecer às normas aplicáveis estabelecidas pelo Instituto dos Auditores
+Independentes do Brasil – IBRACON, visando assegurar a fidedignidade e consistência
+dos dados apresentados contemplando, no mínimo, os seguintes aspectos:
+
+1.1 Quando os dados forem utilizados para elaboração de estimativa da Provisão de
+Eventos Ocorridos e Não Avisados – PEONA:
+
+a) asseguração de que as informações sobre datas de ocorrência, datas de aviso/registro
+contábil e valores avisados de eventos/sinistros indenizáveis, constantes da base de dados,
+são fidedignas em relação aos dispositivos contratuais, controles gerenciais e financeiros
+da OPS e/ou lançamentos contábeis (contratos, aditivos, balancetes, notas fiscais, etc) que
+suportam tais informações;
+
+b) asseguração de que as informações de data de pagamento e valores pagos de
+eventos/sinistros indenizáveis, quando estas informações forem contempladas na base de
+dados, são fidedignas em relação aos dispositivos contratuais, controles gerenciais e
+financeiros da OPS e/ou lançamentos contábeis (lançamentos contábeis, notas fiscais, etc)
+que suportam tais informações;
+
+c) comparação do total de valores avisados de eventos/sinistros indenizáveis, por data de
+aviso/registro contábil, em relação aos valores de eventos indenizáveis constantes dos
+demonstrativos contábeis e das informações encaminhadas à ANS por meio do
+DIOPSXML, definindo percentualmente a eventual diferença.
+
+1.2 Quando os dados forem utilizados para elaboração de estimativa da Provisão para
+Remissão:
+
+a) avaliação das informações de datas de início e fim de gozo do benefício, data de
+nascimento ou idade e sexo do beneficiário remido e valores de despesa assistencial por
+exposto utilizado no cálculo constante da base de dados e sua fidedignidade em relação
+aos dispositivos contratuais e/ou lançamentos contábeis (contratos, aditivos, balancetes,
+etc) que suportam tais informações.
+
+1.3 Quando forem utilizados para elaboração de metodologia de cálculo da PIC ou outra
+provisão técnica não obrigatória:
+
+a) avaliação da fidedignidade da base de dados utilizada na metodologia atuarial proposta
+pelo atuário responsável em relação aos dispositivos contratuais e/ou lançamentos
+contábeis (lançamentos contábeis, notas fiscais, etc) que suportam tais informações,
+quando aplicável.
+
+2. As conclusões e procedimentos adotados pelo auditor deverão constar de seus
+relatórios de forma clara e explícita e deverão se ater às bases de dados auditadas, não
+expressando opinião quanto à metodologia atuarial de cálculo da provisão cuja
+responsabilidade é do atuário legalmente habilitado.
+                                     ANEXO IV
+
+                  Bases de Dados referentes às Provisões Técnicas
+
+A OPS deverá dispor, a qualquer tempo, em meio digital, dos dados atualizados a que se
+referem os itens I e II deste Anexo, para envio e/ou verificação da ANS quando
+solicitados.
+
+I) Formato de base de dados de eventos indenizáveis:
+
+As avaliações da metodologia atuariais de cálculo de PEONA deverão estar
+acompanhadas de base de dados, em consonância com os demonstrativos contábeis e o
+DIOPS, e no caso da PEONA SUS, deverão estar em consonância com os dados de
+ressarcimento divulgados mensalmente pela ANS. A base de dados deve ser arquivada
+em meio digital na formatação .xls, .dbf, .mdb ou .txt e considerando no mínimo as
+seguintes informações:
+
+    ARQUIVO CONTENDO BASE DE DADOS DE EVENTOS INDENIZÁVEIS
+
+  Colunas         Campo         Descrição        Tipo       Tamanho         Casas
+                                                            do Campo       Decimais
+      1        MÊS/ANO DE    Data de             Data           6
+               OCORRÊNCIA  Ocorrência
+                           dos Eventos
+                            (mmaaaa)
+      2        MÊS/ANO DE    Data de             Data            6
+                  AVISO     Aviso dos
+                             Eventos
+                            (mmaaaa)
+      3        VALOR_AVISA    Valor           Numérico          16             2
+                   DO        Avisado
+      4        MÊS/ANO DE    Data do             Data            6
+               PAGAMENTO Pagamento
+                           dos Eventos
+                            (mmaaaa)
+      5        VALOR_PAGO Valor Pago          Numérico          16             2
+
+Obs (1): A data de aviso a constar na base de dados deverá ser aquela do reconhecimento
+contábil;
+
+Obs (2): Os campos 4 - Mês/Ano de Pagamento e 5 - Valor Pago serão obrigatórios no
+caso da metodologia atuarial definida para o cálculo da PEONA se basear na estimativa
+dos valores dos eventos ocorridos e não pagos;
+
+Obs (3): A totalização dos valores avisados deverá ser feita por Mês/Ano de Ocorrência
+e Mês/Ano de Aviso. Caso a base de dados inclua os valores pagos, a totalização dos
+valores avisados e dos valores pagos também deverá observar o Mês/Ano de
+Pagamento.
+
+ Obs(4): No caso da comunicação estabelecida no §2º do Art. 5º a base de dados deverá
+contemplar no mínimo 30 datas-bases devendo estas datas serem compatíveis com o
+teste de consistência também apresentado.
+
+Obs (5): As operadoras também devem considerar nesta base de dados de eventos as
+informações sobre eventuais operações de corresponsabilidade pela gestão dos riscos
+decorrentes do atendimento dos beneficiários para dimensionamento da expectativa
+de utilização dos serviços de assistência médica e/ou odontológica.
+
+II) Formato de base de dados de beneficiários remidos:
+
+Anexo à NTAP para Remissão, deverá ser arquivada a base de dados em meio digital,
+contendo a informação do mês de referência dos dados, na formatação .xls, .dbf, .mdb
+ou .txt, considerando as seguintes informações:
+
+  Colunas        Campo         Descrição        Tipo      Tamanho         Casas
+                                                          do Campo       Decimais
+      1         DT_NASC      Data de            Data          8
+                          nascimento
+                          beneficiário
+                          em gozo de
+                           benefício
+                            (remido)
+      2         DT_ BENEF    Data do            Data           8
+                            Início de
+                             gozo do
+                           benefício
+      3        DT_FIM_BEN    Data do            Data           8
+                    EF    Término do
+                          benefício de
+                           remissão
+                          contratado.
+                              Caso
+                            vitalício,
+                           preencher
+                           01010000
+      4         DESP_ASS    Valor da         Numérico         16             2
+                            Despesa
+                          Assistencial
+                          por Exposto
+                              a ser
+                          utilizado no
+                           cálculo da
+                               Provisão
+                                 para
+                               Remissão
+                                  do
+                             beneficiário
+      5       DAT_REF_IN        Data de      Data           6
+                  FO          Referência
+                                  das
+                            Informações
+                              (mmaaaa)
+      6          SEXO        Informação     Caracter        1
+                              do sexo do
+                             beneficiário
+                                 (F –
+                            feminino, M
+                                   –
+                             masculino)
+
+Obs (1): O campo 6 - SEXO deve ser obrigatoriamente preenchido no caso da NTAP
+definir tábuas biométricas diferenciadas por sexo.
+
+Obs (2): O campo 5 - DAT_REF_INFO deve contemplar o mês a que se refere o cálculo
+da provisão, quando aplicável.
+                                      ANEXO V
+
+      Documentos e dados mínimos necessários para o suporte à elaboração e
+         acompanhamento da metodologia atuarial constante em NTAP
+
+1. As metodologias atuariais de cálculo de provisão consubstanciadas em NTAP devem
+ser arquivadas em conjunto com os seguintes itens, no mínimo:
+
+a) Nota Técnica Atuarial de Provisão assinada por atuário legalmente habilitado,
+observados os aspectos mínimos constantes do Anexo I;
+
+b) Teste de consistência da metodologia atuarial, em meio digital e físico, observados os
+aspectos constantes dos itens 1 a 4 do Anexo II;
+
+c) Base de dados utilizada na elaboração e avaliação da metodologia atuarial de cálculo
+da Provisão Técnica, em meio digital, observados os formatos mínimos constantes do
+Anexo IV;
+
+d) Relatório Circunstanciado de auditor independente, registrado na Comissão de
+Valores Mobiliários – CVM, em meio digital (.pdf) e físico, versando sobre a
+fidedignidade dos dados utilizados e sua consistência com os demonstrativos contábeis
+e as informações encaminhadas por meio do DIOPS-XML, observados os aspectos
+constantes do Anexo III;
+
+e) Memória de cálculo detalhada da provisão, em meio digital, dos três meses mais
+recentes utilizados na avaliação da metodologia atuarial com a respectiva base de dados
+utilizada;
+
+f) Termo de Responsabilidade Atuarial, em meio digital (.pdf) e físico, observados os
+formatos mínimos constantes do Anexo VI;
+
+2. Os documentos acima estabelecidos deverão ser arquivados por no mínimo 5 anos,
+com exceção da NTAP que deverá ser mantida por no mínimo 5 anos após o fim de sua
+vigência.
+
+3. Para as outras provisões técnicas, o estabelecido no item acima deverá ser enviado à
+DIOPE por meio de correspondência assinada por representante legal junto à ANS.
+                                       ANEXO VI
+
+Aspectos mínimos a serem observados no Termo de Responsabilidade Atuarial de
+                             Provisões Técnicas
+
+
+1. O Termo de Responsabilidade Atuarial de Provisões Técnicas deverá ser encaminhado
+trimestralmente, pelas OPS que adotem metodologia atuarial para cálculo das provisões
+de que tratam os incisos II, II-A, III, IV-A e V, do artigo 3º, no mesmo prazo estabelecido
+pela regulamentação em vigor para as informações contábeis do Documento de
+Informações Periódicas – DIOPS, visando assegurar a fidedignidade e consistência das
+Provisões Técnicas calculadas, devendo seguir integralmente o modelo abaixo.
+
+2. O Termo de Responsabilidade Atuarial deverá conter a assinatura do atuário, se
+responsabilizando pelo cálculo da provisão, informando os valores apurados, bem como
+detalhando, sempre que necessário, quaisquer observações que se façam necessárias. Em
+caso de execução de serviço por prestador CIBA, o Termo de Responsabilidade Atuarial
+também deverá vir assinado pelo representante do mesmo.
+
+3. O Termo de Responsabilidade Atuarial deverá conter a assinatura do representante
+legal da operadora, que deverá se comprometer pela fidedignidade das informações
+fornecidas para cálculo das provisões, declarando ciência dos valores das Provisões
+Técnicas calculadas pelo atuário, bem como responsabilizar-se pelo correto registro
+contábil das mesmas e o informado no DIOPS-XML.
+
+
+
+
+   Mês de        PEONA       PEONA       Provisão      PIC        Outras       Outras
+ Competência                  SUS           de                  Provisões    Provisões
+                                         Remissão                Técnicas     Técnicas
+                                                               (Especificar (Especificar
+                                                                 o nome)      o nome)
+  mmm/aaaa
+  mmm/aaaa
+  mmm/aaaa
+
+
+
+             Termo de Responsabilidade Atuarial de Provisões Técnicas
+
+Eu, <nome atuário>, telefone, e-mail, inscrito(a) no CPF sob o n.º <11 dígitos>, como
+atuário legalmente habilitado, com número de registro profissional_______, sou
+responsável pelo cálculo das Provisões Técnicas da operadora ____(Razão
+Social)______, registrada sob o n.º <6 dígitos> na Agência Nacional de Saúde
+Suplementar – ANS,
+
+DECLARO, para os devidos fins de direito:
+A - que os trabalhos foram conduzidos de acordo com os princípios atuariais e as
+diretrizes estabelecidas pela regulamentação vigente. Desta forma, as Provisões Técnicas
+foram verificadas e apuradas com base em metodologias atuariais de cálculo aderentes à
+realidade operacional da operadora;
+
+B – que no quadro abaixo estão dispostos os valores das provisões apuradas por mim para
+cada mês do XX trimestre de XXXX:
+
+   Mês de        PEONA       Provisão       Outras       Outras
+ Competência                    de        Provisões    Provisões
+                             Remissão      Técnicas     Técnicas
+                                         (Especificar (Especificar
+                                           o nome)      o nome)
+  mmm/aaaa
+  mmm/aaaa
+  mmm/aaaa
+
+C - que executei testes que atestam a qualidade dos dados que serviram de base para a
+elaboração do cálculo da _______________(definir o nome(s) da(s) provisão(ões));
+
+D – que ao proceder à apuração da(s) Provisão(ões) de __________, foram observados
+fatos relevantes que ensejaram a adoção das seguintes medidas para adequação do
+cálculo:
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+
+E – assumir, integral responsabilidade pela fidedignidade das declarações ora prestadas,
+ficando à ANS, desde já, autorizada a delas fazer, nos limites legais e em juízo ou fora
+dele, o uso que lhe aprouver;
+
+F – estar ciente que qualquer comissão ou omissão de informação, no que tange aos
+trabalhos por mim executados, que vier a dar causa à instauração do regime de direção
+fiscal e/ou liquidação extrajudicial nos últimos 12 (doze) meses à data de instauração,
+poderá levar a indisponibilidade dos meus bens, com base no disposto no inciso I, do §
+3º, do art. 24-A, da Lei 9.656/1998.
+
+Local e data:
+
+Assinatura do Atuário – Registro Profissional nº Assinatura do Atuário – CIBA nº
+Eu, (nome representante), CPF nº           , representante da operadora ____(Razão
+Social)______, registrada sob o n.º <6 dígitos>na Agência Nacional de Saúde
+Suplementar – ANS, declaro que as informações fornecidas para apuração das provisões
+técnicas são fidedignas e consistentes om os demonstrativos contábeis da operadora e
+das informações encaminhadas à ANS por meio do DIOPS-XML. Declaro ainda que, estou
+ciente das informações anteriores e que os valores de provisões apuradas por
+metodologia atuarial foram refletidas nos registros contábeis da operadora e no DIOPS-
+XML encaminhado à ANS.
+
+Local e data:
+
+Assinatura do Representante
+                                      ANEXO VII
+    Fórmula de cálculo do Fator de Insuficiência de Contraprestação e Prêmio – FIC
+
+ 1. As operadoras que não possuam metodologia atuarial própria para cálculo da
+ Provisão para Insuficiência de Prêmios/Contraprestações - PIC, comunicada à DIOPE nos
+ termos da presente Resolução, deverão utilizar como referência o fator de insuficiência
+ de contraprestações/prêmios – FIC, calculado conforme abaixo:
+
+                                  𝐸𝐼𝐿 + 𝐷𝐶 + 𝐷𝐴 + 𝐹𝑐𝑜𝑟𝑟𝑒𝑠𝑝 − 𝑀𝑢𝑙𝑡𝑎𝑠𝐴𝑑𝑚
+𝐹𝐼𝐶 = 𝑚𝑎𝑖𝑜𝑟 𝑣𝑎𝑙𝑜𝑟 𝑒𝑛𝑡𝑟𝑒 0 𝑧𝑒𝑟𝑜 𝑒 (                                      )−1
+                                   𝐶𝑜𝑛𝑡𝑟𝑎𝑡𝑝𝑟𝑒𝑠𝑡𝑎çõ𝑒𝑠𝐸𝑓𝑒𝑡𝑖𝑣𝑎𝑠 + 𝐹𝑐𝑜𝑟𝑟𝑒𝑠𝑝
+
+
+ Onde:
+
+ i Contraprestações efetivas líquidas do efeito da variação da PIC são o montante de
+ receitas com operações de assistência à saúde, subtraído o montante de tributos diretos de
+ operações com planos de assistência à saúde da operadora nos últimos 12 meses,
+ incluindo o mês de cálculo, desconsiderando os valores de variação de PIC.
+
+ ii EIL: Eventos indenizáveis líquidos registrados contabilmente nos últimos 12 meses,
+ incluindo o mês de cálculo;
+
+ iii DC: Despesas de comercialização registradas contabilmente nos últimos 12 meses,
+ incluindo o mês do cálculo;
+
+ iv DA: Despesas administrativas registradas contabilmente nos últimos 12 meses,
+ incluindo o mês de cálculo;
+
+ v Fcorresp: Valor absoluto das contraprestações de corresponsabilidade cedida ou
+ transferida registradas contabilmente nos últimos 12, incluindo o mês de cálculo;
+
+ vi MultasAdm: Valor referente às multas administrativas reconhecidas contabilmente nos
+ últimos 12 meses.
+
+  2. Para fins de apuração das contraprestações/prêmios pelas quais deve ser multiplicado
+ o FIC, como descrito no artigo 14-C da presente Resolução, deverão ser observados os
+ montantes reconhecidos como contraprestações líquidas/prêmios retidos, adicionado o
+ valor absoluto das contraprestações de corresponsabilidade cedidas ou transferidas.
+                                   ANEXO VIII
+  Bases técnicas para o cálculo da PEONA SUS por operadoras que não possuem
+                           metodologia atuarial própria
+
+1. As operadoras que não possuam metodologia atuarial própria para cálculo da Provisão
+para Eventos/Sinistros Ocorridos e Não Avisados ocorridos no SUS – PEONA SUS,
+comunicada à DIOPE nos termos da presente Resolução, deverão observar, para cálculo
+da PEONA SUS, o menor entre os seguintes valores:
+
+I – 80% (oitenta por cento) do total dos eventos avisados nos últimos 24 (vinte e quatro)
+meses, referentes aos procedimentos realizados na rede assistencial do Sistema (SUS); e
+
+II - Fator Individual de PEONA SUS multiplicado pelo total dos eventos avisados nos
+últimos 24 (vinte e quatro) meses, referentes aos procedimentos realizados na rede
+assistencial do Sistema (SUS).
+
+1.1 O Fator Individual de PEONA SUS será aquele resultante da aplicação da seguinte
+fórmula para cada operadora:
+
+
+
+
+Onde:
+
+i. “A” refere-se ao primeiro trimestre de 2018, que é o primeiro trimestre do período
+considerado no cálculo do percentual de que trata a fórmula acima;
+
+ii. “B” refere-se ao segundo trimestre de 2019, que é o último trimestre do período
+considerado no cálculo do percentual de que trata a fórmula acima;
+
+iii. EONA SUS é o montante referente a soma dos valores devidos de procedimentos,
+cobrados ou passíveis de cobrança de ressarcimento ao SUS para os quais não foram
+emitidas GRU, ocorridos até o fim do trimestre de referência, mas ainda não notificados
+como devido pela ANS à operadora até o fim do referido trimestre. São considerados
+como valores devidos passíveis de cobrança de ressarcimento ao SUS aqueles
+procedimentos que não foram impugnados e cujo prazo de impugnação terminou, os
+indeferidos em 1ª instância e não recorridos, e os não providos em 2ª instância;
+
+iv. Foram considerados nos Eventos SUS (24 meses) as notificações de ressarcimento ao
+SUS cujos prazos de impugnação terminaram e que não foram impugnados pela
+operadora, os indeferidos pela ANS em primeira instância e não recorridos, os não
+providos em segunda instância e os cobrados com Guia de Recolhimento da União
+(GRU).
+
+1.1. Foram considerados 6 (seis) trimestres de referência para o cálculo, sendo o primeiro
+referente ao 1º trimestre de 2018 e o último referente ao 2º trimestre de 2019.
+1.2. O percentual atribuído a operadora é 0 (zero) quando:
+
+1.2.1 A operadora não tiver EONA SUS nos dois últimos trimestres utilizados no cálculo;
+
+1.2.2 O resultado da média geométrica da divisão da EONA SUS pelos Eventos SUS (24
+meses) for menor ou igual a 0,00009999.
+
+1.3. Sendo nulo o valor da EONA SUS em qualquer trimestre utilizado no cálculo, com
+exceção dos dois últimos, imputou-se o valor de 1 × 10−11 à EONA SUS daquele
+trimestre.
+
+2. Serão considerados no montante total de eventos avisados nos últimos 24 meses de que
+tratam os incisos I e II do presente anexo, as notificações de ressarcimento ao SUS que
+atendam aos mesmos critérios estabelecidos no subitem iv do item 1.1 deste anexo.
+
+3. A ANS divulgará mensalmente, por operadora, o Fator Individual de PEONA SUS e o
+montante de eventos avisados nos últimos 24 meses de que trata o item 1 do presente
+anexo, no Espaço da Operadora do sítio institucional da ANS.
+
+4. O(s) relatório(s) técnico(s) que tratam da definição do Fator Individual de PEONA SUS
+serão disponibilizados no sítio institucional da ANS, na seção de “Dados do Setor >
+Dados e Indicadores do Setor > Operadoras de planos privados de saúde”, sob o título
+“Nota Metodológica para definição de percentual padrão para PEONA SUS
+(especificando o ano de apuração)” até 30 de junho do ano.
+
+5. Os valores calculados de Fator Individual de PEONA SUS, a partir da base de dados
+do Ressarcimento ao SUS, serão divulgados na Central de Relatórios do Espaço das
+Operadoras do sítio institucional da ANS, ou em outro espaço que o substitua, sendo
+objeto de estudo anualmente, a ser divulgado até 30 (trinta) de junho de cada ano.
+

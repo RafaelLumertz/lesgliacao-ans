@@ -1,0 +1,675 @@
+                                              “Anexo I
+
+                           MODELO DE PROJEÇÕES FINANCEIRAS
+                                 BALANÇO PATRIMONIAL
+(Valores em R$ mil)                                                    MÊS 1   MÊS 2   MÊS 3   MÊS N
+ATIVO
+ATIVO CIRCULANTE
+  Disponível
+  Aplicações Financeiras
+    Aplicações Garantidores de Provisões Técnicas
+    Aplicações Livres
+  Créditos de Operações com Planos de Assist. à Saúde
+  Créditos de Operações de Assist. à Saúde Não Relacionados com
+   Planos de Assist. à Saúde
+   Despesas Diferidas
+   Créditos Tributários e Previdenciários
+   Bens e Títulos à Receber
+   Despesas Antecipadas
+   Conta-Corrente com cooperados
+ATIVO NÃO CIRCULANTE
+  Realizável a Longo Prazo
+  Investimentos
+  Imobilizado
+  Intangível
+PASSIVO
+PASSIVO CIRCULANTE
+  Provisões Técnicas de Operações de Assistência à Saúde
+    Provisões Técnicas de Operações de Assistência Médico-Hospitalar
+     Provisão de Prêmios/Contraprestações Não Ganhas
+     Provisão de Insuficiência de Prêmios/Contraprestações
+     Provisão para Remissão
+     Provisão de Eventos/Sinistros a Liquidar SUS
+     Provisão de Eventos/Sinistros a Liquidar Outros Prestadores
+     Provisão para Eventos/Sinistros Ocorridos e Não Avisados
+     Outras Provisões Técnicas
+    Provisões Técnicas de Operações de Assistência Odontológicas
+     Provisão de Prêmios/Contraprestações Não Ganhas
+     Provisão de Insuficiência de Prêmios/Contraprestações
+     Provisão para Remissão
+     Provisão de Eventos/Sinistros a Liquidar SUS
+     Provisão de Eventos/Sinistros a Liquidar Outros Prestadores
+     Provisão para Eventos/Sinistros Ocorridos e Não Avisados
+     Outras Provisões Técnicas
+  Débitos de Operações de Assistência à Saúde
+  Débitos de Operações de Assist. à Saúde Não Relacionados com
+   Planos de Assist. à Saúde
+  Provisões
+  Tributos e Encargos Sociais a Recolher
+  Empréstimos e Financiamento a Pagar
+  Débitos Diversos
+  Conta-Corrente de Cooperados
+PASSIVO NÃO CIRCULANTE
+  Exigível a Longo Prazo
+  Provisões Técnicas de Operações de Assistência à Saúde
+    Provisões Técnicas de Operações de Assistência Médico-Hospitalar
+     Provisão de Prêmios/Contraprestações Não Ganhas
+     Provisão de Insuficiência de Prêmios/Contraprestações
+     Provisão para Remissão
+     Provisão de Eventos/Sinistros a Liquidar SUS
+     Provisão de Eventos/Sinistros a Liquidar Outros Prestadores
+     Provisão para Eventos/Sinistros Ocorridos e Não Avisados
+     Outras Provisões Técnicas
+    Provisões Técnicas de Operações de Assistência Odontológicas
+     Provisão de Prêmios/Contraprestações Não Ganhas
+     Provisão de Insuficiência de Prêmios/Contraprestações
+     Provisão para Remissão
+     Provisão de Eventos/Sinistros a Liquidar SUS
+     Provisão de Eventos/Sinistros a Liquidar Outros Prestadores
+     Provisão para Eventos/Sinistros Ocorridos e Não Avisados
+     Outras Provisões Técnicas
+  Provisões
+ Tributos e Encargos Sociais a Recolher
+ Empréstimos e Financiamento a Pagar
+ Débitos Diversos
+PATRIMÔNIO LÍQUIDO (OU SOCIAL)
+ Capital Social/Patrimônio Social
+ Adiantamento para Futuro Aumento de Capital
+ Reservas
+ Ajustes de Avaliação Patrimonial
+ (-) Ações em Tesouraria
+ Lucros/Prejuízos/-Superávits/Déficits Acumulados ou Resultado
+
+
+                             MODELO DE PROJEÇÕES FINANCEIRAS
+                               DEMONSTRAÇÃO DE RESULTADOS
+
+ (Valores em R$ mil)                                                          MÊS 1 MÊS 2 MÊS 3 MÊS N
+
+
+
+    Receita Líquida com Operações de Assistência à Saúde
+
+     Contraprestações Líquidas/Prêmios Retidos
+
+     Variação das Provisões Técnicas de Operações de Assistência à Saúde
+
+      Receitas com Administração
+
+      Receitas com Resseguros
+
+      Receitas com Seguros
+
+      (-) Tributos Diretos de Operações de Assistência à Saúde
+
+    Eventos Indenizáveis Líquidos/Sinistros Retidos
+
+     Eventos/Sinistros Conhecidos ou Avisados de Assistência à Saúde
+
+     Variação Provisão de Eventos/Sinistros Ocorridos e Não Avisados de
+
+     Assistência à Saúde
+
+     Despesas de Resseguros
+
+     Despesas de Seguros
+
+    Resultado das Operações com Planos de Assist. à Saúde
+
+      Despesas de Comercialização
+
+      Outras Despesas Operacionais
+
+      Outras Receitas Operacionais de Planos de Assistência à Saúde
+
+      Outras Despesas de Operações de Planos de Assistência à Saúde
+
+      Programas de Promoção da Saúde e Prevenção de Riscos e Doenças
+
+      (-) Recuperação de Outras Despesas Operacionais de Assistência à
+
+      Saúde
+
+      Provisão Para Perdas Sobre Créditos
+
+      Receitas de Assistência à Saúde Não Relacionadas com Planos de
+
+      Saúde da Operadora
+
+      Receitas Operacionais de Outras Atividades (Autogestões - Lei 13.127)
+
+      Outras Despesas Operacionais de Assist. à Saúde Não Relacionadas
+
+      com Planos de Saúde da Operadora
+       Despesas Operacionais de Outras Atividades (Autogestões - Lei 13.127)
+
+       (-) Tributos Diretos de Outras Atividades de Assistência à Saúde
+
+       Receitas Financeiras
+
+       Despesas Financeiras
+
+       Receitas Patrimoniais
+
+       Despesas Administrativas
+
+       Despesas Patrimoniais
+
+     Resultado Antes dos Impostos e Participações
+
+       Impostos e Participações Sobre o Lucro
+
+     Resultado Líquido
+
+Obs: Os valores deste quadro devem sempre representar o saldo acumulado desde o início do
+exercício em questão, só sendo reiniciados no mês de janeiro. As contas que representarem despesas
+devem ser preenchidas com sinal negativo.
+
+                            MODELO DE PROJEÇÕES FINANCEIRAS
+                               PATRIMÔNIO LÍQUIDO AJUSTADO
+
+
+     (Valores em R$ mil)                                              MÊS 1   MÊS 2   MÊS 3   MÊS N
+           Patrimônio Líquido / Patrimônio Social
+
+     (-)   Participações diretas ou indiretas em outras
+           operadoras de planos de assistência à saúde e em
+           entidades financeiras, de seguros, resseguros e de
+           previdência privada aberta ou fechada sujeitas à
+           supervisão de outros órgãos federais de supervisão
+           econômica setorial
+
+     (-)   Créditos tributários decorrentes de prejuízos fiscais de
+           imposto de renda e bases negativas de contribuição
+           social
+
+     (-)   Despesas diferidas
+
+     (-)   Despesas antecipadas
+
+     (-)   Ativo não circulante intangível
+
+     (-)   Diferença entre Peona contabilizada e Peona exigida,
+           nos termos da regulamentação vigente, para fins de
+           apuração do patrimônio
+
+     (-)   Ajustes de Ressarcimento ao SUS
+
+     (=) Patrimônio Líquido Ajustado
+
+
+
+Observação:
+
+Os saldos demonstrados nas projeções deverão ser líquidos, já contemplando os impactos de
+eventuais contas redutoras, como por exemplo, Provisão para Perdas Sobre Créditos – PPSC, etc).
+
+Todas as informações de natureza contábil devem estar de acordo com o Plano de Contas Padrão
+instituído pela ANS.
+                       MODELO DE PROJEÇÕES FINANCEIRAS
+                            MARGEM DE SOLVÊNCIA
+
+        APURAÇÃO DA MARGEM DE SOLVÊNCIA 1 - TODAS OPS, EXCETO SEGURADORAS
+    ESPECIALIZADAS EM SAÚDE QUE SE ENQUADRAM NO § 3O DO ART. 11 DA RN Nº 451 DE 6
+                                   MARÇO DE 2020
+
+                            Descrição                         Mês 1 Mês 2 Mês 3 Mês N
+
+  Contraprestações Líquidas - Preço Pré-Estabelecido -
+A Soma dos últimos 12 meses
+
+
+
+  Contraprestações de Corresponsabilidade Cedida -
+  Cobertura Assistencial em Preço Pré-Estabelecido e
+  Corresponsabilidade Cedida em Preço Pós-
+  Estabelecido - Soma dos últimos 12 meses, registrados
+B contabilmente a partir de março de 2020
+
+  Eventos Indenizáveis Líquidos - Preço Pré-Estabelecido
+C - Média anual dos últimos 36 meses
+
+
+
+  Contraprestações de Corresponsabilidade Cedida -
+  Cobertura Assistencial em Preço Pré-Estabelecido e
+  Corresponsabilidade Cedida em Preço Pós-
+  Estabelecido, registradas contabilmente a partir de
+D março de 2020 - Média anual dos últimos 36 meses,
+
+      Contraprestações Líquidas - Preço Pós-Estabelecido -
+E     Soma dos últimos 12 meses
+
+  Eventos Indenizáveis Líquidos - Preço Pós-Estabelecido
+F - Média anual dos últimos 36 meses
+G Valor I - 20% x (A+|B|+50% x E)
+H Valor II - 33% x (C+|D| + 50% x F)
+      Margem de Solvência Calculada - Maior Valor entre I e
+I     II
+
+
+Os prêmios de seguros e resseguros líquidos pagos, nos últimos doze meses, a seguradoras
+e/ou resseguradoras devem ser deduzidos das contraprestações emitidas, constantes do
+item A da tabela.
+Os sinistros de seguros e resseguros recuperados, nos últimos trinta e seis meses, de
+seguradoras e resseguradoras devem ser deduzidos dos eventos indenizáveis líquidos,
+constantes do item C da tabela.
+    APURAÇÃO DA MARGEM DE SOLVÊNCIA 2 - SEGURADORAS ESPECIALIZADAS EM SAÚDE
+      QUE SE ENQUADRAM NO § 3O DO ART. 11 DA RN Nº 451, DE 6 DE MARÇO DE 2020
+
+                           Descrição                          Mês 1 Mês 2 Mês 3 Mês N
+
+  Contraprestações Líquidas - Preço Pré-Estabelecido -
+A Soma dos últimos 12 meses
+
+
+
+  Contraprestações de Corresponsabilidade Cedida -
+  Cobertura Assistencial em Preço Pré-Estabelecido e
+  Corresponsabilidade Cedida em Preço Pós-
+  Estabelecido - Soma dos últimos 12 meses, registradas
+B contabilmente a partir de março de 2020
+
+  Eventos Indenizáveis Líquidos - Preço Pré-Estabelecido
+C - Média anual dos últimos 36 meses
+
+
+
+  Contraprestações de Corresponsabilidade Cedida -
+  Cobertura Assistencial em Preço Pré-Estabelecido e
+  Corresponsabilidade Cedida em Preço Pós-
+  Estabelecido, registradas contabilmente a partir de
+D março de 2020 - Média anual dos últimos 36 meses,
+
+     Contraprestações Líquidas - Preço Pós-Estabelecido -
+E    Soma dos últimos 12 meses
+
+     Eventos Indenizáveis Líquidos - Preço Pós-Estabelecido
+F    - Média anual dos últimos 36 meses
+
+  Contraprestações Líquidas - Preço Pré-Estabelecido -
+G Média anual dos últimos 36 meses
+
+  Eventos Indenizáveis Líquidos - Preço Pré-Estabelecido
+H - Média anual dos últimos 60 meses
+
+
+
+     Contraprestações de Corresponsabilidade Cedida -
+     Cobertura Assistencial em Preço Pré-Estabelecido e
+     Corresponsabilidade Cedida em Preço Pós-
+     Estabelecido, registradas contabilmente a partir de
+I    março de 2020 - Média anual dos últimos 60 meses
+
+     Contraprestações Líquidas - Preço Pós-Estabelecido -
+J    Média anual dos últimos 36 meses
+  Eventos Indenizáveis Líquidos - Preço Pós-Estabelecido
+K - Média anual dos últimos 60 meses
+L Valor AI - 20% x (G+|D|+ 50% x J)
+M Valor AII - 33% x (H+|I|+ 50% x K)
+N Valor BI - 20% x (A+|B|+50% x E)
+O Valor BII - 33% x (C+|D| + 50% x F)
+
+P Margem de Solvência - A: Maior valor entre L e M
+
+Q Margem de Solvência - B: Maior valor entre N e O
+
+R Margem de Solvência - Parcela I - P + 50% x (Q-P)
+S Margem de Solvência - Parcela II - X x Q
+
+T Margem de Solvência - Maior valor entre R e S
+Calcular X conforme o item 3 do Anexo II da RN nº 451, de 6 de março de 2020
+
+Os prêmios de seguros e resseguros líquidos pagos, nos últimos doze meses, a seguradoras
+e/ou resseguradoras devem ser deduzidos das contraprestações emitidas, constantes do
+item A da tabela.
+
+Os sinistros de seguros e resseguros recuperados, nos últimos trinta e seis meses, de
+seguradoras e resseguradoras devem ser deduzidos dos eventos indenizáveis líquidos,
+constantes do item C da tabela.
+Os prêmios de seguros e resseguros líquidos pagos, nos últimos trinta e seis meses, a
+seguradoras e/ou resseguradoras devem ser deduzidos das contraprestações emitidas,
+constantes do item G da tabela.
+
+Os sinistros de seguros e resseguros recuperados, nos últimos sessenta meses, de
+seguradoras e resseguradoras devem ser deduzidos dos eventos indenizáveis líquidos,
+constantes do item H da tabela.
+
+
+
+
+                    MODELO DE PROJEÇÕES FINANCEIRAS
+                         CAPITAL BASEADO EM RISCOS
+
+
+
+
+               APURAÇÃO DO CAPITAL BASEADO NO RISCO DE PRECIFICAÇÃO
+
+                          Descrição                        Mês 1 Mês 2 Mês 3 Mês N
+
+  Contraprestações Emitidas de Planos Médico-
+A Hospitalares, Individuais, Soma dos últimos 12 meses
+
+
+
+  Contraprestações de Corresponsabilidade Cedida -
+  Cobertura Assistencial em Preço Pré-Estabelecido,
+  Planos Médico-Hospitalares, Individuais e
+  Corresponsabilidade Cedida em Preço Pré-Estabelecido
+B - Soma dos últimos 12 meses
+
+  Contraprestações de Planos Médico-Hospitalares,
+C Coletivos por Adesão, Soma nos últimos 12 meses
+
+
+
+  Contraprestações de Corresponsabilidade Cedida -
+  Cobertura Assistencial em Preço Pré-Estabelecido,
+  Planos Médico-Hospitalares, Coletivos por Adesão e
+  Corresponsabilidade Cedida em Preço Pré-Estabelecido
+D - Soma dos últimos 12 meses
+
+    Contraprestações de Planos Médico-Hospitalares,
+E   Coletivos Empresariais, Soma nos últimos 12 meses
+
+
+
+    Contraprestações de Corresponsabilidade Cedida -
+    Cobertura Assistencial em Preço Pré-Estabelecido,
+    Planos Médico-Hospitalares, Coletivos Empresariais e
+    Corresponsabilidade Cedida em Preço Pré-Estabelecido
+F   - Soma dos últimos 12 meses
+
+  Contraprestações de Planos Odontológicos, Individuais,
+G Soma nos últimos 12 meses
+
+
+
+  Contraprestações de Corresponsabilidade Cedida -
+  Cobertura Assistencial em Preço Pré-Estabelecido,
+  Planos Odontológicos, Individuais e
+  Corresponsabilidade Cedida em Preço Pré-Estabelecido
+H - Soma dos últimos 12 meses
+    Contraprestações de Planos Odontológicos, Coletivos
+I   por Adesão, Soma nos últimos 12 meses
+
+
+
+    Contraprestações de Corresponsabilidade Cedida -
+    Cobertura Assistencial em Preço Pré-Estabelecido,
+    Planos Odontológicos, Coletivos por Adesão e
+    Corresponsabilidade Cedida em Preço Pré-Estabelecido
+J   - Soma dos últimos 12 meses
+
+  Contraprestações de Planos Odontológicos, Coletivos
+K Empresariais, Soma nos últimos 12 meses
+
+
+
+    Contraprestações de Corresponsabilidade Cedida -
+    Cobertura Assistencial em Preço Pré-Estabelecido,
+    Planos Odontológicos, Coletivos Empresariais e
+    Corresponsabilidade Cedida em Preço Pré-Estabelecido
+L   - Soma dos últimos 12 meses
+
+
+  Corresponsabilidade Assumida com Preço Pré-
+  Estabelecido de Planos Médico-Hospitalares, Soma dos
+M últimos 12 meses
+
+
+  Corresponsabilidade Assumida com Preço Pré-
+  Estabelecido de Planos Odontológicos, Soma dos
+N últimos 12 meses
+
+
+
+  Capital de precificação - Fatores reduzidos: ((0,033 x (A
+  - B))2 + (0,062 x (C-D))2 + (0,087 x (E-F))2 + (0,033 x (G-
+  H))2 + (0,062 x (I-J))2 + (0,087 x (K-L))2 + (0,087 x M2)+
+O (0,087 x N2)1/2
+
+
+
+  Capital de precificação - Fatores padrão: ((0,043 x (A -
+  B))2 + (0,082 x (C-D))2 + (0,114 x (E-F))2 + (0,043 x (G-H))2
+  + (0,082 x (I-J))2 + (0,114 x (K-L))2 + (0,114 x M)2+(0,114 x
+P N)2)1/2
+
+Os prêmios de seguros e resseguros líquidos pagos, nos últimos doze meses, a seguradoras
+e/ou resseguradoras devem ser deduzidos das contraprestações emitidas, constantes do
+item A da tabela.
+
+
+
+
+        APURAÇÃO DO CAPITAL BASEADO NO RISCO DE PROVISIONAMENTO – PEONA
+                     Descrição                     Mês 1   Mês 2   Mês 3   Mês N
+
+
+    Eventos/Sinistros Conhecidos ou Avisados
+    de Assistência Médico-Hospitalar, Planos
+    em Preço Pré-Estabelecido - Soma dos
+A   últimos 12 meses
+
+
+    Eventos Conhecidos ou Avisados de
+    Assistência Médico-Hospitalar de
+    Beneficiários de Outras Operadoras cuja
+    Remuneração foi Acordada em Preço Pré-
+B   Estabelecido - Soma dos últimos 12 meses
+
+
+    Contraprestações de Corresponsabilidade
+    Cedida - Cobertura Assistencial em Preço
+    Pré-Estabelecido, Planos Médico-
+    Hospitalares e Corresponsabilidade Cedida
+    em Preço Pós-Estabelecido - Soma dos
+C   últimos 12 meses
+    Eventos/Sinistros Conhecidos ou Avisados
+    de Assistência Odontológica, Planos em
+    Preço Pré-Estabelecido - Soma dos últimos
+D   12 meses
+
+
+    Eventos Conhecidos ou Avisados de
+    Assistência Odontológica de Beneficiários
+    de Outras Operadoras cuja Remuneração
+    foi Acordada em Preço Pré-Estabelecido -
+E   Soma dos últimos 12 meses
+
+
+
+    Contraprestações de Corresponsabilidade
+    Cedida - Cobertura Assistencial em Preço
+    Pré-Estabelecido, Planos Odontológicos e
+    Corresponsabilidade Cedida em Preço Pós-
+F   Estabelecido - Soma dos últimos 12 meses
+
+G   Despesas Médico-Hospitalares: A+|B| + C
+H   Despesas Odontológicas: D + |E| + F
+I   Eventos Totais: G + H
+
+    Fator reduzido: (0,000025 x (G/I)2 +
+    0,000025 x (H/I)2 + 0,8 x 0,000025 x (G/I) x
+J   (H/I))1/2
+
+    Fator padrão: (0,000049 x (G/I)2 +
+    0,000049 x (H/I)2 + 0,8 x 0,000049 x (G/I) x
+K   (H/I))1/2
+          Capital de Provisionamento - PEONA -
+    L     Fator reduzido: J x I
+          Capital de Provisionamento - PEONA -
+    M     Fator padrão: K x I
+
+    Os sinistros de seguros e resseguros recuperados, nos doze meses, de seguradoras e
+    resseguradoras devem ser deduzidos dos eventos indenizáveis líquidos, constantes do item
+    A da tabela.
+
+          APURAÇÃO DO CAPITAL BASEADO NO RISCO DE PROVISIONAMENTO - Remissão
+
+                          Descrição                    Mês 1    Mês 2      Mês 3     Mês N
+         Contraprestações, últimos 12 meses, de
+         beneficiários não remidos em contratos
+         com remissão temporária (beneficiários da
+A        remissão)
+         Contraprestações, últimos 12 meses, de
+         beneficiários não remidos em contratos
+         com remissão vitalícia (beneficiários da
+B        remissão)
+         Expectativa de despesa de assistência à
+         saúde, nos próximos doze meses, dos
+         beneficiários remidos em contratos de
+C        remissão temporária
+         Expectativa de despesa de assistência à
+         saúde, nos próximos doze meses, dos
+         beneficiários remidos em contratos de
+D        remissão vitalícia
+         Capital de Provisionamento - Remissão -
+         Beneficiários não remidos - Fator reduzido:
+E        0,021 x A + 0,061 x B
+         Capital de Provisionamento - Remissão -
+         Beneficiários não remidos - Fator padrão:
+F        0,029 x A + 0,081 x B
+         Capital de Provisionamento - Remissão -
+         Beneficiários remidos - Fator reduzido:
+G        0,101 x C + 0,205 x D
+         Capital de Provisionamento - Remissão -
+         Beneficiários remidos - Fator padrão: 0,133
+H        x C + 0,269 x D
+         Capital de Provisionamento - Remissão
+I        Total - Fator Reduzido: E + G
+         Capital de Provisionamento - Remissão
+J        Total - Fator padrão: F + H
+
+
+
+          APURAÇÃO DO CAPITAL BASEADO NO RISCO DE PROVISIONAMENTO - PESL/SUS
+                     Descrição                      Mês 1   Mês 2   Mês 3   Mês N
+A   Percentual Histórico de Cobrança (%hc)
+    Soma dos Valores Identificados (ABI) e
+B   Ainda sem Emissão de GRU
+    Capital Provisionamento - PESL SUS - Fator
+C   reduzido: 1,96 x (A x (1-A) x B)1/2
+    Capital Provisionamento - PESL SUS - Fator
+D   padrão: 2,58 x (A x (1-A) x B)1/2
+
+
+              APURAÇÃO DO CAPITAL BASEADO NO RISCO DE SUBSCRIÇÃO
+
+                     Descrição                      Mês 1   Mês 2   Mês 3   Mês N
+    Item O do Capital Baseado no Risco de
+A   Precificação – fator reduzido
+    Item P do Capital Baseado no Risco de
+B   Precificação – fator padrão
+    Item L do Capital Baseado no Risco de
+C   Provisionamento – PEONA – fator reduzido
+    Item M do Capital Baseado no Risco de
+D   Provisionamento – PEONA – fator padrão
+    Item I do Capital Baseado no Risco de
+    Provisionamento – Remissão – fator
+E   reduzido
+    Item J do Capital Baseado no Risco de
+F   Provisionamento – Remissão – fator padrão
+    Item C do Capital Baseado no Risco de
+    Provisionamento - PESL/SUS – fator
+G   reduzido
+    Item D do Capital Baseado no Risco de
+H   Provisionamento - PESL/SUS – fator padrão
+
+    Capital Baseado no Risco de Subscrição -
+    Fator reduzido: (A2 + 0,64 (A x (C+G)) +
+I   (C+G)2 + E2)1/2
+
+    Capital Baseado no Risco de Subscrição -
+    Fator padrão: (B2 + 0,64 (B x (D+H)) + (D+H)2
+J   + F2)1/2
+
+
+
+                   MODELO DE PROJEÇÕES FINANCEIRAS
+                        CAPITAL REGULATÓRIO
+
+
+
+           APURAÇÃO DO CAPITAL REGULATÓRIO ATÉ DEZEMBRO DE 2022
+                     Descrição                  Mês 1      Mês 2      Mês 3      Mês N
+    Item I da Apuração da Margem de
+A   Solvência 1
+B   Capital Base, conforme a operadora
+C   Maior valor entre A e B
+
+
+
+
+APURAÇÃO DO CAPITAL REGULATÓRIO ATÉ DEZEMBRO DE 2023 - OPS ABRANGIDAS PELO §
+              1O DO ART. 11 DA RN Nº 451, DE 6 DE MARÇO DE 2020
+
+                     Descrição                  Mês 1      Mês 2      Mês 3      Mês N
+    Item I da Apuração da Margem de
+A Solvência 1 x (75/120 + n/120)
+B Capital Base, conforme a operadora
+C Maior valor entre A e B
+n deve ser definido conforme o subitem II do item 1 do Anexo II da RN nº 451, de 6 de março
+de 2020
+
+APURAÇÃO DO CAPITAL REGULATÓRIO ATÉ DEZEMBRO DE 2022 - OPS ABRANGIDAS PELO §
+              2O DO ART. 11 DA RN Nº 451, DE 6 DE MARÇO DE 2020
+
+                     Descrição                  Mês 1      Mês 2      Mês 3      Mês N
+    Item I da Apuração da Margem de
+A Solvência 1 x (0,79745 + (m x 0,00615)
+B Capital Base, conforme a operadora
+C Maior valor entre A e B
+m deve ser definido conforme o subitem II do item 2 do Anexo II da RN nº 451, de 6 de
+março de 2020
+
+APURAÇÃO DO CAPITAL REGULATÓRIO ATÉ DEZEMBRO DE 2022 - OPS ABRANGIDAS PELO §
+              3O DO ART. 11 DA RN Nº 451, DE 6 DE MARÇO DE 2020
+
+                     Descrição                  Mês 1      Mês 2      Mês 3      Mês N
+    Item T da Apuração da Margem de
+A   Solvência 2
+B   Capital Base, conforme a operadora
+C   Maior valor entre A e B
+
+
+ APURAÇÃO DO CAPITAL REGULATÓRIO PELAS OPS QUE ADOTARAM ANTECIPADAMENTE O
+ CAPITAL BASEADO EM RISCOS, NOS TERMOS DA SEÇÃO IV DO CAPÍTULO III DA RN Nº 451,
+                             DE 6 DE MARÇO DE 2020
+
+                     Descrição                  Mês 1      Mês 2      Mês 3      Mês N
+    0,75 x Item I da Apuração da Margem de
+A   Solvência 1
+    Item I ou Item J do Capital Baseado no
+B   Risco de Subscrição, conforme a operadora
+C   Capital Base, conforme a operadora
+D   Maior Valor entre A, B e C
+       APURAÇÃO DO CAPITAL REGULATÓRIO PELAS SEGURADORAS QUE ADOTARAM
+    ANTECIPADAMENTE O CAPITAL BASEADO EM RISCOS, NOS TERMOS DA SEÇÃO IV DO
+                    CAPÍTULO III DA RN Nº 451, DE 6 DE MARÇO DE 2020
+
+    Descrição                                 Mês 1     Mês 2   Mês 3   Mês N
+    0,75 x Item I da Apuração da Margem de
+A   Solvência 1
+    Item T da Apuração da Margem de
+B   Solvência 2, em março de 2020
+    Item I ou Item J do Capital Baseado no
+C   Risco de Subscrição, conforme a operadora
+D   Capital Base, conforme a operadora
+E   Maior Valor entre A, B, C, D
+
+
+
+
+                APURAÇÃO DO CAPITAL REGULATÓRIO A PARTIR DE 2023
+
+                    Descrição                   Mês 1   Mês 2   Mês 3   Mês N
+
+    Item I ou Item J do Capital Baseado no
+A   Risco de Subscrição, conforme a operadora
+B   Capital Base, conforme a operadora
+C   Maior Valor entre A e B
+"(NR)
+

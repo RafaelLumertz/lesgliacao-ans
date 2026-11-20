@@ -1,0 +1,119 @@
+                                               ANEXOS
+
+                                             “ANEXO VII
+
+         Fórmula de cálculo do Fator de Insuficiência de Contraprestação e Prêmio – FIC
+
+
+1. As operadoras que não possuam metodologia atuarial própria para cálculo da Provisão para Insuficiência
+de Prêmios/Contraprestações - PIC, comunicada à DIOPE nos termos da presente Resolução, deverão
+utilizar como referência o fator de insuficiência de contraprestações/prêmios – FIC, calculado conforme
+abaixo:
+                                                𝐸𝐼𝐿+𝐷𝐶+𝐷𝐴+𝐹𝑐𝑜𝑟𝑟𝑒𝑠𝑝
+𝐹𝐼𝐶 = 𝑚𝑎𝑖𝑜𝑟 𝑣𝑎𝑙𝑜𝑟𝑒𝑠 𝑒𝑛𝑡𝑟𝑒 0 (𝑧𝑒𝑟𝑜)𝑒 (𝐶𝑜𝑛𝑡𝑟𝑎𝑝𝑟𝑒𝑠𝑡𝑎çõ𝑒𝑠 𝑒𝑓𝑒𝑡𝑖𝑣𝑎𝑠+ 𝐹𝑐𝑜𝑟𝑟𝑒𝑠𝑝 − 1)
+
+
+Onde:
+
+i Contraprestações efetivas, são o montante de receitas com operações de assistência à saúde subtraído o
+montante de tributos diretos de operações com planos de assistência à saúde da operadora nos últimos 12
+meses, incluindo o mês de cálculo;
+
+
+ii EIL : Eventos indenizáveis líquidos registrados contabilmente nos últimos 12 meses, incluindo o mês de
+cálculo;
+
+iii DC : Despesas de comercialização registradas contabilmente nos últimos 12 meses, incluindo o mês do
+cálculo;
+
+iv DA : Despesas administrativas registradas contabilmente nos últimos 12 meses, incluindo o mês de
+cálculo;
+
+v Fcorresp : Valor absoluto das contraprestações de corresponsabilidade cedida ou transferida registradas
+contabilmente nos últimos 12, incluindo o mês de cálculo.
+
+2. Para fins de apuração das contraprestações/prêmios pelas quais deve ser multiplicado o FIC, como
+descrito no artigo 14-C da presente Resolução, deverão ser observados os montantes reconhecidos como
+contraprestações líquidas/prêmios retidos, adicionado o valor absoluto das contraprestações de
+corresponsabilidade cedidas ou transferidas.
+                                            ANEXO VIII
+
+ Bases técnicas para o cálculo da PEONA SUS por operadoras que não possuem metodologia
+                                     atuarial própria
+
+
+1. As operadoras que não possuam metodologia atuarial própria para cálculo da Provisão para
+   Eventos/Sinistros Ocorridos e Não Avisados ocorridos no SUS – PEONA SUS, comunicada à
+   DIOPE nos termos da presente Resolução, deverão observar, para cálculo da PEONA SUS, o menor
+   entre os seguintes valores:
+
+I – 115% (cento e quinze por cento) do total dos eventos avisados nos últimos 24 (vinte e quatro) meses,
+     referentes aos procedimentos realizados na rede assistencial do Sistema (SUS); e
+
+II - Fator Individual de PEONA SUS multiplicado pelo total dos eventos avisados nos últimos 24 (vinte
+      e quatro) meses, referentes aos procedimentos realizados na rede assistencial do Sistema (SUS).
+
+1.1 O Fator Individual de PEONA SUS será aquele resultante da aplicação da seguinte fórmula para
+    cada operadora:
+
+                                       𝐵
+                                   6
+                                                 𝐸𝑂𝑁𝐴 𝑆𝑈𝑆
+                                   √∏
+                                           𝐸𝑣𝑒𝑛𝑡𝑜𝑠 𝑆𝑈𝑆 (24 𝑚𝑒𝑠𝑒𝑠)
+                                       𝐴
+
+
+Onde:
+
+i. “A” refere-se ao terceiro trimestre de 2014, que é o primeiro trimestre do período considerado no
+cálculo do percentual de que trata a fórmula acima;
+
+ii. “B” refere-se ao quarto trimestre de 2015, que é o último trimestre do período considerado no cálculo
+do percentual de que trata a fórmula acima;
+
+iii. EONA SUS é o montante referente a soma dos valores devidos de procedimentos, cobrados ou
+passíveis de cobrança de ressarcimento ao SUS para os quais não foram emitidas GRU, ocorridos até o
+fim do trimestre de referência, mas ainda não notificados como devido pela ANS à operadora até o fim
+do referido trimestre. São considerados como valores devidos passíveis de cobrança de ressarcimento
+ao SUS aqueles procedimentos que não foram impugnados e cujo prazo de impugnação terminou, os
+indeferidos em 1ª instância e não recorridos, e os não providos em 2ª instância;
+
+iv. Foram considerados nos Eventos SUS (24 meses) as notificações de ressarcimento ao SUS cujos
+prazos de impugnação terminaram e que não foram impugnados pela operadora, os indeferidos pela ANS
+em primeira instância e não recorridos, os não providos em segunda instância e os cobrados com Guia
+de Recolhimento da União (GRU).
+
+
+1.1. Foram considerados 6 (seis) trimestres de referência para o cálculo, sendo o primeiro referente ao
+3º trimestre de 2014 e o último referente ao 4º trimestre de 2015.
+1.2. O percentual atribuído a operadora é 0 (zero) quando:
+
+1.2.1 A operadora não tiver EONA SUS nos dois últimos trimestres utilizados no cálculo;
+
+1.2.2 O resultado da média geométrica da divisão da EONA SUS pelos Eventos SUS (24 meses) for
+menor ou igual a 0,00009999.
+
+1.3. Sendo nulo o valor da EONA SUS em qualquer trimestre utilizado no cálculo, com exceção dos
+dois últimos, imputou-se o valor de 1 × 10−11 à EONA SUS daquele trimestre.
+
+
+2. Serão considerados no montante total de eventos avisados nos últimos 24 meses de que tratam os
+   incisos I e II do presente anexo, as notificações de ressarcimento ao SUS que atendam aos mesmos
+   critérios estabelecidos no subitem iv do item 1.1 deste anexo.
+
+3. A ANS divulgará mensalmente, por operadora, o Fator Individual de PEONA SUS e o montante de
+   eventos avisados nos últimos 24 meses de que trata o item 1 do presente anexo, no Espaço da
+   Operadora do sítio institucional da ANS.
+
+4. O(s) relatório(s) técnico(s) que tratam da definição do Fator Individual de PEONA SUS serão
+   disponibilizados no sítio institucional da ANS, na seção de “Dados do Setor > Dados e Indicadores
+   do Setor > Operadoras de planos privados de saúde”, sob o título “Nota Metodológica para
+   definição de percentual padrão para PEONA SUS (especificando o ano de apuração)” até 30 de
+   junho do ano.
+
+5. Os valores calculados de Fator Individual de PEONA SUS, a partir da base de dados do
+   Ressarcimento ao SUS, serão divulgados na Central de Relatórios do Espaço das Operadoras do
+   sítio institucional da ANS, ou em outro espaço que o substitua, sendo objeto de estudo anualmente,
+   a ser divulgado até 30 (trinta) de junho de cada ano.
+

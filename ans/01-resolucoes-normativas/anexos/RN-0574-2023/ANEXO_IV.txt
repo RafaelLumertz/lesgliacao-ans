@@ -1,0 +1,107 @@
+                                           ANEXO IV
+
+                    BASES DE DADOS REFERENTES ÀS PROVISÕES TÉCNICAS
+
+
+
+1. A OPS deverá dispor, a qualquer tempo, em meio digital, dos dados atualizados a que se referem
+os itens I e II deste Anexo, para envio e/ou verificação da ANS quando solicitados.
+
+
+
+I) Formato de base de dados de eventos indenizáveis:
+
+As avaliações da metodologia atuariais de cálculo de PEONA deverão estar acompanhadas de base
+de dados, em consonância com os demonstrativos contábeis e o DIOPS, e no caso da PEONA SUS,
+deverão estar em consonância com os dados de ressarcimento divulgados mensalmente pela ANS.
+A base de dados deve ser arquivada em meio digital na formatação .xls, .dbf, .mdb ou .txt e
+considerando no mínimo as seguintes informações:
+
+
+
+ARQUIVO CONTENDO BASE DE DADOS DE EVENTOS INDENIZÁVEIS
+
+                                                                           Tamanho
+                                                                                        Casas
+                                                                           do
+Colunas   Campo                   Descrição                   Tipo
+                                                                                        Decimais
+                                                                           Campo
+          MÊS/ANO            DE   Data de Ocorrência dos
+1                                                             Data         6
+          OCORRÊNCIA              Eventos (mmaaaa)
+                                  Data de Aviso dos Eventos
+2         MÊS/ANO DE AVISO                                    Data         6
+                                  (mmaaaa)
+3         VALOR_AVISADO           Valor Avisado               Numérico     16           2
+          MÊS/ANO       DE        Data do Pagamento dos
+4                                                             Data         6
+          PAGAMENTO               Eventos (mmaaaa)
+5         VALOR_PAGO              Valor Pago                  Numérico     16           2
+
+
+
+Obs (1): A data de aviso a constar na base de dados deverá ser aquela do reconhecimento contábil;
+
+Obs (2): Os campos 4 - Mês/Ano de Pagamento e 5 - Valor Pago serão obrigatórios no caso da
+metodologia atuarial definida para o cálculo da PEONA se basear na estimativa dos valores dos
+eventos ocorridos e não pagos;
+
+Obs (3): A totalização dos valores avisados deverá ser feita por Mês/Ano de Ocorrência e Mês/Ano
+de Aviso. Caso a base de dados inclua os valores pagos, a totalização dos valores avisados e dos
+valores pagos também deverá observar o Mês/Ano de Pagamento.
+Obs(4): No caso da comunicação referente ao estabelecimento de metodologia atuarial própria para
+aquelas provisões em que tal seja permitido a base de dados deverá contemplar no mínimo trinta
+datas-bases, devendo estas datas serem compatíveis com o teste de consistência também
+apresentado.
+
+Obs (5): As operadoras também devem considerar nesta base de dados de eventos as informações
+sobre eventuais operações de corresponsabilidade pela gestão dos riscos decorrentes do
+atendimento dos beneficiários para dimensionamento da expectativa de utilização dos serviços de
+assistência médica e/ou odontológica.
+
+
+
+II) Formato de base de dados de beneficiários remidos:
+
+Anexo à NTAP para Remissão, deverá ser arquivada a base de dados em meio digital, contendo a
+informação do mês de referência dos dados, na formatação .xls, .dbf, .mdb ou .txt, considerando as
+seguintes informações:
+
+
+
+                                                                           Tamanho
+                                                                                        Casas
+                                                                           do
+Colunas   Campo             Descrição                          Tipo
+                                                                                        Decimais
+                                                                           Campo
+                            Data de nascimento do
+1         DT_NASC           beneficiário em gozo de            Data        8
+                            benefício (remido)
+                            Data do Início de gozo do
+2         DT_ BENEF                                            Data        8
+                            benefício
+                            Data do Término do benefício de
+                            remissão contratado. Caso
+3         DT_FIM_BENEF      vitalício,                         Data        8
+
+                            preencher 01010000
+                            Valor da Despesa Assistencial
+                            por Exposto a ser utilizado no
+4         DESP_ASS                                             Numérico    16           2
+                            cálculo da Provisão para
+                            Remissão do beneficiário.
+                            Data de Referência das
+5         DAT_REF_INFO                                         Data        6
+                            Informações (mmaaaa)
+                            Informação do sexo           do
+                            beneficiário
+6         SEXO                                                 Caracter    1
+                            (F – feminino, M – masculino)
+Obs (1): O campo 6 - SEXO deve ser obrigatoriamente preenchido no caso da NTAP definir tábuas
+biométricas diferenciadas por sexo.
+
+Obs (2): O campo 5 - DAT_REF_INFO deve contemplar o mês a que se refere o cálculo da provisão,
+quando aplicável.
+

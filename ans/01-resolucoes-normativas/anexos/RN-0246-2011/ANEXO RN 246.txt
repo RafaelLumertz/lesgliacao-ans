@@ -1,0 +1,62 @@
+                                        ANEXO VI
+
+    Documentos e dados mínimos exigidos para análise de Nota Técnica Atuarial de
+                                Provisão - NTAP
+
+1. Os pedidos de análise e aprovação de metodologia de cálculo de provisão
+consubstanciadas em NTAP que forem enviados à DIOPE devem ser encaminhados por
+meio de correspondência assinada por representante legal junto à ANS, em conjunto com
+os seguintes itens, no mínimo:
+
+-    Nota Técnica Atuarial de Provisão assinada por atuário        legalmente   habilitado,
+     observados os aspectos mínimos constantes do Anexo II;
+
+-    Teste de consistência da metodologia, observados os aspectos constantes dos itens 1 a
+     4 do Anexo III;
+
+-    Base de dados utilizada na elaboração e avaliação da metodologia de cálculo da
+     Provisão Técnica submetida à análise, observados os formatos mínimos constantes do
+     Anexo V;
+
+-    Relatório Circunstanciado de auditor independente, registrado na Comissão de Valores
+     Mobiliários – CVM, versando sobre a fidedignidade dos dados utilizados e sua
+     consistência com os demonstrativos contábeis e as informações encaminhadas por meio
+     do DIOPS-XML, observados os aspectos constantes do Anexo IV;
+
+-    Memória de cálculo detalhada da provisão, em meio digital, dos três meses mais
+     recentes utilizados na avaliação da metodologia.
+                                       ANEXO VII
+
+    Regra de transição para Margem de Solvência das Sociedades Seguradoras
+                         Especializadas em Saúde – SES
+
+1. Até 31 de dezembro de 2017, a Margem de Solvência exigida deverá ser apurada
+mensalmente conforme a seguinte formulação:
+
+                                MS = A + n x (B-A)/84
+
+Onde:
+
+MS: Margem de Solvência exigida
+
+A: Margem de Solvência equivalente ao maior montante entre os seguintes valores:
+
+   I - 0,20 (zero vírgula vinte) vezes a média anual dos últimos trinta e seis meses da
+      soma de: de 100% (cem por cento) das contraprestações líquidas na modalidade de
+      preço pré-estabelecido, e de 50% (cinqüenta por cento) das contraprestações
+      líquidas na modalidade de preço pós-estabelecido; ou
+
+   II – 0,33 (zero vírgula trinta e três) vezes a média anual dos últimos sessenta meses da
+       soma de: 100% (cem por cento) dos eventos indenizáveis líquidos na modalidade de
+       preço pré-estabelecido e de 50% (cinqüenta por cento) dos eventos indenizáveis
+       líquidos na modalidade de preço pós-estabelecido.
+
+B: Margem de Solvência equivalente ao montante calculado conforme art. 6º desta
+Resolução
+
+n: número correspondente ao mês do período de transição, de forma que o mês de janeiro
+de 2011 corresponde ao número 1 (um), o mês de fevereiro de 2011 corresponde ao
+número 2 (dois), e assim sucessivamente até o mês de dezembro de 2017, que
+corresponde ao número 84 (oitenta e quatro), em um total de 84 meses consecutivos.
+Excepcionalmente em 31 de dezembro de 2010, deve ser assumido o valor igual a 0 (zero).
+

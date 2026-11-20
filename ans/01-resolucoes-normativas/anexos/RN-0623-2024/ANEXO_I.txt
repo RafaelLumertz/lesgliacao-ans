@@ -1,0 +1,61 @@
+                                       ANEXO I
+
+
+
+                  FICHA TÉCNICA DO PROTOCOLO DE ATENDIMENTO
+
+1 - PROTOCOLO DE ATENDIMENTO
+
+
+
+Conceituação:
+
+Sequência numérica única fornecida pela operadora ou administradora de benefícios ao
+beneficiário, a qual o possibilita acompanhar sua demanda.
+
+
+
+Formato padrão:
+
+XXXXXXAAAAMMDDNNNNNN
+
+
+
+Em que:
+
+XXXXXX = registro ANS da Operadora ou Administradora de Benefícios
+
+AAAA = ano
+
+MM = mês
+
+DD = dia
+
+NNNNNN = sequencial que identifique a ordem de entrada da solicitação na Operadora
+ou Administradora de Benefícios
+
+
+
+Objetivo:
+
+Possibilitar a imediata identificação da Operadora ou Administradora de Benefícios e da
+data em que o atendimento foi prestado.
+Não haverá duplicidade de números e todos os protocolos recebidos terão a mesma
+configuração.
+
+
+
+Referências:
+
+Resolução Normativa Nº 623, de 17 de dezembro de 2024, que dispõe sobre as regras a
+serem observadas pelas operadoras de planos privados de assistência à saúde e
+administradoras de benefícios nas solicitações de procedimentos e/ou serviços de
+cobertura assistencial apresentados pelos beneficiários, bem como não assistenciais, em
+qualquer modalidade de contratação.
+
+
+
+DECRETO Nº 11.034, DE 5 DE ABRIL DE 2022, regulamenta a lei nº 8.078, de 11 de
+setembro de 1990 - código de defesa do consumidor, para estabelecer diretrizes e
+normas sobre o serviço de atendimento ao consumidor.
+

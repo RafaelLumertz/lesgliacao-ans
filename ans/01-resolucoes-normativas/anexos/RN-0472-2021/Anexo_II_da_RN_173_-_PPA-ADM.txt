@@ -1,0 +1,715 @@
+                                      Anexo II
+                PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+                                SOBRE O DIOPS/ANS
+                    (exclusivo para Administradoras de Benefícios)
+
+                             Data Base do DIOPS: ___ trimestre de ______
+
+As questões abaixo devem ser respondidas pela Administração da Administradora de Benefícios em conexão com
+a preparação da DIOPS. Nas respostas deve-se incluir as justificativas da administração para as divergências
+apontadas.
+
+O auditor independente deverá aplicar os procedimentos previamente acordados descritos nas questões abaixo,
+em conformidade com pronunciamento NBC TSC 4400, aprovado pela Resolução 1.277/10 do Conselho Federal
+de Contabilidade (CFC). Os procedimentos descritos nas respectivas questões, correspondem aos procedimentos
+mínimos que devem ser efetuados pelo auditor independente que, como resultado, deverá emitir relatório com a
+descrição dos procedimentos efetuados e as constatações identificadas para cada procedimento realizado.
+
+
+1 - DIOPS/Financeiro e Balancete
+
+1.1 - Com base no balancete contábil devidamente assinado pelo responsável pelo
+contador e pelo Administrador responsável pela Administradora de Benefícios, elaborado
+para a data base sobre análise, preencher o quadro abaixo com o saldo final das classes e
+grupos de contas identificados, que serão informados no DIOPS:
+
+                                      Conta                                             Saldo (R$)
+ 1 – ATIVO
+ 12 - Ativo Circulante
+ 13 – Ativo Não Circulante
+ 2 – PASSIVO
+ 21 – Passivo Circulante
+ 23 – Passivo Não Circulante
+ 25 – Patrimônio Líquido / Patrimônio Social
+ 3 – RECEITAS
+ 31 – Receitas com Operações de Assistência à Saúde
+ 32 – (-) Tributos Diretos de Operações de Assistência à Saúde
+ 33 – Outras Receitas Operacionais
+ 34 – (-) Tributos Diretos de Outras Atividades
+ 35 – Receitas Financeiras
+ 36 – Receitas Patrimoniais
+ 4 – DESPESAS
+ 41 – Eventos Indenizáveis Líquidos / Sinistros Retidos
+ 43 – Despesas de Comercialização
+ 44 – Outras Despesas Operacionais
+ 45 – Despesas Financeiras
+ 46 – Despesas Administrativas
+ 47 – Despesas Patrimoniais
+ 61 – Impostos e Participações Sobre o Lucro
+     69 – Apuração do Resultado
+
+
+Procedimentos de auditoria
+Obter o balancete contábil, da data-base em análise, e confrontar com o quadro-resposta a essa questão.
+
+Para a rubrica “69 - Apuração do Resultado do Período”, calcular o valor correspondente considerando o valor
+informado no campo “3-Receita” deduzido dos valores indicados nos campos “4-Despesa” e “61 - Impostos e
+Participações sobre o Lucro” e confrontar com o quadro-resposta.
+
+Constatações do auditor:
+
+
+2 - Contraprestações Pecuniárias / Prêmios
+
+2.1 - A Administradora de Benefícios dispõe de controles gerenciais com registros
+auxiliares analíticos de Contraprestações/Prêmios Emitidos, Recebidos e Cancelados, com
+a segregação e as informações exigidas no item 7.1 do Capítulo I – Normas Gerais do Plano
+de Contas Padrão da ANS?
+
+( ) Sim
+( ) Não.      Descrever    a   situação   dos    controles   gerenciais   relativos   a
+contraprestações/prêmios, indicando as deficiências em relação às informações exigidas,
+e as explicações para a desconformidade.
+
+Procedimento de auditoria
+
+Obter os registros auxiliares analíticos de Contraprestações/Prêmios Emitidos, Recebidos e Cancelados para os
+meses do trimestre da data-base em análise e verificar se: (i) os mesmos possuem os campos mínimos requeridos
+constantes do Item 7.1a do Capítulo 1 – Normas Gerais do Plano de Contas Padrão da ANS; (ii) Verificar se os
+mesmos possuem a segregação por tipo de contratação (Individual/Familiar, Coletivo por Adesão, Coletivo
+Empresarial e Corresponsabilidade Assumida), como requerido no referido dispositivo normativo.
+
+Constatações do auditor:
+
+
+2.2 - Com base nos registros auxiliares analíticos de Contraprestações/Prêmios Emitidos,
+Recebidos e Cancelados, informe os valores apurados para a data base, de acordo com a
+segregação abaixo indicada:
+
+                                       Contratos Estipulados
+     Período de
+                         Valor Emitido        Valor Recebido        Valor Vencido         Valor a Vencer
+     Cobertura
+ A Iniciar (1)
+ Iniciado no Mês
+ Base (2)
+ Iniciado em Meses
+ Anteriores (3)
+   Total Contrap. a
+    Receber (2+3)
+    Total (1+2+3)
+
+
+                                    Contratos Não Estipulados
+     Período de
+                         Valor Emitido        Valor Recebido        Valor Vencido         Valor a Vencer
+     Cobertura
+ A Iniciar (1)
+ Iniciado no Mês
+ Base (2)
+ Iniciado em Meses
+ Anteriores (3)
+   Total Contrap. a
+    Receber (2+3)
+    Total (1+2+3)
+Orientações:
+(1) Informar como A Iniciar o montante de contraprestações emitidas (ainda que não contabilizadas) cujos
+períodos de cobertura correspondentes irão se iniciar após o mês base (último mês do trimestre), bem como os
+respectivos valores recebidos, vencidos (em atraso) ou a vencer.
+(2) Informar como Iniciado no Mês Base o montante de contraprestações cujos períodos de cobertura
+correspondentes se iniciaram no último mês do trimestre (mês base), bem como os respectivos valores recebidos,
+vencidos (em atraso) ou a vencer.
+(3) Informar como Iniciado em Meses Anteriores o montante de contraprestações ainda não recebidas, como
+vencido (em atraso) ou a vencer, cujos períodos de cobertura correspondentes se iniciaram antes do mês base
+(último mês do trimestre).
+
+Procedimento de auditoria
+
+Obter os registros auxiliares analíticos de Contraprestações/Prêmios Emitidos, Recebidos e Cancelados, efetuar
+a segregação, por meio dos campos “contratos estipulados” e “contratos não estipulados”, e em relação aos
+prazos de vencimento (vincendo e vencida) e confrontar com os quadros-resposta a esta questão.
+
+Constatações do auditor:
+
+
+2.3 - Compare os saldos a receber acima apurados com base nos registros auxiliares
+analíticos de Contraprestações/Prêmios Emitidos, Recebidos e Cancelados com os saldos
+contábeis constantes no balancete do mês base:
+
+                                                                       Registros
+                  Contas                        Saldo Contábil                               Diferença (4)
+                                                                      Auxiliares (3)
+ Contratos Estipulados (1)
+ Contratos Não Estipulados (2)
+
+
+Orientações:
+(1) Contas 123219011, 123219021, 123229011 e 123229021
+(2) Contas 123219012, 123219022, 123229012 e 123229022
+(3) Soma dos totais apurados informados nos quadros constantes no item 2.2 relativos a período de cobertura
+Iniciado no Mês Base e Iniciado em Meses Anteriores (ou seja, não incluir os valores relativos à períodos
+de cobertura A Iniciar).
+(4) Apurando-se diferença, solicitar a Administração da Administradora de Benefícios as explicações para a
+desconformidade.
+
+
+Procedimento de auditoria
+
+Obter os registros auxiliares analíticos de “Contraprestações/Prêmios Emitidos, Recebidos e Cancelados”, citados
+no procedimento 2.2, confrontar com os totais informados no quadro-resposta à Questão e confrontar com os
+saldos contábeis das rubricas indicadas nas Orientações.
+
+Constatações do auditor:
+
+
+2.4 - Com base na análise individualizada de contraprestações/prêmios a receber, para a
+data-base analisada, selecione, aleatoriamente, 20 (vinte) contraprestações/prêmios a
+receber e efetue os procedimentos a seguir:
+
+Procedimento de auditoria
+
+Obter os registros auxiliares analíticos de contraprestações/prêmios a receber, para os meses referentes ao
+trimestre da data-base analisada, e selecionar, aleatoriamente, 20 (vinte) contraprestações/prêmios a receber e
+efetuar os procedimentos a seguir:
+
+
+2.4.1 - As contraprestações/prêmios a receber estão suportados por notas fiscais, faturas
+e/ou boletos de cobrança que representam os valores a receber de beneficiários de planos
+de saúde?
+(   ) Sim
+(   ) Não. Descrever a divergência existente e as explicações para a desconformidade.
+
+Procedimento de auditoria
+
+Para a amostra selecionada, inspecionar as notas fiscais, faturas e/ou boletos de cobrança que representam os
+valores a receber de beneficiários de planos de saúde e confrontar com os dados dispostos no arquivo das
+Contraprestações/Prêmios Emitidos, Recebidos e Cancelados.
+
+Constatações do auditor:
+
+
+2.4.2 - As contraprestações/prêmios a receber estão escrituradas contabilmente de acordo
+com o Plano de Contas Padrão da ANS?
+
+(   ) Sim
+(   ) Não. Descrever a divergência existente e as explicações para a desconformidade.
+
+Procedimento de auditoria
+
+Para os itens selecionados, verificar o registro dos mesmos no razão contábil e confirmar que estão escriturados
+contabilmente de acordo com o Plano de Contas Padrão da ANS.
+
+Constatações do auditor:
+
+
+2.4.3 - A escrituração contábil, no Livro Razão, está de acordo com o Plano de Contas
+Padrão da ANS, quanto a:
+
+Codificação das contas
+( ) Sim.
+( ) Não. Descrever as divergências existentes e as explicações para a desconformidade.
+
+Descrição das contas
+( ) Sim.
+( ) Não. Descrever as divergências existentes e as explicações para a desconformidade.
+
+Procedimento de auditoria
+
+Confrontar a codificação e descrição das contas, subcontas e desdobramentos dos subgrupos 1232-Créditos de
+Operações de Administração de Benefícios", “2136 – Débitos de Operações de Administração de Benefícios” e
+“3131- Receita com Administração de Benefícios”, constantes no balancete na data-base em análise, com o Plano
+de Contas Padrão da ANS.
+
+Constatações do auditor:
+
+
+2.4.4 - A taxa de administração foi registrada como receita no mês de início da cobertura
+da respectiva contraprestação/prêmio?
+
+(   ) Sim
+(   ) Não. Descrever a divergência existente e as explicações para a desconformidade.
+
+Procedimento de auditoria
+
+Para a amostra selecionada, inspecionar se as faturas foram incluídas no registro auxiliar de
+“Contraprestações/Prêmios Emitidos”, e se a apropriação da receita no resultado foi realizada no mês de início
+de cobertura do risco.
+
+Constatações do auditor:
+2.4.5 - O eventual recebimento financeiro de contraprestações/prêmios antes do início do
+respectivo período de cobertura, foi contabilizado a crédito da conta 2132 – Receita
+Antecipada de Contraprestações/Prêmios, a parcela correspondente a taxa de
+administração, e a crédito da conta 2136 – Débitos de Operações de Administradoras de
+Benefícios, a parcela correspondente a contraprestação a repassar?
+
+( ) Sim
+( ) Não. Descrever a divergência existente e as explicações para a desconformidade.
+( ) Não houve o recebimento de contraprestações antes do início do respectivo período
+de cobertura.
+
+Procedimentos de auditoria
+
+Obter a composição analítica de contraprestações/prêmios recebidos antecipadamente ao início do período de
+cobertura do risco, referente à data-base do trimestre em análise e conciliar com o saldo contábil da rubrica
+“2132 - Receita antecipada de contraprestações/prêmios”.
+
+Selecionar, aleatoriamente, 5 (cinco) itens para constatar se a data do recebimento financeiro foi anterior ao
+início do período de cobertura do risco.
+
+Constatações do auditor:
+
+
+3 - Provisão Para Perda Sobre Crédito – PPSC
+
+3.1 - Nos Créditos de Operações de Administração de Benefícios, em havendo pelo menos
+uma parcela (mensalidade e participação do beneficiário) vencida há mais de 90 dias, a
+totalidade dos valores a receber está provisionada?
+
+(   ) Sim
+(   ) Não. Descrever a divergência existente e as explicações para a desconformidade.
+(   ) A operadora constitui PPSC de acordo com estudo técnico de recuperabilidade.
+
+Procedimento de auditoria
+
+Obter os registros auxiliares de valores a receber referente a contratos estipulados e não estipulados na data-
+base em análise, selecionar aleatoriamente 5 (cinco) títulos vencidos há mais de 90 dias e confirmar se a
+totalidade desses valores a receber está provisionada contabilmente.
+
+Caso a administradora de benefícios constitua a provisão de acordo com estudo técnico de recuperabilidade, obter
+o estudo técnico que contenha a metodologia de cálculo, bem como a memória de cálculo da PPSC e comparar
+se a memória de cálculo está de acordo com o critério definido no estudo e comparar com o saldo contábil na
+data-base em análise.
+
+Constatações do auditor:
+
+
+3.2 - Nos demais créditos a receber, em havendo pelo menos uma parcela vencida de um
+mesmo devedor há mais de 90 dias, a totalidade dos valores a receber do devedor está
+provisionada?
+
+(   ) Sim
+(   ) Não. Descrever a divergência existente e as explicações para a desconformidade.
+(   ) A operadora constitui PPSC de acordo com estudo técnico de recuperabilidade.
+
+Procedimento de auditoria
+Obter os registros auxiliares de demais créditos a receber na data-base em análise, selecionar aleatoriamente 5
+(cinco) títulos vencidos há mais de 90 dias e confirmar se a totalidade desses valores a receber está provisionada
+contabilmente.
+
+Caso a administradora de benefícios constitua a provisão de acordo com estudo técnico de recuperabilidade, obter
+o estudo técnico que contenha a metodologia de cálculo, bem como a memória de cálculo da PPSC e comparar
+se a memória de cálculo está de acordo com o critério definido no estudo e comparar com o saldo contábil na
+data-base em análise.
+
+Constatações do auditor:
+
+
+3.3 - A PPSC está escriturada na contabilmente de acordo com o Plano de Contas Padrão
+da ANS?
+
+(   ) Sim
+(   ) Não. Descrever a divergência existente e as explicações para a desconformidade.
+
+Procedimento da auditoria
+
+Para os itens selecionados nos procedimentos anteriores, verificar se os registros contábeis dos mesmos estão
+escriturados contabilmente de acordo com o Plano de Contas Padrão da ANS.
+
+Constatações do auditor:
+
+
+4 – Inadimplência
+
+4.1 - A administradora utiliza metodologia própria autorizada pela ANS para apurar o risco
+de inadimplência assumido?
+
+(   ) Sim. Informe o percentual apurado: _______ %
+(   ) Não
+
+Procedimento da auditoria
+
+Caso a administradora de benefícios utilize metodologia própria de apuração do risco de inadimplência assumido
+obter a aprovação / autorizada da ANS para confronto com a resposta dada à Questão.
+
+Constatações do auditor:
+
+
+4.2 - O percentual apurado está suportado por memória de cálculo consistente, de acordo
+com a metodologia aprovada.
+
+(   ) Sim
+(   ) Não. Descrever a divergência existente e as explicações para a desconformidade.
+(   ) Não possui metodologia aprovada.
+
+Procedimento da auditoria
+
+Em caso de metodologia aprovada pela ANS, verificar se a memória de cálculo está de acordo com o critério
+definido na metodologia aprovada.
+
+Constatações do auditor:
+
+
+5 - Despesa de Comercialização Diferida
+
+5.1 - A Administradora de Benefícios dispõe de controles gerenciais com registros
+auxiliares analíticos de despesas de comercialização/agenciamento?
+( ) Sim
+( ) Não. Descrever a situação dos controles gerenciais, indicando as deficiências, e as
+explicações para a desconformidade.
+
+Procedimento de auditoria
+
+Obter os registros auxiliares analíticos de despesas de comercialização/agenciamento, para a data-base em
+análise.
+
+Constatações do auditor:
+
+
+5.2 - A despesa de comercialização/agenciamento é diferida?
+
+(   ) Sim. Descrever a justificativa para o diferimento.
+(   ) Não
+
+Procedimento de auditoria
+
+Indagar à Administração da Administradora de Benefícios com o intuito de confirmar se a despesa de
+comercialização/agenciamento é (não é) diferida.
+
+Constatações do auditor:
+
+
+5.3 - O prazo de diferimento da despesa de comercialização/agenciamento acima de 12
+meses está suportado por estudo técnico atualizado de tempo de permanência dos
+beneficiários?
+
+(   ) Sim. Informe a data base da última atualização do estudo técnico ___/___/____
+(   ) Não
+(   ) Não há diferimento acima de 12 meses
+
+Procedimentos de auditoria
+
+Indagar à administração da Administradora de Benefícios com o intuito de confirmar se o prazo de diferimento
+da despesa de comercialização/agenciamento acima de 12 meses está (não está) suportado por estudo técnico
+de tempo de permanência dos beneficiários.
+
+Obter o último estudo técnico de tempo de permanência dos beneficiários e confrontar com a data da última
+atualização do estudo indicada pela administração da Administradora de Benefícios.
+
+Constatações do auditor:
+
+
+5.4 - Com base nos controles gerenciais da Administradora de Benefícios, para a data-base
+analisada, selecione, aleatoriamente, 10 (dez) operações que deram origem a despesa de
+comercialização e efetue os procedimentos a seguir:
+
+Procedimento de auditoria
+
+Com base no controle gerencial (relatório analítico) de despesa de comercialização/agenciamento para a data-
+base em análise, selecionar, aleatoriamente, 10 (dez) operações que deram origem a despesa de comercialização,
+e efetuar os procedimentos da questão 5.4.1 e 5.4.2.
+
+
+5.4.1 - A classificação entre ativo circulante e não circulante está correta?
+
+(   ) Sim
+( ) Não. Descrever e explicar as divergências existentes.
+( ) N/A. Resposta não aplicável para a situação em que a Administradora de Benefícios
+não difere essa despesa.
+
+Procedimento de auditoria
+
+Para a amostra selecionada, calcular a segregação das despesas de agenciamento a diferir na data-base do
+trimestre em análise, entre os montantes a diferir em até doze meses e após doze meses, e confrontar com a
+segregação contábil entre ativo circulante e não circulante contabilizada nas rubricas “125 –
+Comissões/Agenciamentos Diferidos com Planos de Assistência Médico Hospitalar” e “1315 –
+Comissões/Agenciamentos Diferidos com Planos de Assistência Médico Hospitalar”, de acordo com o controle
+gerencial /composição analítica de despesas com comissão e agenciamento.
+
+Constatações do auditor:
+
+
+5.4.2 - Está correta a apropriação dessa despesa diferida ao resultado de acordo com o
+regime de competência?
+
+( ) Sim
+( ) Não. Descrever e explicar as divergências existentes.
+( ) N/A. Resposta não aplicável para a situação em que a Administradora de Benefícios
+não difere essa despesa.
+
+Procedimento de auditoria
+
+Para a amostra selecionada, verificar se despesa foi apropriada no resultado pelo regime de competência para os
+meses do trimestre da data-base em análise.
+
+Constatações do auditor:
+
+
+5.5 - As despesas de comercialização/agenciamento estão escrituradas contabilmente de
+acordo com o Plano de Contas Padrão da ANS?
+
+(     ) Sim
+(     ) Não. Descrever e explicar as divergências existentes.
+
+Procedimento de auditoria
+
+Obter o balancete contábil, na data base em análise, e confirmar se a escrituração contábil, está de acordo com
+o plano de contas padrão da ANS.
+
+Constatações do auditor:
+
+
+6 - Contraprestações a Repassar
+
+6.1 - Com base nos registros auxiliares analíticos de Contraprestações/Prêmios Emitidos,
+Recebidos e Cancelados, informe os valores apurados para a data base, de acordo com a
+segregação abaixo indicada:
+
+                                        Contratos Estipulados
+        Período de
+                        Valor Emitido (4)       Taxa Adm (5)          Repassado (6)         A Repassar (7)
+        Cobertura
+    A Iniciar (1)
+    Iniciado no Mês
+    Base (2)
+    Iniciado em Meses
+    Anteriores (3)
+        Total
+
+
+                                     Contratos Não Estipulados
+     Período de
+                        Valor Emitido (4)        Taxa Adm (5)          Repassado (6)         A Repassar (7)
+     Cobertura
+ A Iniciar (1)
+ Iniciado no Mês
+ Base (2)
+ Iniciado em Meses
+ Anteriores (3)
+        Total
+
+
+Orientações:
+(1) Informar como A Iniciar o montante de contraprestações emitidas (ainda que não contabilizadas) cujos
+períodos de cobertura correspondentes irão se iniciar após o mês base (último mês do trimestre), bem como os
+respectivos valores recebidos, vencidos (em atraso) ou a vencer.
+(2) Informar como Iniciado no Mês Base o montante de contraprestações cujos períodos de cobertura
+correspondentes se iniciaram no último mês do trimestre (mês base), bem como os respectivos valores recebidos,
+vencidos (em atraso) ou a vencer.
+(3) Informar como Iniciado em Meses Anteriores o montante de contraprestações ainda não recebidas, como
+vencido (em atraso) ou a vencer, cujos períodos de cobertura correspondentes se iniciaram antes do mês base
+(último mês do trimestre).
+(4) Informar o valor total das contraprestações, incluindo coparticipações e outros adicionais.
+(5) Informar o valor da taxa de administração correspondente.
+(6) Informar o valor repassado no trimestre às operadoras.
+(7) Informar o valor pendente de ser repassado às operadoras.
+
+Procedimento da auditoria
+
+Obter os registros auxiliares analíticos de Contraprestações/Prêmios Emitidos, Recebidos e Cancelados, relativo
+a data-base em análise, e confrontar com os respectivos registros contábeis e com o preenchimento do quadro-
+resposta à questão.
+
+Constatações do auditor:
+
+
+6.2 - Compare os saldos de contraprestações/prêmios a repassar apurados com base nos
+registros auxiliares analíticos com os saldos contábeis constantes no balancete do mês
+base:
+
+                                                                        Registros
+                   Contas                       Saldo Contábil                                Diferença (4)
+                                                                       Auxiliares (3)
+ Contratos Estipulados (1)
+ Contratos Não Estipulados (2)
+
+
+Orientações:
+(1) Contas 213619011 e 213629011
+(2) Contas 213619012 e 213629012
+(3) Soma dos totais apurados informados nos quadros constantes no item 6.1 relativos a período de cobertura
+Iniciado no Mês Base e Iniciado em Meses Anteriores (ou seja, não incluir os valores relativos à períodos
+de cobertura A Iniciar).
+(4) Apuando-se diferença, solicitar a Administração da Administradora de Benefícios as explicações para a
+desconformidade.
+
+
+Procedimento da auditoria
+
+Obter os registros auxiliares analíticos de Contraprestações/Prêmios a Repassar, relativo a data-base em análise,
+e confrontar com os respectivos registros contábeis e com o preenchimento do quadro-resposta à questão.
+
+Constatações do auditor:
+6.3 - Com base na análise individualizada de contraprestações/prêmios a repassar, para a
+data-base analisada, selecione, aleatoriamente, 20 (vinte) contraprestações/prêmios a
+receber e efetue os procedimentos a seguir:
+
+6.3.1 - As contraprestações/prêmios a repassar estão corretamente classificadas em
+relação a contratos estipulados e contratos não estipulados?
+
+(   ) Sim
+(   ) Não. Descrever e explicar as divergências existentes.
+
+Procedimento da auditoria
+
+Para a amostra selecionada, inspecionar se as contraprestações/prêmios a repassar estão classificadas de acordo
+com os contratos estipulados e não estipulados.
+
+Constatações do auditor:
+
+
+6.3.2 - As contraprestações/prêmios a repassar estão escrituradas contabilmente de
+acordo com o Plano de Contas Padrão da ANS?
+
+(   ) Sim
+(   ) Não. Descrever e explicar as divergências existentes.
+
+Procedimento de auditoria
+
+Obter o balancete contábil, na data base em análise, e confirmar se a escrituração contábil, está de acordo com
+o plano de contas padrão da ANS.
+
+Constatações do auditor:
+
+
+7 - Provisões
+
+7.1 - As provisões para contingências judiciais estão dimensionadas com base no relatório
+atualizado do departamento ou da assessoria jurídica da Administradora de Benefícios e
+em conformidade com o item 10.23 do Capítulo I do Plano de Contas Padrão da ANS?
+
+(   ) Sim
+(   ) Não. Descrever e explicar as divergências existentes.
+
+Procedimentos de auditoria
+
+Obter o relatório de contingências atualizado, que contenha os campos de probabilidade de perda, e classificação
+das contingências (contingência ou obrigação legal), com o Departamento Jurídico ou assessoria jurídica da
+Administradora de Benefícios para a data-base em análise. Verificar se o total das contingências judiciais
+classificadas com probabilidade de perda provável referenciam para o saldo contábil.
+
+Adicionalmente, para as contingências classificadas pelo Departamento Jurídico ou assessoria jurídica da
+Administradora de Benefícios como obrigações legais, verificar se estão contabilizadas, independente da
+classificação de probabilidade de perda.
+
+Constatações do auditor:
+7.2 - A Administradora de Benefícios possui valores registrados como Provisão para Ações
+Tributárias, que não represente a totalidade da obrigação exigida pelo órgão de
+arrecadação do tributo?
+
+( ) Sim. Descrever os valores cobrados e provisionados e as explicações para a
+desconformidade.
+( ) Não
+
+Procedimentos de auditoria
+
+Com base no relatório de contingências tributárias obtido com o Departamento Jurídico ou assessoria jurídica da
+Administradora de Benefícios para a data-base em análise e realizar o confronto do valor atualizado das ações
+em curso com o valor da provisão de contabilizada, e identificar se há diferenças.
+
+Constatações do auditor:
+
+
+8 – Obrigações Legais – Tributos
+
+8.1 - A Administradora de Benefícios contabilizou, para a data-base analisada, os tributos
+obrigatórios:
+
+Imposto de Renda Pessoa Jurídica – IRPJ                  (   ) Sim      (   ) Não     (   ) Não se aplica
+Contribuição Sobre Lucro Líquido – CSLL                  (   ) Sim      (   ) Não     (   ) Não se aplica
+PIS                                                      (   ) Sim      (   ) Não     (   ) Não se aplica
+COFINS                                                   (   ) Sim      (   ) Não     (   ) Não se aplica
+ISS                                                      (   ) Sim      (   ) Não     (   ) Não se aplica
+
+Para os casos de resposta negativa, apresentar as explicações para a desconformidade.
+
+Procedimento de auditoria
+
+Obter o balancete contábil para a data-base analisada com a administração da Administradora de Benefícios e
+identificar se os tributos obrigatórios listados na questão foram registrados nas respectivas rubricas contábeis de
+cada tributo. Caso não estejam contabilizados, solicitar para administração da Administradora de Benefícios as
+explicações.
+
+Constatações do auditor:
+
+
+8.2 - Os tributos questionados judicialmente estão registrados na contabilidade pelo valor
+total da obrigação, independentemente da avaliação da assessoria jurídica da
+Administradora de Benefícios em relação a probabilidade de êxito na causa?
+
+(   ) Sim
+(   ) Não. Descrever e explicar as divergências existentes.
+
+Procedimento de auditoria
+
+Com base no relatório de contingências tributárias atualizado, obtido com o Departamento Jurídico ou assessoria
+jurídica da Administradora de Benefícios para a data-base em análise, realizar o confronto do valor atualizado
+das ações em curso com o valor da provisão contabilizada e identificar se há diferenças.
+
+Constatações do auditor:
+
+
+8.3 - As obrigações tributárias estão escrituradas na contabilmente de acordo com o Plano
+de Contas Padrão da ANS?
+(   ) Sim
+(   ) Não. Descrever e explicar as divergências existentes.
+
+Procedimento de auditoria
+
+Obter o balancete contábil para a data-base analisada com a Administração da Administradora de Benefícios e
+identificar se os tributos obrigatórios, citados na questão 11.1, foram contabilizados nas contas previstas em
+conformidade ao plano de contas aprovado pela ANS. Identificar se há diferenças.
+
+Constatações do auditor:
+
+
+8.4 - Os débitos tributários parcelados estão corretamente segregados entre Circulante e
+Não Circulante?
+
+(   ) Sim
+(   ) Não. Descrever e explicar as divergências existentes.
+
+Procedimento de auditoria
+
+Obter a composição analítica dos débitos tributários parcelados por data de vencimento e verificar se a
+classificação contábil entre circulante e não circulante está de acordo com o indicado na composição analítica.
+
+Constatações do auditor:
+
+
+9 - Idade dos Saldos
+
+9.1 – O demonstrativo de Distribuição dos Saldos de Contas a Receber (idade dos
+saldos), informado no DIOPS do período em análise, está corretamente distribuído
+conforme os saldos registrados no balancete contábil e nos registros auxiliares:
+
+(   ) Sim
+(   ) Não. Descrever e explicar as divergências existentes.
+
+Procedimento de auditoria
+
+Obter o demonstrativo “Distribuição dos Saldos de Contas a Receber (idade dos saldos)” do DIOPS da data-base
+em análise, e confrontar com o saldo das rubricas contábeis “1232 – Créditos de operações de administração de
+benefícios” e “1239 – Outros créditos de operações com planos de assistência à saúde”.
+
+Constatações do auditor:
+
+
+9.2 - O demonstrativo de Distribuição dos Saldos de Contas a Pagar (idade dos
+saldos), informado no DIOPS do período em exame, está corretamente distribuído
+conforme os saldos registrados no balancete contábil e nos registros auxiliares:
+
+(   ) Sim
+(   ) Não. Descrever e explicar as divergências existentes.
+
+Procedimento de auditoria
+
+Obter o demonstrativo “Distribuição dos Saldos de Contas a pagar (idade dos saldos)” do DIOPS da data-base
+em análise, e confrontar com o saldo das rubricas contábeis “2134 - Comercialização sobre operações de
+Assistência à Saúde”, “2136 – Débitos de Administradoras de Benefícios”, “216 - Tributos e encargos sociais a
+recolher”, “2186 – Débitos com Aquisição de Carteira” e “2188 - Outros débitos a pagar”.
+Obter o registro auxiliar ou composição analítica das rubricas indicadas no procedimento anterior, para a data-
+base do trimestre em análise, e recalcular os valores por faixas de idade das parcelas vincendas e vencidas e
+comparar com os valores informados no quadro “Distribuição dos Saldos de Contas a pagar (idade dos saldos)”.
+
+Constatações do auditor:
+

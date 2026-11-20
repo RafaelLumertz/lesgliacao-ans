@@ -1,0 +1,49 @@
+                                            ANEXO V
+
+      DOCUMENTOS E DADOS MÍNIMOS NECESSÁRIOS PARA O SUPORTE À ELABORAÇÃO E
+          ACOMPANHAMENTO DE METODOLOGIA ATURIAL CONSTANTE EM NTAP
+
+
+
+1. As metodologias atuariais de cálculo de provisão consubstanciadas em NTAP devem ser
+arquivadas em conjunto com os seguintes itens, no mínimo:
+
+
+
+a) Nota Técnica Atuarial de Provisão assinada por atuário legalmente habilitado, observados os
+aspectos mínimos constantes do Anexo I;
+
+
+
+b) Teste de consistência da metodologia atuarial, em meio digital e físico, observados os aspectos
+constantes dos itens 1 a 4 do Anexo II;
+
+
+
+c) Base de dados utilizada na elaboração e avaliação da metodologia atuarial de cálculo da Provisão
+Técnica, em meio digital, observados os formatos mínimos constantes do Anexo IV;
+
+
+
+d) Relatório Circunstanciado de auditor independente, registrado na Comissão de Valores
+Mobiliários – CVM, em meio digital (.pdf) e físico, versando sobre a fidedignidade dos dados
+utilizados e sua consistência com os demonstrativos contábeis e as informações encaminhadas por
+meio do DIOPS-XML, observados os aspectos constantes do Anexo III;
+
+
+
+e) Memória de cálculo detalhada da provisão, em meio digital, dos três meses mais recentes
+utilizados na avaliação da metodologia atuarial com a respectiva base de dados utilizada;
+
+
+
+f) Termo de Responsabilidade Atuarial, em meio digital (.pdf) e físico, observados os formatos
+mínimos constantes do Anexo VI;
+
+
+
+2. Os documentos acima estabelecidos deverão ser arquivados por no mínimo 5 anos, com exceção
+da NTAP que deverá ser mantida por no mínimo 5 anos após o fim de sua vigência.
+3. Para as outras provisões técnicas, o estabelecido no item acima deverá ser enviado à DIOPE por
+meio de correspondência assinada por representante legal junto à ANS.
+

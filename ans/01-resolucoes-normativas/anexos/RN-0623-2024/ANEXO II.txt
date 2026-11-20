@@ -1,0 +1,289 @@
+                                      ANEXO II
+
+
+
+                            FICHA TÉCNICA METAS DE IGR
+
+1. Critérios do Arꢀ go 22 da RN 623 deꢀ17 de Dezembro de 2024.
+
+A Resolução Normaꢀ va - RN 623, dispõe sobre as regras a serem observadas pelas
+Operadoras de Planos Privados de Assistência à Saúde e Administradoras de Beneꢀ cios
+nas solicitações de procedimentos e/ou serviços de cobertura assistencial apresentados
+pelos beneﬁciários, bem como não assistenciais, em qualquer modalidade de
+contratação.
+
+
+
+Com o intuito de atender ao fim colimado pela norma supracitada, foi realizado um
+estudo com base nos dados divulgados no Plano de Dados Abertos - PDA, entre 2015 e
+2023, do Índice Geral de Reclamação (IGR) das operadoras, que se concreꢀ zaram em
+proposta de mudançasꢀde meta do Indicador 3.3 do Índice de Desenvolvimento da Saúde
+Suplementar (IDSS), aprovada pela Diretoria Colegiada.
+
+Esse índice estabelece o número médio de reclamações de beneﬁciários de planos
+privados de saúde, que recorreram à ANS, no período analisado. O índice é apresentado
+tendo como referência cada 100.000 beneﬁciários do universo de beneﬁciários analisado.
+
+
+
+Método de cálculo
+
+
+
+
+Deﬁnição dos termos uꢀ lizadosꢀno cálculo
+
+Demandas NIP - são as demandas NIP na data de processamento e congelamento, abertas
+durante o período analisado, de acordo com as seguintes classiﬁcações:
+- Núcleo: Demandas encaminhadas para abertura de processo administraꢀ vo
+sancionador. Ocorrem quando são constatados indícios de infração, mediante a lavratura
+de auto de infração (art. 14, III da RN nºꢀ483/22).
+
+- RVE - Reparação Voluntária e Eﬁcaz: Quando da adoção pela operadora de medidas
+necessárias para a solução da demanda, resultando na reparaçãoꢀdos prejuízos ou danos
+eventualmente causados e no cumprimento úꢀ l da obrigação, desde que observados os
+prazos deﬁnidos no art.ꢀ10 da RNꢀnº 483 de 29/03/2022 c/c art. 20, § 1º da RN nº 483/22.
+
+- INATIVA: Resolvida ou sem resposta do consumidor no prazo de 10 dias úteis. Ou seja,
+reclamações que, no ﬂuxo da NIP, não seguiram para análise. A inaꢀ vação de uma
+demanda pode decorrer tanto da manifestação do consumidor, que retorna o contato
+com a ANS informando que seu problema foi resolvido pela Operadora (art. 12, I da RN
+nº 483/22), quanto da ausência de resposta dele (inaꢀ vação com fundamento na
+presunção de resolução de que trata o art.ꢀ12, II da RN nº 483/22);
+
+- NP: Demandas não procedentes. Esta classiﬁcação é dada à demanda quando não é
+idenꢀ ﬁcado, nos fatos narrados, indícios de infração à legislação de saúde suplementar
+em vigor ou ao contrato celebrado comꢀa Operadora (art. 14,ꢀI da RN nº 483/22);
+
+- Em Andamento: Reclamações que, no ﬂuxo da NIP, estão em processamento; e nãoꢀ
+receberam um encaminhamento ou ﬁnalização.
+
+Observação: Serão excluídas do cálculo as demandas classiﬁcadas como Não se Aplica
+(NA), na data de processamento e congelamento, que é a classiﬁcação dada à reclamação
+quando idenꢀ ﬁcado que:
+
+a) o beneﬁciário não pertence à operadora contra a qual foi feita a reclamação;
+
+b) a denúncia foi feita contra agente regulado não responsável (ex.: a responsabilidade
+era da Adm. de Beneꢀ cios, mas a demanda foi registrada contra a Operadora de plano de
+saúde);
+
+c) os fatos narrados já foram apuradosꢀem outra demanda de igual teor (duplicidade); ou
+
+d) as informações conꢀ das na denúncia são insuﬁcientes para idenꢀ ﬁcação do
+beneﬁciário, da operadora ou da infração relatada.
+
+- Média do número de beneﬁciários: calculado uꢀ lizando as datas de contratação e
+cancelamento (rescisãoꢀdo contrato) do planoꢀde saúde atual do beneﬁciário, informadas
+ao Sistema de Informações de Beneﬁciários (SIB). Os beneﬁciários ativos em cada mês do
+períodoꢀavaliado são somados, e o total é divididoꢀpela quanꢀ dade de meses, para obter
+a média mensal de beneﬁciários aꢀ vos. Para a apuração são considerados os dados de
+beneﬁciários disponíveis na úlꢀ ma competência fechada do SIB antes da data de
+processamento e congelamento.
+
+Observação: O cálculo previsto na presente ficha técnicaꢀnão alcança as Administradoras
+de Beneꢀ cios, por estarem desobrigadas a fornecer o número de vidasꢀadministradas no
+SIB, impossibilitandoꢀa classiﬁcaçãoꢀbaseada em metas deꢀIGR.
+
+Assim, não se aplica às administradoras de beneꢀ cios as modulações previstas na
+normaꢀ zação e para as operadorasꢀque atendem aos critérios de metas de IGR descritos
+nesta ficha técnica.
+
+Com base nos números analisados, de 2015 a 2023, foi observado um aumento no IGR
+das operadoras em geral, tanto as que oferecem serviços médico-hospitalares (MH)
+quanto as queꢀoferecem serviços de odontologia (OD).
+
+A parꢀ r do estudo realizado, foi estabelecido dois critérios para deﬁnição das metas de
+desempenho para os ﬁnsꢀpropostos.
+
+O primeiro, que chamamos aqui de Meta de Excelência do IGR, tendo como premissa que
+a operadora deve prestar bons serviços a seus beneﬁciários, é no senꢀ do que a operadora
+tenha um IGRꢀdo úlꢀ mo trimestre analisado abaixo da meta estabelecida no item 1.1 da
+presente ficha técnica. O segundo, que chamamos aqui de Meta de Redução do IGR,
+estabelecida no item 1.2 da presente ﬁcha técnica, a operadora deve apresentar uma
+melhoria do IGR,ꢀde pelo menosꢀuma unidade, em dois trimestres consecuꢀ vos.
+
+
+
+Processamento,ꢀcongelamento e divulgação dos dados:
+
+
+
+A base de dados seráꢀprocessada eꢀcongelada emꢀaté 60ꢀdias após o fechamento do
+trimestre avaliado.
+
+Exemplo: Trimestre analisado - julho a setembro/25:
+
+Congelamento/Processamento: atéꢀ29 novembro deꢀ2025.
+
+Divulgação: Até 29ꢀde dezembro deꢀ2025.
+
+Para além das repercussões na aꢀ vidade ﬁscalizatória, conforme art. 22, § 2º da RN 623
+de 17 de dezembro de 2024, será dada publicidade no site da ANS às operadoras que
+aꢀ ngiram osꢀcritérios do item 1.1. e 1.2 da presente ﬁcha técnica em listas disꢀ ntas, em
+até 30 dias apósꢀo processamento daꢀbase de dadosꢀ(publicidade posiꢀ va).
+
+Assim, para que a operadora esteja enquadrada, nas metas de desempenho de que trata
+a presenteꢀficha técnica, deve atender aꢀpelo menos um dos critérios deﬁnidos abaixo:
+1.1 Metaꢀde Excelência do IGR trimestral
+
+
+
+O objeꢀ vo desse critério é que a operadora tenha baixos índices de reclamação,ꢀe que se
+mantenha dentro dos parâmetros estabelecidos por esta Agência, no IGR do último
+trimestre analisado.
+
+A meta deste critério será 1,2 vezesꢀa metaꢀestabelecida no indicador 3.3 do IDSS (Índice
+de Desempenho da Saúde Suplementar) aprovado pela Diretoria Colegiada, vigente à
+época do processamento dos dados.
+
+Eis os parâmetros:
+
+Indicadorꢀ(MetaꢀdeꢀExcelênciaꢀdoꢀIGRꢀtrimestral)
+
+IGR_trimMH <= (Meta IDSS para operadoras com produtos com cobertura médico hospitalar) * 1,2,
+
+para operadoras com beneficiáriosꢀdeꢀplanosꢀmédicoꢀhospitalarꢀ(MH)
+
+IGR_trimOD <= (Meta do IDSS paraꢀoperadorasꢀcomꢀprodutosꢀcomꢀcoberturaꢀexclusivamenteꢀodontológicas) * 1,2,
+
+paraꢀoperadorasꢀcomꢀbeneficiáriosꢀdeꢀplanosꢀexclusivamenteꢀodontológicosꢀ(OD)
+
+* Para os fins desta fichaꢀtécnica,ꢀtambémꢀseráꢀconsideradaꢀMetaꢀdeꢀExcelênciaꢀdoꢀIGRꢀ
+trimestralꢀaꢀsituaçãoꢀemꢀqueꢀaꢀoperadora,ꢀindependentementeꢀdoꢀseuꢀporte,ꢀapresente,ꢀnoꢀ
+trimestreꢀanalisado,ꢀumꢀIGRꢀacimaꢀdaꢀmetaꢀcomꢀnúmeroꢀabsolutoꢀdeꢀdemandasꢀqueꢀtenhaꢀ
+sido igual ou inferiorꢀaꢀ3ꢀ(três)ꢀparaꢀosꢀprodutosꢀmédico-hospitalares e igual ou inferior a 2
+(dois)ꢀparaꢀosꢀprodutosꢀexclusivamenteꢀodontológicos.
+
+
+
+Obsꢀ1: Válida a meta de IGR no IDSS vigente à época do processamento dos dados.
+
+Obs2: Oꢀagenteꢀde ﬁscalização,ꢀquando daꢀaplicação do art.ꢀ33ꢀda RN nº 483,ꢀde 29ꢀde
+março de 2022ꢀe análise daꢀdemanda deꢀreclamação de acordo com a agravante prevista
+no art. 7º, IV daꢀRN nº 489,ꢀdeꢀ29 de março deꢀ2022, observará em classiﬁcação divulgada
+no site da ANS se a operadoraꢀaꢀ ngiu os critérios de Meta de Excelência do IGR trimestral,
+delineadosꢀno item 1.1 daꢀpresenteꢀﬁcha técnica, considerandoꢀa classiﬁcaçãoꢀdivulgado
+no site da ANS, aplicável da operadora à data doꢀregistro daꢀdemanda na ANS.A agravante
+previstaꢀno art. art. 7º,ꢀIV, daꢀResolução Normaꢀ va nº 489,ꢀde 29 deꢀmarço deꢀ2022, não se
+aplica à conduta apurada por meio do rito da representação previsto no art. 25 da
+Resolução Normaꢀ vaꢀnº 483,ꢀde 29ꢀde março de 2022.
+
+Obs3: Os trimestres de avaliação obedecerão ao ano civil, sendo considerados o
+desempenho do trimestre aplicável,ꢀconforme obs 2.
+Obs4: Operadoras que possuam beneﬁciários em produtosꢀcomꢀcobertura médico-
+hospitalarꢀe beneﬁciários em produtosꢀcom coberturaꢀexclusivamente odontológica serão
+consideradas nas duas listas deꢀcálculo do IGRꢀtrimMH e IGRꢀtrimOD, devendo obter
+cumulaꢀ vamente a meta de excelência do IGR_trimMH e do IGR_trimOD.
+Obs5: As Operadoras que possuam beneﬁciários em produto com cobertura médico-
+hospitalar e odontológico deverão aꢀ ngir as metas do IGR_trimMH.
+
+Obs6: Para efeito do previsto no art. 7º, IV da Resolução Normaꢀ va nº 489,ꢀde 2022, eꢀart.
+33ꢀdaꢀResolução Normaꢀ va nº 483,ꢀde 2022, a Operadoraꢀque possua beneﬁciários em
+produtosꢀcom cobertura médico-hospitalar e em produtosꢀcomꢀcobertura exclusivamente
+odontológica deverá aꢀ ngir cumulaꢀ vamente as metas de excelência do IGR_trimMH e
+IGR_trimOD.
+
+Obs 7: Qualquer variação dentro da Meta de Excelência não gera incenꢀ vos adicionais.
+
+
+
+1.2 Metaꢀde Redução do IGR trimestral
+
+Oꢀobjeꢀ vo desse critério é que a operadora mantenha o esforço de melhorar o serviço
+prestado a seusꢀbeneﬁciários, e que isso reﬂita no seu IGRꢀtrimestral, objeꢀ vandoꢀalcançar
+a próxima meta possível (Meta de Excelencia) deꢀque trata oꢀitem 1.1
+
+A operadoraꢀdeveꢀter redução do IGRꢀtrimestral, de ao menos uma unidade,ꢀem dois
+períodos consecuꢀ vos, ou atéꢀchegar à MetaꢀdeꢀExcelência delineada no item 1.1.
+
+                 Indicador (Meta de Redução do IGR trimestral)
+                 IGR_trim x < IGR_trim x-1 < IGR_trim x-2
+
+Onde:
+
+x faz referência aosꢀúlꢀ mosꢀ3 meses, ou seja, o período mais atual em análise;
+
+x-1 faz referência aos 3 meses anteriores aoꢀperíodo maisꢀatual; e
+
+x-2 faz referência aos 3 meses anterioresꢀaoꢀperíodo x-1.
+
+Obs1: Oꢀagenteꢀde ﬁscalização,ꢀquando daꢀaplicação do art.ꢀ33ꢀda RN nº 483,ꢀde 29ꢀde
+março de 2022, e análise daꢀdemanda de reclamação deꢀacordo com a agravante prevista
+no art. 7º, IV daꢀRN nº 489,ꢀdeꢀ29 de março deꢀ2022, observará em classiﬁcação divulgada
+no site da ANS se a operadoraꢀaꢀ ngiu os critérios de Meta de Redução do IGRꢀtrimestral,
+delineadosꢀno item 1.2 daꢀpresenteꢀﬁcha técnica, considerandoꢀa classiﬁcaçãoꢀdivulgada no
+site da ANS, aplicável à data do registro da demanda, naꢀANS. A agravante previstaꢀno art.
+art. 7º, IV, daꢀResolução Normaꢀ va nº 489, deꢀ29ꢀde março deꢀ2022, nãoꢀseꢀaplica à
+conduta apuradaꢀpor meioꢀdo rito da representação previsto no art. 25 da Resolução
+Normaꢀ va nºꢀ483,ꢀde 29ꢀdeꢀmarço de 2022.
+
+Obs2: Os trimestres de avaliação obedecerão o ano civil, sendo considerados os
+desempenhos dos dois trimestres imediatamente anteriores. Por exemplo, na avaliação
+do 3º trimestre de 2025, a operadora deverá ter reduzido em ao menos uma unidade nos
+dois trimestres anteriores, sendo assim, se o IGR da operadora no 1º trim/2025 foi de
+60,0, no 2º trim/2025 foi de 59,0 e no 3º trim/2025 foi de 58,0 a operadora cumpriu o
+critério de se manter no esforço de melhoria do indicador, e portanto, poderá ser
+contemplada com o beneꢀ cio especíﬁco para o critério de redução do IGR. Lembrando
+que, caso sua redução seja menor que uma unidade, passando de 60,0 para 59,2 não será
+consideradaꢀredução para fins de atendimento às regras deste critério.
+
+Porꢀexemplo, naꢀavaliação do 3º trimestre de 20256,ꢀa operadoraꢀdeverá ter reduzido em
+ao menos uma unidade nos dois trimestres anteriores, sendoꢀassim,ꢀse o IGR_trimMH da
+operadora no 1º trim/20256 foi deꢀ60,0, no 2º trim/20256 foi deꢀ59,0 e no 3º trim/20256
+foi de 58,0ꢀa operadora cumpriu oꢀcritérioꢀde se manter no esforço de melhoria do
+indicador, e portanto,ꢀpoderá ser contemplada comꢀoꢀbeneꢀ cio especíﬁco para oꢀcritério
+deꢀredução do IGRtrimMH. Lembrandoꢀque, caso sua redução seja menor que uma
+unidade, passando de 60,0ꢀpara 59,2ꢀnão será consideradaꢀredução para ﬁns de
+atendimento às regrasꢀdesteꢀcritério.
+
+Seguem outros exemplos,ꢀcom enfoqueꢀno IGRtrimOD, contudo,ꢀcom efeitos também ao
+IGRtrimMH, quando aplicável.
+
+Ex 1: IGR trimOD ao ﬁnal do períodoꢀanalisado reduziu menos que uma unidade e chegou
+à Meta de Excelência. Será considerado aꢀ ngimento da Meta de Excelência para aquele
+período e não metaꢀdeꢀredução de IGRꢀtrimestral.
+
+Ex 2: IGR trimOD ao ﬁnal do períodoꢀanalisado reduziu menos que uma unidade e não
+chegou à MetaꢀdeꢀExcelência.ꢀSerá considerado como nãoꢀaꢀ ngimento deꢀmeta de
+redução
+deꢀIGRꢀtrimestral.
+
+Obs3: Operadoras que possuam beneﬁciários em produtosꢀcomꢀcobertura médico-
+hospitalarꢀe beneﬁciários em produtosꢀcom coberturaꢀexclusivamente odontológica serão
+consideradas nas duas listas deꢀcálculo do IGRꢀtrimMH e IGRꢀtrimOD, devendo obter
+cumulaꢀ vamente a redução em 2 trimestres consecuꢀ vos no IGR_trimMH e no
+IGR_trimOD, ou obter a redução em dois trimestres consecuꢀ vos emꢀumꢀdos IGRs e já
+estar naꢀmeta de Excelência no outro IGRꢀno período analisado.ꢀEx 1: IGRtrimMH com
+redução emꢀdois trimestres consecuꢀ vos, contudo,ꢀIGRtrimOD, na forma do exemplo 2
+acima. Será desconsiderado como não aꢀ ngimento da Meta de Redução do IGRꢀTrimestral .
+Ex 2: IGRtrimMH com redução emꢀdois trimestres consecuꢀ vos e IGRtrimOD dentro da
+meta de Excelência.ꢀSerá considerado como aꢀ ngimento da Meta deꢀRedução do IGR
+trimestral.
+
+Obs4:ꢀAs Operadoras que possuam beneﬁciários em produto comꢀcobertura médico-
+hospitalarꢀe com ou sem coberturaꢀodontológica deverão aꢀ ngir asꢀmetas do IGR_trimMH.
+
+Obs5: Para efeito da agravante prevista no art. 7º, IV, da Resolução Normaꢀ va nº 489, de
+2022, e do art. 33 da Resolução Normaꢀ va nº 483, de 2022, a Operadora que possua
+beneﬁciários em produtos com cobertura médico-hospitalar e em produtos com
+cobertura exclusivamente odontológica deverá aꢀ ngir cumulaꢀ vamente as metas do
+IGR_trimMH eꢀIGR_trimOD.
+Ações esperadas
+- Aprimoramento das ações da ANS sobre as operadoras para que melhorem seu índiceꢀ
+de reclamações ou se mantenham dentro dosꢀparâmetros estabelecidos pela ANS.
+
+- Aprimoramento de processos internos das operadoras no âmbito de suas Centrais de
+Atendimento eꢀOuvidorias, objeꢀ vando o aumento da resoluꢀ vidade nessesꢀcanais;
+
+- Ampliação da concorrência por meio de divulgação das operadoras que aꢀ ngiram a
+Meta de Excelência do IGR trimestral, além deꢀoutra classiﬁcação paraꢀas operadoras que
+aꢀ ngiram a Meta de Redução do IGR trimestral, na formaꢀda presente Ficha Técnica.
+
+
+
+Limitações e vieses
+
+O indicador se refere somente às demandas registradas no período analisado, com
+cálculo ﬁxado na data de processamento e congelamento.
+

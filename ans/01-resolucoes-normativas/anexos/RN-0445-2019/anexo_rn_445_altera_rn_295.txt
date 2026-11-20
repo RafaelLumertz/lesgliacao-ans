@@ -1,0 +1,62 @@
+                    ANEXO RN Nº 295, DE 9 DE MAIO DE 2012
+
+
+Os dados cadastrais de beneficiários que constituem as informações básicas e
+complementares do registro de beneficiários do SIB/ANS são os seguintes:
+
+
+I. Dados de identificação pessoal:
+a) Código de Controle Operacional – CCO;
+b) código de identificação do beneficiário na operadora;
+c) nome do beneficiário;
+d) data de nascimento do beneficiário;
+e) código de sexo do beneficiário;
+f) nome da mãe do beneficiário;
+g) código de identificação do beneficiário titular na operadora, para beneficiários
+informados como dependentes (não titulares);
+h) número de inscrição no Cadastro de Pessoa Física - CPF do beneficiário;
+i) número de inscrição no Programa de Integração Social - PIS ou no Programa de
+Formação do Patrimônio do Servidor Público - PASEP ou Número de Identificação do
+Trabalhador – NIT;
+j) número do Cartão Nacional de Saúde do beneficiário (obrigatório para todos os
+beneficiários a partir de 06/06/2013);
+j) número do Cartão Nacional de Saúde do beneficiário (obrigatório para todos os
+beneficiários a partir de 1º/01/2016); (Redação dada pela RN nº 376, de 28/04/2015)
+k) número da Declaração de Nascido Vivo para os nascidos a partir de 1º de janeiro de
+2010; (Opcional);
+l) número do Registro de Identidade Civil – RIC;
+m) número da cédula de alistamento eleitoral - Título de Eleitor;
+n) número da carteira de identidade do beneficiário;
+o) órgão emissor da carteira de identidade do beneficiário;
+p) código do país emissor da carteira de identidade do beneficiário;
+q) indicação da relação entre o beneficiário dependente e o beneficiário titular.
+
+
+II. Dados de identificação de endereço:
+a) indicação de endereço residencial ou profissional;
+b) logradouro do beneficiário;
+c) número logradouro do beneficiário;
+d) Complemento do logradouro;
+e) bairro;
+f) código do município – IBGE do logradouro informado (sem o dígito verificador);
+g) Código de Endereçamento Postal – CEP para o endereço informado;
+h) indicação de logradouro situado no exterior; i) código do município – IBGE de
+residência do beneficiário (sem o dígito verificador), caso o endereço informado seja
+indicado como endereço profissional.
+
+
+III. Campos de identificação do plano privados de assistência à saúde:
+a) número do registro do plano na ANS - RPS;
+b) código do cadastro do plano na ANS – SCPA
+c) data de adesão do beneficiário ao plano;
+d) data de cancelamento do vínculo do beneficiário ao plano;
+e) código do motivo do cancelamento do plano;
+f) data de reativação do plano;
+g) indicação de existência de Cobertura Parcial Temporária - CPT;
+h) indicação de existência de itens de procedimentos excluídos da cobertura;
+i) número no Cadastro Nacional de Pessoa Jurídica - CNPJ da pessoa jurídica contratante
+do plano coletivo empresarial ou do plano coletivo por adesão;
+j) número no Cadastro de Atividade Econômica da Pessoa Física - CAEPF do contratante
+do plano coletivo empresarial ou do plano coletivo por adesão; e
+k) relação de dependência.
+

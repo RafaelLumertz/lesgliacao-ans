@@ -1,0 +1,40 @@
+                                       Anexo IV
+
+
+
+            Descrição dos Procedimentos Previamente Acordados para verificação do
+cumprimento dos requisitos constantes no Anexo VII da Resolução Normativa nº
+569/2022, sobre dados facultativos referentes ao risco de mercado.
+
+
+
+              1. Verificação se o saldo informado em cada um dos registros do quadro é
+igual ou inferior ao saldo informado para a mesma conta no DIOPS daquela data-base.
+
+
+
+              2. Verificação se o sinal informado em cada um dos registros preenchido
+no quadro auxiliar é condizente com a natureza daquele fluxo, sendo “+” para entradas
+de caixa e “-“ para saídas.
+
+
+
+             3. Comprovação de que o fluxo de pagamentos ou recebimentos referente
+a cada um dos valores informados no quadro teve seu prazo médio ponderado
+calculado de forma correta, levando em conta as datas de cada saída (ou entrada) de
+caixa, bem como seus valores, pelos quais tal média é ponderada.
+
+
+
+            4. Comprovação de que o indexador informado para cada um dos registros
+do quadro é aquele que representa de forma mais adequada a variação esperada
+daquele fluxo ao longo do tempo, dentro das possibilidades previstas no preenchimento
+do quadro, quais sejam: Pré-fixado, Pós-fixado, IPCA, IGPM ou Cambial.
+
+
+
+              5. Confirmação de que a regulada possui área dedicada ao gerenciamento
+do casamento entre seus ativos e passivos, responsável pela análise dos fluxos de caixa,
+de forma a quantificar corretamente o risco de mercado a que a operadora esteja
+sujeita, para decisão sobre a melhor forma de mitigá-lo.” (NR)
+

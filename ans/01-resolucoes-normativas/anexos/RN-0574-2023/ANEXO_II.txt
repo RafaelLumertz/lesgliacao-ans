@@ -1,0 +1,47 @@
+                                            ANEXO II
+
+                  OBSERVAÇÕES PARA AVALIAÇÃO DAS PROVISÕES TÉCNICAS
+
+
+
+1. Para fins desta norma, entende-se como teste de consistência a comparação entre os valores de
+provisão estimados com os valores efetivamente observados a fim de avaliar a adequação da
+metodologia atuarial constante da NTAP.
+
+
+
+1.1. O período de escolha das datas-base constantes do teste de consistência deve ser suficiente
+para a avaliação da adequação da metodologia atuarial e considerar aspectos relacionados à
+sazonalidade.
+
+
+
+2. O atuário deve verificar se a metodologia atuarial constante da NTAP é adequada à realidade
+operacional da operadora, em especial nas OPS em início de atividade, considerando dentre outros
+aspectos a forma e o tempo de remuneração dos prestadores, justificando a sua adoção.
+
+
+
+3. Para OPS com experiência de no mínimo doze meses, a NTAP de PEONA, deverá conter, em anexo,
+o teste de consistência da metodologia atuarial.
+
+
+
+4. Quando a metodologia atuarial de cálculo de PEONA for obtida com base na diferença entre a
+estimativa do total de eventos/sinistros ocorridos e não pagos e o total de eventos/sinistros a
+liquidar, não poderão ser considerados os valores referentes às disputas judiciais e ressarcimentos
+ao SUS, salvo quando devidamente justificado e autorizado pela ANS.
+
+
+
+5. Para fins de cálculo ou de apuração das contraprestações/prêmios para cálculo da PEONA,
+deverão ser observados os montantes reconhecidos como contraprestações líquidas/prêmios
+retidos.
+
+
+
+6. Para fins de cálculo ou de apuração dos eventos/sinistros a que se refere o cálculo da PEONA,
+deverão ser observados os montantes reconhecidos como eventos/sinistros conhecidos ou avisados
+e suas deduções, exceto as variações de PEONA e os montantes relativos aos eventos/sinistros
+originados no SUS.
+

@@ -1,0 +1,69 @@
+                                             ANEXO III
+
+ASPECTOS MÍNIMOS A SEREM OBSERVADOS NO RELATÓRIO CIRCUNSTANCIADO DE AUDITORES
+INDEPENDENTES REFERENTES A DADOS QUE ACOMPANHAM AS NOTAS TÉCNICAS ATUARIAIS DE
+                              PROVISÕES TÉCNICAS
+
+
+
+1. O Relatório Circunstanciado referente às bases de dados utilizadas na elaboração das
+metodologias atuariais de cálculo das provisões técnicas consubstanciadas em NTAP deverá
+obedecer às normas aplicáveis estabelecidas pelo Instituto dos Auditores Independentes do Brasil –
+IBRACON, visando assegurar a fidedignidade e consistência dos dados apresentados contemplando,
+no mínimo, os seguintes aspectos:
+
+
+
+1.1. Quando os dados forem utilizados para elaboração de estimativa da Provisão de Eventos
+Ocorridos e Não Avisados – PEONA:
+
+
+
+a) asseguração de que as informações sobre datas de ocorrência, datas de aviso/registro contábil e
+valores avisados de eventos/sinistros indenizáveis, constantes da base de dados, são fidedignas em
+relação aos dispositivos contratuais, controles gerenciais e financeiros da OPS e/ou lançamentos
+contábeis (contratos, aditivos, balancetes, notas fiscais, etc) que suportam tais informações;
+
+
+
+b) asseguração de que as informações de data de pagamento e valores pagos de eventos/sinistros
+indenizáveis, quando estas informações forem contempladas na base de dados, são fidedignas em
+relação aos dispositivos contratuais, controles gerenciais e financeiros da OPS e/ou lançamentos
+contábeis (lançamentos contábeis, notas fiscais, etc) que suportam tais informações; e
+
+
+
+c) comparação do total de valores avisados de eventos/sinistros indenizáveis, por data de
+aviso/registro contábil, em relação aos valores de eventos indenizáveis constantes dos
+demonstrativos contábeis e das informações encaminhadas à ANS por meio do DIOPSXML, definindo
+percentualmente a eventual diferença.
+
+
+
+1.2. Quando os dados forem utilizados para elaboração de estimativa da Provisão para Remissão:
+
+
+
+a) avaliação das informações de datas de início e fim de gozo do benefício, data de nascimento ou
+idade e sexo do beneficiário remido e valores de despesa assistencial por exposto utilizado no cálculo
+constante da base de dados e sua fidedignidade em relação aos dispositivos contratuais e/ou
+lançamentos contábeis (contratos, aditivos, balancetes, etc) que suportam tais informações.
+
+
+
+1.3. Quando forem utilizados para elaboração de metodologia de cálculo da PIC ou outra provisão
+técnica não obrigatória:
+
+
+
+a) avaliação da fidedignidade da base de dados utilizada na metodologia atuarial proposta pelo
+atuário responsável em relação aos dispositivos contratuais e/ou lançamentos contábeis
+(lançamentos contábeis, notas fiscais, etc) que suportam tais informações, quando aplicável.
+
+
+
+2. As conclusões e procedimentos adotados pelo auditor deverão constar de seus relatórios de forma
+clara e explícita e deverão se ater às bases de dados auditadas, não expressando opinião quanto à
+metodologia atuarial de cálculo da provisão cuja responsabilidade é do atuário legalmente
+habilitado.
+

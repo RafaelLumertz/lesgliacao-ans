@@ -1,0 +1,173 @@
+                ANEXO - Critérios a serem utilizados para aplicação do Fator de Qualidade:
+
+                      Percentual aplicado sobre o IPCA - Índice de Preços ao Consumidor Amplo
+                                                                                                            100% do
+Tipo de Prestador    Nível A - 115% do IPCA        Nível B - 110% do IPCA        Nível C - 105% do IPCA     IPCA
+                     Certificado de Acreditação    Certificação (que englobe     Núcleo de Segurança do
+                     (nível máximo)                todo o escopo da              Paciente cadastrado na
+                                                   assistência);                 ANVISA e ter realizado
+                     e                                                           pelo menos uma
+                                                   e                             notificação via NOTIVISA a
+                     Núcleo de Segurança do                                      cada trimestre, no último
+                     Paciente cadastrado na        Núcleo de Segurança do        ano;
+                     ANVISA e ter realizado pelo   Paciente cadastrado na
+                     menos uma notificação via     ANVISA e ter realizado pelo   e
+                     NOTIVISA a cada trimestre,    menos uma notificação via
+                     no último ano;                NOTIVISA a cada trimestre,Possuir, ao menos, 75%
+                                                   no último ano;            das guias envidadas pelo
+                     e                                                       prestador de serviço de
+Hospitais e                                                                                                Demais
+                                                  e                          saúde à operadora de
+Hospitais-dia                                                                                               casos
+                     Possuir, ao menos, 75% das                              plano privado de
+                     guias envidadas pelo         Possuir, ao menos, 75% das assistência à saúde no
+                     prestador de serviço de      guias envidadas pelo       formato eletrônico da(s)
+                     saúde à operadora de plano prestador de serviço de      versão(ões) vigentes do
+                     privado de assistência à     saúde à operadora de plano Padrão TISS no ano-base
+                     saúde no formato             privado de assistência à   calendário.
+                     eletrônico da(s) versão(ões) saúde no formato
+                     vigentes do Padrão TISS no eletrônico da(s) versão(ões) ou
+                     ano-base calendário.         vigentes do Padrão TISS no
+                                                  ano-base calendário.       Participação em um dos
+                                                                             projetos de indução à
+                                                                             qualidade da DIDES/ANS,
+                                                                             quando couber.
+                     Certificado de Acreditação     Certificação (que englobe
+                     (nível máximo)                 todo o escopo da               Núcleo de Segurança do
+                                                    assistência);                  Paciente cadastrado na
+                     e                                                             ANVISA e ter realizado
+                                                    e                              pelo menos uma
+                     Núcleo de Segurança do                                        notificação via NOTIVISA a
+                     Paciente cadastrado na                                        cada trimestre, no último
+                     ANVISA e ter realizado pelo    Núcleo de Segurança do         ano (exceto para
+                     menos uma notificação via      Paciente cadastrado na         laboratórios de análises
+                     NOTIVISA a cada trimestre,     ANVISA e ter realizado pelo    clínicas, laboratórios de
+                     no último ano (exceto para     menos uma notificação via      patologia clínica e serviços
+                     laboratórios de análises       NOTIVISA a cada trimestre,     de atenção domiciliar);
+                     clínicas, laboratórios de      no último ano (exceto para
+                     patologia clínica e serviços   laboratórios de análises       e
+SADT, Clínicas de    de atenção domiciliar);        clínicas, laboratórios de
+SADT e Serviços de                                  patologia clínica e serviços
+                                                                               Possuir, ao menos, 75%             Demais
+Atenção Domiciliar   e                              de atenção domiciliar);    das guias envidadas pelo            casos
+(HomeCare)                                                                     prestador de serviço de
+                     Possuir, ao menos, 75% das e                              saúde à operadora de
+                     guias envidadas pelo                                      plano privado de
+                     prestador de serviço de      Possuir, ao menos, 75% das assistência à saúde no
+                     saúde à operadora de plano guias envidadas pelo           formato eletrônico da(s)
+                     privado de assistência à     prestador de serviço de      versão(ões) vigentes do
+                     saúde no formato             saúde à operadora de plano Padrão TISS no ano-base
+                     eletrônico da(s) versão(ões) privado de assistência à     calendário.
+                     vigentes do Padrão TISS no saúde no formato
+                     ano-base calendário.         eletrônico da(s) versão(ões) ou
+                                                  vigentes do Padrão TISS no
+                                                  ano-base calendário.         Participação em um dos
+                                                                               projetos de indução à
+                                                                               qualidade da DIDES/ANS,
+                                                                               quando couber.
+                     Possuir 80% ou mais de        Possuir 60% ou mais de        Possuir 60% ou mais de
+                     profissionais de saúde com    profissionais de saúde com    profissionais de saúde que
+                     uma ou mais titulações na     uma ou mais titulações na     tenham realizado
+                     área de saúde (Residência,    área de saúde (Residência,    capacitação em cursos na
+                     Título de Especialista        Título de Especialista        área de saúde, de no
+                     outorgado pela sociedade      outorgado pela sociedade      mínimo 40h por ano-
+                     de especialidade e/ou         de especialidade e/ou         calendário.
+                     Conselho Profissional da      Conselho Profissional da
+                     categoria, Pós-graduação      categoria, Pós-graduação
+                     Stricto Senso)                Stricto Senso)
+
+                     e                             e
+
+                     Possuir 80% ou mais de        Possuir 60% ou mais de
+Clínicas                                                                                                      Demais
+                     profissionais de saúde que    profissionais de saúde que
+Multiprofissionais                                                                                             casos
+                     tenham realizado pelo         tenham realizado pelo
+                     menos uma capacitação em      menos uma capacitação em
+                     cursos na área de saúde, de   cursos na área de saúde, de
+                     no mínimo 80 horas por        no mínimo 40 horas por
+                     ano-calendário.               ano-calendário.
+
+                     OU
+
+                     A Pessoa Jurídica possuir
+                     Acreditação e/ou
+                     Certificação (que englobe
+                     todo o escopo da
+                     assistência).
+
+                     Possuir ao menos uma          Possuir ao menos uma          Ter realizado pelo menos
+                     titulação comprovada na       titulação comprovada na       uma capacitação em
+                     área de saúde (residência,    área de saúde (residência,    cursos na área de saúde,
+                     título de especialista        título de especialista        de no mínimo 40 horas
+                     outorgado pela sociedade      outorgado pela sociedade      por ano-calendário.
+                     de especialidade e/ou         de especialidade e/ou
+                     Conselho Profissional da      Conselho Profissional da
+                     categoria, Pós-graduação      categoria, Pós-graduação
+Profissionais de
+                     Stricto Senso)                Stricto Senso)
+Saúde /                                                                                                       Demais
+Consultórios                                                                                                   casos
+                     e                             e
+Individuais
+                     Ter realizado pelo menos      Ter realizado pelo menos
+                     uma capacitação em cursos     uma capacitação em cursos
+                     na área de saúde, de no       na área de saúde, de no
+                     mínimo 80 horas por ano-      mínimo 40 horas por ano-
+                     calendário.                   calendário.
+Observações:
+
+   1. Para fins dessa Resolução considera-se acreditação em saúde o processo periódico e
+      voluntário de reconhecimento por uma organização independente, especializada em
+      normas técnicas do setor, de que o estabelecimento atende a requisitos previamente
+      definidos e demonstra competência para realizar suas atividades com segurança, dentro
+      de padrões de excelência de atendimento ao usuário.
+   2. Para fins desta Resolução, considera-se Certificado de Acreditação o documento
+      emitido por Entidade Acreditadora, com prazo de validade, reconhecendo formalmente
+      que um prestador de serviços de saúde atende a requisitos associados ao
+      aprimoramento da gestão e a melhoria na qualidade da atenção à saúde. Serão
+      considerados aqueles certificados obtidos em metodologia:
+          a. Por níveis, ou seja, com escalonamento dentro da metodologia, desde que
+               atingido o nível máximo,
+          b. Sem níveis.
+   3. Para fins dessa resolução, considera-se Entidade Acreditadora, aquelas que tenham
+      obtido reconhecimento da competência para atuar no âmbito dos prestadores de
+      serviços de saúde e cadastradas no Programa de Qualificação dos Prestadores de
+      Serviços na Saúde Suplementar – QUALISS, da ANS, como definido na RN nº 405/2016;
+   4. Para fins desta Resolução, considera-se Certificação o reconhecimento de competência
+      com emissão de certificado realizado por Entidade Acreditadora reconhecida pelo
+      QUALISS, desde que contemple a totalidade da prestação da assistência à saúde do
+      prestador de serviço. Desse modo, não serão consideradas Certificações que
+      considerem apenas parte do escopo do serviço de saúde prestado ou equipamentos do
+      estabelecimento de saúde;
+   5. Para fins dessa resolução, considera-se titulação:
+          a. Residência em Saúde reconhecida pelo Ministério da Educação - MEC;
+          b. Título de especialista outorgado pela sociedade de especialidade e/ou Conselho
+               Profissional da categoria;
+          c. Mestrado em Saúde reconhecido pelo MEC;
+          d. Doutorado ou Pós-Doutorado em saúde reconhecido pelo MEC;
+   6. Para fins dessa resolução, considera-se capacitação de profissionais de saúde, os cursos
+      ministrados pelas Instituições de ensino superior reconhecidas pelo Ministério de
+      Educação (MEC), ou ministrados pelos Conselhos Profissionais, pelas Associações de
+      âmbito nacional representativas de categoria profissional da área de saúde ou de
+      especialidades da área de saúde, com pelo menos 80, 60 ou 40 horas de duração, a
+      depender do percentual do IPCA aplicado, que emitam certificado de conclusão. Devem
+      ser considerados também como equivalentes à capacitação de profissionais de saúde,
+      as habilitações concedidas pelos respectivos Conselhos Profissionais de Saúde, no ano-
+      base considerado. Dessa forma, não serão consideradas, para este fim, a participação
+      em Congressos da área de atuação do profissional.
+   7. Para fins dessa resolução, a comprovação de titulação e da capacitação de profissionais
+      de saúde pelas clínicas multiprofissionais deve ser realizada pelo responsável técnico do
+      estabelecimento, que deve coletar e consolidar os dados de seus profissionais de saúde
+      e apresenta-los à operadora de serviços de saúde;
+   8. Para todos os casos, o Prestador de Serviços de Saúde deve comprovar o
+      enquadramento nos critérios para aplicação do Fator de Qualidade, junto à Operadora
+      de Planos de Serviços de Assistência à Saúde;
+9. Para fins dessa resolução, a comprovação de que o Prestador de Serviços de Saúde
+    possui Núcleo de Segurança do Paciente cadastrado na ANVISA, se dará por meio de
+    comprovações de participação disponíveis no Portal da ANVISA.
+10. A Verificação da versão das guias trocadas no Padrão TISS deverão ser verificadas pelas
+    Operadoras de Planos de saúde. Caso o envio das guias no formato eletrônico da última
+    versão do Padrão TISS não ocorra por problemas operacionais da Operadora, o requisito
+    deverá ser considerado cumprido.
+

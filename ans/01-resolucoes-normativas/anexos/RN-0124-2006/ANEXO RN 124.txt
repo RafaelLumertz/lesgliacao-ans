@@ -1,0 +1,23 @@
+                                         ANEXO I
+
+  MÉTODO DE CÁLCULO DA PENALIDADE PREVISTA NO ART. 32-A DA RN Nº 124, DE 30 DE
+                              MARÇO DE 2006
+
+
+
+Definição das variáveis:
+Vmax: Valor máximo previsto como sanção pecuniária no art. 32-A da RN nº 124/2006.
+
+Rec_desc: Número de recomendações descumpridas no Relatório Diagnóstico.
+
+Tot_rec: Número Total de Recomendações do Relatório Diagnóstico.
+
+
+
+Multa Base = Vmax x Rec_desc
+                     Tot_rec
+
+
+O valor da multa base será igual a R$ 200.000,00 para todos os casos em que a razão entre as
+recomendações descumpridas e o total de recomendações se situar entre 0,001 e 0,2.
+

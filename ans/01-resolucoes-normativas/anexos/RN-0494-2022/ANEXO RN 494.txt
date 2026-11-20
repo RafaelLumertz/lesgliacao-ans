@@ -1,0 +1,60 @@
+                                              ANEXO
+
+                           LANÇAMENTO POR ARBITRAMENTO DA
+                              TAXA DE SAÚDE SUPLEMENTAR
+
+                O valor da taxa de saúde suplementar será calculado, por arbitramento,
+pela seguinte fórmula:
+
+                                          T = 0,5 x N x R
+               onde:
+
+               T = valor devido da taxa de saúde suplementar;
+
+               N = número médio de usuários;
+
+               R = número de trimestres em que a taxa é devida.
+
+               Obs: Ao valor obtido serão somados os acréscimos legais.
+
+               Para o cálculo de N, deve proceder-se da seguinte maneira, observando-se
+o estabelecido no art. 6º, §§ 1º e 2º da Resolução Normativa nº 89, de 16 de fevereiro de
+2005:
+
+              1) obter o enquadramento da operadora em questão, de acordo com o
+disposto na RDC nº 39;
+
+               2) obter o número total de usuários cadastrados naquela modalidade
+específica de enquadramento, para a unidade da federação onde se localize a operadora
+(Um);
+
+              3) obter o número total de operadoras cadastradas na unidade da
+federação em que se localiza a operadora, naquela modalidade específica (Om);
+
+              4) N será calculado através da seguinte divisão: N = Um / Om, para os
+casos em que Um e Om sejam diferentes de zero;
+
+               5) Para os casos em que Um e/ou Om sejam iguais a zero, N será obtido
+pela divisão entre o número total de usuários cadastrados naquela unidade da federação
+(Uf) e o número total de operadoras cadastradas naquela unidade da federação (Of):
+
+                                            N = Uf / Of
+
+              6) Se ainda assim ocorrer Uf e/ou Of igual a zero, deve-se obter N com
+base em parâmetros nacionais, vale dizer, pela obtenção do número total de usuários
+cadastrados nacionalmente na modalidade específica de enquadramento da operadora
+(Umn) e pela obtenção do número total de operadoras cadastradas nacionalmente naquela
+modalidade específica (Omn), assim:
+
+                                        N = Umn / Omn
+
+              7) Se ainda assim ocorrer Umn e/ou Omn igual a zero, deve-se obter N com
+base em parâmetros nacionais, vale dizer, pela obtenção do número total de usuários
+cadastrados nacionalmente (Un) e pela obtenção do número total de operadoras
+cadastradas nacionalmente (On), assim:
+
+                                                   N = Un / On
+    -------------------------------------------------------------------------------------------
+
+                Anexo RN 103 (23363351)       SEI 33910.018565/2019-58 / pg. 1
+

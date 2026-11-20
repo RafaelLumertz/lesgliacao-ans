@@ -1,0 +1,46 @@
+                                                                                                ANEXO I
+
+..............................................................................................................................................................................................................
+
+                                                 Subgrupo -               Grupo - Rol                  Capítulo - Rol
+    Procedimento - Rol 2018                                                                                                         OD       AMB         HCO        HSO         REF        PAC             DUT
+                                                  Rol 2018                   2018                          2018
+
+  SARS-CoV-2 (Coronavírus
+  COVID-19) - Pesquisa de
+  anticorpos IgG ou                                                                                Procedimentos
+  anticorpos totais (com                                              Procedimentos
+                                                Imunologia                                         diagnósticos e                            AMB         HCO        HSO        REF                    DUT nº 132
+  diretriz de utilização)                                             laboratoriais
+                                                                                                   terapêuticos
+  (Incluído pela RN nº 460, de
+  13, de agosto de 2020)
+                                                                                              ANEXO II
+ .........................................................................................................................................................................................................
+ 132. SARS-CoV-2 (Coronavírus COVID-19) - PESQUISA DE ANTICORPOS IgG ou anticorpos totais.
+ 1. Cobertura obrigatória, conforme solicitação do médico assistente, quando preenchido um dos critérios do Grupo I e
+ nenhum dos critérios do Grupo II.
+ Grupo I (critérios de inclusão)
+        a) Pacientes com Síndrome Gripal (SG) ou Síndrome Respiratória Aguda Grave (SRAG) a partir do 8º dia do início
+        dos sintomas.
+                SÍNDROME GRIPAL (SG): Indivíduo com quadro respiratório agudo, caracterizado por pelo menos dois (2) dos
+                seguintes sinais e sintomas: febre (mesmo que referida), calafrios, dor de garganta, dor de cabeça, tosse, coriza,
+                distúrbios olfativos ou distúrbios gustativos. Em crianças: além dos itens anteriores considera-se também
+                obstrução nasal, na ausência de outro diagnóstico específico. Em idosos: deve-se considerar também critérios
+                específicos de agravamento como sincope, confusão mental, sonolência excessiva, irritabilidade e inapetência.
+                SÍNDROME RESPIRATÓRIA AGUDA GRAVE (SRAG): Indivíduo com SG que apresente: dispneia/desconforto
+                respiratório OU pressão persistente no tórax OU saturação de O2 menor que 95% em ar ambiente OU coloração
+                azulada dos lábios ou rosto. Em crianças: além dos itens anteriores, observar os batimentos de asa de nariz,
+                cianose, tiragem intercostal, desidratação e inapetência;
+        b) Crianças ou adolescentes com quadro suspeito de Síndrome Multissistêmica Inflamatória pós-infecção pelo SARS-Cov2.
+
+Grupo II (Critérios de exclusão):
+                a) RT-PCR prévio positivo para Sars-Cov-2.
+                b) Pacientes que já tenham realizado o teste sorológico, com resultado positivo.
+                c) Pacientes que tenham realizado o teste sorológico, com resultado negativo, há menos de 1 semana (exceto para
+                os pacientes que se enquadrem no item b do Grupo I)
+                d) Testes rápidos
+                e) Pacientes cuja prescrição tem finalidade de screening, retorno ao trabalho, pré-operatório, controle de cura ou
+                contato próximo/domiciliar com caso confirmado.
+                f) Verificação de imunidade pós vacinal. (NR)
+

@@ -1,0 +1,189 @@
+                                        ANEXO VI
+
+     Modelo padrão de capital baseado no risco operacional, incluindo o risco legal
+
+
+
+1. O capital referente ao risco operacional, incluindo o risco legal, aplica-se a todas as
+operadoras de plano de assistência à saúde e administradoras de benefícios, exceto as
+operadoras excluídas conforme parágrafo único do art. 1º desta RN.
+
+
+
+Modelo padrão para todas as operadoras, excetuando-se as Administradoras de
+Benefícios
+
+
+
+2. O capital do risco operacional, incluindo o risco legal, de todas as operadoras,
+excetuando-se as administradoras de benefícios e as demais operadoras excluídas
+conforme parágrafo único do art. 1º desta RN, é definido por:
+
+
+
+
+Na qual:
+
+
+
+CBRoutros é o montante de capital baseado em risco calculado conforme anexo III, não
+considerando somente o capital baseado no risco operacional (incluindo o risco legal) e,
+se aplicável, considerando o uso de fatores reduzidos conforme Art. 8º desta Resolução
+Normativa;
+
+
+
+CBRoutros(liq CRS) é o montante de capital baseado em risco calculado conforme anexo III,
+contudo, considerando apenas os riscos de mercado e de crédito;
+
+
+
+Opcontrappre é a parcela do capital para o risco operacional (incluindo o legal) mensurada
+com base nas receitas de contraprestações e prêmios emitidos referentes a contratos de
+planos de saúde na modalidade de preço preestabelecido, calculada conforme item 3
+deste Anexo;
+
+
+
+OpRecass é a parcela do capital para o risco operacional (incluindo o legal) mensurada com
+base nas receitas de assistência médico-hospitalar e odontológica e de contraprestações
+e prêmios emitidos referentes a contratos de planos de saúde na modalidade de preço
+pós estabelecido, calculada conforme item 4 deste Anexo; e
+
+
+
+Opprovpre e Opprovpos são as parcelas do capital para o risco operacional (incluindo o
+legal) mensuradas com base nas provisões técnicas respectivamente referente a
+contratos de planos de saúde na modalidade de preço preestabelecido e na modalidade
+de preço pós-estabelecido, calculadas conforme item 5 deste Anexo.
+
+
+
+3. A parcela do capital para o risco operacional (incluindo o legal) mensurada com base
+nas receitas de contraprestações e prêmios emitidos referentes a contratos de planos de
+saúde na modalidade de preço preestabelecido (Opcontrap pré) é definida por:
+
+
+
+
+Onde:
+Contrappré são os totais de contraprestações e prêmios de assistência à saúde emitidos
+referentes a contratos de planos de saúde na modalidade de preço preestabelecido dos
+últimos 12 meses, a partir da data-base de cálculo; e
+
+
+
+pContrappré são os totais de contraprestações e prêmios de assistência à saúde emitidos
+referentes a contratos de planos de saúde na modalidade de preço preestabelecido dos
+12 meses imediatamente anteriores aos últimos 12 meses, a partir da data-base de
+cálculo.
+
+
+
+3.1 Os montantes de contraprestações e prêmios emitidos são brutos de repasses
+(compartilhamento de riscos, resseguros ou outros mecanismos).
+
+
+
+3.2 Incluem-se nos saldos de receitas de contraprestações e prêmios os saldos das
+empresas incorporadas, fusionadas ou cujas parcelas cindidas foram incorporadas em
+casos de fusões (artigo 228 da Lei nº 6.404, de 15 de dezembro de 1976), incorporações
+(artigo 227 da Lei nº 6.404, de 1976) ou incorporações de parcelas cindidas (artigo 229 da
+Lei nº 6.404, de 1976).
+
+
+
+4. A parcela do capital para o risco operacional (incluindo o legal) mensurada com base
+nas receitas de assistência médico-hospitalar e odontológica e de contraprestações e
+prêmios emitidos referentes a contratos de planos de saúde na modalidade de preço pós
+estabelecido (OpRecpós.ass) é definida por:
+
+
+
+
+Onde:
+
+
+
+Recpós.ass são os totais de receitas de assistência médico-hospitalar e odontológica e de
+contraprestações de assistência à saúde emitidos referentes a contratos de planos de
+saúde na modalidade de preço pósestabelecido dos últimos 12 meses, a partir da data-
+base de cálculo; e
+
+
+
+pRecpós.ass são os totais de receitas de assistência médico-hospitalar e odontológica e de
+contraprestações de assistência à saúde emitidos referentes a contratos de planos de
+saúde na modalidade de preço pósestabelecido dos 12 meses imediatamente anteriores
+aos últimos 12 meses, a partir da data-base de cálculo.
+
+
+
+4.1 Os montantes de contraprestações e prêmios emitidos são brutos de repasses
+(compartilhamento de riscos, resseguros ou outros mecanismos).
+
+
+
+4.2 Incluem-se nos saldos de receitas de assistência médico-hospitalar e odontológica e
+contraprestações e prêmios os saldos das empresas incorporadas, fusionadas ou cujas
+parcelas cindidas foram incorporadas em casos de fusões (artigo 228 da Lei nº 6.404, de
+1976), incorporações (artigo 227 da Lei nº 6.404, de 1976) ou incorporações de parcelas
+cindidas (artigo 229 da Lei nº 6.404, de 1976).
+
+
+
+4.3 Os totais de receitas de contraprestações de assistência à saúde emitidos referentes
+a contratos de planos de saúde na modalidade de preço pós-estabelecido deverá ser
+acrescido o valor absoluto das contas de recuperação por reembolso do contratante do
+total eventos/sinistros conhecidos ou avisados.
+
+
+
+5. As parcelas de capital para o risco operacional mensuradas com base nas provisões
+técnicas respectivamente referente a contratos de planos de saúde na modalidade de
+preço preestabelecido e na modalidade de preço pós-estabelecido
+
+( Opprovpré e Opprovpós ) são definidas por:
+Onde:
+
+
+
+Provpré e Provpós são os totais de provisões técnicas, excluindo-se outras provisões
+técnicas, respectivamente referentes a contratos de planos de saúde na modalidade de
+preço preestabelecido e na modalidade de preço pós-estabelecido, mensuradas na data-
+base de cálculo.
+
+
+
+Modelo padrão para as Administradoras de Benefícios
+
+
+
+6. O capital do risco operacional, incluindo o risco legal, das Administradoras de
+benefícios é definido por:
+
+
+
+
+Sendo:
+
+
+
+
+Onde:
+Recadm é o total de receitas com administração de benefícios dos últimos 12 meses, a
+partir da data-base de cálculo;
+
+
+
+e pRecadm é o total de receitas com administração de benefícios dos 12 meses
+imediatamente anteriores aos últimos 12 meses, a partir da data-base de cálculo.
+
+
+
+6.1. Incluem-se nos saldos de receitas com administração de benefícios os saldos das
+empresas incorporadas, fusionadas ou cujas parcelas cindidas foram incorporadas em
+casos de processos de fusões (artigo 228 da Lei nº 6.404, de 1976), incorporações (artigo
+227 da Lei nº 6.404, de 1976) ou incorporações de parcelas cindidas (artigo 229 da Lei nº
+6.404, de 1976).
+

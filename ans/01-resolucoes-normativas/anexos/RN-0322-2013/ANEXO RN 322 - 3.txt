@@ -1,0 +1,1957 @@
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+    2                                                                                                                                                   PASSIVO
+
+
+
+    2     1                                                                                                                                             PASSIVO CIRCULANTE
+
+
+
+    2     1         1                                                                                                                                   PROVISÕES TÉCNICAS DE OPERAÇÕES DE ASSISTÊNCIA À SAÚDE
+
+
+
+    2     1         1         1                                                                                                                         PROVISÕES TÉCNICAS DE OPERAÇÕES DE ASSISTÊNCIA À SAÚDE
+
+
+
+    2     1         1         1         1                                                                                                               PROVISÕES TÉCNICAS DE OPERAÇÕES DE ASSISTÊNCIA MÉDICO-HOSPITALAR
+
+
+
+    2     1         1         1         1          9                                                                                                    Provisões Técnicas de Operações de Assistência Médico-Hospitalar
+
+    2     1         1         1         1          9           0              1                                                                         Provisões de Prêmios/Contraprestação
+
+    2     1         1         1         1          9           0              1          1                                                              Provisão de Prêmio/Contraprestação Não Ganha
+
+    2     1         1         1         1          9           0              1          2                                                              Provisão de Insuficiência de Prêmios
+
+    2     1         1         1         1          9           0              1          3                                                              Provisão para Remissão
+
+    2     1         1         1         1          9           0              2                                                                         Provisão de Eventos/Sinistros a Liquidar para o SUS
+
+    2     1         1         1         1          9           0              2          1                                                              Provisão de Eventos/Sinistros a Liquidar para o SUS
+
+    2     1         1         1         1          9           0              3                                                                         Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores de Serviços Assistenciais
+
+    2     1         1         1         1          9           0              3          1                                                              Rede Contratada/Credenciada
+
+    2     1         1         1         1          9           0              3          2                                                              Cooperados
+
+    2     1         1         1         1          9           0              3          3                                                              Intercâmbio Eventual
+
+    2     1         1         1         1          9           0              3          4                                                              Reembolso
+
+    2     1         1         1         1          9           0              3          5                                                              Rede Própria
+
+    2     1         1         1         1          9           0              4                                                                         Provisão para Eventos/Sinistros Ocorridos e Não Avisados (PEONA)
+
+    2     1         1         1         1          9           0              4          1                                                              Provisão para Eventos/Sinistros Ocorridos e Não Avisados (PEONA)
+
+    2     1         1         1         1          9           0              8                                                                         Outras Provisões Técnicas
+
+    2     1         1         1         1          9           0              8          1                                                              Outras Provisões Técnicas - Autorizadas
+
+    2     1         1         1         1          9           0              8          2                                                              Outras Provisões Técnicas - Obrigatórias
+
+
+
+    2     1         1         1         2                                                                                                               PROVISÕES TÉCNICAS DE OPERAÇÕES DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    2     1         1         1         2          9                                                                                                    Provisões Técnicas de Operações de Assistência Odontológica
+
+    2     1         1         1         2          9           0              1                                                                         Provisão de Prêmios/Contraprestações
+
+    2     1         1         1         2          9           0              1          1                                                              Provisão de Prêmio/Contraprestação Não Ganha
+
+    2     1         1         1         2          9           0              1          2                                                              Provisão de Insuficiência de Prêmios
+
+    2     1         1         1         2          9           0              1          3                                                              Provisão para Remissão
+
+    2     1         1         1         2          9           0              2                                                                         Provisão de Eventos/Sinistros a Liquidar para SUS
+
+    2     1         1         1         2          9           0              2          1                                                              Provisão de Eventos/Sinistros a Liquidar para o SUS
+
+    2     1         1         1         2          9           0              3                                                                         Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores de Serviços Assistenciais
+
+    2     1         1         1         2          9           0              3          1                                                              Rede Contratada/Credenciada
+
+    2     1         1         1         2          9           0              3          2                                                              Cooperados
+
+    2     1         1         1         2          9           0              3          3                                                              Intercâmbio Eventual
+
+    2     1         1         1         2          9           0              3          4                                                              Reembolso
+
+    2     1         1         1         2          9           0              3          5                                                              Rede Própria
+
+    2     1         1         1         2          9           0              4                                                                         Provisão para Eventos/Sinistros Ocorridos e Não Avisados
+
+    2     1         1         1         2          9           0              4          1                                                              Provisão para Eventos/Sinistros Ocorridos e Não Avisados
+
+    2     1         1         1         2          9           0              8                                                                         Outras Provisões Técnicas
+
+    2     1         1         1         2          9           0              8          1                                                              Outras Provisões Técnicas - Autorizadas
+
+                                                                                                                                                                                                                                                     1/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+    2     1         1         1         2          9           0              8          2                                                              Outras Provisões Técnicas - Obrigatórias
+
+
+
+    2     1         3                                                                                                                                   DÉBITOS DE OPERAÇÕES DE ASSISTÊNCIA À SAÚDE
+
+
+
+    2     1         3         1                                                                                                                         CONTRAPRESTAÇÕES/PRÊMIOS A RESTITUIR
+
+
+
+    2     1         3         1         1                                                                                                               CONTRAPRESTAÇÕES/PRÊMIOS A RESTITUIR DE ASSISTÊNCIA MÉDICO-HOSPITALAR
+
+
+
+    2     1         3         1         1          9                                                                                                    Contraprestações/Prêmios a Restituir de Assistência Médico-Hospitalar
+
+    2     1         3         1         1          9           0              1                                                                         Contraprestações/Prêmios a Restituir de Assistência Médico-Hospitalar
+
+    2     1         3         1         1          9           0              1          1                                                              Contraprestação Pecuniária a Restituir
+
+    2     1         3         1         1          9           0              1          2                                                              Prêmios a Restituir
+
+
+
+    2     1         3         1         2                                                                                                               CONTRAPRESTAÇÕES/PRÊMIOS A RESTITUIR DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    2     1         3         1         2          9                                                                                                    Contraprestações/Prêmios a Restituir de Assistência Odontológica
+
+    2     1         3         1         2          9           0              1                                                                         Contraprestações/Prêmios a Restituir de Assistência Odontológica
+
+    2     1         3         1         2          9           0              1          1                                                              Contraprestação Pecuniária a Restituir
+
+    2     1         3         1         2          9           0              1          2                                                              Prêmios a Restituir
+
+
+
+    2     1         3         2                                                                                                                         RECEITA ANTECIPADA DE CONTRAPRESTAÇÕES/PRÊMIOS
+
+
+
+    2     1         3         2         1                                                                                                               CONTRAPRESTAÇÃO PECUNIÁRIA/PRÊMIOS RECEBIDOS ANTECIPADAMENTE - ASSISTÊNCIA MÉDICO HOSPITALAR
+
+
+
+    2     1         3         2         1          9                                                                                                    Contraprestação Pecuniária/Prêmios Recebidos Antecipadamente - Assistência Médico Hospitalar
+
+    2     1         3         2         1          9           0              1                                                                         Contraprestação Pecuniária/Prêmios Recebidos Antecipadamente - Assistência Médico Hospitalar
+
+    2     1         3         2         1          9           0              1          1                                                              Contraprestação Pecuniária/Prêmios Recebidos Antecipadamente - Assistência Médico Hospitalar
+
+
+
+    2     1         3         2         2                                                                                                               CONTRAPRESTAÇÃO PECUNIÁRIA/PRÊMIOS RECEBIDOS ANTECIPADAMENTE - ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    2     1         3         2         2          9                                                                                                    Contraprestação Pecuniária/Prêmios Recebidos Antecipadamente - Assistência Odontológica
+
+    2     1         3         2         2          9           0              1                                                                         Contraprestação Pecuniária/Prêmios Recebidos Antecipadamente - Assistência Odontológica
+
+    2     1         3         2         2          9           0              1          1                                                              Contraprestação Pecuniária/Prêmios Recebidos Antecipadamente - Assistência Odontológica
+
+
+
+    2     1         3         4                                                                                                                         COMERCIALIZAÇÃO SOBRE OPERAÇÕES
+
+
+
+    2     1         3         4         1                                                                                                               COMERCIALIZAÇÃO SOBRE OPERAÇÕES DE ASSISTÊNCIA MÉDICO-HOSPITALAR
+
+
+
+    2     1         3         4         1          9                                                                                                    Comercialização sobre Operações de Assistência Médico-Hospitalar
+
+    2     1         3         4         1          9           0              1                                                                         Comercialização sobre Operações de Assistência Médico-Hospitalar
+
+    2     1         3         4         1          9           0              1          1                                                              Débitos de Comercialização sobre Contraprestação Pecuniária
+
+    2     1         3         4         1          9           0              1          2                                                              Comissões a Pagar - Seguros
+
+
+
+    2     1         3         4         2                                                                                                               COMERCIALIZAÇÃO SOBRE OPERAÇÕES DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    2     1         3         4         2          9                                                                                                    Comercialização sobre Operações de Assistência Odontológica
+
+    2     1         3         4         2          9           0              1                                                                         Comercialização sobre Operações de Assistência Odontológica
+
+    2     1         3         4         2          9           0              1          1                                                              Débitos de Comercialização sobre Contraprestação Pecuniária
+
+                                                                                                                                                                                                                                                       2/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+    2     1         3         4         2          9           0              1          2                                                              Comissões a Pagar - Seguros
+
+
+
+    2     1         3         5                                                                                                                         OPERADORAS DE PLANOS DE ASSISTÊNCIA À SAÚDE
+
+
+
+    2     1         3         5         1                                                                                                               Operadoras de Planos de Assistência Médico-Hospitalar
+
+
+
+    2     1         3         5         1          1                                                                                                    Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pre-estabelecido
+
+    2     1         3         5         1          1           0              1                                                                         Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pre-estabelecido
+
+    2     1         3         5         1          1           0              1          1                                                              Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pre-estabelecido
+
+    2     1         3         5         1          2                                                                                                    Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pós-estabelecido
+
+    2     1         3         5         1          2           0              1                                                                         Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pós-estabelecido
+
+    2     1         3         5         1          2           0              1          1                                                              Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pós-estabelecido
+
+    2     1         3         5         1          9                                                                                                    Co - Seguradoras
+
+    2     1         3         5         1          9           0              1                                                                         Cosseguro Aceito
+
+    2     1         3         5         1          9           0              1          1                                                              Prêmios
+
+    2     1         3         5         1          9           0              1          2                                                              Sinistros
+
+    2     1         3         5         1          9           0              1          3                                                              Comercialização
+
+    2     1         3         5         1          9           0              1          8                                                              Outros Débitos
+
+    2     1         3         5         1          9           0              2                                                                         Cosseguro Cedido
+
+    2     1         3         5         1          9           0              2          1                                                              Prêmios
+
+    2     1         3         5         1          9           0              2          2                                                              Sinistros
+
+    2     1         3         5         1          9           0              2          3                                                              Comercialização
+
+    2     1         3         5         1          9           0              2          8                                                              Outros Débitos
+
+
+
+    2     1         3         5         2                                                                                                               OPERADORAS DE PLANOS DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    2     1         3         5         2          1                                                                                                    Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pre-estabelecido
+
+    2     1         3         5         2          1           0              1                                                                         Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pre-estabelecido
+
+    2     1         3         5         2          1           0              1          1                                                              Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pre-estabelecido
+
+    2     1         3         5         2          2                                                                                                    Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pós-estabelecido
+
+    2     1         3         5         2          2           0              1                                                                         Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pós-estabelecido
+
+    2     1         3         5         2          2           0              1          1                                                              Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pós-estabelecido
+
+    2     1         3         5         2          9                                                                                                    Co - Seguradoras
+
+    2     1         3         5         2          9           0              1                                                                         Co - Seguradoras - Cosseguro Aceito
+
+    2     1         3         5         2          9           0              1          1                                                              Prêmios
+
+    2     1         3         5         2          9           0              1          2                                                              Sinistros
+
+    2     1         3         5         2          9           0              1          3                                                              Comercialização
+
+    2     1         3         5         2          9           0              1          8                                                              Outros Débitos
+
+    2     1         3         5         2          9           0              2                                                                         Cosseguro Cedido
+
+    2     1         3         5         2          9           0              2          1                                                              Prêmios
+
+    2     1         3         5         2          9           0              2          2                                                              Sinistros
+
+    2     1         3         5         2          9           0              2          3                                                              Comercialização
+
+    2     1         3         5         2          9           0              2          8                                                              Outros Débitos
+
+
+
+    2     1         3         6                                                                                                                         DÉBITOS DE OPERAÇÕES DE ADMINISTRAÇÃO DE BENEFÍCIOS
+
+
+
+    2     1         3         6         1                                                                                                               DÉBITOS DE ADMINISTRAÇÃO DE BENEFÍCIOS DE PLANOS DE ASSISTÊNCIA MÉDICO HOSPITALAR
+
+
+
+
+                                                                                                                                                                                                                                            3/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+    2     1         3         6         1          9                                                                                                    Débitos de Administração de Benefícios de Planos de Assistência Médico-Hospitalar
+
+    2     1         3         6         1          9           0              1                                                                         Contraprestações Pecuniárias/Prêmios a Repassar - Contratos Estipulados
+
+    2     1         3         6         1          9           0              1          1                                                              Contraprestações Pecuniárias/Prêmios a Repassar - Contratos Estipulados
+
+    2     1         3         6         1          9           0              1          2                                                              Contraprestações Pecuniárias/Prêmios a Repassar - Contratos Não Estipulados
+
+
+
+    2     1         3         6         2                                                                                                               DÉBITOS DE ADMINISTRAÇÃO DE BENEFÍCIOS DE PLANOS DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    2     1         3         6         2          9                                                                                                    Débitos de Administração de Benefícios de Planos de Assistência Odontológica
+
+    2     1         3         6         2          9           0              1                                                                         Contraprestações Pecuniárias/Prêmios a Repassar - Contratos Estipulados
+
+    2     1         3         6         2          9           0              1          1                                                              Contraprestações Pecuniárias/Prêmios a Repassar - Contratos Estipulados
+
+    2     1         3         6         2          9           0              1          2                                                              Contraprestações Pecuniárias/Prêmios a Repassar - Contratos Não Estipulados
+
+
+
+    2     1         3         8                                                                                                                         OUTROS DÉBITOS DE OPERAÇÕES COM PLANOS DE ASSISTÊNCIA À SAÚDE
+
+
+
+    2     1         3         8         1                                                                                                               OUTROS DÉBITOS DE OPERAÇÕES COM PLANOS DE ASSISTÊNCIA MÉDICO HOSPITALAR
+
+
+
+    2     1         3         8         1          9                                                                                                    Outros Débitos de Operações com Planos de Assistência Médico-Hospitalar
+
+    2     1         3         8         1          9           0              8                                                                         Outros Débitos de Operações com Planos de Assistência Médico-Hospitalar
+
+    2     1         3         8         1          9           0              8          1                                                              Outros Débitos de Operações com Planos de Assistência Médico-Hospitalar
+
+
+
+    2     1         3         8         2                                                                                                               OUTROS DÉBITOS DE OPERAÇÕES COM PLANOS DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    2     1         3         8         2          9                                                                                                    Outros Débitos de Operações com Planos de Assistência Odontológica
+
+    2     1         3         8         2          9           0              8                                                                         Outros Débitos de Operações com Planos de Assistência Odontológica
+
+    2     1         3         8         2          9           0              8          1                                                              Outros Débitos de Operações com Planos de Assistência Odontológica
+
+
+                                                                                                                                                        DÉBITOS COM OPERAÇÕES DE ASSISTÊNCIA À SAÚDE NÃO RELACIONADAS COM PLANOS DE SAÚDE DA
+    2     1         4                                                                                                                                   OPERADORA
+
+
+
+    2     1         4         1                                                                                                                         DÉBITOS A PRESTADORES DE SERVIÇOS DE ASSISTÊNCIA À SAÚDE
+
+
+
+    2     1         4         1         1                                                                                                               DÉBITOS A PRESTADORES DE SERVIÇOS DE ASSISTÊNCIA À SAÚDE
+
+
+
+    2     1         4         1         1          9                                                                                                    Débitos a Prestadores de Serviços de Assistência à Saúde
+
+    2     1         4         1         1          9           0              1                                                                         Prestadores de Serviços de Assistência à Saúde
+
+    2     1         4         1         1          9           0              1          1                                                              Prestadores de Serviços de Assistência à Saúde
+
+
+
+    2     1         4         8                                                                                                                         OUTROS DÉBITOS NÃO RELACIONADOS COM PLANOS DE SAÚDE DA OPERADORA
+
+
+
+    2     1         4         8         8                                                                                                               OUTROS DÉBITOS NÃO RELACIONADOS COM PLANOS DE SAÚDE DA OPERADORA
+
+
+
+    2     1         4         8         8          9                                                                                                    Outros Débitos Não Relacionados com Planos de Saúde da Operadora
+
+    2     1         4         8         8          9           0              8                                                                         Outros Débitos Não Relacionados com Planos de Saúde da Operadora
+
+    2     1         4         8         8          9           0              8          1                                                              Outros Débitos Não Relacionados com Planos de Saúde da Operadora
+
+
+
+    2     1         5                                                                                                                                   PROVISÕES
+
+
+
+    2     1         5         1                                                                                                                         PROVISÃO PARA IMPOSTO DE RENDA E CONTRIBUIÇÃO SOCIAL
+
+
+
+
+                                                                                                                                                                                                                                               4/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+    2     1         5         1         1                                                                                                               PROVISÃO PARA IMPOSTO DE RENDA E CONTRIBUIÇÃO SOCIAL
+
+
+
+    2     1         5         1         1          9                                                                                                    Provisão para Imposto de Renda e Contribuição Social
+
+    2     1         5         1         1          9           0              1                                                                         Provisão para Imposto de Renda e Contribuição Social
+
+    2     1         5         1         1          9           0              1          1                                                              Provisão para Imposto de Renda - IRPJ
+
+    2     1         5         1         1          9           0              1          2                                                              Provisão para Contribuição Social Sobre o Lucro Líquido - CSSL
+
+
+
+    2     1         5         3                                                                                                                         PROVISÕES PARA AÇÕES JUDICIAIS
+
+
+
+    2     1         5         3         1                                                                                                               PROVISÕES PARA AÇÕES JUDICIAIS
+
+
+
+    2     1         5         3         1          9                                                                                                    Provisões para Ações Judiciais
+
+    2     1         5         3         1          9           0              1                                                                         Provisões para Ações Judiciais
+
+    2     1         5         3         1          9           0              1          1                                                              Provisão para Ações Tributárias
+
+    2     1         5         3         1          9           0              1          2                                                              Provisão para Ações Civeis
+
+    2     1         5         3         1          9           0              1          3                                                              Provisão para Ações Trabalhistas
+
+
+
+    2     1         6                                                                                                                                   TRIBUTOS E ENCARGOS SOCIAIS A RECOLHER
+
+
+
+    2     1         6         1                                                                                                                         TRIBUTOS E CONTRIBUIÇÕES
+
+
+
+    2     1         6         1         1                                                                                                               TRIBUTOS E CONTRIBUIÇÕES
+
+
+
+    2     1         6         1         1          9                                                                                                    Tributos e Contribuições
+
+    2     1         6         1         1          9           0              1                                                                         Imposto de Renda Pessoa Jurídica a Pagar
+
+    2     1         6         1         1          9           0              1          1                                                              Imposto de Renda Pessoa Jurídica a Pagar
+
+    2     1         6         1         1          9           0              1          2                                                              (-) Antecipação de IRPJ
+
+    2     1         6         1         1          9           0              2                                                                         Contribuição Social sobre o Lucro Líquido a Pagar
+
+    2     1         6         1         1          9           0              2          1                                                              Contribuição Social sobre o Lucro Líquido a Pagar
+
+    2     1         6         1         1          9           0              2          2                                                              (-) Antecipação de CSLL
+
+    2     1         6         1         1          9           0              3                                                                         Outros Tributos e Contribuições
+
+    2     1         6         1         1          9           0              3          1                                                              Imposto Sobre Serviços - ISS
+
+    2     1         6         1         1          9           0              3          2                                                              Imposto Sobre Operações Financeiras - IOF
+
+    2     1         6         1         1          9           0              3          3                                                              Taxa de Saúde Suplementar - TSS
+
+    2     1         6         1         1          9           0              3          4                                                              Contribuições Previdenciárias
+
+    2     1         6         1         1          9           0              3          5                                                              FGTS a Recolher
+
+    2     1         6         1         1          9           0              3          6                                                              COFINS e PIS / PASEP
+
+    2     1         6         1         1          9           0              3          8                                                              Outros Impostos e Contribuições a Recolher
+
+
+
+    2     1         6         2                                                                                                                         RETENÇÕES DE IMPOSTOS E CONTRIBUIÇÕES
+
+
+
+    2     1         6         2         1                                                                                                               RETENÇÕES DE IMPOSTOS E CONTRIBUIÇÕES
+
+
+
+    2     1         6         2         1          9                                                                                                    Retenções de Imposto e Contribuições
+
+    2     1         6         2         1          9           0              1                                                                         Retenções de Imposto e Contribuições
+
+    2     1         6         2         1          9           0              1          1                                                              Imposto de Renda Retido na Fonte - de Funcionários
+
+    2     1         6         2         1          9           0              1          2                                                              Imposto de Renda Retido na Fonte - de Terceiros
+
+    2     1         6         2         1          9           0              1          3                                                              Imposto Sobre Serviços Retido na Fonte
+
+                                                                                                                                                                                                                         5/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+    2     1         6         2         1          9           0              1          4                                                              Contribuição Social Sobre o Lucro Líquido - CSLL
+
+    2     1         6         2         1          9           0              1          5                                                              COFINS
+
+    2     1         6         2         1          9           0              1          6                                                              PIS
+
+    2     1         6         2         1          9           0              1          7                                                              Contribuições Previdenciárias Retidas de Terceiros
+
+    2     1         6         2         1          9           0              1          8                                                              Outros
+
+
+
+    2     1         6         3                                                                                                                         PARCELAMENTO DE TRIBUTOS E CONTRIBUIÇÕES
+
+
+
+    2     1         6         3         1                                                                                                               PARCELAMENTO DE TRIBUTOS E CONTRIBUIÇÕES
+
+
+
+    2     1         6         3         1          9                                                                                                    Parcelamento de Tributos e Contribuições
+
+    2     1         6         3         1          9           0              1                                                                         Parcelamento de Tributos e Contribuições
+
+    2     1         6         3         1          9           0              1          1                                                              Imposto de Renda
+
+    2     1         6         3         1          9           0              1          2                                                              Contribuição Social Sobre o Lucro Líquido - CSLL
+
+    2     1         6         3         1          9           0              1          3                                                              Imposto Sobre Serviços - ISS
+
+    2     1         6         3         1          9           0              1          4                                                              COFINS
+
+    2     1         6         3         1          9           0              1          5                                                              PIS
+
+    2     1         6         3         1          9           0              1          6                                                              Contribuições Previdenciárias
+
+    2     1         6         3         1          9           0              1          8                                                              Outros
+
+
+
+    2     1         7                                                                                                                                   EMPRÉSTIMOS E FINANCIAMENTOS A PAGAR
+
+
+
+    2     1         7         1                                                                                                                         EMPRÉSTIMOS
+
+
+
+    2     1         7         1         1                                                                                                               EMPRÉSTIMOS
+
+
+
+    2     1         7         1         1          9                                                                                                    Empréstimos
+
+    2     1         7         1         1          9           0              1                                                                         Empréstimos
+
+    2     1         7         1         1          9           0              1          1                                                              Empréstimos Hipotecários
+
+    2     1         7         1         1          9           0              1          2                                                              Empréstimos Bancários
+
+    2     1         7         1         1          9           0              1          8                                                              Outros Empréstimos
+
+    2     1         7         1         1          9           0              1          9                                                              (-) Ajuste a Valor Presente
+
+
+
+    2     1         7         2                                                                                                                         FINANCIAMENTOS
+
+
+
+    2     1         7         2         1                                                                                                               FINANCIAMENTOS
+
+
+
+    2     1         7         2         1          9                                                                                                    Financiamentos
+
+    2     1         7         2         1          9           0              1                                                                         Financiamentos
+
+    2     1         7         2         1          9           0              1          1                                                              Financiamentos para Aquisição de Ativos
+
+    2     1         7         2         1          9           0              1          8                                                              Outros Financiamentos
+
+    2     1         7         2         1          9           0              1          9                                                              (-) Ajuste a Valor Presente
+
+
+
+    2     1         8                                                                                                                                   DÉBITOS DIVERSOS
+
+
+
+    2     1         8         1                                                                                                                         OBRIGAÇÕES COM PESSOAL
+
+
+
+    2     1         8         1         1                                                                                                               OBRIGAÇÕES COM PESSOAL
+
+                                                                                                                                                                                                             6/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+
+
+    2     1         8         1         1          9                                                                                                    Obrigações com Pessoal
+
+    2     1         8         1         1          9           0              1                                                                         Obrigações com Pessoal
+
+    2     1         8         1         1          9           0              1          1                                                              Salários a Pagar
+
+    2     1         8         1         1          9           0              1          2                                                              Participações
+
+    2     1         8         1         1          9           0              1          3                                                              Honorários
+
+    2     1         8         1         1          9           0              1          4                                                              Férias
+
+    2     1         8         1         1          9           0              1          5                                                              Décimo Terceiro Salário
+
+    2     1         8         1         1          9           0              1          8                                                              Outras Obrigações com Pessoal
+
+
+
+    2     1         8         2                                                                                                                         FORNECEDORES
+
+
+
+    2     1         8         2         1                                                                                                               FORNECEDORES
+
+
+
+    2     1         8         2         1          9                                                                                                    Fornecedores
+
+    2     1         8         2         1          9           0              1                                                                         Fornecedores
+
+    2     1         8         2         1          9           0              1          1                                                              Fornecedores
+
+
+
+    2     1         8         3                                                                                                                         DEPENDÊNCIAS NO PAÍS
+
+
+
+    2     1         8         3         1                                                                                                               DEPENDÊNCIAS NO PAÍS
+
+
+
+    2     1         8         3         1          9                                                                                                    Dependencias no País
+
+    2     1         8         3         1          9           0              1                                                                         Dependências no País
+
+    2     1         8         3         1          9           0              1          1                                                              Dependências no País
+
+
+
+    2     1         8         4                                                                                                                         PROGRAMAS ASSISTENCIAIS E CULTURAIS AOS PARTICIPANTES
+
+
+
+    2     1         8         4         1                                                                                                               PROGRAMAS ASSISTENCIAIS E CULTURAIS AOS PARTICIPANTES
+
+
+
+    2     1         8         4         1          9                                                                                                    Programas Assistenciais e Culturais aos Participantes
+
+    2     1         8         4         1          9           0              1                                                                         Programas Assistenciais e Culturais aos Participantes
+
+    2     1         8         4         1          9           0              1          1                                                              Programas Assistenciais e Culturais aos Participantes
+
+
+
+    2     1         8         5                                                                                                                         DEPÓSITOS DE BENEFICIÁRIOS E DE TERCEIROS
+
+
+
+    2     1         8         5         1                                                                                                               DEPÓSITOS DE BENEFICIÁRIOS E DE TERCEIROS
+
+
+
+    2     1         8         5         1          9                                                                                                    Depósitos de Beneficiários de Terceiros
+
+    2     1         8         5         1          9           0              1                                                                         Depósitos de Beneficiários de Terceiros
+
+    2     1         8         5         1          9           0              1          1                                                              Depósitos de Beneficiários de Planos de Assistência à Saúde e de Terceiros
+
+
+
+    2     1         8         6                                                                                                                         DÉBITOS COM AQUISIÇÃO DE CARTEIRA
+
+
+
+    2     1         8         6         1                                                                                                               DÉBITOS COM AQUISIÇÃO DE CARTEIRA
+
+
+
+    2     1         8         6         1          9                                                                                                    Débitos com Aquisição de Carteira
+
+    2     1         8         6         1          9           0              1                                                                         Débitos com Aquisição de Carteira
+
+                                                                                                                                                                                                                                     7/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+    2     1         8         6         1          9           0              1          1                                                              Débitos com Aquisição de Carteira de Beneficiários de Planos de Saúde
+
+
+
+    2     1         8         8                                                                                                                         OUTROS DÉBITOS A PAGAR
+
+
+
+    2     1         8         8         8                                                                                                               OUTROS DÉBITOS A PAGAR
+
+
+
+    2     1         8         8         8          9                                                                                                    Outros Débitos a Pagar
+
+    2     1         8         8         8          9           0              8                                                                         Outros Débitos a Pagar
+
+    2     1         8         8         8          9           0              8          1                                                              Aluguéis a Pagar
+
+    2     1         8         8         8          9           0              8          2                                                              Dividendos e Juros sobre Capital Próprio a Pagar
+
+    2     1         8         8         8          9           0              8          8                                                              Outros Débitos a Pagar
+
+
+
+    2     1         9                                                                                                                                   CONTA-CORRENTE DE COOPERADOS
+
+
+
+    2     1         9         1                                                                                                                         CONTA-CORRENTE DE COOPERADOS
+
+
+
+    2     1         9         1         1                                                                                                               CONTA-CORRENTE DE COOPERADOS
+
+
+
+    2     1         9         1         1          9                                                                                                    Conta-Corrente de Cooperados
+
+    2     1         9         1         1          9           0              1                                                                         Conta-Corrente de Cooperados
+
+    2     1         9         1         1          9           0              1          1                                                              Débitos a Pagar a Cooperados
+
+
+
+    2     3                                                                                                                                             PASSIVO NÃO CIRCULANTE
+
+
+
+    2     3         1                                                                                                                                   PROVISÕES TÉCNICAS DE OPERAÇÕES DE ASSISTÊNCIA A SAÚDE
+
+
+
+    2     3         1         1                                                                                                                         PROVISÕES TÉCNICAS DE OPERAÇÕES DE ASSISTÊNCIA A SAÚDE
+
+
+
+    2     3         1         1         1                                                                                                               PROVISÕES TÉCNICAS DE OPERAÇÕES DE ASSISTÊNCIA MÉDICO-HOSPITALAR
+
+
+
+    2     3         1         1         1          9                                                                                                    Provisões Técnicas de Operações de Assistência Médico-Hospitalar
+
+    2     3         1         1         1          9           0              1                                                                         Provisão de Prêmios/Contraprestações
+
+    2     3         1         1         1          9           0              1          1                                                              Provisão de Prêmio/Contraprestação Não Ganha
+
+    2     3         1         1         1          9           0              1          2                                                              Provisão de Insuficiência de Prêmios
+
+    2     3         1         1         1          9           0              1          3                                                              Provisão para Remissão
+
+    2     3         1         1         1          9           0              2                                                                         Provisão de Eventos/Sinistros a Liquidar para o SUS
+
+    2     3         1         1         1          9           0              2          1                                                              Provisão de Eventos/Sinistros a Liquidar para o SUS
+
+    2     3         1         1         1          9           0              3                                                                         Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores de Serviços Assistenciais
+
+    2     3         1         1         1          9           0              3          1                                                              Rede Contratada/Credenciada
+
+    2     3         1         1         1          9           0              3          2                                                              Cooperados
+
+    2     3         1         1         1          9           0              3          3                                                              Intercâmbio Eventual
+
+    2     3         1         1         1          9           0              3          4                                                              Reembolso
+
+    2     3         1         1         1          9           0              3          5                                                              Rede Própria
+
+    2     3         1         1         1          9           0              4                                                                         Provisão para Eventos/Sinistros Ocorridos e Não Avisados
+
+    2     3         1         1         1          9           0              4          1                                                              Provisão para Eventos/Sinistros Ocorridos e Não Avisados
+
+    2     3         1         1         1          9           0              8                                                                         Outras Provisões Técnicas
+
+    2     3         1         1         1          9           0              8          1                                                              Outras Provisões Técnicas - Autorizadas
+
+    2     3         1         1         1          9           0              8          2                                                              Outras Provisões Técnicas - Obrigatórias
+
+                                                                                                                                                                                                                                                     8/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+
+
+    2     3         1         1         2                                                                                                               PROVISÕES TÉCNICAS DE OPERAÇÕES DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    2     3         1         1         2          9                                                                                                    Provisões Técnicas de Operações de Assistência Odontológica
+
+    2     3         1         1         2          9           0              1                                                                         Provisão de Prêmios/Contraprestações
+
+    2     3         1         1         2          9           0              1          1                                                              Provisão de Prêmio/Contraprestação Não Ganha
+
+    2     3         1         1         2          9           0              1          2                                                              Provisão de Insuficiência de Prêmios
+
+    2     3         1         1         2          9           0              1          3                                                              Provisão para Remissão
+
+    2     3         1         1         2          9           0              2                                                                         Provisão de Eventos/Sinistros a Liquidar para o SUS
+
+    2     3         1         1         2          9           0              2          1                                                              Provisão de Eventos/Sinistros a Liquidar para o SUS
+
+    2     3         1         1         2          9           0              3                                                                         Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores de Serviços Assistenciais
+
+    2     3         1         1         2          9           0              3          1                                                              Rede Contratada/Credenciada
+
+    2     3         1         1         2          9           0              3          2                                                              Cooperados
+
+    2     3         1         1         2          9           0              3          3                                                              Intercâmbio Eventual
+
+    2     3         1         1         2          9           0              3          4                                                              Reembolso
+
+    2     3         1         1         2          9           0              3          5                                                              Rede Própria
+
+    2     3         1         1         2          9           0              4                                                                         Provisão para Eventos/Sinistros Ocorridos e Não Avisados (PEONA)
+
+    2     3         1         1         2          9           0              4          1                                                              Provisão para Eventos/Sinistros Ocorridos e Não Avisados (PEONA)
+
+    2     3         1         1         2          9           0              8                                                                         Outras Provisões Técnicas
+
+    2     3         1         1         2          9           0              8          1                                                              Outras Provisões Técnicas - Autorizadas
+
+    2     3         1         1         2          9           0              8          2                                                              Outras Provisões Técnicas - Obrigatórias
+
+
+
+    2     3         5                                                                                                                                   PROVISÕES
+
+
+
+    2     3         5         3                                                                                                                         PROVISÕES
+
+
+
+    2     3         5         3         1                                                                                                               PROVISÕES PARA TRIBUTOS DIFERIDOS
+
+
+
+    2     3         5         3         1          9                                                                                                    Provisões para Tributos Diferidos
+
+    2     3         5         3         1          9           0              1                                                                         Provisões para Tributos Diferidos
+
+    2     3         5         3         1          9           0              1          1                                                              Imposto de Renda Diferido
+
+    2     3         5         3         1          9           0              1          2                                                              Contribuição Social Diferida
+
+    2     3         5         3         1          9           0              1          8                                                              Outros Tributos Diferidos
+
+
+
+    2     3         5         3         2                                                                                                               PROVISÕES PARA AÇÕES JUDICIAIS
+
+
+
+    2     3         5         3         2          9                                                                                                    Provisões para Ações Judiciais
+
+    2     3         5         3         2          9           0              1                                                                         Provisões para Ações Judiciais
+
+    2     3         5         3         2          9           0              1          1                                                              Provisão para Ações Tributárias
+
+    2     3         5         3         2          9           0              1          2                                                              Provisão para Ações Civeis
+
+    2     3         5         3         2          9           0              1          3                                                              Provisão para Ações Trabalhistas
+
+
+
+    2     3         6                                                                                                                                   TRIBUTOS E ENCARGOS SOCIAIS A RECOLHER
+
+
+
+    2     3         6         4                                                                                                                         TRIBUTOS E ENCARGOS SOCIAIS A RECOLHER
+
+
+
+    2     3         6         4         1                                                                                                               TRIBUTOS E CONTRIBUIÇÕES
+
+
+
+
+                                                                                                                                                                                                                                                     9/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+    2     3         6         4         1          9                                                                                                    Tributos e Contribuições
+
+    2     3         6         4         1          9           0              1                                                                         Tributos e Contribuições
+
+    2     3         6         4         1          9           0              1          1                                                              Imposto de Renda Pessoa Jurídica - IRPJ
+
+    2     3         6         4         1          9           0              1          2                                                              Contribuição Social Sobre o Lucro Líquido -CSLL
+
+    2     3         6         4         1          9           0              1          8                                                              Outros Impostos e Contribuições a Recolher
+
+
+
+    2     3         6         4         2                                                                                                               PARCELAMENTO DE TRIBUTOS E CONTRIBUIÇÕES
+
+
+
+    2     3         6         4         2          9                                                                                                    Parcelamento de Tributos e Contribuições
+
+    2     3         6         4         2          9           0              1                                                                         Parcelamento de Tributos e Contribuições
+
+    2     3         6         4         2          9           0              1          1                                                              Imposto de Renda
+
+    2     3         6         4         2          9           0              1          2                                                              Contribuição Social Sobre o Lucro Líquido -CSLL
+
+    2     3         6         4         2          9           0              1          3                                                              Imposto Sobre Serviços - ISS
+
+    2     3         6         4         2          9           0              1          4                                                              COFINS
+
+    2     3         6         4         2          9           0              1          5                                                              PIS
+
+    2     3         6         4         2          9           0              1          6                                                              Contribuições Previdenciárias
+
+    2     3         6         4         2          9           0              1          8                                                              Outros Tributos e Encargos Sociais
+
+
+
+    2     3         7                                                                                                                                   EMPRÉSTIMOS E FINANCIAMENTOS A PAGAR
+
+
+
+    2     3         7         7                                                                                                                         EMPRÉSTIMOS E FINANCIAMENTOS A PAGAR
+
+
+
+    2     3         7         7         1                                                                                                               EMPRÉSTIMOS
+
+
+
+    2     3         7         7         1          9                                                                                                    Empréstimos
+
+    2     3         7         7         1          9           0              1                                                                         Empréstimos
+
+    2     3         7         7         1          9           0              1          1                                                              Empréstimos Hipotecários
+
+    2     3         7         7         1          9           0              1          2                                                              Empréstimos Bancários
+
+    2     3         7         7         1          9           0              1          8                                                              Outros Empréstimos
+
+    2     3         7         7         1          9           0              1          9                                                              (-) Ajuste a Valor Presente
+
+
+
+    2     3         7         7         2                                                                                                               FINANCIAMENTOS
+
+
+
+    2     3         7         7         2          9                                                                                                    Financiamentos
+
+    2     3         7         7         2          9           0              1                                                                         Financiamentos
+
+    2     3         7         7         2          9           0              1          1                                                              Financiamentos para Aquisição de Ativos
+
+    2     3         7         7         2          9           0              1          8                                                              Outros Financiamentos
+
+    2     3         7         7         2          9           0              1          9                                                              (-) Ajuste a Valor Presente
+
+
+
+    2     3         8                                                                                                                                   DÉBITOS DIVERSOS
+
+
+
+    2     3         8         8                                                                                                                         DÉBITOS DIVERSOS
+
+
+
+    2     3         8         8         1                                                                                                               FORNECEDORES
+
+
+
+    2     3         8         8         1          9                                                                                                    Fornecedores
+
+    2     3         8         8         1          9           0              1                                                                         Fornecedores
+
+    2     3         8         8         1          9           0              1          1                                                              Fornecedores
+
+                                                                                                                                                                                                          10/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+
+
+    2     3         8         8         2                                                                                                               OUTROS DÉBITOS
+
+
+
+    2     3         8         8         2          9                                                                                                    Outros Débitos
+
+    2     3         8         8         2          9           0              1                                                                         Outros Débitos
+
+    2     3         8         8         2          9           0              1          1                                                              Outros Débitos
+
+    2     3         8         8         2          9           0              1          9                                                              (-) Ajuste a Valor Presente
+
+
+
+    2     3         8         8         3                                                                                                               DEPÓSITOS DE TERCEIROS
+
+
+
+    2     3         8         8         3          9                                                                                                    Depósitos de Terceiros
+
+    2     3         8         8         3          9           0              1                                                                         Depósitos de Terceiros
+
+    2     3         8         8         3          9           0              1          1                                                              Depósitos de Terceiros
+
+    2     3         8         8         3          9           0              1          9                                                              (-) Ajuste a Valor Presente
+
+
+
+    2     3         8         8         8                                                                                                               OUTRAS EXIGIBILIDADES DE LONGO PRAZO
+
+
+
+    2     3         8         8         8          9                                                                                                    Outras Exigibilidades de longo Prazo
+
+    2     3         8         8         8          9           0              8                                                                         Outras Exigibilidades de longo Prazo
+
+    2     3         8         8         8          9           0              8          8                                                              Outras Exigibilidades de Longo Prazo
+
+    2     3         8         8         8          9           0              8          9                                                              (-) Ajuste a Valor Presente
+
+
+
+    2     5                                                                                                                                             PATRIMÔNIO LÍQUIDO / PATRIMÔNIO SOCIAL
+
+
+
+    2     5         1                                                                                                                                   CAPITAL SOCIAL/PATRIMÔNIO SOCIAL
+
+
+
+    2     5         1         1                                                                                                                         CAPITAL SOCIAL SUBSCRITO / PATRIMÔNIO SOCIAL
+
+
+
+    2     5         1         1         1                                                                                                               CAPITAL SOCIAL NACIONAL
+
+
+
+    2     5         1         1         1          9                                                                                                    Capital Social Nacional
+
+    2     5         1         1         1          9           0              1                                                                         Capital Social Nacional
+
+    2     5         1         1         1          9           0              1          1                                                              Capital Social - Cotas
+
+    2     5         1         1         1          9           0              1          2                                                              Ações Ordinárias
+
+    2     5         1         1         1          9           0              1          3                                                              Ações Preferenciais
+
+
+
+    2     5         1         1         2                                                                                                               CAPITAL SOCIAL ESTRANGEIRO
+
+
+
+    2     5         1         1         2          9                                                                                                    Capital Social Estrangeiro
+
+    2     5         1         1         2          9           0              1                                                                         Capital Social Estrangeiro
+
+    2     5         1         1         2          9           0              1          1                                                              Capital Social - Cotas
+
+    2     5         1         1         2          9           0              1          2                                                              Ações Ordinárias
+
+    2     5         1         1         2          9           0              1          3                                                              Ações Preferenciais
+
+
+
+    2     5         1         1         3                                                                                                               PATRIMÔNIO SOCIAL
+
+
+
+    2     5         1         1         3          9                                                                                                    Patrimônio Social
+
+    2     5         1         1         3          9           0              1                                                                         Patrimônio Social
+
+                                                                                                                                                                                                        11/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+    2     5         1         1         3          9           0              1          1                                                              Patrimônio Social
+
+
+
+    2     5         1         2                                                                                                                         (-) ACIONISTAS/COTISTAS CAPITAL A INTEGRALIZAR
+
+
+
+    2     5         1         2         1                                                                                                               (-) ACIONISTAS/COTISTAS CAPITAL A INTEGRALIZAR
+
+
+
+    2     5         1         2         1          9                                                                                                    (-) Acionistas / Cotistas Capital a Integralizar
+
+    2     5         1         2         1          9           0              1                                                                         (-) Acionistas / Cotistas Capital a Integralizar
+
+    2     5         1         2         1          9           0              1          1                                                              (-) Acionistas / Cotistas País
+
+    2     5         1         2         1          9           0              1          2                                                              (-) Acionistas / Cotistas Exterior
+
+
+
+    2     5         2                                                                                                                                   ADIANTAMENTO PARA FUTURO AUMENTO DE CAPITAL
+
+
+
+    2     5         2         1                                                                                                                         ADIANTAMENTO PARA FUTURO AUMENTO DE CAPITAL
+
+
+
+    2     5         2         1         1                                                                                                               ADIANTAMENTO PARA FUTURO AUMENTO DE CAPITAL
+
+
+
+    2     5         2         1         1          9                                                                                                    Adiantamento para Futuro Aumento de Capital
+
+    2     5         2         1         1          9           0              1                                                                         Adiantamento para Futuro Aumento de Capital
+
+    2     5         2         1         1          9           0              1          1                                                              Adiantamento para Futuro Aumento de Capital
+
+
+
+    2     5         3                                                                                                                                   RESERVAS
+
+
+
+    2     5         3         1                                                                                                                         RESERVAS DE CAPITAL / RESERVAS PATRIMONIAIS
+
+
+
+    2     5         3         1         1                                                                                                               RESERVAS DE CAPITAL / RESERVAS PATRIMONIAIS
+
+
+
+    2     5         3         1         1          9                                                                                                    Reservas de Capital/Reservas Patrimoniais
+
+    2     5         3         1         1          9           0              1                                                                         Reservas de Capital/Reservas Patrimoniais
+
+    2     5         3         1         1          9           0              1          1                                                              Reservas de Capital/Reservas Patrimoniais
+
+
+
+    2     5         3         2                                                                                                                         RESERVAS DE REAVALIAÇÃO
+
+
+
+    2     5         3         2         1                                                                                                               RESERVAS DE REAVALIAÇÃO
+
+
+
+    2     5         3         2         1          9                                                                                                    Reservas de Reavaliação
+
+    2     5         3         2         1          9           0              1                                                                         Reservas de Reavaliação
+
+    2     5         3         2         1          9           0              1          1                                                              Reservas de Reavaliação - Ativos Próprios
+
+    2     5         3         2         1          9           0              1          2                                                              Reservas de Reavaliação - Coligadas e Controladas
+
+
+
+    2     5         3         2         5                                                                                                               (-) TRIBUTOS DIFERIDOS
+
+
+
+    2     5         3         2         5          9                                                                                                    (-) Tributos Diferidos
+
+    2     5         3         2         5          9           0              1                                                                         (-) Tributos Diferidos
+
+    2     5         3         2         5          9           0              1          1                                                              (-) Imposto de Renda Pessoa Jurídica - IRPJ
+
+    2     5         3         2         5          9           0              1          2                                                              (-) Contribuição Social - CSLL
+
+
+
+    2     5         3         3                                                                                                                         RESERVAS DE LUCROS / SOBRAS / RETENÇÃO DE SUPERÁVITS
+
+                                                                                                                                                                                                               12/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+
+
+    2     5         3         3         1                                                                                                               RESERVAS DE LUCROS
+
+
+
+    2     5         3         3         1          9                                                                                                    Reservas de Lucros
+
+    2     5         3         3         1          9           0              1                                                                         Reservas de Lucros
+
+    2     5         3         3         1          9           0              1          1                                                              Reserva Legal
+
+    2     5         3         3         1          9           0              1          2                                                              Reservas Estatutárias
+
+    2     5         3         3         1          9           0              1          3                                                              Reservas para Contingências
+
+    2     5         3         3         1          9           0              1          4                                                              Reserva de Lucros a Realizar
+
+    2     5         3         3         1          9           0              1          5                                                              Reserva Especial para Dividendos
+
+    2     5         3         3         1          9           0              1          6                                                              Reserva de Retenção de Lucros
+
+    2     5         3         3         1          9           0              1          7                                                              Reserva de Incentivos Fiscais
+
+    2     5         3         3         1          9           0              2                                                                         Reservas de Sobras/Retenção de Superávits
+
+    2     5         3         3         1          9           0              2          1                                                              Fundo de Reserva
+
+    2     5         3         3         1          9           0              2          2                                                              Fundo de Assistência Técnica, Educacional e Social (F.A.T.E.S.)
+
+    2     5         3         3         1          9           0              2          8                                                              Outras Reservas de Lucros / Sobras / Retenção de Superávits
+
+
+
+    2     5         4                                                                                                                                   AJUSTES DE AVALIAÇÃO PATRIMONIAL
+
+
+
+    2     5         4         1                                                                                                                         GANHOS E PERDAS NÃO REALIZADOS COM TÍTULOS E VALORES MOBILIÁRIOS
+
+
+
+    2     5         4         1         1                                                                                                               GANHOS E PERDAS NÃO REALIZADOS COM TÍTULOS E VALORES MOBILIÁRIOS
+
+
+
+    2     5         4         1         1          9                                                                                                    Ganhos e Perdas Não Realizados com Títulos e Valores Mobiliários
+
+    2     5         4         1         1          9           0              1                                                                         Ganhos e Perdas Não Realizados com Títulos e Valores Mobiliários
+
+    2     5         4         1         1          9           0              1          1                                                              Ganhos e Perdas Não Realizados com Títulos e Valores Mobiliários
+
+
+
+    2     5         4         9                                                                                                                         OUTROS AJUSTES DE AVALIAÇÃO PATRIMONIAL
+
+
+
+    2     5         4         9         1                                                                                                               OUTROS AJUSTES A VALOR DE MERCADO
+
+
+
+    2     5         4         9         1          9                                                                                                    Outros Ajustes a Valor de Mercado
+
+    2     5         4         9         1          9           0              1                                                                         Outros Ajustes a Valor de Mercado
+
+    2     5         4         9         1          9           0              1          1                                                              Outros Ajustes a Valor de Mercado
+
+
+
+    2     5         5                                                                                                                                   (-) AÇÕES EM TESOURARIA
+
+
+
+    2     5         5         1                                                                                                                         (-) AÇÕES EM TESOURARIA
+
+
+
+    2     5         5         1         1                                                                                                               (-) AÇÕES EM TESOURARIA
+
+
+
+    2     5         5         1         1          9                                                                                                    (-) Ações em Tesouraria
+
+    2     5         5         1         1          9           0              1                                                                         (-) Ações em Tesouraria
+
+    2     5         5         1         1          9           0              1          1                                                              (-) Ações em Tesouraria
+
+
+
+    2     5         6                                                                                                                                   LUCROS/PREJUÍZOS-SUPERÁVITS/DÉFICITS ACUMULADOS ou RESULTADO
+
+
+
+    2     5         6         1                                                                                                                         LUCROS/PREJUÍZOS-SUPERÁVITS/DÉFICITS ACUMULADOS
+
+                                                                                                                                                                                                                           13/14
+                                                                                                                                                                           ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          PASSIVO
+
+
+
+
+                                        CODIFICAÇÃO
+           1º cód.                          2º cód.                                                     3º cód.
+  1º     2º 3º 4º                     5º 6º 7º 8º 9º                                                10º 11º 12º 13º
+
+
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                        DESCRIÇÃO
+
+
+
+    2     5         6         1         1                                                                                                               LUCROS/PREJUÍZOS-SUPERÁVITS/DÉFICITS ACUMULADOS
+
+
+
+    2     5         6         1         1          9                                                                                                    Lucros/Superávits ou Prejuízos/Déficits Apurados
+
+    2     5         6         1         1          9           0              1                                                                         Lucros/Superávits ou Prejuízos/Déficits Apurados
+
+    2     5         6         1         1          9           0              1          1                                                              Lucros/Superávits Apurados
+
+    2     5         6         1         1          9           0              1          2                                                              Prejuízos/Déficits Apurados
+
+
+
+    2     5         6         2                                                                                                                         RESULTADO - COOPERATIVAS
+
+
+
+    2     5         6         2         1                                                                                                               RESULTADO - COOPERATIVAS
+
+
+
+    2     5         6         2         1          9                                                                                                    Resultado - Cooperativas
+
+    2     5         6         2         1          9           0              1                                                                         Resultado - Cooperativas
+
+    2     5         6         2         1          9           0              1          1                                                              Resultado do Ato Cooperativo - Mês
+
+    2     5         6         2         1          9           0              1          2                                                              Resultado Tributável - Mês
+
+    2     5         6         2         1          9           0              1          3                                                              Sobra à Disposição da A.G.O
+
+    2     5         6         2         1          9           0              1          4                                                              Perda do Período à Disposição da A.G.O.
+
+
+
+    2     9                                                                                                                                             COMPENSAÇÃO - PASSIVO
+
+
+
+    2     9         1                                                                                                                                   COMPENSAÇÃO - PASSIVO
+
+
+
+    2     9         1         1                                                                                                                         COMPENSAÇÃO - PASSIVO
+
+
+
+    2     9         1         1         1                                                                                                               COMPENSAÇÃO - PASSIVO
+
+
+    2     9         1         1         1          9                                                                                                    Compensação - Passivo
+    2     9         1         1         1          9           0              1                                                                         Compensação - Passivo
+    2     9         1         1         1          9           0              1          1                                                              Ativo Garantidor do Mantenedor
+    2     9         1         1         1          9           0              1          8                                                              Outros
+
+
+
+
+                                                                                                                                                                                                           14/14
+

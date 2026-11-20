@@ -1,0 +1,144 @@
+                                                                                      1
+
+
+
+
+                                         ANEXO I
+
+“ANEXO I - INFORMAÇÕES ECONÔMICO-FINANCEIRAS E DOS PRODUTOS
+REQUERIDAS PARA ANÁLISE DOS PLEITOS DE TRANSFERÊNCIAS DE CARTEIRAS
+ENTRE OPERADORAS”.
+
+I – De responsabilidade da adquirente:
+
+I.1) Descrição pormenorizada da transação, apontando-se as características gerais e as
+específicas, conforme se segue:
+
+   1. Número de beneficiários da carteira em negociação;
+   2. Nos casos de alienação parcial, descrição detalhada dos critérios para
+      fracionamento da carteira em negociação, que deverá respeitar os limites
+      estabelecidos no art. 8º;
+   3. Custo da transação e forma de pagamento;
+   4. Detalhamento do acordo operacional (responsabilidades sobre o passivo com a
+      rede prestadora e os eventos ocorridos e não avisados);
+   5. Data pretendida para implementação da operação; e
+   6. Impacto previsto nas provisões técnicas.
+
+I.2) Composição da carteira objeto da negociação no que se refere à distribuição dos
+beneficiários por região geográfica e faixas etárias, observados os parâmetros da
+tabela definida pelo Art. 2º da RN 63/2003.
+
+I.3) Distribuição dos beneficiários da carteira objeto da negociação por planos, segundo
+o código do plano antigo da operadora cadastrado no SCPA ou número de registro na
+ANS (planos regidos pela Lei 9.656/98).
+
+I.4) Projeções (com explicitação dos critérios utilizados) para os 12 meses
+subseqüentes à aquisição, da carteira atual e da carteira total após a negociação,
+contendo as seguintes estimativas:
+
+   1. Dos Resultados, Receitas e Despesas mensais médios, por faixas etárias,
+      baseados no Demonstrativo das Receitas e Despesas: a) da carteira em
+      negociação; e b) da carteira atual, detalhado a partir das informações do DIOPS.
+   2. De novos entrantes em conformidade com a previsão de vendas, observadas as
+      faixas etárias;
+   3. Da taxa de desistência (saída voluntária do plano ou por morte) e de
+      inadimplência, por faixa etária e do total;
+                                                                                   2
+
+
+
+
+   4. Da incidência de fator moderador, e os valores e/ou percentuais de franquia
+      e/ou co-participação, se aplicável;
+   5. Das despesas não-assistenciais da carteira total após a aquisição, segregadas
+      entre administrativas, comerciais e outras.
+
+I.5) Mapa por idade de saldo das Contraprestações a Receber e dos Eventos a Liquidar,
+distribuídos conforme modelo solicitado no DIOPS, da carteira atual.
+
+I.6) Balancete analítico da operadora adquirente na data-base correspondente à pelo
+menos o último mês reportado no DIOPS, em conformidade com os prazos
+estabelecidos na legislação vigente.
+
+II – De responsabilidade da alienante:
+
+II.1) Mapa por idade do saldo das Contraprestações a Receber e dos Eventos a
+Liquidar, distribuídos conforme modelo solicitado no DIOPS, da carteira sob
+negociação, e da carteira total (caso se tratar de uma transferência parcial).
+
+II.2) Balancete analítico da operadora alienante na data-base correspondente à pelo
+menos o último mês reportado no DIOPS, em conformidade com os prazos
+estabelecidos na legislação vigente.
+
+II.3) Fornecer à adquirente o demonstrativo das receitas e despesas da carteira em
+negociação, por faixas etárias, referentes aos doze meses anteriores ao pedido de
+autorização, elaborado de acordo com o fracionamento descrito no artigo 8º da RN
+112.
+
+IMPORTANTE: Para o caso de alienação parcial de carteira, a operadora alienante
+deverá apresentar também as informações solicitadas no item I.4, especificamente
+para a carteira remanescente na operadora.
+
+Todas as informações fornecidas pelas operadoras terão suas consistências verificadas
+nas seguintes bases de dados da ANS:
+
+Cadastro de Beneficiários - SIB;
+Sistema de Informação de Produtos – SIP;
+Registro de Planos de Saúde – RPS;
+Cadastro de Planos Antigos – SCPA;
+Cadastro de Operadoras – CADOP; e
+Documento de Informações de Operadoras – DIOPS.
+                                                                                   3
+
+
+
+
+As operadoras deverão apresentar em papel timbrado Termo de Responsabilidade no
+seguinte formato:
+
+
+
+
+                    Termo de Responsabilidade – RN nº 145/2007
+
+À AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR - ANS
+
+A/C DIRETORIA DE NORMAS E HABILITAÇÃO DOS PRODUTOS – DIPRO
+
+      O representante legal perante a ANS e o profissional responsável pela
+contabilidade da operadora ____(RAZÃO SOCIAL DA OPERADORA)____, Registro na
+ANS nº ___(REGISTRO)__, inscrita sob CNPJ nº _____(CNPJ)____, responsabilizam-se
+por todas as informações apresentadas e pela consistência das projeções e estimativas
+exigidas nos Anexos da Resolução Normativa nº 145/2007.
+
+
+
+(Cidade), (Data)
+Assinatura                                             Assinatura
+Nome do Representante Legal da Operadora          Nome do Contador da
+perante a ANS                                          Operadora
+(Cargo)                                          (nº Registro CRC)” (NR)
+                                                                                  4
+
+
+
+
+                                    ANEXO II
+
+“ANEXO II - INFORMAÇÕES REFERENTES À REDE HOSPITALAR”:
+
+À cessionária caberá confirmar a manutenção da rede hospitalar da cedente, ou, caso
+pretenda alterar esta rede, encaminhar para a ANS sua proposta de rede hospitalar
+para os produtos objeto da alienação, especificando os recursos disponibilizados de
+acordo com os quadros do Anexo III-a e III-b da IN DIPRO Nº 11, de 7 de junho de
+2005; dispensada a informação da coluna Situação na Rede.
+
+No caso de não se aplicar a mesma rede hospitalar para todos os produtos envolvidos,
+a operadora deverá apresentar as diferentes propostas para cada conjunto de planos,
+que deverão estar discriminados por número de registro no RPS ou código do plano
+antigo cadastrado no SCPA.
+
+De acordo com o § 2º do art. 4º desta RN, as operadoras para alterarem a rede
+hospitalar vinculada aos planos da carteira em negociação devem obedecer ao disposto
+no art. 17 da Lei 9656/98.” (NR)
+

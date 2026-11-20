@@ -1,0 +1,162 @@
+                                  Anexo III
+           PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+ SOBRE CÁLCULO DE FATORES PONDERADORES DE RISCOS DE FUNDOS
+                             DE INVESTIMENTOS
+      (Exclusivamente para operadoras de planos de assistência à saúde e
+administradoras de benefícios que optaram pela faculdade prevista no item 13 do
+                       Anexo III-A da RN nº 451/2020)
+
+                         Data Base do DIOPS: ___ trimestre de ______
+
+As questões abaixo devem ser respondidas pela administração da Operadora ou da Administradora de Benefícios
+em conexão com a preparação do quadro “Detalhamento de Fundos de Investimentos para Apuração do Capital
+Referente ao Risco de Crédito” encaminhado por meio do DIOPS. Nas respostas deve-se incluir as justificativas
+da administração para as divergências apontadas.
+
+O auditor independente deverá aplicar os procedimentos previamente acordados descritos nas questões abaixo,
+em conformidade com pronunciamento NBC TSC 4400, aprovado pela Resolução 1.277/10 do Conselho Federal
+de Contabilidade (CFC). Os procedimentos descritos nas respectivas questões, correspondem aos procedimentos
+mínimos que devem ser efetuados pelo auditor independente que, como resultado, deverá emitir relatório com a
+descrição dos procedimentos efetuados e as constatações identificadas para cada procedimento realizado.
+
+
+1 - Modelo Padrão de Capital – Capital Referente ao Risco de Crédito
+
+Os procedimentos descritos nessa seção são aplicáveis a partir da adoção das regras de
+capital baseado em risco pela operadora, seja pela adoção antecipada conforme Art. 14 da
+RN 451 de 2020, ou pela adoção compulsória a partir dos prazos fixados nos Art. 11 e 13
+da referida RN.
+
+Considerando os valores informados no Quadro de Detalhamento de Fundos de
+Investimentos para Apuração do Capital Referente ao Risco de Crédito referente à Parcela
+2 e a listagem de Fundos de Investimento dedicados ao setor suplementar (FDSS) definidos
+conforme a RN nº 392/2015 que informarem o Fator de Ponderação de Risco (FPR)
+calculado à ANS no trimestre de cálculo divulgada no sitio da ANS (www.ans.gov.br) na
+seção Espaço da Operadora - Regulação Prudencial, Acompanhamento Assistencial e
+Econômico-Financeiro - Regulação Prudencial - Capital Regulatório, efetue os
+procedimentos a seguir, considerando o DIOPS do período em análise:
+
+1.1 - Preencher o quadro abaixo com o total de aplicações em fundos de investimento
+segregando entre aplicações em quotas de Fundos de Investimento dedicados ao setor
+suplementar (FDSS) definidos conforme a RN nº 392/2015 que informarem o Fator de
+Ponderação de Risco (FPR) calculado à ANS no trimestre de cálculo, no âmbito do convênio
+firmado e demais aplicações em outros fundos conforme serão informados no DIOPS:
+
+                                                                                 Total em Aplicações em
+        Tipos de aplicações em quotas de fundos de investimentos                  quotas de Fundos de
+                                                                                      Investimento
+
+Fundos dedicados ao setor suplementar (FDSS) definidos conforme a RN nº
+392/2015 que informaram o Fator de Ponderação de Risco (FPR) calculado à
+ANS no trimestre de cálculo, no âmbito do convênio firmado
+
+
+Fundos de investimentos que não se enquadram como FDSS ou de FDSS que
+não informaram o FPR calculado à ANS no trimestre de cálculo, no âmbito do
+convênio firmado
+Procedimento de auditoria
+
+(i) Obter a carteira de fundos de investimentos e confrontar com os registros contábeis na data-base em análise;
+
+(ii) Obter a carteira de fundos de investimentos utilizados para Apuração do Capital Referente ao Risco de Crédito
+referente à Parcela 2 e a listagem de Fundos de Investimento dedicados ao setor suplementar (FDSS) definidos
+conforme a RN nº 392/2015 e confrontar com os saldos preenchidos no Quadro.
+
+Constatações do auditor:
+
+
+1.2 – Considerando os valores contidos em extratos ou outros documentos oficiais obtidos
+juntos às respectivas instituições financeiras administradoras, o valor total em aplicações
+em quotas de fundos de investimentos está corretamente informado e está distribuído
+corretamente nos dois subcampos do quadro acima:
+
+(   ) Sim
+(   ) Não. Descrever e explicar as divergências existentes.
+
+Procedimento de auditoria
+
+Obter o extrato ou outros documentos oficiais obtidos juntos às respectivas instituições financeiras
+administradoras dos fundos de investimentos utilizados para Apuração do Capital Referente ao Risco de Crédito
+referente à Parcela 2 e a listagem de Fundos de Investimento dedicados ao setor suplementar (FDSS) definidos
+conforme a RN nº 392/2015 que informaram o FPR no site específico da ANS (http://www.ans.gov.br/planos-de-
+saude-e-operadoras/espaco-da-operadora/regulacao-prudencial-acompanhamento-assistencial-e-economico-
+financeiro/regulacao-prudencial/capital-regulatorio), e confrontar com os saldos preenchidos no Quadro.
+
+Constatações do auditor:
+
+
+1.3 – Caso a operadora possua aplicações em quotas de Fundos de Investimento dedicados
+ao setor suplementar (FDSS) definidos conforme a RN nº 392/2015, o valor informado
+como Fator Ponderador de Risco para o Total em Aplicações em quotas de FDSS definidos
+conforme a RN nº 392/2015 que informaram o FPR calculado à ANS no trimestre de cálculo,
+no âmbito do convênio firmado, é igual ao valor médio ponderado de acordo com as
+aplicações da operadora nesses fundos e os respectivos fatores divulgados no site da ANS:
+
+(   ) Sim
+(   ) Não. Descrever e explicar as divergências existentes.
+
+Procedimento de auditoria
+
+Obter o extrato ou outros documentos oficiais obtidos juntos às respectivas instituições financeiras
+administradoras dos fundos de investimentos, a listagem de Fundos de Investimento dedicados ao setor
+suplementar (FDSS), que informaram o FPR no site específico da ANS (http://www.ans.gov.br/planos-de-saude-
+e-operadoras/espaco-da-operadora/regulacao-prudencial-acompanhamento-assistencial-e-economico-
+financeiro/regulacao-prudencial/capital-regulatorio), e o cálculo do Fator de Ponderação de Risco (FPR) elaborado
+pela operadora para a data base em análise. Recalcular o Fator de Ponderação de Risco (FPR) através da média
+ponderada do total das aplicações dos ativos dos fundos e os respectivos fatores divulgados no site da ANS e
+confrontar com o valor médio ponderado calculado pela operadora e informado à ANS por meio do Quadro
+“Detalhamento de Fundos de Investimentos para Apuração do Capital Referente ao Risco de Crédito (Parcela 2)”
+do DIOPS.
+
+Constatações do auditor:
+1.4 – A operadora optou pela faculdade estabelecida no item 13 do Anexo III-A da RN 451,
+de 2020?
+
+( ) Sim. Informe o FPR para o Total em Aplicações em quotas de fundos de investimentos
+que não se enquadram como FDSS ou de FDSS que não informem o FPR calculado à ANS
+no trimestre de cálculo, no âmbito do convênio firmado: _______%.
+( ) Não.
+
+Procedimento de auditoria
+
+i. Para cada fundo de investimento em que a operadora aplique seus recursos, checagem do total do valor
+investido utilizado no cálculo com os respectivos saldos informados pelos gestores de fundos;
+
+ii. Checagem do total dos valores investidos em fundo de investimento, conforme definido no item (a), com o
+total informado nas respectivas contas contábeis de ativos definidas pelo plano de contas padrão da ANS e
+respectivos saldos informados no DIOPS para a mesma data-base;
+
+iii. Cálculo da exposição proporcional em cada fundo, considerando a participação relativa de cada operação no
+valor total da carteira;
+
+iv. Cálculo do FPR médio para cada fundo de investimento, considerando a exposição proporcional aferida no item
+(iii) e os valores de FPR apresentados nos itens 12 e 13.7.
+
+v. Cálculo do FPR médio ponderado total, considerando o valor total investido em cada fundo, conforme aferido
+no item (a), e o respectivo FPR médio de cada fundo, conforme calculado no item (d).
+
+vi. Caso o fundo de investimento invista em cotas de outros fundos de investimento e a operadora opte por
+calcular o valor do FPR para estes fundos, os procedimentos de verificação do cálculo do FPR deverão ser
+realizados para cada fundo com investimento indireto que a operadora opte por calcular o valor de FPR diferente
+de 100%.
+
+vii. Confrontar o valor apurado com o FPR informado pela operadora à ANS por meio do Quadro “Detalhamento
+de Fundos de Investimentos para Apuração do Capital Referente ao Risco de Crédito (Parcela 2)” do DIOPS.
+
+Constatações do auditor:
+
+
+1.5 – Caso a operadora não tenha optado pela faculdade estabelecida no item 13.3 do
+Anexo III-A da RN 451, de 2020, o valor do FPR informado é igual a 100% (cem por cento).
+
+(   ) Sim
+(   ) Não. Descrever e explicar as divergências existentes.
+
+Procedimento de auditoria
+
+Verificar se o Fator de Ponderação de Risco (FPR) informado no Quadro “Detalhamento de Fundos de
+Investimentos para Apuração do Capital Referente ao Risco de Crédito (Parcela 2)” do DIOPS do trimestre em
+análise é de 100%.
+
+Constatações do auditor:
+

@@ -1,0 +1,39 @@
+                                          ANEXO I À MINUTA DE NORMA
+
+
+
+                                  ANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021
+
+
+          PROCEDIMENTO                    SUBGRUPO         GRUPO        CAPÍTULO       OD AMB HCO HSO REF PAC DUT
+                                                                      PROCEDIMENTOS
+ PAINEL DE SEQUENCIAMENTO DE NOVA
+                                      GENÉTICA MOLECULAR   GENÉTICA   DIAGNÓSTICOS E      AMB   HCO   HSO   REF   PAC   178
+GERAÇÃO (NGS) PARA CÂNCER DE PULMÃO
+                                                                       TERAPÊUTICOS
+                                     ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021
+
+
+
+64. TERAPIA ANTINEOPLÁSICA ORAL PARA TRATAMENTO DO CÂNCER
+
+SUBSTÂNCIA                  LOCALIZAÇÃO         INDICAÇÃO
+                                                Tratamento, em primeira linha, de
+                                                pacientes adultos com câncer de
+                                                pulmão não pequenas células
+Tepotinibe, Cloridrato de   Pulmão
+                                                (CPNPC) avançado, com mutação do
+                                                tipo skipping (em salto) no éxon 14 do
+                                                gene MET (METex14)
+
+
+
+178. PAINEL DE SEQUENCIAMENTO DE NOVA GERAÇÃO (NGS) PARA CÂNCER DE PULMÃO
+
+1. Cobertura obrigatória para sequenciamento de nova geração (NGS) para identificação de alterações genômicas nos genes
+EGFR, ALK, ROS1, RET, NTRK, BRAF, MET, KRAS e HER2 em pacientes com câncer de pulmão de não pequenas células (CPNPC)
+não escamoso avançado ou metastático (estágios IIIB a IV).
+
+Obs.: Realizar a testagem em amostra de tecido tumoral ou, em caso de insuficiência tecidual, em amostra plasmática (biópsia
+líquida).
+

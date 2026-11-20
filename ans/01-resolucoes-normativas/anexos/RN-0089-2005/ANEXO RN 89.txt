@@ -1,0 +1,237 @@
+                              ANEXO l
+
+                        TPS - VENCIMENTO
+
+MÊS DE RECOLHIMENTO               PERÍODO BASE DE CÁLCULO
+        Março                       Dezembro, Janeiro e Fevereiro
+        Junho                           Março, Abril e Maio
+       Setembro                        Junho, Julho e Agosto
+       Dezembro                    Setembro, Outubro e Novembro
+
+                              ANEXO ll
+
+                              TABELA I
+
+TPS - DESCONTOS POR ABRANGÊNCIA GEOGRÁFICA DO PLANO
+
+   ABRANGÊNCIA                            DESCONTO (%)
+   GEOGRÁFICA
+       Nacional                                5
+   Grupo de Estados                            10
+       Estadual                                15
+  Grupo de Municípios                          20
+      Municipal                                25
+
+                              TABELA II
+
+ TPS - DESCONTOS POR COBERTURA MÉDICO-HOSPITALAR-
+              ODONTOLÓGICA OFERECIDA
+
+         COBERTURA                            DESCONTO (%)
+        Ambulatorial (A)                           20
+        A + Hospitalar (H)                          6
+      A+H+Odontológico (O)                          4
+      A+H+ Obstetrícia (OB)                         4
+          A+H+OB+O                                  2
+              A+O                                  14
+               H                                   16
+              H+O                                  14
+             H+OB                                  14
+            H+OB+O                                 12
+               O                                   32
+
+                              ANEXO III
+
+                 ATOS DE SAÚDE SUPLEMENTAR
+    ATOS DE SAÚDE SUPLEMENTAR                              VALOR (R$)
+           Registro de Produto – TRP                         1.000,00
+          Registro de Operadora – TRO                        2.000,00
+     Alteração de Dados de Produto – TAP                      500,00
+    Alteração de Dados de Operadora – TAO                    1.000,00
+     Pedido de Reajuste de Contraprestação                   1.000,00
+                Pecuniária – TRC
+
+                                      ANEXO IV
+
+        TAO - TAXAS DE ALTERAÇÃO DE DADOS DA OPERADORA
+
+                      ATO                            VALOR DA TAXA (R$)
+       Transferência de controle societário               1.000,00
+    Alteração de contrato social ou reforma               1.000,00
+                   estatutária
+     (com ou sem mudança da razão social)
+            Alteração nome fantasia                           500,00
+      (com ou sem alteração do contrato ou
+                    estatuto)
+  Alteração do endereço da sede da operadora                  500,00
+      (com ou sem alteração do contrato ou
+                    estatuto)
+       Alteração do representante legal ou                    500,00
+           representante junto à ANS
+      (com ou sem alteração do contrato ou
+                    estatuto)
+  Alteração dos administradores e responsável                1.000,00
+                     técnico
+
+                                      ANEXO IV
+
+                        (Redação dada pela RN nº 97, de 2005)
+
+,TAO - TAXA DE ALTERAÇÃO DE DADOS DA OPERADORA EM PROCESSO
+        DE ATOS INDICADOS NO PARÁGRAFO ÚNICO DO ART. 16
+
+                                                                         Valor da TAO
+                                  Ato
+                                                                              (R$)
+Alteração do nome fantasia (com ou sem alteração do contrato ou estatuto)500,00
+Alteração do endereço da sede da operadora (com ou sem alteração do
+                                                                          500,00
+contrato ou estatuto)
+Alteração do representante legal ou representante junto à ANS (com ou sem
+                                                                          500,00
+alteração do contrato ou estatuto)
+
+                                      ANEXO IV
+                              (Repristinado pela RN nº 98, de 2005)
+
+           TAO - TAXAS DE ALTERAÇÃO DE DADOS DA OPERADORA
+
+                         ATO                             VALOR DA TAXA (R$)
+          Transferência de controle societário                1.000,00
+       Alteração de contrato social ou reforma                1.000,00
+                      estatutária
+        (com ou sem mudança da razão social)
+               Alteração nome fantasia                            500,00
+         (com ou sem alteração do contrato ou
+                       estatuto)
+     Alteração do endereço da sede da operadora                   500,00
+         (com ou sem alteração do contrato ou
+                       estatuto)
+          Alteração do representante legal ou                     500,00
+              representante junto à ANS
+         (com ou sem alteração do contrato ou
+                       estatuto)
+     Alteração dos administradores e responsável                 1.000,00
+                        técnico
+
+                                           ANEXO IV
+
+                             (Redação dada pela RN nº 101, de 2005)
+
+  TAO - TAXA DE ALTERAÇÃO DE DADOS DA OPERADORA EM PROCESSO
+
+            DE ATOS INDICADOS NO PARÁGRAFO ÚNICO DO ART. 16
+
+                                    Ato                                     Valor da TAO (R$)
+Alteração do nome fantasia                                                        500,00
+
+(com ou sem alteração do contrato ou estatuto)
+                                                                                  500,00
+Alteração do endereço da sede
+da operadora
+(com ou sem alteração do contrato ou estatuto)
+Alteração do representante legal ou representante junto à ANS (com ou sem         500,00
+alteração do contrato ou estatuto)
+
+                                            ANEXO V
+
+       TAP - TAXAS DE ALTERAÇÃO DE DADOS DO PRODUTO EM REDE
+                     CONTRATADA INDIRETAMENTE
+     PERFIL DE CONTRATAÇÃO DA                     VALOR (R$) DA TAP POR
+       REDE HOSPITALAR PELA                    MOVIMENTAÇÃO DE ENTIDADE
+             OPERADORA                         HOSPITALAR DE CONTRATAÇÃO
+                                                      INDIRETA (R$)
+           Contratação direta > 75%                        25,00
+      Contratação direta entre 50% e 75 %                 125,00
+      Contratação direta entre 25% e 50 %                 250,00
+          Contratação direta < 25 %                       375,00
+
+                                       ANEXO V
+
+                         (Redação dada pela RN nº 97, de 2005)
+
+TAP - TAXA DE ALTERAÇÃO DE DADOS DO PRODUTO EM PROCESSO DE
+ENTIDADE HOSPITALAR CONTRATADA INDIRETAMENTE, CONFORME
+                     DISPOSTO NO ART. 18
+
+                                                                             Valor da
+        Percentual de contratação indireta da rede hospitalar
+                                                                             TAP (R$)
+Até 25,00% de contratação indireta                                         50,00
+De 25,01% a 50,00% de contratação indireta                                 100,00
+De 50,01% a 75,00% de contratação indireta                                 175,00
+De 75,01% a 100% de contratação indireta                                   250,00
+
+   Obs.: O valor percentual será calculado a partir da quantidade total de entidades
+hospitalares da operadora (total de hospitais de contratação direta + total de hospitais de
+                                  contratação indireta).
+
+                                       ANEXO V
+
+                         (Repristinado pela RN nº 98, de 2005)
+
+                           (Revogado pela RN nº101,de 2005)
+
+    TAP - TAXAS DE ALTERAÇÃO DE DADOS DO PRODUTO EM REDE
+                  CONTRATADA INDIRETAMENTE
+
+     PERFIL DE CONTRATAÇÃO DA                     VALOR (R$) DA TAP POR
+       REDE HOSPITALAR PELA                    MOVIMENTAÇÃO DE ENTIDADE
+             OPERADORA                         HOSPITALAR DE CONTRATAÇÃO
+                                                      INDIRETA (R$)
+           Contratação direta > 75%                        25,00
+      Contratação direta entre 50% e 75 %                 125,00
+      Contratação direta entre 25% e 50 %                 250,00
+          Contratação direta < 25 %                       375,00
+Correlações da RN nº 89:
+
+Lei nº 9.656, de 1998
+
+Lei nº 9.961, de 28 de janeiro de 2000
+
+Decreto nº 3.327, de 5 de janeiro de 2000
+
+Instrução Normativa nº 3, de 12 de fevereiro de 2004, da Secretaria do Tesouro Nacional;
+
+RDC nº 24, de 13 de junho de 2000
+
+RDC nº 39, de 27 de outubro de 2000.
+
+RN nº 4,de 22 de abril de 2002.
+
+RN nº 46, de 4 de setembro de 2003
+
+RN nº 85, de 07 de dezembro de 2004
+
+[Voltar]
+
+A RN nº 89 foi alterada pela:
+
+RN nº 97, de 2005;
+
+RN nº 98, de 2005, que REPRISTINOU a redação constante do parágrafo único do artigo
+16, do artigo 18 e dos anexos IV e V desta Resolução Normativa nº 89, de 2005;
+
+RN nº 101, de 2005;
+
+RN nº 179, de 2008, que REVOGOU o §2º do art. 18 desta RN nº 89.
+
+[Voltar]
+
+A RN nº 89 REVOGOU:
+
+§ 2º do art. 6º e § 2º do art. 8º da RDC n.º 4, de 2000;
+
+§ 3º do art. 1º da RDC n.º 5, de 2000;
+
+RDC n.º 6, de 2000;
+
+RDC n.º 10, de 2000;
+RDC n.º 14, de 2000;
+
+RDC n.º 23, de 2000;
+
+RN nº 7, de 2002.
+
+[Voltar]
+

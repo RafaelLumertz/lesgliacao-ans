@@ -1,0 +1,178 @@
+                                         ANEXO IV
+        Relação de indicadores mínimos para monitoramento da situação econômico-
+                                  financeira da operadora
+
+1.      Margem de Lucro Líquida (MLL)
+
+            Mostra a relação entre o resultado líquido e o total das receitas com
+            operação de planos de saúde (contraprestações efetivas). É calculada pela
+            fórmula:
+
+                                             Resultado Líquido
+                                 MLL = Contraprestações Efetivas1
+
+
+2.      Retorno sobre o Patrimônio Líquido (ROE)
+
+            Mostra a relação entre o resultado líquido e o patrimônio líquido. É calculado
+            pela fórmula:
+
+                                             Resultado Líquido
+                                     ROE = Patrimônio Líquido
+
+
+3.      Sinistralidade ou DM
+
+            Mostra a relação entre despesas assistenciais ou médicas, acrescidas do valor
+            absoluto das contraprestações de corresponsabilidade cedida (CCT); e o total
+            das receitas com contraprestações efetivas (ou operação de planos de
+            saúde), acrescido do valor absoluto das contraprestações de
+            corresponsabilidade cedida. É calculada pela fórmula:
+
+                                              Eventos Indenizáveis Líquidos +|CCT|
+                         SINISTRALIDADE =        Contraprestações Efetivas + |CCT|
+
+
+4.      Percentual de Despesas Administrativas em relação às Receitas de
+        Contraprestações (DA)
+
+            Mostra a relação entre despesas administrativas e o total das receitas com
+            contraprestações efetivas (ou operação de planos de saúde), acrescidas do
+            valor absoluto das contraprestações de corresponsabilidade cedida. É
+            calculado pela fórmula:
+
+                                         Despesa Administrativa
+                              DA = Contraprestações Efetivas2 + |CCT|
+
+1
+   No caso de administradora de benefícios, considerar apenas valores registrados em “receitas com
+administração de benefícios” (conta 3131 do Plano de Contas Padrão da ANS) que se encontram dentro de
+“receitas com operação de assistência à saúde” (conta 31 do Plano de Contas Padrão da ANS).
+2
+  Idem.
+5.          Percentual de Despesa Comercial em relação à Receita de Contraprestações (DC)
+
+            Mostra a relação entre despesas comerciais e o total das receitas com
+            contraprestações efetivas (ou operação de planos de saúde), acrescido do valor
+            absoluto das contraprestações de corresponsabilidade cedida. É calculado pela
+            fórmula:
+
+
+                                                  Despesa Comercial
+                                     DC = Contraprestações Efetivas3 + |CCT|
+
+
+6.          Percentual de Despesas Operacionais em relação às Receitas Operacionais
+
+            Mostra a relação entre despesas operacionais (assistenciais ou eventos
+            indenizáveis líquidos, comerciais, administrativas e outras despesas
+            operacionais), acrescidas do valor absoluto das contraprestações de
+            corresponsabilidade cedida, e o total das receitas operacionais (receitas de
+            contraprestações relacionadas a operações de planos de saúde e outras receitas
+            operacionais), acrescidas do valor absoluto das contraprestações de
+            corresponsabilidade cedida. É calculado pela fórmula:
+
+
+                                                     DOP =
+            Eventos Indenizáveis Líquidos + |CCT| + Despesa Comercial+Despesa Administrativa+Outras Despesas Operacionais
+                                     Contraprestações Efetivas + |CCT| +Outras Receitas Operacionais
+
+
+7.          Índice de Resultado Financeiro (IRF)
+
+            Mostra a relação entre o resultado financeiro líquido e o total das receitas com
+            contraprestações efetivas (ou operação de planos de saúde), acrescidas do valor
+            absoluto das contraprestações de corresponsabilidade cedida. É calculado pela
+            fórmula:
+
+
+                                             Resultado Financeiro Líquido
+                                     IRF = Contraprestações Efetivas + |CCT|
+
+8.          Liquidez Corrente (LC)
+
+            Mostra a relação entre os ativos conversíveis em dinheiro no curto prazo e as
+            dívidas de curto prazo:
+
+
+                                                   Ativo circulante
+                                             LC = Passivo Circulante
+
+
+
+3
+    Idem.
+9.      Capital de terceiros sobre o Capital próprio (CT/CP)
+
+        Representa a relação entre o total das dívidas e o Patrimônio líquido:
+
+
+                                       Passivo Circulante + Passivo Não Circulante
+                            CT/CP =                 Patrimônio Líquido
+
+
+
+
+10.     Prazo Médio de Contraprestações a receber (PMCR)
+
+      Representa o tempo médio que a operadora leva para receber os créditos de
+operações de saúde, já descontada a provisão para perdas sobre créditos (PPSC):
+
+
+                                               Créditos ops de saúde
+                                  PMCR = Contraprestações Efetivas X 360
+
+
+
+11.     Prazo Médio de Pagamento de Eventos (PMPE)
+
+        Representa o tempo médio que a operadora leva para pagar aos prestadores o
+que já foi avisado:
+                                           Provisão de Eventos a Liquidar
+                               PMPE =                                       X 360
+                                               Eventos Indenizáveis
+
+
+
+12.     Variação de Custos (VC)
+
+Representa a variação dos custos relacionados a assistência à saúde entre um período e
+outro. Calculado pela fórmula, separadamente para eventos indenizáveis médico-
+hospitalares e odontológicos:
+
+
+                                  Eventos Indenizáveis per capita do ano atual
+                          VC = Eventos Indenizáveis per capita do ano anterior - 1
+
+onde:
+
+Evento indenizável per capita de cada ano =
+Eventos Indenizáveis Líquidos + |CCT| − Variação da PEONA
+                  Total de Beneficiários
+
+
+
+Obs: Total de beneficiários corresponde ao somatório da quantidade de vínculos de
+beneficiários apurados nos 12 meses de cada ano.
+13.   Variação de Custos Assistenciais do Contrato Estipulado (para Administradoras
+de Benefícios)
+
+Representa a variação dos custos relacionados a assistência à saúde entre um período e
+outro. Calculado pela fórmula, separadamente para cada contrato estipulado:
+
+
+                    Evento Indenizável do Contrato Estipulado per capita do ano atual
+            VC = Eventos Indenizáveis do Contrato Estipulado per capita do ano anterior - 1
+
+onde:
+
+Eventos indenizáveis do Contrato Estipulado per capita de cada ano =
+
+                              Eventos Indenizáveis Líquidos + |CCT| − Variação da PEONA
+                                     Total de Beneficiários do Contrato Estipulado
+
+
+
+Obs: Total de beneficiários corresponde ao somatório da quantidade de vínculos de
+beneficiários apurados nos 12 meses de cada ano.
+

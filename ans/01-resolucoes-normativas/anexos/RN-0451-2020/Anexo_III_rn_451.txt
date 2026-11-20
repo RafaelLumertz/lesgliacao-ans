@@ -1,0 +1,234 @@
+                                             Anexo III
+                       Modelo padrão de capital baseado no risco de subscrição
+
+ 1. O capital baseado no risco de subscrição não se aplica às administradoras de benefícios e a contratos de
+    planos de saúde na modalidade de preço pós-estabelecido.
+
+ 2. O capital baseado no risco de subscrição é composto pelas parcelas: (i) capital baseado no risco de
+    precificação e (ii) capital baseado no risco de provisionamento.
+
+2.1 No cálculo do capital baseado no risco de subscrição, devem ser consideradas as operações de
+corresponsabilidade pela gestão dos riscos decorrentes do atendimento dos beneficiários de que trata a RN
+nº 430, de 2017, referentes a contratos de beneficiários em planos em pré-pagamento, da seguinte forma:
+
+a.   Das contraprestações emitidas devem ser deduzidas apenas as corresponsabilidades cedidas com
+     remuneração acordada em preço pré-estabelecido;
+
+b.   Os valores absolutos das corresponsabilidades cedidas com remuneração acordada em preço pós-
+     estabelecido e os eventos indenizáveis líquidos de beneficiários de outras operadoras cuja remuneração
+     foi acordada em preço pré-estabelecido devem ser somados aos eventos indenizáveis líquidos de
+     beneficiários da operadora com contratos de planos de saúde na modalidade de preço pré-estabelecido;
+     e
+
+c.   As corresponsabilidades assumidas com remuneração acordada em preço pré-estabelecido deverão ser
+     consideradas como um tipo de contratação.
+
+2.2. No cálculo do capital baseado no risco de subscrição, devem ser consideradas as operações de seguro
+     e resseguro que tenham como objeto o reembolso total ou parcial de despesas assistenciais da seguinte
+     forma:
+
+a.   Os prêmios de seguros e resseguros líquidos pagos, nos últimos doze meses, a seguradoras e/ou
+     resseguradoras devem ser deduzidos das contraprestações emitidas; e
+
+b.   Os sinistros de seguros e resseguros recuperados, nos últimos doze meses, de seguradoras e
+     resseguradoras devem ser deduzidos dos eventos indenizáveis líquidos.
+
+2.3. O capital baseado no risco de provisionamento subdivide-se em parcelas referentes a: (i) risco de
+     provisionamento associado à provisão de eventos ocorridos e não avisados (PEONA); (ii) risco
+     associado à provisão de remissão (risco de remissão) e (iii) risco associado à provisão de eventos e
+     sinistros a liquidar do ressarcimento ao Sistema Único de Saúde (PESL-SUS).
+
+ 3. Para o cálculo do risco de precificação, as variáveis relacionadas aos planos privados de assistência à
+    saúde devem ser segmentadas de acordo com o tipo de contratação (individual, coletivo por adesão ou
+    coletivo empresarial ou corresponsabilidade assumida em preço pré-estabelecido) e por segmentação
+    assistencial (médico-hospitalar ou exclusivamente odontológico).
+
+ 4. A fórmula para cálculo do risco de precificação é:
+
+                                                                ′
+                                  𝐶𝑅𝑆𝑃𝑟𝑒𝛼 = √(𝐶𝑐,𝑙 × 𝛽𝑐,𝑙,𝛼 ) × (𝐶𝑐,𝑙 × 𝛽𝑐,𝑙,𝛼 )
+       Na qual:
+
+       𝐶𝑅𝑆𝑃𝑟𝑒𝛼 é o capital baseado no risco de precificação, conforme o tipo do fator;
+
+       𝐶𝑐,𝑙 é o total de contraprestações nos últimos doze meses, calculada considerando-se o disposto
+       nos itens 2.1 e 2.2 deste Anexo, na segmentação assistencial “c” no tipo de contratação “l”,
+       organizado sob a forma de vetor;
+
+       𝛽𝑐,𝑙,𝛼 é o fator associado à segmentação assistencial “c”, tipo de contratação “l” e ao tipo do fator
+       (padrão ou reduzido);
+
+       c é o índice associado ao tipo de segmentação assistencial, podendo indicar planos médico-
+       hospitalares e odontológicos;
+
+       l é o índice associado ao tipo de contratação, podendo indicar planos contratados individualmente,
+       planos coletivos empresariais ou planos coletivos por adesão e corresponsabilidade assumida em
+       preço pré-estabelecido;
+
+
+   4.1. Os valores dos fatores (β) associados a cada segmentação assistencial, tipo de contratação e tipo de
+   fator são:
+
+                                 Tabela 1 – Fatores – Risco de Precificação
+    Segmentação Assistencial       Tipo de contratação          Fator Padrão             Fator Reduzido
+    Médico-Hospitalar           Individual                         0,043                      0,033
+    Médico-Hospitalar           Coletivo por adesão                0,082                      0,062
+    Médico-Hospitalar           Coletivo empresarial               0,114                      0,087
+    Médico-Hospitalar           Corresponsabilidade                0,114                      0,087
+                                assumida em preço pré-
+                                estabelecido
+    Odontológico                Individual                         0,043                      0,033
+    Odontológico                Coletivo por adesão                0,082                      0,062
+    Odontológico                Coletivo empresarial               0,114                      0,087
+    Odontológico                Corresponsabilidade                0,114                      0,087
+                                assumida em preço pré-
+                                estabelecido
+
+
+5. Para o cálculo do capital baseado no risco de provisionamento associado à PEONA, a operadora deve
+   considerar a segmentação assistencial dos planos que oferta (médico-hospitalar, odontológico ou misto,
+   quando oferta planos médico-hospitalares e odontológicos).
+
+6. A partir do volume de eventos (EV) em cada segmentação assistencial nos últimos doze meses,
+   calculados considerando-se o disposto nos itens 2.1 e 2.2 deste Anexo, a operadora deve calcular o seu
+   fator de risco de provisionamento associado à PEONA (κ) dado pela seguinte fórmula:
+
+
+                                   𝜅 = √𝜁12 𝜅1,𝛼
+                                             2
+                                                 + 𝜁32 𝜅3,𝛼
+                                                        2
+                                                            + 0,8𝜁1 𝜅1,𝛼 𝜁3 𝜅3,𝛼
+   Na qual:
+   𝜅1 é o fator de risco de provisionamento associado à segmentação médico-hospitalar e ao tipo do fator
+   (padrão ou reduzido);
+   𝜅3 é o fator de risco de provisionamento associado à segmentação odontológica e ao tipo do fator
+   (padrão ou reduzido);
+           𝐸𝑉1
+   𝜁1 = 𝐸𝑉 +𝐸𝑉   , 𝑠𝑒 𝜁1 = 0 → 𝜅 = 𝜅3 ;
+           1    3
+           𝐸𝑉
+            3
+   𝜁3 = 𝐸𝑉 +𝐸𝑉 , 𝑠𝑒 𝜁3 = 0 → 𝜅 = 𝜅1 ;
+           1    3
+   𝐸𝑉1 é o total de eventos médico-hospitalar nos últimos doze meses, calculados considerando-se o
+   disposto nos itens 2.1 e 2.2 deste Anexo;
+   𝐸𝑉3 é o total de eventos odontológicos nos últimos doze meses, calculado considerando-se o disposto
+   nos itens 2.1 e 2.2 deste Anexo.
+
+
+6.1 Os fatores associados a cada segmentação assistencial e o tipo de fator são os seguintes:
+
+                  Tabela 2 – Fatores – Risco de Provisionamento associado à PEONA
+      Segmentação Assistencial               Fator Padrão                    Fator Reduzido
+    Médico-Hospitalar               0,007                           0,005
+    Odontológico                    0,007                           0,005
+
+7. O capital baseado no risco de provisionamento associado à PEONA é obtido por meio da seguinte
+   fórmula:
+
+                                            𝐶𝑅𝑆𝑃𝑟𝑜𝛼 = 𝐸𝑣𝑒𝑛𝑡𝑜𝑠 × 𝜅
+   Na qual:
+   𝐶𝑅𝑆𝑃𝑟𝑜𝛼 é o capital baseado no risco de provisionamento associado à PEONA, considerando o fator a
+   ser utilizado (padrão ou reduzido);
+   𝐸𝑣𝑒𝑛𝑡𝑜𝑠 é o total de eventos/sinistros médico-hospitalares e odontológicos da operadora, nos últimos
+   doze meses, calculado considerando-se o disposto nos itens 2.1 e 2.2 deste Anexo;
+   𝜅 é o fator de risco de provisionamento associado à PEONA da operadora, calculado conforme o item
+   6, para o tipo de fator a ser utilizado pela operadora (padrão ou reduzido).
+
+8. Se a operadora de plano de saúde assumir responsabilidade pela cobertura de remissão, deve
+   contabilizar o capital associado a essa provisão. Devem ser considerados separadamente os contratos
+   com cláusula de remissão temporária e contratos com cláusula de remissão vitalícia. Devem também
+   ser considerados separadamente os valores referentes a beneficiários em gozo da remissão.
+
+9. A fórmula para o cálculo do capital associado ao risco de remissão, quando não há beneficiários
+   remidos, é:
+                                         𝐶𝑅𝑆𝑅𝑎 = 𝑓𝑎𝑡 × 𝐶𝑡 + 𝑓𝑎𝑣 × 𝐶𝑣
+    Na qual:
+    𝐶𝑅𝑆𝑅𝑎 é o capital baseado no risco de remissão da operadora referente a contratos sem beneficiários
+    remidos para o tipo de fator (padrão ou reduzido);
+    𝑓𝑎𝑡 é o fator (padrão ou reduzido, a depender da operadora) de risco para contratos com remissão
+    temporária;
+    𝑓𝑎𝑣 é o fator (padrão ou reduzido, a depender da operadora) de risco para contratos com remissão
+    vitalícia;
+     𝐶𝑡 é a soma das contraprestações, nos últimos doze meses, dos beneficiários da remissão dos contratos
+     com remissão temporária; e
+     𝐶𝑣 é a soma das contraprestações, nos últimos doze meses, dos beneficiários da remissão dos contratos
+     com remissão vitalícia.
+
+9.1 Os fatores (𝑓𝑎 ) para o cálculo do risco de provisionamento associado à remissão, quando não há
+    beneficiários remidos, são:
+
+                    Tabela 3 – Fatores – Risco de Provisionamento associado à Remissão
+                                                Fator Padrão                   Fator Reduzido
+      Remissão temporária (prazo 0,029                                 0,021
+      certo)
+      Remissão vitalícia               0,081                           0,061
+
+10. A fórmula para o cálculo do risco de remissão, quando há beneficiários remidos, é:
+                                    𝐶𝑅𝑆𝑅𝑚 = 𝑓𝑚𝑡 × 𝐸𝑑𝑡 + 𝑓𝑚𝑣 × 𝐸𝑑𝑣
+   𝐶𝑅𝑆𝑚 é o capital baseado no risco de remissão da operadora referente a contratos com beneficiários
+   remidos considerando o tipo de fator (padrão ou reduzido);
+   𝑓𝑚𝑡 é o fator (padrão ou reduzido, a depender da operadora) de risco para contratos com remissão
+   temporária;
+   𝐸𝑑𝑡 é a soma dos valores das expectativas de despesa de assistência à saúde dos beneficiários remidos
+   de contratos com remissão temporária, nos próximos doze meses;
+   𝑓𝑚𝑣 é o fator (padrão ou reduzido, a depender da operadora) de risco para contratos com remissão
+   vitalícia; e
+   𝐸𝑑𝑣 é a soma dos valores das expectativas de despesa de assistência à saúde dos beneficiários remidos
+   de contratos com remissão vitalícia, nos próximos doze meses.
+
+10.1 A expectativa de despesa assistencial deve ser compatível com aquela utilizada para cálculo da
+    provisão técnica.
+
+10.2. Os fatores (𝑓𝑚𝑣 ) para o cálculo do risco de provisionamento associado à remissão, quando há
+   beneficiários remidos, são:
+              Tabela 4 – Fatores – Risco de Provisionamento associado aos beneficiários remidos
+                                                 Fator Padrão                  Fator Reduzido
+     Remissão temporária (prazo 0,133                                   0,101
+     certo)
+     Remissão vitalícia                0,269                            0,205
+
+11. A operadora que utiliza a fórmula padrão do risco de subscrição para o cálculo de seu capital regulatório
+    deve enviar periodicamente, nas mesmas datas de envio do Documento de Informações Periódicas das
+    Operadoras de Planos de Assistência à Saúde – DIOPS/ANS, os dados utilizados para cálculo do capital
+    baseado no risco de provisionamento associado à provisão de remissão, quais sejam:
+
+   a. Soma das contraprestações dos últimos doze meses dos beneficiários da remissão, não remidos, em
+      contratos com remissão temporária;
+   b. Soma das contraprestações dos últimos doze meses dos beneficiários da remissão, não remidos, em
+      contratos com remissão vitalícia;
+   c. Soma dos valores das expectativas de despesa de assistência à saúde dos beneficiários remidos, em
+      contratos com remissão temporária, nos próximos doze meses; e
+   d. Soma dos valores das expectativas de despesa de assistência à saúde dos beneficiários remidos, em
+      contratos com remissão vitalícia, nos próximos doze meses.
+
+12. A fórmula para cálculo do capital baseado no risco de provisionamento associado à PESL-SUS é:
+                                   𝐶𝑅𝑆𝑆𝑈𝑆𝛼 = 𝑍1−𝛼 √%ℎ𝑐 (1 − %ℎ𝑐 )𝐴𝐵𝐼
+   Na qual:
+   𝐶𝑅𝑆𝑆𝑈𝑆𝛼 é o capital baseado no risco de provisionamento da PESL-SUS considerando o tipo de fator a
+   ser utilizado pela operadora (padrão ou reduzido);
+   𝑍1−𝛼 é igual a 2,58 se a operadora utilizar os fatores padrão e é 1,96 se a operadora puder utilizar os
+   fatores reduzidos;
+   %ℎ𝑐 é o percentual histórico de cobrança, como definido na Instrução Normativa Conjunta – INC nº 5,
+   da Diretoria de Desenvolvimento Setorial - DIDES e da Diretoria de Normas e Habilitação das
+   Operadoras - DIOPE, de 30 de setembro de 2011 ou normativo que venha a sucedê-la;
+   𝐴𝐵𝐼 é o valor total dos avisos de beneficiários identificados notificados e ainda sem emissão das
+   respectivas guias de recolhimento da União – GRUs pela ANS para a operadora.
+
+13. O capital do risco de subscrição é dado pela fórmula:
+
+    𝐶𝑅𝑆 = √𝐶𝑅𝑆𝑃𝑟𝑒 2 + 0,64 (𝐶𝑅𝑆𝑃𝑟𝑒)(𝐶𝑅𝑆𝑃𝑟𝑜 + 𝐶𝑅𝑆𝑆𝑈𝑆) + (𝐶𝑅𝑆𝑃𝑟𝑜 + 𝐶𝑅𝑆𝑆𝑈𝑆)2 + (𝐶𝑅𝑆𝑅𝑎 + 𝐶𝑅𝑆𝑅𝑚)2
+
+   Na qual:
+   CRS é o capital baseado no risco de subscrição;
+   𝐶𝑅𝑆𝑃𝑟𝑒 é o capital baseado no risco de precificação calculado conforme este Anexo;
+   𝐶𝑅𝑆𝑃𝑟𝑜 é o capital baseado no risco de provisionamento associado à PEONA, calculado conforme
+   este Anexo;
+   𝐶𝑅𝑆𝑅𝑎 é o capital baseado no risco de remissão da operadora, referente a contratos sem beneficiários
+   remidos calculado conforme este Anexo;
+   𝐶𝑅𝑆𝑅𝑚 é o capital baseado no risco de remissão da operadora, referente a contratos com beneficiários
+   remidos calculado conforme este Anexo;
+   𝐶𝑅𝑆𝑆𝑈𝑆 é o capital baseado no risco de provisionamento da PESL-SUS, calculado conforme este
+   Anexo.
+

@@ -1,0 +1,296 @@
+                                   ANEXO
+
+METODOLOGIA DE FAIXAS DE DESEMPENHO E METAS DE RESPONSIVIDADE
+PROGRESSIVA
+
+
+
+1 - INTRODUÇÃO
+
+
+
+A metodologia para a definição das Faixas de Desempenho e das Metas de
+Responsividade Progressiva tem como base um levantamento realizado pela
+Diretoria de Fiscalização sobre a distribuição das operadoras de planos
+privados de assistência à saúde no Índice Geral de Reclamações (IGR), e, no
+âmbito das Ações de Fiscalização Planejada - AFP, visa a atender às seguintes
+finalidades:
+
+a) Enquadramento das operadoras na modalidade da AFP mais adequada ao
+caso;
+
+b) Estabelecimento de metas de responsividade progressiva, mandatória
+para os entes regulados enquadrados em qualquer modalidade de AFP, para
+redução do registro de demandas de reclamação de beneficiários aos canais
+de atendimento da ANS nos períodos fixados;
+
+c) Monitoramento do cumprimento das metas de responsividade
+progressiva; e
+
+d) Fundamentação para a realização das medidas processuais incidentais
+previstas nos arts. 19, 33 e 48 desta Resolução Normativa.
+
+
+
+2 - DA FIXAÇÃO DAS FAIXAS DE DESEMPENHO
+
+
+
+As Faixas de Desempenho são fixadas de acordo com as delimitações
+descritas abaixo, cujos valores são obtidos a partir dos dados
+do dashboard “Ranking das Operadoras” do Painel do Índice Geral de
+Reclamações (IGR), ou outro que vier a substituí-lo:
+I - Faixa 0: abrange valores de IGR médio inferiores ao valor de IGR vigente
+que corresponde ao patamar máximo para que as operadoras pontuem no
+indicador “Índice Geral de Reclamação Anual - IGR Anual” do Índice de
+Desempenho da Saúde Suplementar - IDSS;
+
+II - Faixa 1: abrange valores de IGR médio compreendidos entre o valor de
+IGR vigente que corresponde ao patamar máximo para que as operadoras
+pontuem no indicador “Índice Geral de Reclamação Anual (IGR Anual)” do
+IDSS (inclusive) e o valor do IGR médio do mercado (exclusive);
+
+III - Faixa 2: abrange os valores de IGR médio compreendidos entre o valor do
+IGR médio do mercado (inclusive) e o dobro do valor do IGR médio do
+mercado (exclusive);
+
+IV - Faixa 3: abrange os valores de IGR médio compreendidos entre o dobro
+do valor do IGR médio do mercado (inclusive) e o quádruplo do valor do IGR
+médio do mercado (exclusive);
+
+V - Faixa 4: abrange os valores de IGR médio compreendidos entre o
+quádruplo do valor do IGR médio do mercado (inclusive) e o sêxtuplo do
+valor do IGR médio do mercado (exclusive);
+
+VI - Faixa 5: abrange os valores de IGR médio compreendidos entre o
+sêxtuplo do valor do IGR médio do mercado (inclusive) e o óctuplo do valor
+do IGR médio do mercado (exclusive);
+
+VII - Faixa 6: abrange os valores de IGR médio compreendidos entre o
+óctuplo do valor do IGR médio do mercado (inclusive) e o décuplo do valor
+do IGR médio do mercado (exclusive); e
+
+VIII – Faixa 7: abrange os valores de IGR médio iguais ou superiores o décuplo
+do valor do IGR médio do mercado.
+
+
+
+Os valores do IGR médio que delimitam as faixas de desempenho serão
+calculados considerando-se os três meses completos, anteriores à data de
+enquadramento, que tenham informações disponíveis referentes ao
+quantitativo de reclamações apresentadas à ANS.
+
+O valor do IGR médio do mercado será calculado considerando-se apenas as
+reclamações apresentadas contra as operadoras que comercializam planos
+privados de assistência à saúde de atenção médico-hospitalar.
+REPRESENTAÇÃO GRÁFICA DAS FAIXAS DE DESEMPENHO
+
+MARCOS NO IGR       FAIXA     DELIMITAÇÕES DAS FAIXAS
+                    7         IGR-Md [OPS] ≥ IGR-Md[x10]
+IGR-Md[x10]
+                    6         IGR-Md[x8] ≤ IGR-Md [OPS] < IGR-Md[x10]
+IGR-Md[x8]
+                    5         IGR-Md[x6] ≤ IGR-Md [OPS] < IGR-Md[x8]
+IGR-Md[x6]
+                    4         IGR-Md[x4] ≤ IGR-Md [OPS] < IGR-Md[x6]
+IGR-Md[x4]
+                    3         IGR-Md[x2] ≤ IGR-Md [OPS] < IGR-Md[x4]
+IGR-Md[x2]
+                    2         IGR-Md ≤ IGR-Md [OPS] < IGR-Md[x2]
+IGR-Md
+                    1         IGR no IDSS ≤ IGR-Md [OPS] < IGR-Md
+IGR no IDSS
+                    0         IGR-Md [OPS] < IGR no IDSS
+
+Legenda:
+
+IGR-Md [OPS] - Valor do IGR médio da operadora
+
+IGR-Md [x10] - Décuplo do valor do IGR médio do mercado
+
+IGR-Md [x8] - Óctuplo do valor do IGR médio do mercado
+
+IGR-Md [6x] - Sêxtuplo do valor do IGR médio do mercado
+
+IGR-Md [4x] -Quádruplo do valor do IGR médio do mercado
+
+IGR-Md [x2] - Dobro do valor do IGR médio do mercado
+
+IGR-Md - Valor do IGR médio do mercado
+IGR NO IDSS - Valor do IGR vigente que corresponde ao patamar máximo
+para que as operadoras pontuem no indicador “Índice Geral de Reclamação
+Anual - IGR Anual” do IDSS.
+
+
+
+3. DA APLICAÇÃO DAS FAIXAS DE DESEMPENHO AO ENQUADRAMENTO
+DAS OPERADORAS NAS MODALIDADES DE AÇÕES DE FISCALIZAÇÃO
+PLANEJADA
+
+
+
+No momento do enquadramento, todas as operadoras de planos privados de
+assistência à saúde serão distribuídas pelas faixas de desempenho de acordo
+com os valores do IGR médio que apresentarem, considerando-se os três
+meses completos mais recentes com informações disponíveis referentes ao
+quantitativo de reclamações apresentadas à ANS.
+
+As operadoras alocadas na Faixa 1 serão, preferencialmente, enquadradas
+para a Ação Planejada Preventiva de Fiscalização - APP, observada a ordem
+decrescente de valores de IGR médio.
+
+As operadoras alocadas nas faixas 2 a 7 serão, preferencialmente,
+enquadradas para a Ação Planejada Focal de Fiscalização (APF), observada a
+ordem decrescente de valores de IGR médio, sem prejuízo das previsões da
+Resolução Normativa para a deflagração de Ação Planejada Estruturada -
+APE.
+
+O enquadramento das operadoras, nos termos acima, considerarão as
+disposições dos arts. 5º a 8º e 10 desta Resolução Normativa.
+
+
+
+4 - DAS METAS DE RESPONSIVIDADE PROGRESSIVA (“SOFT LANDING”)
+
+
+
+As metas de responsividade progressiva serão definidas a partir da faixa que
+determinou o enquadramento da operadora na AFP.
+
+Na primeira diligência remota realizada no curso de qualquer das ações
+planejadas, a operadora será informada:
+a) dos valores de IGR que delimitaram as faixas de desempenho no período
+de enquadramento;
+
+b) do seu valor de IGR médio;
+
+c) da faixa em que foi enquadrada;
+
+d) do cronograma previsto para a prática dos atos do processo; e
+
+e) do cronograma para o atingimento das metas de responsividade
+progressiva.
+
+A meta de responsividade final para todas as operadoras será a redução do
+seu valor de IGR até o seu reposicionamento na Faixa 0.
+
+As operadoras inicialmente alocadas na Faixa 1 terão prazo de cento e
+oitenta dias para atingir a meta de responsividade final (Faixa 0).
+
+Para as operadoras alocadas nas faixas superiores ao valor do IGR médio do
+mercado (Faixas 2 a 7), visando ao atingimento da meta de responsividade
+final, são estabelecidas metas de responsividade intermediárias, de acordo
+com as seguintes regras e prazos:
+
+I - Redução do valor de IGR e reposicionamento, pelo menos, na faixa de
+desempenho imediatamente inferior, no prazo de cento e oitenta dias;
+
+II - Cumprida a meta intermediária prevista no inciso I, e não atingida a meta
+de responsividade final nesse prazo, nova redução do valor de IGR, para
+reposicioná-lo, pelo menos, na faixa de desempenho imediatamente inferior
+no prazo de noventa dias; e
+
+III - Cumprida a meta intermediária prevista no inciso II, e ainda não atingida
+a meta de responsividade final, reduções progressivas e sequenciais do valor
+de IGR, a cada noventa dias, até que seja atingida a meta de responsividade
+final.
+
+No caso de operadoras inicialmente posicionadas na Faixa 0, que tenham
+sido enquadradas por força das disposições do art. 5º, caput e seu § 3º, desta
+Resolução Normativa, a meta de responsividade corresponderá à sua
+permanência nessa faixa de desempenho por todo o período o
+monitoramento de cento e oitenta dias.
+
+As variações mensais do valor do IGR médio do mercado, ocorridas nos
+meses subsequentes ao enquadramento, e eventual alteração do valor que
+corresponde ao patamar máximo para que as operadoras pontuem no
+indicador “Índice Geral de Reclamação Anual - IGR Anual” do IDSS, não
+modificarão os limites das faixas de desempenho inicialmente fixadas, nem
+as metas de responsividade intermediárias e final definidas para a operadora
+por ocasião do seu enquadramento na ação planejada.
+
+
+
+5 - DO MONITORAMENTO DO CUMPRIMENTO DAS METAS DE
+RESPONSIVIDADE PROGRESSIVA
+
+
+
+As faixas de desempenho serão os parâmetros para o monitoramento da
+evolução de entrada de reclamações em face das operadoras enquadradas
+nas AFP, bem como o atingimento das metas de responsividade progressiva
+intermediárias e final, previstas no Capítulo VII desta Resolução Normativa.
+
+Por meio de decisão motivada nos autos, poderá ser prorrogado, uma vez,
+por, no máximo, igual período, o prazo estabelecido para o alcance de uma
+das metas intermediárias previstas nos incisos II e III do capítulo anterior.
+
+
+
+6 - DAS MEDIDAS PROCESSUAIS INCIDENTAIS
+
+
+
+As faixas de desempenho servirão, ainda, de parâmetro para a
+fundamentação da realização de qualquer das medidas processuais
+incidentais previstas nos arts. 19, 33 e 48 desta Resolução Normativa se
+observadas, a qualquer tempo do período de monitoramento, as seguintes
+situações:
+
+1) Reposicionamento, em faixa superior, da operadora inicialmente
+classificada na Faixa 0, a qualquer momento do prazo de monitoramento de
+cento e oitenta dias;
+
+2) Não atingimento da meta de responsividade final pelas operadoras
+inicialmente alocadas na Faixa 1, no prazo de cento e oitenta dias;
+
+3) Não atingimento de qualquer das metas intermediárias nos prazos
+estabelecidos, salvo no caso da prorrogação prevista no parágrafo anterior; e
+4) Outras situações particulares que indicarem a necessidade.
+
+No exercício das atividades de monitoramento mensal da evolução do
+registro de demandas na ANS, o órgão da Diretoria de Fiscalização
+responsável pela condução das AFP, quando observado aumento na entrada
+de reclamações em face do ente enquadrado, ainda que dentro do prazo de
+cumprimento de qualquer das metas intermediárias, poderá intimar a
+operadora para prestar esclarecimentos nos autos sobre as razões de tal
+aumento.
+
+
+
+7 - DO DESCUMPRIMENTO DAS METAS DE RESPONSIVIDADE PROGRESSIVA
+
+
+
+Salvo no caso de concessão motivada da prorrogação única de prazo, o não
+atingimento de meta intermediária, ou da meta final, nos prazos
+estabelecidos, ou o reposicionamento do valor do IGR da operadora em faixa
+de desempenho superior à que se encontrava, implicará no descumprimento
+do Soft Landing, nas consequências previstas para a modalidade de AFP para
+a qual a operadora foi enquadrada:
+
+1. APP – arquivamento do processo e instauração em modalidade mais
+complexa (APF ou APE), conforme os elementos dos autos, inclusive
+decorrentes das processuais incidentais realizadas com fundamento nos arts.
+19, 33 e 48 desta ResoluçãoNormativa;
+
+2. APF - arquivamento do processo e instauração em modalidade mais
+complexa - APE;
+
+3. APE – lavratura do auto de infração pela conduta prevista no art. 36 da
+Resolução Normativa nº 489, de 29 de março de 2022, seguindo-se o rito
+previsto no Capítulo IV da Resolução Normativa nº 483, de 29 de março
+de2022.
+
+Em qualquer hipótese, o descumprimento das Metas de Responsividade
+Progressiva será atestado e motivado nos autos, do qual ente regulado será
+intimado, seguindo-se o rito processual aplicável ao caso.
+
+
+
+8 – DISPOSIÇÕES FINAIS
+O presente Anexo não afasta outras medidas e disposições previstas no
+corpo desta Resolução Normativa, no exercício da prerrogativa fiscalizatória
+motivada, bem como eventual encaminhamento dos elementos dos autos
+para a avaliação por outras Diretorias da ANS.
+

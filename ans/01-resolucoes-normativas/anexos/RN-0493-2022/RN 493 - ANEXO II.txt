@@ -1,0 +1,37 @@
+                                   ANEXO II
+
+                                 TABELA I
+          TPS - DESCONTOS POR ABRANGÊNCIA GEOGRÁFICA DO PLANO
+
+
+          ABRANGÊNCIA GEOGRÁFICA                      DESCONTO (%)
+
+                   Nacional                                   5
+
+               Grupo de Estados                            10
+
+                    Estadual                               15
+
+             Grupo de Municípios                           20
+
+                   Municipal                               25
+
+
+
+
+                                TABELA II
+TPS - DESCONTOS POR COBERTURA MÉDICO-HOSPITALAR- ODONTOLÓGICA OFERECIDA
+
+               COBERTURA                             DESCONTO (%)
+             Ambulatorial (A)                             20
+             A + Hospitalar (H)                           6
+          A+H+Odontológico (O)                            4
+           A+H+ Obstetrícia (OB)                          4
+                A+H+OB+O                                  2
+                   A+O                                    14
+                     H                                    16
+                   H+O                                    14
+                   H+OB                                   14
+                 H+OB+O                                   12
+                     O                                    32
+

@@ -1,0 +1,85 @@
+                                 Anexo I
+
+                    Parâmetros para cálculo do Capital Base
+
+                    Tabela 1 – CAPITAL DE REFERÊNCIA (EM REAIS)
+
+Capital de referência vigente na data de publicação desta RN
+R$ 9.726.594,88 (Nove milhões, setecentos e vinte e seis mil, quinhentos e noventa e
+quatro reais e oitenta e oito centavos)
+
+
+                    Tabela 2 – VALOR DO FATOR “K” (%)
+
+             Segmento                                  Região de Comercialização
+                                                 1      2        3       4        5    6
+Seguradoras Especializadas em Saúde         100,00 100,00 100,00 100,00 100,00 100,00
+Medicina de Grupo/Filantropias – ST         100,00 74,19 48,39 25,81 18,06 10,32
+Cooperativa Médica – ST                      87,10 61,29 37,10 18,06 12,65          7,23
+Medicina de Grupo/Filantropias - SSS         74,39 49,19 27,58 12,65           8,85 5,06
+Cooperativa Médica – SSS                     64,52 46,77 29,03 12,90           8,82 4,74
+Autogestão                                   61,69 38,39 20,11       8,85      6,20 3,54
+Medicina de Grupo/ Filantropias -SSP         50,04 29,25 19,35       7,10      5,00 2,90
+Cooperativa Médica - SSP                     45,81 22,58 15,35       6,68      4,76 2,84
+Medicina de Grupo/Filantropias - SPS         34,19 20,97 14,52       6,26      4,35 2,45
+Cooperativa Médica - SPS                     32,58 19,74 12,89       5,85      3,98 2,10
+Medicina de Grupo/Filantropia - SPP e        20,16 14,31      8,37   4,98      3,37 1,77
+SPP/SUS
+Cooperativa Médica - SPP e SPP/SUS           17,24    11,34      6,67        4,37   2,92   1,47
+Odontologia de Grupo - SOT                    3,23     2,58      1,94        0,48   0,41   0,34
+Cooperativa Odontológica - SOT                2,58     2,43      1,79        0,45   0,35   0,25
+Odontologia de Grupo - SOM                    2,40     2,03      1,48        0,39   0,30   0,20
+Cooperativa Odontológica - SOM                2,35     1,90      1,21        0,34   0,26   0,19
+Odontologia de Grupo - SOP                    2,31     1,76      0,94        0,29   0,23   0,18
+Cooperativa Odontológica - SOP                2,03     1,35      0,61        0,23   0,20   0,16
+Administradora                               17,24    11,34      6,67        4,37   2,92   1,47
+
+Para efeito de classificação, as operadoras deverão observar sua região de
+comercialização e o disposto na Resolução específica sobre a definição, a
+segmentação e a classificação das Operadoras de Planos de Assistência à
+Saúde, e alterações posteriores, a saber:
+
+
+
+    ✓ Região 1: em todo o território nacional ou em grupos de pelo
+      menos três estados dentreos seguintes: São Paulo, Rio de Janeiro,
+      Minas Gerais, Rio Grande do Sul, Paraná e Bahia;
+    ✓ Região 2: no Estado de São Paulo ou em mais de um estado,
+      excetuando os gruposdefinidos no critério da Região 1;
+   ✓ Região 3: em um único estado, qualquer que seja ele, excetuando-
+     se o Estado de SãoPaulo;
+   ✓ Região 4: no Município de São Paulo, do Rio de Janeiro, de Belo
+     Horizonte, de PortoAlegre ou de Curitiba ou de Brasília;
+   ✓ Região 5: em grupo de municípios, excetuando os definidos na Região 4; e
+   ✓ Região 6: em um único município, excetuando os definidos na Região 4.
+
+
+
+ OBS. 1: Para fins de aplicação deste Anexo, considera-se região de
+comercialização as localidades onde as autogestões disponibilizam e as
+demais operadoras comercializam seus planos privados de assistência à
+saúde.
+OBS. 2: Será considerada atuação estadual a operação em mais de 50%
+(cinquenta por cento) dos municípios de um estado.
+
+OBS. 3: A região de comercialização da Operadora deverá abranger todos
+os municípios de comercialização de seus produtos, cuja informação é
+enviada na Nota Técnica de Registro de Produto – NTRP, por produto,
+conforme regulamentação específica.
+
+OBS. 4: Cada operadora só poderá enquadrar-se em uma Região e segmento.
+OBS. 5: Brasília não será considerado como estado para fins de
+enquadramento na Região de Comercialização.
+
+                          Tabela 3 – VALOR DO FATOR ‘K’ (%)
+
+                                             Região de
+                                           Comercialização
+      1             2              3            4              5                 6
+     2,00          1,30          0,50          0,20           0,18              0,15
+
+
+Aplicável às administradoras de benefícios que possuam autorização de
+funcionamento ou que tenham protocolado requerimento de registro na
+ANS até 12 de março de 2020.
+

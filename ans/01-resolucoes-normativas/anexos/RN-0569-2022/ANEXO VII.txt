@@ -1,0 +1,75 @@
+                                        ANEXO VII
+
+                Modelo padrão de capital baseado no risco de mercado
+
+
+
+1. O capital baseado no risco de mercado é devido por todas as operadoras, com exceção
+do disposto no parágrafo único do art, 1º desta RN.
+
+
+
+2. Esta parcela do capital regulatório será calculada utilizando-se a seguinte fórmula:
+
+
+
+
+Onde:
+
+CRM é o capital baseado no risco de mercado;
+
+Fatori: é o fator de risco de mercado referente a conta i do plano de contas, conforme
+tabela constante deste anexo; e
+
+Saldoi é o saldo registrado na conta i do plano de contas, na data base para a qual se quer
+calcular o risco de mercado.
+3. As operadoras que realizam casamento entre ativos e passivos de modo a mitigar o
+risco de mercado, demonstrando capacidade técnica para tanto, e assim o desejarem
+poderão encaminhar nas mesmas datas de envio do Documento de Informações
+Periódicas das Operadoras de Plano de Assistência à Saúde - DIOPS/ANS, quadro
+complementar apresentando os casamentos de fluxos realizados. Tal quadro deverá ser
+objeto de procedimento previamente acordado (PPA) elaborado por empresa de
+auditoria contábil independente registrada na Comissão de Valores Mobiliários (CVM),
+devendo o relatório resultante ser encaminhado à ANS por meio do DIOPS. O quadro
+apresentará as informações a seguir:
+
+
+
+a. Número da conta cujo risco está sendo mitigado;
+
+b. Montante cujo risco foi mitigado;
+
+c. Sinal indicativo do fluxo (negativo para pagamentos, positivo para recebimentos);
+
+d. Prazo médio ponderado da parcela da cujo risco está sendo mitigado;
+
+e. Indexador da parcela da conta cujo risco está sendo mitigado;
+
+f. Número da conta mitigadora do risco a ela relacionada;
+
+g. Prazo médio ponderado da parcela da conta mitigadora do risco;
+
+
+
+3.1. No procedimento de auditoria do do quadro de risco de mercado deverá ser
+verificado minimamente:
+
+
+
+a. Se o saldo apresentado em cada um dos registros do arquivo não excede o saldo
+contabilizado no DIOPS correspondente à conta ali informada;
+
+b. Se o sinal informado naquele registro é condizente com a natureza do fluxo da conta,
+ou seja, se fluxos que representam saída de caixa estão representados com sinal negativo
+e aqueles referentes à entradas de caixa estão preenchidos com sinal positivo;
+
+c. Se os prazos médios ponderados daqueles fluxos foram calculados corretamente,
+considerando o prazo esperado para cada um dos pagamentos e/ou recebimentos deste
+fluxo, ponderados pelo valor correspondente;
+
+d. Se o indexador informado em cada registro é coerente com a indexação esperada para
+o fluxo ali apresentado;
+e. Se a operadora de planos de saúde possui área responsável por analisar os ativos e
+passivos para efetuar os ajustes devidos de forma a manter o casamento entre prazos e
+fluxos, mitigando assim o risco de mercado a que está exposta.
+

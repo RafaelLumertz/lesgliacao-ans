@@ -1,0 +1,24 @@
+                                            ANEXO VII
+
+                REQUISITOS DE DIVULGAÇÃO EM MEIO ELETRÔNICO
+
+   ▪   As operadoras deverão reservar um espaço em seu sítio na Internet para conter a descrição
+       pormenorizada dos atributos de qualificação, acompanhada do seu ícone (representação gráfica
+       correspondente ao atributo de qualificação) de acordo com a padronização constante no Anexo
+       V desta RN;
+   ▪   A legenda deve ser reduzida para os ícones, conforme o padronizado pela ANS, localizada ao
+       final da página da web;
+   ▪   O ícone, na página da web, deve ser colocado logo abaixo do nome fantasia do estabelecimento,
+       da razão social, ou do nome do profissional, caso se trate de pessoa natural, de acordo com a
+       classificação do prestador, de maneira que o beneficiário possa identificar claramente a relação
+       do ícone com o prestador;
+   ▪   Os demais meios eletrônicos de divulgação da rede assistencial estarão dispensados da descrição
+       pormenorizada dos atributos de qualificação padronizada pela ANS, mas deverão conter os
+       ícones dos atributos de qualificação que o prestador identificado possua, obedecendo a
+       padronização definida no Anexo V desta RN.
+
+
+Obs: A divulgação dos atributos de qualificação da rede de contratação indireta poderá ser feita por
+meio de hyperlink que leve ao sítio da operadora na Internet, com a qual o prestador mantém
+contratação direta.
+

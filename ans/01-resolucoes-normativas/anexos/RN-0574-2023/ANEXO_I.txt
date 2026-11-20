@@ -1,0 +1,128 @@
+                                               ANEXO I
+
+ASPECTOS MÍNIMOS A SEREM OBSERVADOS NA ELABORAÇÃO DAS NOTAS TÉCNICAS ATUARIAIS
+                                DE PROVISÕES
+
+1. Os documentos relativos às Provisões Técnicas devem conter a assinatura do atuário habilitado e
+seu número de identificação profissional perante o órgão competente e deverão permanecer à
+disposição da ANS.
+
+
+
+2. Quanto aos aspectos gerais, as Notas Técnicas Atuariais de Provisões – NTAPs deverão conter:
+
+
+
+2.1. O Objetivo da NTAP.
+
+
+
+2.2 Definições Gerais: no que couber, este item deverá incluir a definição de termos técnicos
+necessária à perfeita compreensão da NTAP.
+
+
+
+2.3 Bases Técnicas:
+
+
+
+2.3.1. Incluir a definição de todos os parâmetros e variáveis utilizados;
+
+
+
+2.3.2. Incluir a especificação do critério técnico adotado na metodologia atuarial e a sua respectiva
+justificativa técnica;
+
+
+
+2.3.3. No caso de utilização de tábuas biométricas, estas deverão ser reconhecidas pelo Instituto
+Brasileiro de Atuária – IBA e ser especificadas na NTAP;
+
+
+
+2.3.4. No caso da utilização de índices financeiros de atualização, especificar o índice, o seu critério
+de aplicação e a sua referência;
+2.3.5. Quando as bases técnicas contemplarem premissas de qualquer natureza, estas deverão estar
+fundamentadas tecnicamente pelo atuário responsável.
+
+
+
+2.4. Metodologia Atuarial de Cálculo:
+
+
+
+2.4.1. Apresentar as formulações utilizadas;
+
+
+
+2.4.2. Apresentar base de dados e estatísticas utilizadas, acompanhadas da especificação do período
+e das fontes, bem como demonstrativo de cálculo;
+
+
+
+2.4.3. Quanto à reavaliação, deverão ser estabelecidos na NTAP a periodicidade, os critérios, o
+período de referência dos dados a serem utilizados e a sua formulação;
+
+
+
+2.4.4. Definição da periodicidade de cálculo e os critérios de constituição da Provisão, observando a
+legislação vigente;
+
+
+
+2.4.5. Quaisquer alterações adotadas na metodologia atuarial de cálculo da provisão deverão ser
+documentadas contendo o devido embasamento técnico para alteração;
+
+
+
+3. Quanto à Provisão para Remissão:
+
+
+
+3.1 A metodologia atuarial de cálculo referente à Provisão para Remissão deve levar em
+consideração a expectativa de despesas assistenciais (médico-hospitalares e/ou odontológica)
+durante o prazo de remissão concedido;
+
+
+
+3.2 No cálculo de apuração da expectativa de despesa assistencial o atuário deverá observar se a
+base de dados utilizada apresenta consistência estatística suficiente;
+3.3 Caso a apuração da expectativa de despesa assistencial seja feita por faixa etária, estas deverão
+ser apresentadas;
+
+
+
+3.4 A Provisão para Remissão deverá ser calculada ao fim de cada mês, considerando-se como
+período inicial o mês do fato gerador do benefício de remissão;
+
+
+
+3.5 Deve ser demonstrada a formulação de cálculo da Provisão para Remissão na entrada de gozo
+do benefício e sua sistemática de cálculo mensal.
+
+
+
+4. Quanto à PEONA e à PEONA SUS:
+
+
+
+4.1 Caso a metodologia atuarial adotada na NTAP de PEONA ou de PEONA SUS seja a da
+“Sinistralidade Esperada”, o percentual de sinistralidade considerado deverá ser justificado e estar
+acompanhado de seu respectivo embasamento técnico.
+
+
+
+5. Quanto às outras Provisões Técnicas:
+
+
+
+5.1 Deverão ser encaminhadas à DIOPE as NTAPs em versão original e acompanhados por
+correspondência assinada pelo representante da OPS junto à ANS e observar, no mínimo, o definido
+no item 2 deste Anexo.
+
+
+
+5.2 As metodologias atuariais de cálculo constantes em notas técnicas atuariais aprovadas pela
+DIOPE só poderão ser modificadas mediante prévia solicitação de alteração a ser encaminhada à
+DIOPE para nova aprovação, acompanhadas de estudo técnico que a justifique.
+

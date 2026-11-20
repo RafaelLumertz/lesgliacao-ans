@@ -1,0 +1,291 @@
+                                                 ANEXO À MINUTA DE NORMA
+
+                           ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465, DE 24 DE FEVEREIRO DE 2021
+
+
+64. TERAPIA ANTINEOPLÁSICA ORAL PARA TRATAMENTO DO CÂNCER
+
+ SUBSTÂNCIA               LOCALIZAÇÃO                                                      INDICAÇÃO
+                                           Tratamento de pacientes adultos com câncer de mama avançado ou metastático, com receptor hormonal
+                                           positivo (HR positivo) e receptor do fator de crescimento epidérmico humano 2 negativo (HER2 negativo),
+                                           em combinação com um inibidor da aromatase como terapia endócrina inicial; ou em combinação com
+Abemaciclibe   Mama                        fulvestranto como terapia endócrina inicial ou após terapia endócrina; ou com receptor hormonal positivo
+                                           (HR+) e receptor para o fator de crescimento epidérmico humano tipo 2 negativo (HER2-); ou como agente
+                                           único, após progressão da doença após o uso de terapia endócrina e 1 ou 2 regimes quimioterápicos
+                                           anteriores para doença metastática.
+                                           Metastático resistente à castração que são assintomáticos ou levemente sintomáticos, após falha à terapia
+Abiraterona,   Próstata
+                                           de privação androgênica.
+Acetato de
+               Próstata                    Avançado metastático resistente à castração e que receberam quimioterapia prévia com docetaxel.
+                                           Primeira linha, para pacientes adultos, com câncer de pulmão não pequenas células (CPNPC), com
+Afatinibe      Pulmão                      histologia de adenocarcinoma, localmente avançado ou metastático, com mutações no receptor do fator
+                                           de crescimento epidermóide (EGFR), não tratados previamente com inibidores da tirosina quinase do EGFR.
+                                           Tratamento de câncer de pulmão não pequenas células (CPNPC) localmente avançado ou metastático que
+Alectinibe     Pulmão
+                                           seja positivo para quinase de linfoma anaplásico (ALK).
+               Mama                        Adjuvante na pós-menopausa em mulheres com tumor receptor hormonal positivo.
+                                           Primeira linha de tratamento em mulheres na pós-menopausa com câncer de mama metastático receptor
+               Mama
+Anastrozol                                 hormonal positivo.
+                                           Câncer de mama metastático em mulheres na pós-menopausa com progressão da doença em uso de
+               Mama
+                                           tamoxifeno.
+ SUBSTÂNCIA                 LOCALIZAÇÃO                                                     INDICAÇÃO
+Apalutamida      Prótata                      Câncer de próstata não metastático resistente à castração.
+                 Próstata                     Avançado em combinação com o tratamento com análogos do LHRH ou castração cirúrgica.
+Bicalutamida                                  Metastático em pacientes nos quais a castração cirúrgica ou medicamentosa não está indicada ou não é
+                 Próstata
+                                              aceitável.
+                 LMC - Leucemia Mielocítica
+Bussulfano       (mielóide, mielógena,        Sem especificação de fase da doença.
+                 granulocítica) Crônica
+                 Colorretal                   Primeira Linha em câncer metastático.
+                                              Adjuvante para pacientes em estágio II com critério de alto risco ou Dukes C (estágio III), submetidos à
+                 Colorretal
+                                              ressecção completa do tumor primário.
+Capecitabina
+                                              Câncer em estágio avançado, desde que associado com compostos de platina, como a cisplatina ou
+                 Gástrico
+                                              oxaliplatina.
+                 Mama                         Metastático, após falha de antraciclina ou taxano, ou em face de contraindicação para estas medicações.
+                                              Tratamento do carcinoma de células renais (CCR) avançado em adultos após tratamento prévio com
+Cabozantinibe    Rim
+                                              inibidor do fator de crescimento endotelial vascular (VEGF).
+                 Leucemias                    Sem especificação de fase da doença.
+                 Linfomas                     Sem especificação de fase da doença.
+                 Mama                         Sem especificação de fase da doença.
+                 Micose Fungóide              Estágios avançados.
+Ciclofosfamida
+                 Mieloma Múltiplo             Sem especificação de fase da doença.
+                 Neuroblastomas               Em pacientes com disseminação.
+                 Ovário                       Sem especificação de fase da doença.
+                 Retinoblastomas              Sem especificação de fase da doença.
+Citrato de                                    Em combinação com Lenalidomida e Dexametasona, para o tratamento de pacientes com mieloma múltiplo
+                 Mieloma Múltiplo
+ixazomibe                                     que receberam pelo menos um tratamento anterior.
+                                              Em combinação com Vemurafenibe, para o tratamento de pacientes com melanoma positivo para
+Cobimetinibe     Melanoma
+                                              mutações BRAF bV600 irressecável ou metastático.
+                                              Em combinação com Dimetilsulfóxido de trametinibe, para o tratamento adjuvante de pacientes com
+Dabrafenibe      Melanoma
+                                              melanoma de estágio III com mutação BRAF V600, após ressecção completa.
+ SUBSTÂNCIA                  LOCALIZAÇÃO                                                      INDICAÇÃO
+                    Linfoma de Hodgkin           Sem especificação de fase da doença.
+                    Linfoma Não-Hodgkin          Sem especificação de fase da doença.
+Clorambucila
+                    LLC - Leucemia Linfocítica
+                                                 Sem especificação de fase da doença.
+                    Crônica
+                                                 Tratamento de câncer de pulmão não pequenas células (CPNPC) avançado que seja positivo para quinase
+Crizotinibe         Pulmão
+                                                 de linfoma anaplásico (ALK).
+                    LLA - Leucemia Linfocítica
+                                                 Cromossomo Ph+ com resistência ou intolerância à terapia anterior.
+                    (Linfoblástica) Aguda
+Dasatinibe          LMC - Leucemia Mielocítica
+                                                 Fases crônica, acelerada ou blástica mieloide/linfoide com resistência ou intolerância ao tratamento
+                    (mielóide, mielógena,
+                                                 anterior incluindo imatinibe.
+                    granulocítica) crônica
+Dabrafenibe         Melanoma                     Melanoma metastático ou irressecável com mutação do gene BRAF V600E.
+                    Mama                         Casos paliativos.
+Dietiletilbestrol   Próstata                     Casos paliativos.
+                    Próstata                     Adultos com câncer de próstata não metastático resistente à castração.
+                    Próstata                     Metastático resistente à castração em homens que receberam quimioterapia prévia com Docetaxel.
+Enzalutamida                                     Metastático resistente à castração em adultos que são assintomáticos ou ligeiramente sintomáticos após
+                    Próstata
+                                                 falha de terapia de privação androgênica.
+Erlotinibe,                                      Câncer de pulmão de não pequenas células não escamoso; Indicado em primeira linha nos pacientes com
+                    Pulmão
+Cloridrato de                                    doença metastática ou irressecável com mutação nos éxons 19 ou 21.
+                                                 Em associação ao Docetaxel para o tratamento de pacientes com câncer de pulmão não pequenas células
+Esilato de
+                    Pulmão                       (CPNPC) localmente avançado, metastático ou recorrente, com histologia de adenocarcinoma, após
+nintedanibe
+                                                 primeira linha de quimioterapia à base de platina.
+                    Leucemias agudas             Não linfocíticas.
+                    Linfoma de Hodgkin           Sem especificação de fase da doença.
+Etoposídeo          Linfoma Não-Hodgkin          Sem especificação de fase da doença.
+                    Pulmão pequenas células      Em combinação com outros agentes quimioterápicos.
+                    Testículo                    Tumores refratários que já receberam tratamento cirúrgico, quimioterápico e radioterápico apropriados
+ SUBSTÂNCIA               LOCALIZAÇÃO                                                       INDICAÇÃO
+                                              Câncer de mama metastático receptor hormonal positivo após falha de primeira linha hormonal, em
+               Mama
+                                              associação com exemestano.
+               Pâncreas                       Pacientes com tumores neuroendócrinos avançados (TNE) localizados no pâncreas.
+Everolimus
+               Estômago                       Pacientes com tumores neuroendócrinos avançados (NET) localizados no estômago.
+               Intestino                      Pacientes com tumores neuroendócrinos avançados (NET) localizados no intestino.
+               Pulmão                         Pacientes com tumores neuroendócrinos avançados (NET) localizados no pulmão.
+                                              Adjuvante em mulheres na pós-menopausa com tumor receptor hormonal positivo, seja de início imediato
+               Mama
+                                              ou após 2-3 anos de tratamento com tamoxifeno.
+                                              Câncer de mama metastático em mulheres na menopausa, com tumores receptor hormonal positivo, seja
+Exemestano     Mama
+                                              em primeira linha, seja após falha de moduladores de receptor de estrógeno.
+                                              Terapia pré-operatória em mulheres na pós-menopausa com câncer de mama localmente avançado
+               Mama
+                                              receptor hormonal positivo, com a intenção de permitir cirurgia conservadora da mama.
+               LLC - Leucemia Linfocítica
+Fludarabina                                   Tumores de células B.
+               Crônica
+                                              Indicado como monoterapia (com ou sem orquiectomia) ou em combinação com um agonista LHRH
+Flutamida      Próstata                       ("luteinizing hormone-releasing hormone"), no tratamento do câncer avançado em pacientes não-tratados
+                                              previamente ou em pacientes que não responderam ou se tornaram refratários à castração.
+                                              Câncer de pulmão de não pequenas células não escamoso; Indicado em primeira linha nos pacientes com
+Gefitinibe     Pulmão não pequenas-células
+                                              doença metastática ou irressecável com mutação nos éxons 19 ou 21.
+               LMC - Leucemia Mielocítica
+Hidroxiuréia   (mielóide, mielógena,          Fase crônica.
+               granulocítica) Crônica
+               Leucemia linfocítica crônica
+                                              Tratamento de pacientes que apresentam leucemia linfocítica crônica/linfoma linfocítico de pequenas
+               (LLC)/Linfoma linfocítico de
+                                              células (LLC/LLPC).
+Ibrutinibe     pequenas células (LLPC)
+               Linfoma de células do manto    Tratamento do linfoma de células do manto em pacientes que receberam no mínimo um tratamento
+               (LCM)                          anterior contendo rituximabe.
+               LLA - Leucemia Linfocítica
+Imatinibe                                     Cromossomo Ph+ recaída ou refratária.
+               (Linfoblástica) Aguda
+ SUBSTÂNCIA              LOCALIZAÇÃO                                                           INDICAÇÃO
+                LMC - Leucemia Mielocítica
+                                                 Recém diagnosticada LMC Cromossomo Ph+ fase crônica; crise blástica; fase acelerada; fase crônica após
+                (mielóide, mielógena,
+                                                 falha de interferon.
+                granulocítica) Crônica
+                Tumor estromal gastrintestinal
+                                                 Irressecável ou metastático.
+                (GIST)
+                Tumor estromal gastrintestinal
+                                                 Adjuvante do tratamento de casos ressecados de alto risco.
+                (GIST)
+                                                 Em combinação com Dexametasona, para o tratamento de pacientes com mieloma múltiplo refratário
+                                                 recidivado (MMRR) que receberam ao menos um esquema prévio de tratamento.
+                                                 Em monoterapia para o tratamento de manutenção de pacientes com mieloma múltiplo recém-
+                                                 diagnosticado que foram submetidos a transplante autólogo de células-tronco.
+                Mieloma múltiplo                 Em terapia combinada*, para o tratamento de pacientes com mieloma múltiplo que não receberam
+                                                 tratamento prévio e não são elegíveis a transplante.
+Lenalidomida
+                                                 *Lenalidomida em combinação com Dexametasona (Rd); Lenalidomida em combinação com Melfalano e
+                                                 Prednisona seguida por tratamento de manutenção com Lenalidomida (MPR+R); Lenalidomida em
+                                                 combinação com Bortezomibe e Dexametasona (RVd).
+                                                 Tratamento de pacientes com anemia dependente de transfusões decorrente de síndrome mielodisplásica
+                Síndrome mielodisplásica         de risco baixo ou intermediário-1, associada à anormalidade citogenética de deleção 5q, com ou sem
+                                                 anormalidades citogenéticas adicionais.
+Lapatinibe,                                      Tratamento do tumor metastático HER2+, após falha de trastuzumabe, em associação com capecitabina ou
+                Mama
+Ditosilato de                                    letrozol.
+                                                 Tratamento de pacientes com carcinoma hepatocelular (CHC), que não receberam terapia sistêmica
+Lenvatinibe     Fígado
+                                                 anterior para doença avançada ou não ressecável.
+                                                 Neoadjuvante, adjuvante ou metástatico em mulheres na pós-menopausa com tumores receptor hormonal
+Letrozol        Mama
+                                                 positivo.
+Megestrol,      Endométrio                       Como paliativo do carcinoma avançado (doença recorrente, inoperável ou metastática).
+Acetato de      Mama                             Como paliativo do carcinoma avançado (doença recorrente, inoperável ou metastática).
+                Mieloma Múltiplo                 Sem especificação de fase da doença.
+Melfalano
+                Ovário                           Câncer Avançado.
+ SUBSTÂNCIA             LOCALIZAÇÃO                                                          INDICAÇÃO
+               LLA - Leucemia Linfocítica
+                                                 Indução da remissão e manutenção.
+               (Linfoblástica) Aguda
+               LMA - Leucemia Mielóide
+               (mielocítica, mielógena,
+                                                 Indução da remissão e manutenção.
+Mercaptopurina mieloblástica, mielomonocítica)
+               Aguda
+               LMC - Leucemia Mielocítica
+               (mielóide, mielógena,             Sem especificação de fase da doença.
+               granulocítica) Crônica
+               Cabeça e pescoço                  Sem especificação de fase da doença.
+               Linfoma não-Hodgkin               Sem especificação de fase da doença.
+               LLA - Leucemia Linfocítica
+                                                 Sem especificação de fase da doença.
+               (Linfoblástica) Aguda
+Metotrexato
+               Mama                              Sem especificação de fase da doença.
+               Sarcoma osteogênico               Sem especificação de fase da doença.
+               Tumor trofloblástico
+                                                 Sem especificação de fase da doença.
+               gestacional
+Midostaurina   LMA - Leucemia mielóide aguda     Em combinação com quimioterapia em primeira linha para pacientes com mutação de FLT3.
+Mitotano       Córtex suprarenal                 Carcinoma inoperável.
+               LMC - Leucemia Mielocítica
+                                                 Adultos com leucemia mieloide crônica cromossomo Philadelphia positivo (LMC Ph+) em fase crônica (FC)
+               (mielóide, mielógena,
+                                                 ou em fase acelerada após falha ou intolerância a pelo menos uma terapia prévia, incluindo Imatinibe.
+               granulocítica) Crônica
+Nilotinibe
+               LMC - Leucemia Mielocítica
+                                                 Adultos com leucemia mieloide crônica cromossomo Philadelphia positivo (LMC Ph+) em fase crônica
+               (mielóide, mielógena,
+                                                 recém-diagnosticada, com escore sokal de alto risco.
+               granulocítica) Crônica
+                                                 Tratamento de primeira linha de pacientes com câncer de pulmão de não pequenas células (CPNPC)
+Osimertinibe    Pulmão                           localmente avançado ou metastático, cujo tumor apresenta mutações de deleções do éxon 19 ou de
+                                                 substituição do éxon 21 (L858R) dos receptores do fator de crescimento epidérmico (EGFRS).
+ SUBSTÂNCIA             LOCALIZAÇÃO                                                            INDICAÇÃO
+                                                Tratamento do câncer de mama avançado ou metastático HR (receptor hormonal) positivo e HER2
+                                                (receptor 2 do fator de crescimento epidérmico humano) negativo, em combinação com inibidores de
+Palbociclibe   Mama
+                                                aromatase de terceira geração (anastrozol, letrozol ou exemestano) como terapia endócrina inicial em
+                                                mulheres pós-menopausa; ou com fulvestranto em mulheres que receberam terapia prévia.
+Pazopanibe     Rim                              Irressecável ou metastático em primeira linha.
+                                                Pacientes adultos com carcinoma hepatocelular (CHC) que tenham sido previamente tratados com
+Regorafenibe   Fígado
+                                                Sorafenibe.
+                                                Tratamento de pacientes, com câncer de mama localmente avançado ou metastático, receptor hormonal
+                                                (RH) positivo e receptor para o fator de crescimento epidérmico humano tipo 2 (HER2) negativo, em
+Ribociclibe    Mama                             combinação com um Inibidor de aromatase ou Fulvestranto. Em mulheres na pré ou perimenopausa, a
+                                                terapia endócrina deve ser combinada com um agonista do hormônio liberador do hormônio luteinizante
+                                                (LHRH).
+                                                Pacientes com mielofibrose de risco intermediário ou alto, incluindo mielofibrose primária, mielofibrose
+Ruxolitinibe   Mielofibrose
+                                                pós-policitemia vera ou mielofibrose pós-trombocitemia essencial.
+Sorafenibe     Fígado                           Hepatocarcinoma avançado em pacientes child A.
+               Tumor estromal gastrintestinal   Tumor estromal gastrintestinal (GIST) após progressão da doença em uso de imatinibe ou intolerância ao
+Sunitinibe,    (GIST)                           imatinibe.
+Malato de      Rim                              Irressecável ou metastático em primeira linha.
+               Pâncreas                         Pacientes com tumores neuroendócrinos avançados (NET) localizados no pâncreas.
+Tamoxifeno,
+               Mama                             Neoadjuvante, adjuvante ou metástatico em carcinoma de mama com tumores receptor hormonal positivo.
+Citrato de
+               SNC - Sistema Nervoso Central    Glioblastoma multiforme em adjuvância ou doença recidivada.
+Temozolamida                                    Glioma maligno, tal como glioblastoma multiforme ou astrocitoma anaplásico, recidivante ou progressivo
+               SNC - Sistema Nervoso Central
+                                                após terapia padrão.
+               LLA - Leucemia Linfocítica
+                                                Sem especificação de fase da doença.
+               (Linfoblástica) Aguda
+Tioguanina
+               LMA - Leucemia Mielóide
+                                                Sem especificação de fase da doença.
+               (mielocítica, mielógena,
+ SUBSTÂNCIA              LOCALIZAÇÃO                                                          INDICAÇÃO
+                mieloblástica, mielomonocítica)
+                Aguda
+                LMC - Leucemia Mielocítica
+                (mielóide, mielógena,           Sem especificação de fase da doença.
+                granulocítica) Crônica
+Topotecana,
+                Pulmão                          Câncer de pulmão pequenas células nos casos de recaída após falha de quimioterápico de 1ª linha.
+Cloridrato de
+                                                Em combinação com dabrafenibe é indicado para o tratamento de pacientes com melanoma não ressecável
+Trametinibe     Melanoma
+                                                ou metastático com mutação BRAF V600.
+Tretinoína
+                Leucemia Promielocítica         Indução de remissão.
+(ATRA)
+Vemurafenibe    Melanoma                      Metastático com mutação V600 do gene BRAF, primeira linha.
+                                              Em combinação com um Agente hipometilante ou em combinação com Citarabina em baixa dose, para o
+                LMA - Leucemia mielóide aguda tratamento de pacientes recém-diagnosticados com LMA e que são inelegíveis para quimioterapia
+Venetoclax                                    intensiva.
+                LLC - Leucemia linfocítica    Em combinação com Rituximabe, para o tratamento da leucemia linfocítica crônica (LLC) em pacientes que
+                crônica                       tenham recebido pelo menos uma terapia prévia.
+                Pulmão                        Carcinoma de pulmão não pequenas células.
+Vinorelbina
+                Mama                          Carcinoma de mama.
+

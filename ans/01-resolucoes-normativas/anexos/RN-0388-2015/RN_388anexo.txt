@@ -1,0 +1,127 @@
+                                            ANEXO
+
+
+                   FICHA TÉCNICA DO INDICADOR DE FISCALIZAÇÃO
+
+
+1- INDICADOR DE FISCALIZAÇÃO
+
+
+Conceituação
+Delimitação de faixas para a classificação das operadoras conforme o seu desempenho, baseada no
+número de demandas Assistenciais e Não Assistenciais não resolvidas e com Reparação Voluntária
+Eficaz (RVE) eficaz processadas no procedimento de Intermediação Preliminar – NIP durante o
+ciclo de fiscalização.
+
+
+
+
+1.1- INDICADOR
+
+
+Conceituação
+Média aritmética ponderada das demandas Assistenciais e Não assistências não resolvidas e RVE,
+nos últimos seis (6) meses do período analisado, ciclo de fiscalização, para cada 10.000
+beneficiários analisado.
+
+
+Método de Cálculo*
+
+
+              Taxa_op_i= 1,0xNRA + 0,5NRN-A + 0,25xRVEA +0,25xRVEN-A x10.000
+                                         2xMed_Ben_i
+
+
+onde
+NRA : total de demanda NIP Assistencial da operadora não resolvida no período analisado.
+NRN-A: total de demanda NIP Não-Assistencial da operadora não resolvida no período analisado.
+RVEA: total de demanda NIP Assistencial da operadora classificada como RVE.
+RVEN-A: total de demanda NIP Não-Assistencial da operadora classificada como RVE.
+Med_Ben_i : Média de beneficiários da operadora nos seis meses de análise.
+Definições e detalhes dos termos utilizados no Indicador
+    •   Numerador – é o total de demandas assistências e não assistenciais não resolvidas e RVE
+        ponderada pelo seu respectivo peso.
+
+
+   •    Denominador: É média de beneficiários da operadora que estava em risco nos seis meses
+        de análise do indicador multiplicada por 2.
+
+Demandas Assistenciais não resolvidas:
+
+Demandas de natureza assistencial objeto de análise fiscalizatória sem resolução do conflito pela
+operadora. Esta dimensão reflete, possivelmente, o entendimento divergente da operadora acerca
+das questões de prestação assistencial de seus beneficiários, implicando assim, na falência dos
+esforços mediadores do dispositivo, recebendo ponderação 1,0 (um).
+
+Demandas Não Assistenciais:
+
+
+Demandas de natureza não assistencial objeto de análise fiscalizatória sem resolução do conflito
+pela operadora. Esta dimensão reflete, possivelmente, o entendimento divergente da operadora
+acerca das questões de prestação não assistencial de seus beneficiários, implicando assim, na
+falência dos esforços mediadores do dispositivo, recebendo ponderação 0,5 (zero vírgula cinco).
+
+
+Demandas Assistenciais e Não Assistenciais com reparação voluntária e eficaz do dano pela
+operadora:
+
+
+Demandas de natureza assistencial e não assistencial objeto de análise fiscalizatória com reparação
+voluntária e eficaz dos danos eventualmente causados e no cumprimento útil da obrigação. Esta
+dimensão reflete a efetividade do dispositivo (componente positivo), bem como práticas de
+mecanismo de regulação, quando utilizada em demasia (componente negativo), recebendo
+ponderação 0,25 (zero vírgula vinte e cinco).
+Taxa (Tx): é a taxa estimada para cada operadora, por meio do número de demandas assistenciais
+ou não assistenciais, ponderada pelo seu respectivo peso, para cada 10.000 beneficiários.
+
+
+Interpretação dos Indicadores
+O Indicador de Fiscalização classifica as operadoras em faixas, conforme o seu desempenho durante
+o ciclo de fiscalização.
+
+
+O Indicador aponta padrão de comportamento e práticas inadequadas por parte das operadoras de
+planos privados de assistência à saúde, no que tange às demandas de temática assistenciais e não
+assistenciais.
+
+
+Usos dos Indicadores
+Permitem acompanhar e avaliar a atuação das operadoras de planos privados de assistência à saúde,
+além de compará-las e classificá-las em relação às demais operadoras quanto à resolução de
+demandas de reclamação de cunho assistencial e não assistencial.
+
+
+Parâmetros, Dados Estatísticos e Recomendações
+O Indicador de Fiscalização classifica as operadoras de planos privados de assistência à saúde
+quanto ao seu desempenho no ciclo de fiscalização.
+
+
+Classificação
+As operadoras serão classificadas nas faixas de desempenho por meio de percentis (Pα), calculados
+sobre as taxas obtidas de todas operadoras no ciclo de fiscalização, conforme mostrado no quadro 1.
+
+
+Quadro 1: Classificação das operadoras por faixa de desempenho
+I – faixa 1: operadoras em que a: taxa < P35
+II – faixa 2: operadoras em que a: P35 ≤ taxa < P70
+III – faixa 3: operadoras em que a: P70 ≤ taxa < P90
+IV - Faixa 4: Operadoras em que a: taxa ≥ P90
+Meta
+Redução do quantitativo de demandas não resolvidas sob as temáticas assistenciais e não
+assistenciais. Além da indução de boas práticas e da correção de práticas em desconformidade
+regulatória.
+
+
+Fontes
+ANS – Sistema de Informações de Fiscalização (SIF)
+ANS – Sistema de Informações de Beneficiários – SIB
+
+
+Limitações e Vieses
+Sub-registro de reclamações, tendo em vista que muitos beneficiários não demandam a ANS.
+
+
+REFERÊNCIAS
+RN n.º 343, de 19 de março de 2013, que dispõe, em especial, sobre o procedimento de Notificação
+de Investigação Preliminar – NIP, e os atos normativos que vierem a sucedê-la.
+

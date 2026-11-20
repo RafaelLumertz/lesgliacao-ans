@@ -1,0 +1,104 @@
+                                            ANEXO VIII
+
+   BASES TÉCNICAS PARA O CÁLCULO DA PEONA SUS POR OPERADORAS QUE NÃO POSSUEM
+                          METODOLOGIA ATUARIAL PRÓPRIA
+
+
+
+1. As operadoras que não possuam metodologia atuarial própria para cálculo da Provisão para
+Eventos/Sinistros Ocorridos e Não Avisados ocorridos no SUS – PEONA SUS, comunicada à DIOPE nos
+termos da presente Resolução, deverão utilizar, para cálculo da PEONA SUS, o valor calculado a partir
+da multiplicação dos eventos avisados nos últimos vinte e quatro meses, referentes aos
+procedimentos realizados na rede assistencial do Sistema (SUS) pelo menor dos seguintes fatores:
+
+
+
+I – Fator Teto da PEONA SUS e
+
+
+
+II- Fator Individual da PEONA SUS.
+
+
+
+1.1. O Fator Individual de PEONA SUS será aquele resultante da aplicação da seguinte fórmula para
+cada operadora:
+
+
+
+
+Onde:
+
+i. “A” será o primeiro trimestre do período que compreende um total de seis trimestres a ser
+considerado no cálculo do percentual de que trata a fórmula acima, a ser definido anualmente por
+relatório técnico da Diretoria de Normas e Habilitação das Operadoras, previamente aprovado pela
+Diretoria Colegiada.
+
+ii. “B” será o último trimestre do período que compreende um total de seis trimestres a ser
+considerado no cálculo do percentual de que trata a fórmula acima, a ser definido anualmente por
+relatório técnico da Diretoria de Normas e Habilitação das Operadoras, previamente aprovado pela
+Diretoria Colegiada.
+iii. EONA SUS é o montante referente a soma dos valores devidos de procedimentos, cobrados ou
+passíveis de cobrança de ressarcimento ao SUS para os quais não foram emitidas GRU, ocorridos até
+o fim do trimestre de referência, mas ainda não notificados como devido pela ANS à operadora até
+o fim do referido trimestre. São considerados como valores devidos passíveis de cobrança de
+ressarcimento ao SUS aqueles procedimentos que não foram impugnados e cujo prazo de
+impugnação terminou, os indeferidos em 1ª instância e não recorridos, e os não providos em 2ª
+instância;
+
+iv. Foram considerados nos Eventos SUS (vinte e quatro meses) as notificações de ressarcimento ao
+SUS cujos prazos de impugnação terminaram e que não foram impugnados pela operadora, os
+indeferidos pela ANS em primeira instância e não recorridos, os não providos em segunda instância
+e os cobrados com Guia de Recolhimento da União (GRU).
+
+
+
+1.2. Foram considerados seis trimestres de referência para o cálculo, sendo o primeiro referente ao
+1º trimestre de 2018 e o último referente ao 2º trimestre de 2019.
+
+
+
+1.3. O percentual atribuído a operadora é 0 (zero) quando:
+
+
+
+1.3.1. A operadora não tiver EONA SUS nos dois últimos trimestres utilizados no cálculo;
+
+
+
+1.3.2. O resultado da média geométrica da divisão da EONA SUS pelos Eventos SUS (vinte e quatro
+meses) for menor ou igual a 0,00009999.
+
+
+
+1.4. Sendo nulo o valor da EONA SUS em qualquer trimestre utilizado no cálculo, com exceção dos
+dois últimos, imputou-se o valor de 1 × 10−11 à EONA SUS daquele trimestre.
+
+
+
+2. Serão considerados no montante total de eventos avisados nos últimos vinte quatro meses de que
+tratam os incisos I e II do presente anexo, as notificações de ressarcimento ao SUS que atendam aos
+mesmos critérios estabelecidos no subitem iv do item 1.1 deste Anexo.
+
+
+
+3. A ANS divulgará mensalmente, por operadora, o Fator Individual de PEONA SUS e o montante de
+eventos avisados nos últimos 24 meses de que trata o item 1 do presente Anexo, no Espaço da
+Operadora do sítio institucional da ANS.
+4. O relatório técnico que trata da definição dos seis trimestres que compõem o período para o
+cálculo do Fator Individual de PEONA SUS e do Fator Teto de PEONA SUS será disponibilizado no sítio
+institucional da ANS, sob o título “Nota Metodológica para definição de percentual padrão para
+PEONA SUS (especificando o ano de apuração)” até 31 de julho de cada ano."
+
+
+
+5. Os valores calculados de Fator Individual de PEONA SUS, a partir da base de dados do
+Ressarcimento ao SUS, serão divulgados na Central de Relatórios do Espaço das Operadoras do sítio
+institucional da ANS, ou em outro espaço que o substitua, sendo objeto de estudo anualmente, a ser
+divulgado até 30 de junho de cada ano.
+
+
+
+6. Os novos parâmetros obtidos no relatório técnico do item 4 serão obrigatórios a partir do dia 1°
+de setembro de cada ano.
+

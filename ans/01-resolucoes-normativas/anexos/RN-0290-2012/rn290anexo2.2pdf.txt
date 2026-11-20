@@ -1,0 +1,2058 @@
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3                                                                                                                                                     RECEITAS
+
+
+
+    3      1                                                                                                                                              RECEITAS COM OPERAÇÕES DE ASSISTÊNCIA A SAÚDE
+
+
+
+    3      1       1                                                                                                                                      CONTRAPRESTAÇÕES LÍQUIDAS / PRÊMIOS RETIDOS
+
+
+
+    3      1       1         1                                                                                                                            CONTRAPRESTAÇÕES EMITIDAS / PRÊMIOS EMITIDOS DE ASSISTÊNCIA A SAÚDE
+
+
+
+    3      1       1         1        1                                                                                                                   CONTRAPRESTAÇÕES EMITIDAS / PRÊMIOS EMITIDOS DE ASSISTÊNCIA MÉDICO-HOSPITALAR
+
+
+
+    3      1       1         1        1            1                                                                                                      Cobertura Assistencial com Preço Preestabelecido
+
+    3      1       1         1        1            1           0            1                                                                             Planos Individuais/Familiares antes da Lei
+
+    3      1       1         1        1            1           0            1            1                                                                Contraprestação Emitida
+
+    3      1       1         1        1            1           0            1            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        1            1           0            1            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        1            1           0            1            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        1            1           0            1            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        1            1           0            1            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        1            1           0            2                                                                             Planos Individuais/Familiares pós - Lei
+
+    3      1       1         1        1            1           0            2            1                                                                Contraprestação Emitida
+
+    3      1       1         1        1            1           0            2            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        1            1           0            2            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        1            1           0            2            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        1            1           0            2            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        1            1           0            2            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        1            1           0            3                                                                             Planos Coletivos por Adesão antes da Lei
+
+    3      1       1         1        1            1           0            3            1                                                                Contraprestação Emitida
+
+    3      1       1         1        1            1           0            3            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        1            1           0            3            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        1            1           0            3            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        1            1           0            3            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        1            1           0            3            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        1            1           0            4                                                                             Planos Coletivos por Adesão depois da lei
+
+    3      1       1         1        1            1           0            4            1                                                                Contraprestação Emitida
+
+    3      1       1         1        1            1           0            4            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        1            1           0            4            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        1            1           0            4            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        1            1           0            4            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        1            1           0            4            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        1            1           0            5                                                                             Planos Coletivos Empresariais antes da Lei
+
+    3      1       1         1        1            1           0            5            1                                                                Contraprestação Emitida
+
+    3      1       1         1        1            1           0            5            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        1            1           0            5            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        1            1           0            5            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        1            1           0            5            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        1            1           0            5            6                                                                Corresponsabilidade Assumida
+
+
+                                                                                                                                                                                                                                          1/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      1       1         1        1            1           0            6                                                                             Planos Coletivos Empresariais depois da lei
+
+    3      1       1         1        1            1           0            6            1                                                                Contraprestação Emitida
+
+    3      1       1         1        1            1           0            6            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        1            1           0            6            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        1            1           0            6            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        1            1           0            6            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        1            1           0            6            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        1            2                                                                                                      Cobertura Assistencial com Preço Pós Estabelecido
+
+    3      1       1         1        1            2           0            1                                                                             Planos Individuais/Familiares antes da Lei
+
+    3      1       1         1        1            2           0            1            1                                                                Contraprestação Emitida
+
+    3      1       1         1        1            2           0            1            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        1            2           0            1            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        1            2           0            1            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        1            2           0            1            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        1            2           0            1            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        1            2           0            1            8                                                                Ajuste por Glosa
+
+    3      1       1         1        1            2           0            2                                                                             Planos Individuais/Familiares pós - Lei
+
+    3      1       1         1        1            2           0            2            1                                                                Contraprestação Emitida
+
+    3      1       1         1        1            2           0            2            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        1            2           0            2            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        1            2           0            2            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        1            2           0            2            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        1            2           0            2            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        1            2           0            2            8                                                                Ajuste por Glosa
+
+    3      1       1         1        1            2           0            3                                                                             Planos Coletivos por Adesão antes da Lei
+
+    3      1       1         1        1            2           0            3            1                                                                Contraprestação Emitida
+
+    3      1       1         1        1            2           0            3            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        1            2           0            3            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        1            2           0            3            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        1            2           0            3            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        1            2           0            3            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        1            2           0            3            8                                                                Ajuste por Glosa
+
+    3      1       1         1        1            2           0            4                                                                             Planos Coletivos por Adesão depois da Lei
+
+    3      1       1         1        1            2           0            4            1                                                                Contraprestação Emitida
+
+    3      1       1         1        1            2           0            4            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        1            2           0            4            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        1            2           0            4            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        1            2           0            4            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        1            2           0            4            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        1            2           0            4            8                                                                Ajuste por Glosa
+
+    3      1       1         1        1            2           0            5                                                                             Planos Coletivos Empresariais antes da Lei
+
+    3      1       1         1        1            2           0            5            1                                                                Contraprestação Emitida
+
+    3      1       1         1        1            2           0            5            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        1            2           0            5            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        1            2           0            5            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        1            2           0            5            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+
+                                                                                                                                                                                                                    2/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      1       1         1        1            2           0            5            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        1            2           0            5            8                                                                Ajuste por Glosa
+
+    3      1       1         1        1            2           0            6                                                                             Planos Coletivos Empresariais depois da lei
+
+    3      1       1         1        1            2           0            6            1                                                                Contraprestação Emitida
+
+    3      1       1         1        1            2           0            6            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        1            2           0            6            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        1            2           0            6            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        1            2           0            6            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        1            2           0            6            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        1            2           0            6            8                                                                Ajuste por Glosa
+
+
+
+    3      1       1         1        2                                                                                                                   CONTRAPRESTAÇÕES EMITIDAS / PRÊMIOS EMITIDOS DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    3      1       1         1        2            1                                                                                                      Cobertura Assistencial com Preço Preestabelecido
+
+    3      1       1         1        2            1           0            1                                                                             Planos Individuais/Familiares antes da Lei
+
+    3      1       1         1        2            1           0            1            1                                                                Contraprestação Emitida
+
+    3      1       1         1        2            1           0            1            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        2            1           0            1            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        2            1           0            1            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        2            1           0            1            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        2            1           0            1            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        2            1           0            2                                                                             Planos Individuais/Familiares pós da Lei
+
+    3      1       1         1        2            1           0            2            1                                                                Contraprestação Emitida
+
+    3      1       1         1        2            1           0            2            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        2            1           0            2            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        2            1           0            2            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        2            1           0            2            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        2            1           0            2            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        2            1           0            3                                                                             Planos Coletivos por Adesão antes da Lei
+
+    3      1       1         1        2            1           0            3            1                                                                Contraprestação Emitida
+
+    3      1       1         1        2            1           0            3            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        2            1           0            3            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        2            1           0            3            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        2            1           0            3            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        2            1           0            3            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        2            1           0            4                                                                             Planos Coletivos por Adesão depois da Lei
+
+    3      1       1         1        2            1           0            4            1                                                                Contraprestação Emitida
+
+    3      1       1         1        2            1           0            4            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        2            1           0            4            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        2            1           0            4            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        2            1           0            4            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        2            1           0            4            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        2            1           0            5                                                                             Planos Coletivos Empresariais antes da Lei
+
+    3      1       1         1        2            1           0            5            1                                                                Contraprestação Emitida
+
+    3      1       1         1        2            1           0            5            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        2            1           0            5            3                                                                Premios Emitidos - Cosseguro Aceito
+
+
+                                                                                                                                                                                                                                     3/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      1       1         1        2            1           0            5            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        2            1           0            5            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        2            1           0            5            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        2            1           0            6                                                                             Planos Coletivos Empresariais depois da Lei
+
+    3      1       1         1        2            1           0            6            1                                                                Contraprestação Emitida
+
+    3      1       1         1        2            1           0            6            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        2            1           0            6            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        2            1           0            6            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        2            1           0            6            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        2            1           0            6            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        2            2                                                                                                      Cobertura Assistencial com Preço Pós Estabelecido
+
+    3      1       1         1        2            2           0            1                                                                             Planos Individuais/Familiares antes da Lei
+
+    3      1       1         1        2            2           0            1            1                                                                Contraprestação Emitida
+
+    3      1       1         1        2            2           0            1            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        2            2           0            1            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        2            2           0            1            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        2            2           0            1            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        2            2           0            1            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        2            2           0            1            8                                                                Ajuste por Glosa
+
+    3      1       1         1        2            2           0            2                                                                             Planos Individuais/Familiares depois da Lei
+
+    3      1       1         1        2            2           0            2            1                                                                Contraprestação Emitida
+
+    3      1       1         1        2            2           0            2            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        2            2           0            2            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        2            2           0            2            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        2            2           0            2            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        2            2           0            2            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        2            2           0            2            8                                                                Ajuste por Glosa
+
+    3      1       1         1        2            2           0            3                                                                             Planos Coletivos por Adesão antes da Lei
+
+    3      1       1         1        2            2           0            3            1                                                                Contraprestação Emitida
+
+    3      1       1         1        2            2           0            3            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        2            2           0            3            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        2            2           0            3            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        2            2           0            3            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        2            2           0            3            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        2            2           0            3            8                                                                Ajuste por Glosa
+
+    3      1       1         1        2            2           0            4                                                                             Planos Coletivos por Adesão depois da Lei
+
+    3      1       1         1        2            2           0            4            1                                                                Contraprestação Emitida
+
+    3      1       1         1        2            2           0            4            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        2            2           0            4            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        2            2           0            4            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        2            2           0            4            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        2            2           0            4            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        2            2           0            4            8                                                                Ajuste por Glosa
+
+    3      1       1         1        2            2           0            5                                                                             Planos Coletivos Empresariais antes da Lei
+
+    3      1       1         1        2            2           0            5            1                                                                Contraprestação Emitida
+
+    3      1       1         1        2            2           0            5            2                                                                Premios Emitidos - Seguros Diretos
+
+
+                                                                                                                                                                                                                    4/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      1       1         1        2            2           0            5            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        2            2           0            5            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        2            2           0            5            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        2            2           0            5            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        2            2           0            5            8                                                                Ajuste por Glosa
+
+    3      1       1         1        2            2           0            6                                                                             Planos Coletivos Empresariais depois da Lei
+
+    3      1       1         1        2            2           0            6            1                                                                Contraprestação Emitida
+
+    3      1       1         1        2            2           0            6            2                                                                Premios Emitidos - Seguros Diretos
+
+    3      1       1         1        2            2           0            6            3                                                                Premios Emitidos - Cosseguro Aceito
+
+    3      1       1         1        2            2           0            6            4                                                                Contribuição para Auto Gestão - Recurso do Patrocinador
+
+    3      1       1         1        2            2           0            6            5                                                                Contribuição para Auto Gestão - Recurso do Participante
+
+    3      1       1         1        2            2           0            6            6                                                                Corresponsabilidade Assumida
+
+    3      1       1         1        2            2           0            6            8                                                                Ajuste por Glosa
+
+
+
+    3      1       1         7                                                                                                                            (-) CONTRAPRESTAÇÕES DE CORRESPONSABILIDADE TRANSFERIDA DE ASSISTÊNCIA A SAÚDE
+
+
+                                                                                                                                                          (-) CONTRAPRESTAÇÕES DE CORRESPONSABILIDADE TRANSFERIDA DE ASSISTÊNCIA MÉDICO-
+    3      1       1         7        1                                                                                                                   HOSPITALAR
+
+
+
+    3      1       1         7        1            1                                                                                                      Cobertura Assistencial com Preço Preestabelecido
+
+    3      1       1         7        1            1           0            1                                                                             Cobertura Assistencial com Preço Preestabelecido
+
+    3      1       1         7        1            1           0            1            1                                                                Cobertura Assistencial com Preço Preestabelecido
+
+    3      1       1         7        1            2                                                                                                      Cobertura Assistencial com Preço Pós-estabelecido
+
+    3      1       1         7        1            2           0            1                                                                             Cobertura Assistencial com Preço Pós-estabelecido
+
+    3      1       1         7        1            2           0            1            1                                                                Cobertura Assistencial com Preço Pós-estabelecido
+
+
+
+    3      1       1         7        2                                                                                                                   (-) CONTRAPRESTAÇÕES DE CORRESPONSABILIDADE TRANSFERIDA DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    3      1       1         7        2            1                                                                                                      Cobertura Assistencial com Preço Preestabelecido
+
+    3      1       1         7        2            1           0            1                                                                             Cobertura Assistencial com Preço Preestabelecido
+
+    3      1       1         7        2            1           0            1            1                                                                Cobertura Assistencial com Preço Preestabelecido
+
+    3      1       1         7        2            2                                                                                                      Cobertura Assistencial com Preço Pós-estabelecido
+
+    3      1       1         7        2            2           0            1                                                                             Cobertura Assistencial com Preço Pós-estabelecido
+
+    3      1       1         7        2            2           0            1            1                                                                Cobertura Assistencial com Preço Pós-estabelecido
+
+
+
+    3      1       1         9                                                                                                                            (-)OUTRAS DEDUÇÕES DAS CONTRAPRESTAÇÕES / PRÊMIOS
+
+
+
+    3      1       1         9        1                                                                                                                   DESCONTOS - ASSISTÊNCIA MÉDICO HOSPITALAR
+
+
+
+    3      1       1         9        1            1                                                                                                      Cobertura Assistencial com Preço Preestabelecido
+
+    3      1       1         9        1            1           0            1                                                                             Descontos
+
+    3      1       1         9        1            1           0            1            1                                                                Descontos
+
+    3      1       1         9        1            1           0            2                                                                             Abatimento Concedido
+
+    3      1       1         9        1            1           0            2            1                                                                Abatimento Concedido
+
+    3      1       1         9        1            1           0            3                                                                             Outras Deduções
+
+    3      1       1         9        1            1           0            3            1                                                                Outras Deduções
+
+    3      1       1         9        1            2                                                                                                      Cobertura Assistencial com Preço Pós-estabelecido
+
+
+                                                                                                                                                                                                                                            5/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      1       1         9        1            2           0            1                                                                             Descontos
+
+    3      1       1         9        1            2           0            1            1                                                                Descontos
+
+    3      1       1         9        1            2           0            2                                                                             Abatimento Concedido
+
+    3      1       1         9        1            2           0            2            1                                                                Abatimento Concedido
+
+    3      1       1         9        1            2           0            3                                                                             Outras Deduções
+
+    3      1       1         9        1            2           0            3            1                                                                Outras Deduções
+
+
+
+    3      1       1         9        2                                                                                                                   (-) OUTRAS DEDUÇÕES DAS CONTRAPRESTAÇÕES/PRÊMIOS DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    3      1       1         9        2            1                                                                                                      Cobertura Assistencial com Preço Preestabelecido
+
+    3      1       1         9        2            1           0            1                                                                             Descontos
+
+    3      1       1         9        2            1           0            1            1                                                                Descontos
+
+    3      1       1         9        2            1           0            2                                                                             Abatimento Concedido
+
+    3      1       1         9        2            1           0            2            1                                                                Abatimento Concedido
+
+    3      1       1         9        2            1           0            3                                                                             Outras Deduções
+
+    3      1       1         9        2            1           0            3            1                                                                Outras Deduções
+
+    3      1       1         9        2            2                                                                                                      Cobertura Assistencial com Preço Pós-estabelecido
+
+    3      1       1         9        2            2           0            1                                                                             Descontos
+
+    3      1       1         9        2            2           0            1            1                                                                Descontos
+
+    3      1       1         9        2            2           0            2                                                                             Abatimento Concedido
+
+    3      1       1         9        2            2           0            2            1                                                                Abatimento Concedido
+
+    3      1       1         9        2            2           0            3                                                                             Outras Deduções
+
+    3      1       1         9        2            2           0            3            1                                                                Outras Deduções
+
+
+
+    3      1       2                                                                                                                                      VARIAÇÃO DAS PROVISÕES TÉCNICAS DE OPERAÇÕES DE ASSISTÊNCIA À SAÚDE
+
+
+
+    3      1       2         1                                                                                                                            VARIAÇÃO DAS PROVISÕES TÉCNICAS DE OPERAÇÕES DE ASSISTÊNCIA À SAÚDE
+
+
+
+    3      1       2         1        1                                                                                                                   VARIAÇÃO DAS PROVISÕES TÉCNICAS DE ASSISTÊNCIA MÉDICO-HOSPITALAR
+
+
+
+    3      1       2         1        1            9                                                                                                      Variação das Provisões Técnicas de Assistência Médico-Hospitalar
+
+    3      1       2         1        1            9           0            1                                                                             Provisão de Insuficiência de Prêmios
+
+    3      1       2         1        1            9           0            1            1                                                                Seguros Diretos
+
+    3      1       2         1        1            9           0            1            2                                                                Co-seguro Aceito
+
+    3      1       2         1        1            9           0            2                                                                             Provisão para Remissão
+
+    3      1       2         1        1            9           0            2            1                                                                Provisão para Remissão
+
+    3      1       2         1        1            9           0            9                                                                             Outras Provisões
+
+    3      1       2         1        1            9           0            9            9                                                                Outras Provisões
+
+
+
+    3      1       2         1        2                                                                                                                   VARIAÇÃO DAS PROVISÕES TÉCNICAS DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    3      1       2         1        2            9                                                                                                      Variação das Provisões Técnicas de Assistência Odontológica
+
+    3      1       2         1        2            9           0            1                                                                             Provisão de Insuficiência de Prêmios
+
+    3      1       2         1        2            9           0            1            1                                                                Seguros Diretos
+
+    3      1       2         1        2            9           0            1            2                                                                Co-seguro Aceito
+
+    3      1       2         1        2            9           0            2                                                                             Provisão para Remissão
+
+
+                                                                                                                                                                                                                                         6/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      1       2         1        2            9           0            2            1                                                                Provisão para Remissão
+
+    3      1       2         1        2            9           0            9                                                                             Outras Provisões
+
+    3      1       2         1        2            9           0            9            9                                                                Outras Provisões
+
+
+
+    3      1       3                                                                                                                                      RECEITAS COM ADMINISTRAÇÃO
+
+
+
+    3      1       3         1                                                                                                                            RECEITAS COM ADMINISTRAÇÃO DE PLANOS DE ASSISTÊNCIA A SAÚDE
+
+
+
+    3      1       3         1        1                                                                                                                   TAXA DE ADMINISTRAÇÃO MÉDICO-HOSPITALAR
+
+
+
+    3      1       3         1        1            9                                                                                                      Taxa de Administração de Benefícios - Contratos Estipulados/Não Estipulados
+
+    3      1       3         1        1            9           0            1                                                                             Taxa de Administração de Benefícios - Contratos Estipulados/Não Estipulados
+
+    3      1       3         1        1            9           0            1            1                                                                Taxa de Administração de Benefícios - Contratos Estipulados
+
+    3      1       3         1        1            9           0            1            2                                                                Taxa de Administração de Benefícios - Contratos Não Estipulados
+
+
+
+    3      1       3         1        2                                                                                                                   TAXA DE ADMINISTRAÇÃO PLANOS ODONTOLÓGICOS
+
+
+
+    3      1       3         1        2            9                                                                                                      Taxa de Administração de Benefícios - Contratos Estipulados/Não Estipulados
+
+    3      1       3         1        2            9           0            1                                                                             Taxa de Administração de Benefícios - Contratos Estipulados/Não Estipulados
+
+    3      1       3         1        2            9           0            1            1                                                                Taxa de Administração de Benefícios - Contratos Estipulados
+
+    3      1       3         1        2            9           0            1            2                                                                Taxa de Administração de Benefícios - Contratos Não Estipulados
+
+
+
+    3      1       4                                                                                                                                      RECEITAS COM RESSEGURO
+
+
+
+    3      1       4         1                                                                                                                            RECEITAS COM SINISTROS
+
+
+
+    3      1       4         1        1                                                                                                                   RECEITAS COM SINISTROS
+
+
+
+    3      1       4         1        1            9                                                                                                      Receitas com Sinistros
+
+    3      1       4         1        1            9           0            1                                                                             Receitas com Sinistros
+
+    3      1       4         1        1            9           0            1            1                                                                Indenizações com Sinistros
+
+
+
+    3      1       4         2                                                                                                                            OUTRAS RECEITAS COM RESSEGURO
+
+
+
+    3      1       4         2        1                                                                                                                   OUTRAS RECEITAS COM RESSEGURO
+
+
+
+    3      1       4         2        1            9                                                                                                      Outras Receitas com Resseguro
+
+    3      1       4         2        1            9           0            1                                                                             Outras Receitas com Resseguro
+
+    3      1       4         2        1            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      2                                                                                                                                              (-) TRIBUTOS DIRETOS DE OPERAÇÕES DE ASSISTÊNCIA À SAÚDE
+
+
+
+    3      2       1                                                                                                                                      (-) TRIBUTOS DIRETOS DE OPERAÇÕES COM PLANOS DE ASSISTÊNCIA À SAÚDE DA OPERADORA
+
+
+
+    3      2       1         1                                                                                                                            (-) TRIBUTOS DIRETOS DE OPERAÇÕES COM PLANOS DE ASSISTÊNCIA À SAÚDE DA OPERADORA
+
+
+
+
+                                                                                                                                                                                                                                             7/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      2       1         1        1                                                                                                                   (-) TRIBUTOS DIRETOS DE OPERAÇÕES DE ASSISTÊNCIA MÉDICO-HOSPITALAR
+
+
+
+    3      2       1         1        1            9                                                                                                      (-) Tributos Diretos de Operações de Assistência Médico-Hospitalar
+
+    3      2       1         1        1            9           0            1                                                                             (-) Tributos Diretos de Operações de Assistência Médico-Hospitalar
+
+    3      2       1         1        1            9           0            1            1                                                                (-) Tributos Federais
+
+    3      2       1         1        1            9           0            1            2                                                                (-) Tributos Estaduais
+
+    3      2       1         1        1            9           0            1            3                                                                (-) Tributos Municipais
+
+
+
+    3      2       1         1        2                                                                                                                   (-) TRIBUTOS DIRETOS DE OPERAÇÕES DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    3      2       1         1        2            9                                                                                                      (-) Tributos Diretos de Operações de Assistência Odontológica
+
+    3      2       1         1        2            9           0            1                                                                             (-) Tributos Diretos de Operações de Assistência Odontológica
+
+    3      2       1         1        2            9           0            1            1                                                                (-) Tributos Federais
+
+    3      2       1         1        2            9           0            1            2                                                                (-) Tributos Estaduais
+
+    3      2       1         1        2            9           0            1            3                                                                (-) Tributos Municipais
+
+
+
+    3      3                                                                                                                                              OUTRAS RECEITAS OPERACIONAIS
+
+
+
+    3      3       1                                                                                                                                      OUTRAS RECEITAS OPERACIONAIS DE PLANOS DE ASSISTÊNCIA À SAÚDE
+
+
+
+    3      3       1         1                                                                                                                            OUTRAS RECEITAS OPERACIONAIS DE PLANOS DE ASSISTÊNCIA À SAÚDE
+
+
+
+    3      3       1         1        1                                                                                                                   RECEITAS COM OUTRAS OPERAÇÕES DE PLANOS DE ASSISTÊNCIA MÉDICO-HOSPITALAR
+
+
+
+    3      3       1         1        1            9                                                                                                      Receitas com Outras Operações de Planos de Assistência Médico-Hospitalar
+
+    3      3       1         1        1            9           0            1                                                                             Receitas com Outras Operações de Planos de Assistência Médico-Hospitalar
+
+    3      3       1         1        1            9           0            1            1                                                                Implantação de Planos
+
+    3      3       1         1        1            9           0            1            2                                                                Inscrições
+
+    3      3       1         1        1            9           0            1            3                                                                Reembolso Despesas Cadastrais
+
+    3      3       1         1        1            9           0            1            4                                                                Confecção de Carteiras
+
+    3      3       1         1        1            9           0            1            5                                                                Recuperação de Custos de Emissão de Apólices
+
+    3      3       1         1        1            9           0            1            6                                                                Receitas com Participações em Lucros de Resseguros
+
+    3      3       1         1        1            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      3       1         1        2                                                                                                                   RECEITAS COM OUTRAS OPERAÇÕES DE PLANOS DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    3      3       1         1        2            9                                                                                                      Receitas com Outras Operações de Planos de Assistência Odontológica
+
+    3      3       1         1        2            9           0            1                                                                             Receitas com Outras Operações de Planos de Assistência Odontológica
+
+    3      3       1         1        2            9           0            1            1                                                                Implantação de Planos
+
+    3      3       1         1        2            9           0            1            2                                                                Inscrições
+
+    3      3       1         1        2            9           0            1            3                                                                Reembolso Despesas Cadastrais
+
+    3      3       1         1        2            9           0            1            4                                                                Confecção de Carteiras
+
+    3      3       1         1        2            9           0            1            5                                                                Recuperação de Custos de Emissão de Apólices
+
+    3      3       1         1        2            9           0            1            6                                                                Receitas com Participações em Lucros de Resseguros
+
+    3      3       1         1        2            9           0            1            9                                                                Outras Receitas
+
+
+
+
+                                                                                                                                                                                                                                     8/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      3       2                                                                                                                                      RECEITAS DE ASSISTÊNCIA À SAÚDE NÃO RELACIONADAS COM PLANOS DE SAÚDE DA OPERADORA
+
+
+
+    3      3       2         1                                                                                                                            RECEITAS DE ASSISTÊNCIA À SAÚDE NÃO RELACIONADAS COM PLANOS DE SAÚDE DA OPERADORA
+
+
+
+    3      3       2         1        1                                                                                                                   RECEITAS COM OPERAÇÕES DE ASSISTÊNCIA MÉDICO-HOSPITALAR
+
+
+
+    3      3       2         1        1            9                                                                                                      Receitas com Operações de Assistência Médico-Hospitalar
+
+    3      3       2         1        1            9           0            1                                                                             Receitas com Operações de Assistência Médico-Hospitalar
+
+    3      3       2         1        1            9           0            1            1                                                                Receitas com Prestação de Serviços
+
+    3      3       2         1        1            9           0            1            2                                                                (-) Dedução de Receitas com Prestação de Serviços
+
+
+
+    3      3       2         1        2                                                                                                                   RECEITAS COM OPERAÇÕES DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    3      3       2         1        2            9                                                                                                      Receitas com Operações de Assistência Odontológica
+
+    3      3       2         1        2            9           0            1                                                                             Receitas com Operações de Assistência Odontológica
+
+    3      3       2         1        2            9           0            1            1                                                                Receitas com Prestação de Serviços
+
+    3      3       2         1        2            9           0            1            2                                                                (-) Dedução de Receitas com Prestação de Serviços
+
+
+
+    3      3       2         1        3                                                                                                                   RECEITAS COM OPERAÇÕES DE ASSISTÊNCIA MÉDICO-HOSPITALAR (SUS)
+
+
+
+    3      3       2         1        3            9                                                                                                      Receitas com Operações de Assistência Médico-Hospitalar (SUS)
+
+    3      3       2         1        3            9           0            1                                                                             Receitas com Operações de Assistência Médico-Hospitalar (SUS)
+
+    3      3       2         1        3            9           0            1            1                                                                Receitas Operacionais com o Serviço Único de Saúde - SUS
+
+    3      3       2         1        3            9           0            1            2                                                                (-) Dedução de Receitas com o SUS
+
+
+
+    3      3       2         1        4                                                                                                                   RECEITAS COM OPERAÇÕES DE ASSISTÊNCIA ODONTOLÓGICA (SUS)
+
+
+
+    3      3       2         1        4            9                                                                                                      Receitas com Operações de Assistência Odontológica (SUS)
+
+    3      3       2         1        4            9           0            1                                                                             Receitas com Operações de Assistência Odontológica (SUS)
+
+    3      3       2         1        4            9           0            1            1                                                                Receitas Operacionais com o Serviço Único de Saúde - SUS
+
+    3      3       2         1        4            9           0            1            2                                                                (-) Dedução de Receitas com o SUS
+
+
+
+    3      3       2         1        5                                                                                                                   OUTRAS RECEITAS DE PRESTAÇÃO DE SERVIÇOS DE ADMINISTRADORA DE BENEFÍCIOS
+
+
+
+    3      3       2         1        5            9                                                                                                      Outras Receitas de Prestação de Serviços de Administradora de Benefícios
+
+    3      3       2         1        5            9           0            1                                                                             Outras Receitas de Prestação de Serviços de Administradora de Benefícios
+
+    3      3       2         1        5            9           0            1            1                                                                Outras Receitas de Prestação de Serviços
+
+    3      3       2         1        5            9           0            1            2                                                                (-) Dedução de Outras Receitas Prestação de Serviços
+
+
+
+    3      3       2         1        6                                                                                                                   RECEITAS COM ADMINISTRAÇÃO DE INTERCÂMBIO EVENTUAL - ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    3      3       2         1        6            9                                                                                                      Receitas com Administração de Intercâmbio Eventual - Assistência Odontológica
+
+    3      3       2         1        6            9           0            1                                                                             Receitas com Administração de Intercâmbio Eventual - Assistência Odontológica
+
+    3      3       2         1        6            9           0            1            1                                                                Taxa de Administração de Intercâmbio Eventual
+
+    3      3       2         1        6            9           0            1            2                                                                Receita de Intercâmbio Eventual por Diferença de Tabela
+
+
+
+
+                                                                                                                                                                                                                                              9/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      3       2         1        7                                                                                                                   RECEITAS COM ADMINISTRAÇÃO DE INTERCÂMBIO EVENTUAL - ASSISTENCIA MEDICO HOSPITALAR
+
+
+
+    3      3       2         1        7            9                                                                                                      Receitas com Administração de Intercâmbio Eventual - Assistência Médico Hospitalar
+
+    3      3       2         1        7            9           0            1                                                                             Receitas com Administração de Intercâmbio Eventual - Assistência Médico Hospitalar
+
+    3      3       2         1        7            9           0            1            1                                                                Taxa de Administração de Intercâmbio Eventual
+
+    3      3       2         1        7            9           0            1            2                                                                Receita de Intercâmbio Eventual por Diferença de Tabela
+
+
+
+    3      3       2         1        8                                                                                                                   OUTRAS RECEITAS OPERACIONAIS
+
+
+
+    3      3       2         1        8            9                                                                                                      Outras Receitas Operacionais
+
+    3      3       2         1        8            9           0            1                                                                             Outras Receitas Operacionais
+
+    3      3       2         1        8            9           0            1            1                                                                Outras Receitas Operacionais
+
+
+
+
+    3      4                                                                                                                                              (-) TRIBUTOS DIRETOS DE OUTRAS ATIVIDADES DE ASSISTÊNCIA À SAÚDE
+
+
+
+    3      4       1                                                                                                                                      (-) TRIBUTOS DIRETOS DE OUTRAS ATIVIDADES DE ASSISTÊNCIA À SAÚDE
+
+
+
+    3      4       1         1                                                                                                                            (-) TRIBUTOS DIRETOS DE OUTRAS ATIVIDADES DE ASSISTÊNCIA À SAÚDE
+
+
+
+    3      4       1         1        1                                                                                                                   (-) TRIBUTOS DIRETOS DE OUTRAS ATIVIDADES DE ASSISTÊNCIA MÉDICO-HOSPITALAR
+
+
+
+    3      4       1         1        1            9                                                                                                      (-) Tributos Diretos de Outras Operações de Assistência Médico-Hospitalar
+
+    3      4       1         1        1            9           0            1                                                                             (-) Tributos Diretos de Outras Operações de Assistência Médico-Hospitalar
+
+    3      4       1         1        1            9           0            1            1                                                                (-) Tributos Federais
+
+    3      4       1         1        1            9           0            1            2                                                                (-) Tributos Estaduais
+
+    3      4       1         1        1            9           0            1            3                                                                (-) Tributos Municipais
+
+
+
+    3      4       1         1        2                                                                                                                   (-) TRIBUTOS DIRETOS DE OUTRAS ATIVIDADES DE ASSISTÊNCIA ODONTOLÓGICA
+
+
+
+    3      4       1         1        2            9                                                                                                      (-) Tributos Diretos de Outras Operações de Assistência Odontológica
+
+    3      4       1         1        2            9           0            1                                                                             (-) Tributos Diretos de Outras Operações de Assistência Odontológica
+
+    3      4       1         1        2            9           0            1            1                                                                (-) Tributos Federais
+
+    3      4       1         1        2            9           0            1            2                                                                (-) Tributos Estaduais
+
+    3      4       1         1        2            9           0            1            3                                                                (-) Tributos Municipais
+
+
+
+    3      5                                                                                                                                              RECEITAS FINANCEIRAS
+
+
+
+    3      5       1                                                                                                                                      RECEITAS DE APLICAÇÕES FINANCEIRAS
+
+
+
+    3      5       1         1                                                                                                                            RECEITAS COM TÍTULOS DE RENDA FIXA PRIVADOS
+
+
+
+    3      5       1         1        1                                                                                                                   RECEITAS COM DEPÓSITOS BANCÁRIOS A PRAZO - CDB E RDB
+
+
+
+    3      5       1         1        1            9                                                                                                      Receitas com Depósitos Bancários a Prazo - CDB e RDB
+
+    3      5       1         1        1            9           0            1                                                                             Receitas com Depósitos Bancários a Prazo - CDB e RDB
+
+
+                                                                                                                                                                                                                                               10/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      5       1         1        1            9           0            1            1                                                                Juros
+
+    3      5       1         1        1            9           0            1            2                                                                Atualização Monetária
+
+    3      5       1         1        1            9           0            1            3                                                                Ajuste ao Valor de Mercado
+
+    3      5       1         1        1            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       1         1        4                                                                                                                   RECEITAS COM COTAS DE FUNDOS DE INVESTIMENTOS
+
+
+
+    3      5       1         1        4            9                                                                                                      Receitas com Cotas de Fundos de Investimentos
+
+    3      5       1         1        4            9           0            1                                                                             Receitas com Cotas de Fundos de Investimentos
+
+    3      5       1         1        4            9           0            1            1                                                                Oscilação do Valor de Cotas
+
+    3      5       1         1        4            9           0            1            2                                                                Ajuste ao Valor de Mercado
+
+    3      5       1         1        4            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       1         1        8                                                                                                                   RECEITAS COM OUTROS TÍTULOS DE RENDA FIXA - PRIVADOS
+
+
+
+    3      5       1         1        8            9                                                                                                      Receitas com Outros Títulos de Renda Fixa - Privados
+
+    3      5       1         1        8            9           0            1                                                                             Receitas com Outros Títulos de Renda Fixa - Privados
+
+    3      5       1         1        8            9           0            1            1                                                                Juros
+
+    3      5       1         1        8            9           0            1            2                                                                Atualização Monetária
+
+    3      5       1         1        8            9           0            1            3                                                                Ajuste ao Valor de Mercado
+
+    3      5       1         1        8            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       1         2                                                                                                                            RECEITAS COM TÍTULOS DE RENDA FIXA PÚBLICOS
+
+
+
+    3      5       1         2        1                                                                                                                   RECEITAS COM TÍTULOS DE RENDA FIXA PÚBLICOS
+
+
+
+    3      5       1         2        1            9                                                                                                      Receitas com Títulos da Dívida Pública Interna
+
+    3      5       1         2        1            9           0            1                                                                             Receitas com Títulos da Dívida Pública Interna
+
+    3      5       1         2        1            9           0            1            1                                                                Juros
+
+    3      5       1         2        1            9           0            1            2                                                                Atualização Monetária
+
+    3      5       1         2        1            9           0            1            3                                                                Ajuste ao Valor de Mercado
+
+    3      5       1         2        1            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       1         2        4                                                                                                                   RECEITAS COM COTAS DE FUNDOS DE INVESTIMENTOS
+
+
+
+    3      5       1         2        4            9                                                                                                      Receitas com Cotas de Fundos de Investimento
+
+    3      5       1         2        4            9           0            1                                                                             Receitas com Cotas de Fundos de Investimento
+
+    3      5       1         2        4            9           0            1            1                                                                Oscilação do Valor de Cotas
+
+    3      5       1         2        4            9           0            1            2                                                                Ajuste ao Valor de Mercado
+
+    3      5       1         2        4            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       1         2        8                                                                                                                   RECEITAS COM OUTROS TÍTULOS DE RENDA FIXA - PÚBLICOS
+
+
+
+    3      5       1         2        8            9                                                                                                      Receitas com Outros Títulos de Renda Fixa Públicos
+
+    3      5       1         2        8            9           0            1                                                                             Receitas com Outros Títulos de Renda Fixa Públicos
+
+    3      5       1         2        8            9           0            1            1                                                                Juros
+
+
+                                                                                                                                                                                                                 11/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      5       1         2        8            9           0            1            2                                                                Atualização Monetária
+
+    3      5       1         2        8            9           0            1            3                                                                Ajuste ao Valor de Mercado
+
+    3      5       1         2        8            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       1         3                                                                                                                            RECEITAS COM TÍTULOS DE RENDA VARIÁVEL
+
+
+
+    3      5       1         3        1                                                                                                                   RECEITAS COM AÇÕES
+
+
+
+    3      5       1         3        1            9                                                                                                      Receitas com Ações
+
+    3      5       1         3        1            9           0            1                                                                             Receitas com Ações
+
+    3      5       1         3        1            9           0            1            1                                                                Ajuste ao Valor de Mercado
+
+    3      5       1         3        1            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       1         3        4                                                                                                                   RECEITAS COM COTAS DE FUNDOS DE INVESTIMENTOS
+
+
+
+    3      5       1         3        4            9                                                                                                      Receitas com Cotas de Fundos de Investimentos
+
+    3      5       1         3        4            9           0            1                                                                             Receitas com Cotas de Fundos de Investimentos
+
+    3      5       1         3        4            9           0            1            1                                                                Oscilação do Valor de Cotas
+
+    3      5       1         3        4            9           0            1            2                                                                Ajuste ao Valor de Mercado
+
+    3      5       1         3        4            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       1         3        8                                                                                                                   RECEITAS COM OUTROS TÍTULOS DE RENDA VARIÁVEL
+
+
+
+    3      5       1         3        8            9                                                                                                      Receitas com Outros Títulos de Renda Variável
+
+    3      5       1         3        8            9           0            1                                                                             Receitas com Outros Títulos de Renda Variável
+
+    3      5       1         3        8            9           0            1            1                                                                Juros
+
+    3      5       1         3        8            9           0            1            2                                                                Atualização Monetária
+
+    3      5       1         3        8            9           0            1            3                                                                Ajuste ao Valor de Mercado
+
+    3      5       1         3        8            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       2                                                                                                                                      RECEITAS FINANCEIRAS COM OPERAÇÕES DE ASSISTÊNCIA À SAÚDE
+
+
+
+    3      5       2         1                                                                                                                            RECEITAS POR RECEBIMENTOS EM ATRASO
+
+
+
+    3      5       2         1        1                                                                                                                   RECEITAS POR RECEBIMENTOS EM ATRASO
+
+
+
+    3      5       2         1        1            9                                                                                                      Receitas por Recebimentos em Atraso
+
+    3      5       2         1        1            9           0            1                                                                             Receitas por Recebimentos em Atraso
+
+    3      5       2         1        1            9           0            1            1                                                                Receitas por Recebimentos em Atraso
+
+
+
+    3      5       2         2                                                                                                                            RECEITAS FINANCEIRAS COM OPERAÇÕES DE SEGUROS
+
+
+
+    3      5       2         2        1                                                                                                                   SEGUROS DIRETOS
+
+
+
+    3      5       2         2        1            9                                                                                                      Seguros Diretos
+
+    3      5       2         2        1            9           0            1                                                                             Seguros Diretos
+
+
+                                                                                                                                                                                                                      12/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      5       2         2        1            9           0            1            1                                                                Juros
+
+    3      5       2         2        1            9           0            1            2                                                                Atualização Monetária
+
+    3      5       2         2        1            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       2         2        2                                                                                                                   COSSEGUROS
+
+
+
+    3      5       2         2        2            9                                                                                                      Cosseguros
+
+    3      5       2         2        2            9           0            1                                                                             Cosseguros
+
+    3      5       2         2        2            9           0            1            1                                                                Juros
+
+    3      5       2         2        2            9           0            1            2                                                                Atualização Monetária
+
+    3      5       2         2        2            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       2         2        4                                                                                                                   RESSEGUROS
+
+
+
+    3      5       2         2        4            9                                                                                                      Resseguros
+
+    3      5       2         2        4            9           0            1                                                                             Resseguros
+
+    3      5       2         2        4            9           0            1            1                                                                Juros
+
+    3      5       2         2        4            9           0            1            2                                                                Atualização Monetária
+
+    3      5       2         2        4            9           0            1            3                                                                Oscilação Cambial
+
+    3      5       2         2        4            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       2         3                                                                                                                            RECEITAS COM DEPÓSITOS E FUNDOS RETIDOS
+
+
+
+    3      5       2         3        1                                                                                                                   RECEITAS COM OUTROS DEPÓSITOS E FUNDOS RETIDOS
+
+
+
+    3      5       2         3        1            9                                                                                                      Receitas com Outros Depósitos e Fundos Retidos
+
+    3      5       2         3        1            9           0            1                                                                             Receitas com Outros Depósitos e Fundos Retidos
+
+    3      5       2         3        1            9           0            1            1                                                                Juros
+
+    3      5       2         3        1            9           0            1            2                                                                Atualização Monetária
+
+    3      5       2         3        1            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       3                                                                                                                                      RECEITAS DE AJUSTES A VALOR PRESENTE
+
+
+
+    3      5       3         1                                                                                                                            RECEITAS DE AJUSTES A VALOR PRESENTE
+
+
+
+    3      5       3         1        1                                                                                                                   RECEITAS DE AJUSTES A VALOR PRESENTE
+
+
+
+    3      5       3         1        1            9                                                                                                      Receitas de Ajustes a Valor Presente
+
+    3      5       3         1        1            9           0            1                                                                             Receitas de Ajustes a Valor Presente
+
+    3      5       3         1        1            9           0            1            1                                                                Receitas de Ajustes a Valor Presente
+
+
+
+    3      5       8                                                                                                                                      OUTRAS RECEITAS FINANCEIRAS
+
+
+
+    3      5       8         1                                                                                                                            RECEITAS COM DEPÓSITOS E EMPRÉSTIMOS COMPULSÓRIOS
+
+
+
+    3      5       8         1        1                                                                                                                   RECEITAS COM DEPÓSITOS E EMPRÉSTIMOS COMPULSÓRIOS
+
+
+                                                                                                                                                                                                              13/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+
+
+    3      5       8         1        1            9                                                                                                      Receitas com Depósitos e Empréstimos Compulsórios
+
+    3      5       8         1        1            9           0            1                                                                             Receitas com Depósitos e Empréstimos Compulsórios
+
+    3      5       8         1        1            9           0            1            1                                                                Juros
+
+    3      5       8         1        1            9           0            1            2                                                                Atualização Monetária
+
+    3      5       8         1        1            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       8         2                                                                                                                            RECEITAS COM CRÉDITOS TRIBUTÁRIOS
+
+
+
+    3      5       8         2        1                                                                                                                   RECEITAS COM CRÉDITOS TRIBUTÁRIOS
+
+
+
+    3      5       8         2        1            9                                                                                                      Receitas com Créditos Tributários
+
+    3      5       8         2        1            9           0            1                                                                             Receitas com Créditos Tributários
+
+    3      5       8         2        1            9           0            1            1                                                                Juros
+
+    3      5       8         2        1            9           0            1            2                                                                Atualização Monetária
+
+    3      5       8         2        1            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       8         3                                                                                                                            RECEITAS COM DEPÓSITOS JUDICIAIS E FISCAIS
+
+
+
+    3      5       8         3        1                                                                                                                   RECEITAS COM DEPÓSITOS JUDICIAIS E FISCAIS
+
+
+
+    3      5       8         3        1            9                                                                                                      Receitas com Depósitos Judiciais e Fiscais
+
+
+
+    3      5       8         3        1            9           0            1                                                                             Receitas com Depósitos Judiciais e Fiscais
+
+    3      5       8         3        1            9           0            1            1                                                                Juros
+
+    3      5       8         3        1            9           0            1            2                                                                Atualização Monetária
+
+    3      5       8         3        1            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      5       8         4                                                                                                                            RECEITAS DE JUROS DE CAPITAL PRÓPRIO
+
+
+
+    3      5       8         4        1                                                                                                                   RECEITAS DE JUROS DE CAPITAL PRÓPRIO
+
+
+
+    3      5       8         4        1            9                                                                                                      Receitas de Juros de Capital Próprio
+
+    3      5       8         4        1            9           0            1                                                                             Receitas de Juros de Capital Próprio
+
+    3      5       8         4        1            9           0            1            1                                                                Juros sobre Capital Próprio
+
+
+
+    3      5       8         9                                                                                                                            RECEITAS FINANCEIRAS DIVERSAS
+
+
+
+    3      5       8         9        1                                                                                                                   RECEITAS FINANCEIRAS DIVERSAS
+
+
+
+    3      5       8         9        1            9                                                                                                      Receitas Financeiras Diversas
+
+    3      5       8         9        1            9           0            1                                                                             Receitas Financeiras Diversas
+
+    3      5       8         9        1            9           0            1            1                                                                Juros
+
+    3      5       8         9        1            9           0            1            2                                                                Atualização Monetária
+
+    3      5       8         9        1            9           0            1            9                                                                Outras Receitas
+
+
+
+
+                                                                                                                                                                                                              14/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+    3      6                                                                                                                                              RECEITAS PATRIMONIAIS
+
+
+
+    3      6       1                                                                                                                                      RECEITAS PATRIMONIAIS
+
+
+
+    3      6       1         1                                                                                                                            RECEITAS COM IMÓVEIS DE RENDA
+
+
+
+    3      6       1         1        1                                                                                                                   RECEITAS COM IMÓVEIS DE RENDA
+
+
+
+    3      6       1         1        1            9                                                                                                      Receitas com Imóveis de Renda
+
+    3      6       1         1        1            9           0            1                                                                             Receitas com Imóveis de Renda
+
+    3      6       1         1        1            9           0            1            1                                                                Aluguel
+
+    3      6       1         1        1            9           0            1            9                                                                Outras Receitas
+
+
+
+    3      6       1         2                                                                                                                            AJUSTES POSITIVOS DE INVESTIMENTOS EM CONTROLADAS E COLIGADAS
+
+
+
+    3      6       1         2        1                                                                                                                   AJUSTES POSITIVOS DE INVESTIMENTOS EM CONTROLADAS E COLIGADAS
+
+
+
+    3      6       1         2        1            9                                                                                                      Ajustes Positivos de Investimentos em Controladas e Coligadas
+
+    3      6       1         2        1            9           0            1                                                                             Ajustes Positivos de Investimentos em Controladas e Coligadas
+
+    3      6       1         2        1            9           0            1            1                                                                Resultado de Equivalência Patrimonial
+
+    3      6       1         2        1            9           0            1            2                                                                Ganho por compra vantajosa (deságio)
+
+
+
+    3      6       1         3                                                                                                                            LUCRO NA ALIENAÇÃO DE BENS DO ATIVO NÃO CIRCULANTE
+
+
+
+    3      6       1         3        1                                                                                                                   LUCRO NA ALIENAÇÃO DE BENS DO ATIVO NÃO CIRCULANTE
+
+
+
+    3      6       1         3        1            9                                                                                                      Lucro na Alienação de Bens do Ativo Não Circulante
+
+    3      6       1         3        1            9           0            1                                                                             Lucro na Alienação de Bens do Ativo Não Circulante
+
+    3      6       1         3        1            9           0            1            1                                                                Investimentos
+
+    3      6       1         3        1            9           0            1            2                                                                Imobilizado
+
+
+
+    3      6       1         9                                                                                                                            OUTROS INVESTIMENTOS
+
+
+
+    3      6       1         9        1                                                                                                                   OUTROS INVESTIMENTOS
+
+
+
+    3      6       1         9        1            9                                                                                                      Outros Investimentos
+
+    3      6       1         9        1            9           0            1                                                                             Outros Investimentos
+
+    3      6       1         9        1            9           0            1            1                                                                Dividendos e Rendimentos
+
+    3      6       1         9        1            9           0            1            9                                                                Outras Receitas
+
+
+
+
+                                                                                                                                                                                                                          15/16
+                                                                                                                                                                            ANEXO
+                                                                                                                                                       Capítulo II - Elenco Sintético das Contas 2013
+                                                                                                                                                                          RECEITAS
+
+
+
+
+                                      CODIFICAÇÃO
+           1º cód.                       2º cód.       3º cód.
+  1º      2º 3º 4º                  5º 6º 7º 8º 9º 10º 11º 12º 13º
+                 SUBGRUPO
+
+
+
+
+                                               1º DESDOB.
+
+                                                            2º DESDOB.
+                                                                         3º DESDOB.
+
+                                                                                      4º DESDOB.
+                                                                                                   5º DESDOB.
+
+                                                                                                                6º DESDOB.
+                                                                                                                             7º DESDOB.
+
+                                                                                                                                          8º DESDOB.
+                                    SUBCONTA
+CLASSE
+
+         GRUPO
+
+
+
+                            CONTA
+
+
+
+
+                                                                                                                                                          DESCRIÇÃO
+
+
+
+
+                                                                                                                                                                                                        16/16
+

@@ -1,0 +1,1351 @@
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+
+
+
+Normas Gerais:
+
+
+1. Objetivo
+
+2. Aspectos Gerais
+
+3. Codificação do Plano de Contas
+
+4. Escrituração
+
+5. Exercício Social
+
+6. Demonstrações Contábeis
+
+7. Controles Gerenciais
+
+8. Critérios de Avaliação, de Apropriação Contábil e de Auditoria
+
+9. Aplicação dos Pronunciamentos do Comitê de Pronunciamentos Contábeis ao Setor de
+    Saúde Suplementar
+
+
+
+
+                                                                                 1
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+
+
+1. Objetivo
+
+1.1 Este Capítulo estabelece as normas, critérios e procedimentos que possibilitem a
+    manutenção de padrões uniformes no registro das operações e na elaboração e
+    apresentação das Demonstrações Contábeis do mercado de saúde suplementar,
+    mediante a utilização dos critérios, contas e modelos de Demonstrações Contábeis
+    apresentados nesta Resolução Normativa.
+
+2. Aspectos Gerais
+
+2.1 As operadoras classificadas como autogestão, que operem planos de saúde por
+   intermédio de seu Departamento de Recursos Humanos ou órgão assemelhado estão
+   dispensadas da exigência de escrituração contábil prevista nessa norma contábil, mas
+   devem, naquilo que couber, observar as demais normas emanadas pela ANS.
+
+2.2 Eventuais consultas quanto à interpretação das normas e procedimentos previstos neste
+    plano, bem como, a adequação a situações específicas, devem ser dirigidas a
+    ANS/Diretoria de Normas e Habilitação das Operadoras -DIOPE.
+
+2.3 A existência de eventuais consultas sobre a interpretação de normas regulamentares
+    vigentes, ou até mesmo sugestões para o reexame de determinado assunto, não exime a
+    instituição interessada do seu cumprimento.
+
+2.4 Para fins do Plano de Contas Padrão, define rede hospitalar própria como todo e
+    qualquer recurso hospitalar de propriedade da operadora, ou de sociedade controlada
+    pela operadora, ou, ainda, de sociedade controladora da operadora e rede
+    médica/odontológica própria, compreendendo todos os profissionais médicos ou
+    odontólogos, assalariados ou cooperados da operadora.
+
+2.5 Rede Assistencial não Hospitalar são as Clínicas, Laboratórios, Serviços de Diagnóstico
+    e outras prestadoras de serviços de saúde.
+
+2.6 Mercado regulado para a segregação no subgrupo Investimentos do grupo de Ativo Não
+    Circulante são as entidades que operam no mercado regulado pela Agência Nacional de
+    Saúde Suplementar, Superintendência de Seguros Privados e Banco Central do Brasil.
+
+2.7 Eventos são todas as despesas incorridas com o beneficiário do plano comercializado
+    pela operadora, para cobertura do risco de eventos que possam comprometer a saúde do
+    beneficiário.
+
+
+                                                                                         2
+                                      ANEXO
+                            CAPÍTULO I – NORMAS GERAIS
+
+3. Codificação do Plano de Contas
+
+3.1 O plano geral de codificação prevê o emprego de 3 (três) códigos distintos totalizando
+   13 dígitos:
+
+   Primeiro Código
+
+   O primeiro código, constituído dos 5 (cinco) primeiros dígitos, indica, da esquerda para
+   a direita:
+
+   1º dígito – a classe
+   2º dígito – o grupo
+   3º dígito – o subgrupo
+   4º dígito – a conta
+   5º dígito – a subconta
+
+   O 5º dígito é utilizado para contas específicas com o objetivo de segregar as operações
+   relacionadas ao produto:
+
+       •   algarismo 1 (um) – indica que as contas são referentes a Assistência Médico-
+           Hospitalar.
+
+       •   algarismo 2 (dois) – indica que as contas são referentes a Assistência
+           Odontológica.
+
+   Excluindo as contas de produto que deverão seguir a orientação acima, a codificação a
+   ser adotada é a expressa neste plano.
+
+
+   O 6º dígito é utilizado para contas específicas com o objetivo de segregar as operações
+   relacionadas a modalidade de pagamento dos contratos:
+
+       •   algarismo 1 (um) – utilizar para identificar a modalidade de pagamento em
+           função do período de cobertura da assistência, a “preço pré-estabelecido”;
+
+       •   algarismo 2 (dois) – utilizar para identificar a operação, indicando a modalidade
+           de pagamento em função do período de cobertura da assistência, a “preço pós-
+           estabelecido”;
+
+       •   algarismo 9 (nove) – utilizar para identificar a operação de contas de “não
+           produtos”
+
+
+                                                                                             3
+                                        ANEXO
+                              CAPÍTULO I – NORMAS GERAIS
+
+
+     b) 7º dígito: utilizar esse dígito da seguinte forma:
+
+        - algarismo “0 “ (zero) para as operadoras em geral.
+
+        - utilizar algarismo diferente de “0” (zero) para as operadoras cooperativas, sendo
+          que as mesmas farão a segregação dos atos cooperativos previsto no artigo 529 do
+          RIR e seguinte e no Parecer CST 73/75 da RFB, que regulamenta as Sociedades
+          Cooperativas.
+
+     c) 8º dígitos: codificação já prevista pela ANS.
+
+        Na hierarquia o 7º e 8º são apresentados em conjunto, respeitando os níveis:
+
+        1º nível – digito 1
+
+        2º nível – dígitos 1 e 2
+
+        3º nível – dígitos 1, 2 e 3
+
+        4º nível – dígitos 1, 2, 3 e 4
+
+        5º nível – dígitos 1, 2, 3, 4 e 5
+
+        6º nível – dígitos 1, 2, 3, 4, 5 e 6
+
+        7º nível – dígitos 1, 2, 3, 4, 5, 6, 7 e 8
+
+        8º nível – dígitos 1, 2, 3, 4, 5, 6, 7, 8 e 9
+
+
+     c) 9º dígito: codificação já prevista pela ANS.
+
+
+     Terceiro Código
+
+
+a)      Abertura de Subcontas:
+
+            •   A abertura de subcontas poderá ser feita a critério da operadora,
+                obedecendo-se às orientações deste item para estruturar a codificação;
+
+
+                                                                                              4
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+           •   É obrigatória a adoção da codificação e da nomenclatura definida para todos
+               os níveis deste Plano de Contas, desde “Classes” até “Subcontas” e
+               desdobramentos previstos, sendo as contas específicas de seguradora
+               especializada em saúde somente por estas utilizáveis;
+           •   É facultado às operadoras a criação de desdobramentos, adicionalmente às
+               subcontas previstas no Plano, em função de suas necessidades de
+               informações, podendo, se for o caso, acrescentar dígitos a partir do 10º
+               dígito.
+
+
+d) Exemplo da estrutura de codificação contábil
+
+
+
+
+3.2 O Plano de Contas classifica as contas em 6 classes: contas de Ativo, iniciadas pelo
+    número 1, contas de Passivo, pelo número 2, e contas de resultado, iniciadas pelos
+    números 3 - Receita, 4 - Despesa, 6 - Impostos e Participações Sobre o Lucro e 7 -
+    Contas Transitórias – Apuração de Custos.
+
+
+3.2.1 As “classes” compreendem vários “grupos”, os quais se desdobram em “subgrupos”;
+      estes em “contas” e estas em “subcontas”.
+
+3.2.1.1 Classes de Contas Patrimoniais
+
+a) Classe 1 – ATIVO
+    Grupo 12 – Ativo Circulante
+    Grupo 13 – Ativo Não Circulante
+    Grupo 19 – Compensação Ativo
+
+b) Classe 2 – PASSIVO
+    Grupo 21 – Passivo Circulante
+    Grupo 23 – Passivo Não Circulante
+    Grupo 25 – Patrimônio Líquido / Patrimônio Social
+    Grupo 29 – Compensação Passivo
+
+3.2.1.2 Classes de Contas de Resultado
+
+
+                                                                                        5
+                                     ANEXO
+                           CAPÍTULO I – NORMAS GERAIS
+
+
+a) Classe 3 – CONTAS DE RECEITA
+    Grupo 31 – Receitas com Operações de Assistência a Saúde
+    Grupo 32 – (-) Tributos Diretos de Operações de Assistência à Saúde
+    Grupo 33 – Outras Receitas Operacionais
+    Grupo 34 - (-) Tributos Diretos de Outras Atividades de Assistência a Saúde
+    Grupo 35 – Receitas Financeiras
+    Grupo 36 – Receitas Patrimoniais
+
+b) Classe 4 – CONTAS DE DESPESA
+    Grupo 41 – Eventos Indenizáveis Líquidos/Sinistros Retidos
+    Grupo 43 – Despesas de Comercialização
+    Grupo 44 – Outras Despesas Operacionais
+    Grupo 45 – Despesas Financeiras
+    Grupo 46 – Despesas Administrativas
+    Grupo 47 – Despesas Patrimoniais
+
+c) Classe 6 – CONTAS DE DESTINAÇÃO / APURAÇÃO DE RESULTADO
+    Grupo 61 – Impostos e Participações sobre o Lucro
+    Grupo 69 – Apuração do Resultado
+
+d) Classe 7 – CONTAS TRANSITÓRIAS - APURAÇÃO DE CUSTOS
+   Grupo 71 – Apuração de Custos
+
+4. Escrituração
+
+4.1 O simples registro contábil não constitui elemento suficientemente comprobatório,
+    devendo a escrituração ser fundamentada em documentação hábil para a perfeita
+    viabilidade dos fatos administrativos.
+
+4.2 A escrituração das operações do mercado de saúde deve obedecer, no que não
+   contrariem os dispositivos dessa instrução, às normas estabelecidas pela Resolução nº
+   750/93, do Conselho Federal de Contabilidade – CFC e pelo Comitê de
+   Pronunciamentos Contábeis – CPC, exceto o CPC 11 – Contratos de Seguro, o CPC 29
+   – Ativo Biológico e Produto Agrícola, o CPC 34 – Exploração e Avaliação de Recursos
+   Minerais, o CPC 35 – Demonstrações Separadas e o CPC PME – Contabilidade para
+   Pequenas e Médias Empresas.
+
+4.3     A contabilização será centralizada na sede da operadora com observância das
+      disposições previstas em Leis, Regulamentos, Resoluções e Circulares do CONSU e da
+      ANS.
+
+
+                                                                                      6
+                                     ANEXO
+                           CAPÍTULO I – NORMAS GERAIS
+
+4.4 Os controles analíticos e as conciliações contábeis devem ficar à disposição da ANS
+   por prazo não inferior a 5 (cinco) anos;
+
+4.5 A escrituração contábil, com atraso superior a 30 (trinta) dias, a não ser em casos de
+   força maior, devidamente justificados à ANS, ou a escrituração processada em
+   desacordo com as normas pertinentes, sujeita as entidades e seus diretores, às
+   penalidades previstas na regulamentação própria.
+
+4.6 O profissional habilitado, responsável pela contabilidade, deve conduzir a escrituração
+    dentro dos padrões exigidos, com observância dos princípios fundamentais de
+    contabilidade, atentando, inclusive, à ética profissional, cabendo à ANS providenciar
+    comunicação ao órgão competente, sempre que forem comprovadas irregularidades,
+    para que sejam aplicadas as medidas cabíveis.
+
+5. Exercício Social
+
+ O exercício social coincide com o ano civil, e a data de seu término será 31 de dezembro,
+ devendo ser fixado no estatuto ou contrato social.
+
+6. Demonstrações Contábeis
+
+6.1 As Demonstrações Contábeis devem obedecer à classificação contábil prevista neste
+    Plano de Contas.
+
+6.2      As Demonstrações Contábeis compreendem aquelas determinadas pela lei n.º
+        6.404/1976 e alterações subseqüentes, e devem ser complementadas por Notas
+        Explicativas, pelo Relatório da Administração e outros quadros analíticos ou
+        demonstrações contábeis necessários para esclarecimento da situação patrimonial e
+        dos resultados do exercício.
+
+6.3 As demonstrações contábeis anteriormente mencionadas, em conjunto com o Parecer
+    dos Auditores Independentes devem ser publicadas na forma da Lei até o dia 31 de
+    março do exercício subseqüente.
+
+6.3.1       A publicação deve ser em conformidade com os modelos padronizados por este
+        Plano de Contas, exceto a Demonstração de Valor Adicionado – DVA que pode ser
+        por modelo próprio e facultativa, enquanto a ANS não elaborar modelo padrão.
+
+6.3.2 Para efeito de publicação das Demonstrações Contábeis a operadora deverá elaborar
+     e apresentar a Demonstração de Fluxo de Caixa pelo Método Direto ou Indireto, mas,
+     para efeito de envio do DIOPS, a demonstração de Fluxo de Caixa será
+     obrigatoriamente pelo método direto, devendo, inclusive ser auditada pela auditoria
+
+                                                                                         7
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+     independente, ainda que não seja o método escolhido para apresentação e publicação
+     das Demonstrações Contábeis.
+
+6.3.2.1 A faculdade prevista nesse item poderá ser utilizada também para apresentação da
+     Demonstração de fluxo de Caixa referente ao exercício social de 2012.
+
+6.3.3 Os modelos previstos nessa norma destinam-se a todo o mercado de saúde
+     suplementar.
+
+6.3.4 As demonstrações contábeis devem ser publicadas de forma comparativa com as
+     demonstrações do exercício anterior.
+
+6.3.5 As operadoras de pequeno porte ficam dispensadas de publicar Parecer de Auditoria e
+      as Demonstrações Contábeis. A dispensa de publicação não exime estas operadoras
+      da obrigatoriedade de remeter a ANS, até o dia 15 de abril do exercício subsequente,
+      as Demonstrações Contábeis completas, acompanhadas do respectivo Parecer de
+      Auditoria independente e do Relatório Circunstanciado Sobre Deficiências de
+      Controle Interno.
+
+6.3.5.1 O porte da operadora é determinado em razão da quantidade de beneficiários na
+      data-base do encerramento do exercício social, que são os seguintes:
+
+       a) pequeno porte: quantidade inferior a 20.000 beneficiários;
+       b) médio porte: entre 20.000 e 100.000 beneficiários; e
+       c) grande porte: quantidade superior a 100.000 beneficiários.
+
+6.3.6 As publicações devem ser feitas na forma disposta no caput e § 2º do art. 289 da Lei
+      nº 6.404, de 15 de dezembro de 1976, para as operadoras cuja natureza de
+      constituição estejam vinculadas a esta Lei. Para as demais operadoras, a
+      obrigatoriedade de publicação se restringe ao jornal de grande circulação no
+      município de localização da operadora.
+
+6.3.7 O Relatório da Administração deve conter, no mínimo, as seguintes informações:
+
+     a) Política de destinação de lucros / superávits / sobras;
+     b) Negócios sociais e principais fatos internos e/ou externos que tiveram influência na
+     “performance” da sociedade/entidade e/ou no resultado do exercício;
+     c) Reorganizações societárias e/ou alterações de controle direto ou indireto;
+     d) Perspectivas e planos da administração para o(s) exercício(s) seguinte(s);
+     e) Descrição dos principais investimentos realizados, objetivo, montantes e origens
+     dos recursos alocados, inclusive aqueles voltados aos programas de promoção e
+     prevenção à saúde;
+
+                                                                                          8
+                                     ANEXO
+                           CAPÍTULO I – NORMAS GERAIS
+
+     f) Resumo dos acordos de acionistas;
+     g) Declaração sobre a capacidade financeira e a intenção de manter, até o vencimento,
+     os títulos e valores mobiliários classificados na categoria mantidos até o vencimento.
+     h) Emissão de debêntures;
+     i) Investimentos da companhia em sociedades coligadas e controladas e mencionar a
+     modificações ocorridas durante o exercício.
+
+6.3.7.1 A divulgação das informações contidas nos itens acima não exime as operadoras de
+        planos de saúde da divulgação de outras que julgarem relevantes.
+
+6.3.8 As Demonstrações Contábeis a que se refere o item 6.2 devem ser remetidas a ANS
+até 15 de abril do exercício subsequente.
+
+6.3.9 O relatório circunstanciado contendo as observações do auditor independente,
+relativamente às deficiências ou à ineficácia dos controles internos, deve ser enviado para a
+ANS até 30 de abril do exercício subseqüente, bem como permanecer na operadora à
+disposição da ANS.
+
+6.3.10 As demonstrações contábeis que devem ser publicadas e que possuírem valores que
+representem a constituição de provisão técnica, com base em Nota Técnica Atuarial de
+Provisão – NTAP aprovada pela ANS, devem, obrigatoriamente, conter a assinatura de um
+atuário legalmente registrado como responsável pelo montante contabilizado.
+
+6.3.11 As cooperativas podem apurar e publicar resultados segregando os relativos aos atos
+cooperativos dos não-cooperativos.
+
+7. Controles Gerenciais
+
+7.1 As operadoras de planos de assistência a saúde devem manter à disposição da ANS,
+    registros auxiliares que permitam, a qualquer tempo, a comprovação da fidedignidade
+    dos dados registrados em sua escrita contábil. Os registros auxiliares devem manter, no
+    mínimo, informações pertinentes aos seguintes itens:
+
+   a) Registros de Contratos e Contraprestações/Prêmios Emitidos, Recebidos e
+      Cancelados segregados por produto;
+   b) Registros de Eventos/Sinistros Conhecidos ou Avisados e sua movimentação
+      financeira segregados por produto;
+   c) Registros de Eventos/Sinistros Ressarcidos ou Recuperados segregados por
+      produto;
+   d) Registro de Co-seguros Aceitos Emitidos segregados por produto;
+
+
+
+                                                                                           9
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+   e) Registro de segregação das despesas com eventos em consultas, exames,
+      internações, terapias, outros atendimentos ambulatoriais e demais despesas
+      assistenciais.
+
+7.1.1 O registro auxiliar descrito no item “e” deverá ser preenchido trimestralmente com
+auditoria anual, e deverá considerar os seguintes conceitos:
+
+   Consultas Médicas: Total de atendimentos prestados por profissional habilitado pelo
+   Conselho Regional de Medicina, com fins de diagnóstico e orientação terapêutica, em
+   regime ambulatorial, de caráter eletivo, urgência ou emergência.
+
+   Outros Atendimentos Ambulatoriais: Atendimentos realizados em regime ambulatorial
+   de caráter eletivo, urgência ou emergência, incluindo honorários profissionais,
+   medicamentos, materiais e taxas (exceto consultas médicas, exames e terapias). Inclui
+   atendimentos com profissionais de nível superior.
+
+   Exames: Total de procedimentos de auxílio diagnóstico utilizados para complementar a
+   avaliação do estado de saúde, em regime ambulatorial, de caráter eletivo, urgência ou
+   emergência, incluindo honorários profissionais, medicamentos, materiais e taxas.
+
+   Terapias: Total de atendimentos utilizando métodos de tratamento, em regime
+   ambulatorial, de caráter eletivo, urgência ou emergência, incluindo honorários
+   profissionais, medicamentos, materiais e taxas.
+
+   Internações: Total de internações prestadas a paciente admitido para ocupar leito
+   hospitalar (enfermaria, quarto ou unidades de curta permanência, terapia intensiva ou semi-
+   intensiva) e classificados conforme o principal procedimento gerador identificado por
+   ocasião da alta hospitalar.
+
+   Para apurar o valor das internações, deve ser consideradas as despesas com hotelaria,
+   honorários profissionais, medicamentos, materiais, taxas, terapias e exames, conforme a
+   especificidade da execução do item.
+
+   Demais Despesas Médico-Hospitalares: Despesas assistenciais médico-hospitalares,
+   acessórias aos atendimentos de promoção da saúde, prevenção de doenças, diagnóstico,
+   tratamento e reabilitação do paciente, incluindo despesas não classificáveis nos demais
+   itens deste anexo, menos os descontos obtidos no pagamento de eventos. Incluem as
+   atividades coletivas, aluguel de cadeiras de rodas, remoção de paciente, campanha de
+   vacinação, palestras, assistência farmacêutica.
+
+   Procedimentos Odontológicos: Total de atendimentos com fins de diagnóstico e
+   orientação terapêutica em saúde bucal, em regime ambulatorial, de caráter eletivo, urgência
+   ou emergência.
+
+                                                                                           10
+                                     ANEXO
+                           CAPÍTULO I – NORMAS GERAIS
+
+
+7.1.2 Especificamente para o exercício social de 2013, os quadros do DIOPS referentes a
+segregação dos procedimentos descritos acima, poderão ser recarregados na data base de
+31/12/2013, computando os três trimestres anteriores.
+
+7.2 Os Registros Auxiliares podem ser mantidos pela operadora em livros ou através de
+    arquivos em meio magnético.
+
+7.3 As informações requisitadas pelo órgão fiscalizador devem ser acompanhadas de
+   documento datado e assinado pelo administrador da operadora e pelo profissional
+   responsável pela contabilidade.
+
+8. Critérios de Avaliação, de Apropriação Contábil e de Auditoria
+
+8.1 Os critérios de avaliação, de apropriação e de auditoria das operações do mercado de
+    saúde suplementar devem estar em consonância com as Práticas Contábeis Adotadas
+    no Brasil, abrangendo inclusive o processo de convergência às regras internacionais de
+    contabilidade.
+
+8.2 Especificamente para o mercado de saúde suplementar devem ser observados os
+    seguintes critérios adicionais:
+
+8.2.1 Deve ser dada divulgação adequada ao fato de que os Ativos Garantidores das
+      Provisões Técnicas encontram-se vinculados em favor da ANS nos termos da
+      Resolução Normativa - RN nº 159, de 4 de julho de 2007, e suas alterações.
+
+8.2.2 As Contraprestações Efetivas / Prêmios Ganhos devem ser apropriadas à receita no
+      último dia do mês, considerando-se o período de cobertura do risco, quando se
+      tratarem de contratos com preços pré-estabelecidos.
+
+8.2.3        Somente a parcela mensal das contraprestações e prêmios correspondente ao
+        período relacionado a vigência mensal do risco, deve ser registrada no Ativo
+        Circulante no Contas a Receber.
+
+8.2.4        A parcela referente ao período de risco a decorrer no mês de competência deve
+        ser registrada no Passivo Circulante em uma conta específica denominada Provisão
+        de Prêmios ou Contribuições Não Ganhas.
+
+8.2.4 Nos contratos com preços pós-estabelecidos, a apropriação da receita deve ser
+      registrada na data em que se fizerem presentes os fatos geradores da receita, de
+      acordo com as disposições contratuais, ou seja, a data em que ocorrer o efetivo direito
+      ao valor a ser faturado.
+
+                                                                                          11
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+
+      8.2.5 O registro contábil dos lançamentos referentes às contas Provisão de Sinistros a
+Liquidar e Provisão de Eventos a Liquidar com Operações de Assistência a Saúde deverá
+ser realizado pelo seu valor integral, cobrado pelo prestador, no primeiro momento da
+identificação da ocorrência da despesa médica, independente da existência de qualquer
+mecanismo, processo ou sistema de intermediação da transmissão, direta ou indiretamente
+por meio de terceiros, ou da análise preliminar das despesas médicas, exceção ocorrerá
+quando:
+
+          a) Nos casos das cooperativas, em que o prestador for o próprio cooperado e o
+          regime de remuneração desse prestador for variável, dependendo
+          exclusivamente do resultado mensal apurado pela cooperativa, o valor poderá
+          ser informado após a apuração do resultado mensal, porém, no mesmo mês de
+          competência.
+          b) Nos casos em que os atendimentos forem efetuados na rede assistencial
+          pertencente a operadora, ou seja, que opere no mesmo CNPJ, o valor será
+          apurado por um critério de rateio, e nesse caso, o valor só será conhecido no
+          último dia do mês, portanto, o valor poderá ser informado após a apuração do
+          rateio, porém, no mesmo mês de competência.
+
+8.2.5.1 O fato gerador da despesa com eventos é o atendimento ao beneficiário. Naqueles
+        casos em que esse atendimento ocorrer sem o conhecimento da operadora o
+        reconhecimento da despesa se dá com a constituição da Provisão Técnica
+        específica (PEONA), nos moldes da regulamentação em vigor.
+
+8.2.5.2 Entende-se por identificação da ocorrência da despesa médica qualquer tipo de
+        comunicação estabelecida entre o prestador e a própria operadora, ou terceiro que
+        preste serviço de intermediação de recebimento de contas médicas à operadora,
+        que evidencie a realização de procedimento assistencial a beneficiário da
+        operadora.
+
+8.2.5.3 O ressarcimento ao SUS deve ser contabilizado como “eventos/sinistros” no
+        momento do recebimento do aviso, observando os critérios definidos pela
+        regulamentação específica em vigor, atentando-se para a correta conta de passivo
+        circulante e não circulante.
+
+8.2.5.4 As operadoras de planos privados de assistência à saúde devem registrar os
+        montantes constantes dos Orçamentos de Planos de Tratamento Odontológicos a
+        débito de despesas com Eventos/Sinistros e a crédito de Provisão de Eventos ou
+        Sinistros a Liquidar, a medida da execução do tratamento.
+
+
+
+                                                                                         12
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+8.2.6 Os montantes contratados ou constantes dos orçamentos ou planos de tratamento
+       referentes aos procedimentos ortodônticos devem ser registrados contabilmente a
+       crédito da conta Provisão de Prêmios ou Contribuições não Ganhas, e serem
+       apropriados mensalmente como receita ao resultado do exercício proporcionalmente
+       ao tempo previsto do tratamento, em obediência ao princípio da competência.
+
+
+8.2.7 A Provisão de Prêmio ou Contribuição Não Ganha caracteriza-se pelo registro
+     contábil do valor mensal cobrado pela operadora para cobertura de risco contratual da
+     vigência que se inicia naquele mês, devendo ser baixada a crédito de Receita de
+     Prêmios ou Contraprestação, no último dia do mês de competência, pelo risco já
+     decorrido no mês.
+
+8.2.8 As operadoras de planos de assistência à saúde podem diferir por prazo não superior a
+      12 (doze) meses, os valores que correspondam a gastos com despesas de
+      comercialização, incidentes sobre os contratos coletivos e individuais firmados pela
+      operadora. Os valores diferidos devem manter estreita relação com a população dos
+      referidos contratos comercializados. Para tanto, a operadora deve manter controles
+      gerenciais sobre estas operações, de forma a refletir no Resultado do Exercício
+      eventuais variações ocorridas na população que deram origem aos montantes
+      diferidos.
+
+8.2.8.1 Pode ser admitido diferimento superior ao prazo de 12 (doze) meses, desde que:
+
+a) aprovado previamente pela ANS, no caso dos planos individuais, e
+b) tecnicamente justificado pela operadora, através de estudo próprio, e
+c) exista um controle efetivo desse prazo médio individualmente, no caso do plano
+   individual e, por contrato, no plano coletivo.
+
+8.2.9 As provisões técnicas devem ser calculadas e contabilizadas mensalmente, em
+       obediência ao Princípio de Competência, lastreadas por ativos garantidores nos
+       moldes da regulamentação vigente.
+
+8.2.9.1 Os investimentos realizados pelas operadoras de planos de saúde em sociedades
+coligadas ou controladas, sujeitos à avaliação pelo método de equivalência patrimonial,
+devem ter as suas demonstrações contábeis auditadas por auditor independente e devem ser
+objeto de evidenciação em Notas Explicativas, de acordo com o previsto no CPC 18.
+
+8.3 A ANS, ao verificar quaisquer falhas e/ou irregularidades no trabalho executado pelos
+    auditores, comunicará o fato ao conselho de fiscalização profissional através de
+    processos devidamente instruídos, para possibilitar a apuração de responsabilidades e,
+    se for o caso, a instauração do competente inquérito administrativo.
+
+                                                                                         13
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+
+8.4 A forma de avaliação dos bens imóveis das operadoras de planos de saúde para
+   integralização de capital deverá obedecer aos seguintes critérios:
+
+8.4.1   A avaliação deverá ser realizadas por 3 (três) peritos que possuam, no mínimo, um
+        curso de Engenharia de Avaliação, ou por empresa especializada que comprove
+        estar devidamente credenciada em, pelo menos, uma instituição financeira federal
+        ou em órgãos/entidades federais de avaliação.
+
+8.4.2   Tanto os peritos quanto a empresa especializada deverão apresentar laudo
+        fundamentado com a indicação dos critérios de avaliação e dos elementos de
+        comparação adotados, bem como instruído com os documentos relativos aos bens
+        avaliados, nos termos do art. 8° da Lei n° 6.404, de 15 de dezembro de 1976.
+
+8.4.3   A avaliação deverá ser realizada de acordo com os métodos definidos em norma
+        específica da Associação Brasileira de Normas Técnicas para Avaliação de Imóveis
+        Urbanos, utilizando o nível de maior rigor.
+
+8.4.4   A apresentação de avaliação por métodos indiretos somente será conhecida pela
+        ANS se acompanhada de uma avaliação pelo método direto.
+
+8.4.5   Os laudos de avaliação dos bens imóveis deverão ser registrados no Conselho
+        Regional de Engenharia e Arquitetura - CREA do Estado ou Distrito Federal,
+        conforme a localização do bem, com a respectiva Anotação de Responsabilidade
+        Técnica (ART).
+
+8.4.6   Os laudos de avaliação deverão conter, obrigatoriamente, fotos atuais do(s)
+        imóvel(is) analisado(s) e deverão ser acompanhados da certidão de ônus reais
+        atualizada, expedida há, no máximo, sessenta dias da sua apresentação junto à ANS.
+
+8.4.7   As operadoras de planos de saúde deverão entregar à ANS os laudos com a
+        documentação mencionada no subitem anterior, no prazo máximo de 30 dias após a
+        ratificação das suas conclusões pela Assembléia Geral, reunião de diretoria ou de
+        sócios que incorpore os valores apurados no patrimônio e sua respectiva
+        contabilização, acompanhadas das declarações comprobatórias da capacidade
+        profissional ou empresarial exigidas neste item.
+
+8.4.8   Caberá à operadora de planos de saúde o ônus financeiro decorrente das avaliações
+        de que trata esta Resolução Normativa.
+
+8.4.9   A Diretoria de Normas e Habilitação das Operadoras - DIOPE poderá determinar, a
+        qualquer tempo, uma nova avaliação dos bens imóveis incorporados ao patrimônio
+
+                                                                                       14
+                                   ANEXO
+                         CAPÍTULO I – NORMAS GERAIS
+
+      da operadora de planos de saúde, bem como a periodicidade e os prazos para
+      conclusão dessa avaliação.
+
+8.4.10 Todo o ônus financeiro decorrente de novas avaliações determinada será arcado
+       unicamente pela operadora de plano de saúde.
+
+8.5   Gastos com PROMOPREV não poderão ser registrados como Ativo Intangível, os
+      valores ativados até 31 de dezembro de 2012 serão mantidos até sua completa
+      amortização, que deverá ocorrer em um período máximo de cinco anos.
+
+8.6   As operadoras de Planos de Assistência à Saúde, classificadas nas modalidades
+      Cooperativas Médicas e Cooperativas Odontológicas, que utilizaram a prerrogativa
+      prevista no art. 4º da Instrução Normativa DIOPE 20, de 20 de outubro de 2008,
+      inclusive com as alterações previstas na Instrução Normativa DIOPE 39 de
+      23/02/2010 e na Instrução Normativa DIOPE 48, de 21 de outubro de 2011, deverão
+      observar que o lançamento previsto na IN só poderá ser efetuado para os passivos
+      tributários relativos ao exercício social de competência anteriores ao ano de 2008.
+      Os débitos referentes aos passivos tributários do exercício de 2008, assim como os
+      juros e atualizações monetárias de todo o passivo tributário, ocorridas no exercício
+      de 2008 em diante, inclusive os juros e atualizações do passivo tributário anterior a
+      2008, deverão ser reconhecidos no resultado do exercício e não poderão ser
+      transferidos da conta de Lucros ou Prejuízos Acumulados para o Ativo Realizável a
+      Longo Prazo. O valor transferido para o Ativo Realizável à Longo Prazo, permitido
+      pela IN 20, só poderá ser atualizado na mesma proporção do passivo tributário,
+      especificamente para exercícios anteriores a 2008, e desde que estejam sendo
+      realizados na proporção devida do passivo tributário, que é o prazo de parcelamento
+      aderido pela operadora para os impostos federais, estaduais e municipais.
+
+8.6.1 O valor registrado na Conta corrente de Cooperados – Passivo Tributário a Receber
+      de Cooperados no Ativo Realizável à Longo Prazo, conta relacionada a IN 20,
+      deverá ser evidenciada em nota explicativa, segregando o saldo por tributo e por
+      exercício de competência da dívida tributária.
+
+
+  9 – Aplicação dos Pronunciamentos do Comitê de Pronunciamentos Contábeis ao
+                             Setor de Saúde Suplementar
+
+
+9.1 - CPC – 00 - Estrutura Conceitual para Elaboração e Apresentação das Demonstrações
+                                          Contábeis
+
+
+
+                                                                                        15
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+9.1.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+      critérios estabelecidos no Pronunciamento Conceitual Básico, emitido pelo Comitê de
+      Pronunciamentos Contábeis.
+
+                       9.2 CPC 01 – Redução ao Valor Recuperável
+
+9.2.1 Os ativos da operadora não devem estar registrados contabilmente por um valor
+      superior àquele passível de ser recuperado no tempo por uso nas operações da
+      operadora ou em sua eventual venda. Caso existam evidências de que os ativos estão
+      registrados por valor não recuperável no futuro, a operadora deverá imediatamente
+      reconhecer a desvalorização, por meio da constituição de provisão para perdas.
+
+9.2.2 A operadora deve avaliar, no mínimo por ocasião da elaboração das demonstrações
+      contábeis anuais, se há alguma indicação de que seus ativos ou conjunto de ativos
+      porventura perderam representatividade econômica, considerada relevante. Se houver
+      indicação, a operadora deve efetuar avaliação e reconhecer contabilmente a eventual
+      desvalorização dos ativos.
+
+9.2.3 Deve ser constituída Provisão para Perdas Sobre Créditos - PPSC, decorrente da
+      existência de perdas por inadimplência. As operadoras devem constituir a PPSC de
+      acordo com os seguintes critérios:
+
+9.2.3.1 Nos planos individuais com preço pré-estabelecido, em havendo pelo menos uma
+        parcela vencida do contrato há mais de 60 (sessenta) dias, a totalidade do crédito
+        desse contrato deve ser provisionada.
+
+9.2.3.2 Para todos os demais planos, em havendo pelo menos uma parcela vencida do
+        contrato há mais de 90 (noventa) dias, a totalidade do crédito desse contrato deve
+        ser provisionada.
+
+9.2.3.3 As parcelas a serem provisionadas são as referentes a riscos já decorridos para
+        cobertura assistencial, dessa forma, as parcelas que ainda se encontram ajustadas
+        por faturamento antecipado não seriam provisionadas, pelo fato de que essas
+        parcelas ainda não tiveram o fato gerador ocorrido e conseqüentemente não foram
+        reconhecidas como receitas.
+
+9.2.3.3 Para os créditos de operações não relacionadas com planos de saúde de assistência à
+        saúde da própria operadora, em havendo pelo menos uma parcela vencida do
+        contrato há mais de 90 (noventa) dias, a totalidade do crédito desse contrato deve
+        ser provisionada.
+
+9.2.3.4 A operadora deverá efetuar a baixa no “contas a receber” dos contratos cancelados.
+
+
+
+                                                                                        16
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+9.2.3.5 A operadora poderá apresentar a ANS um estudo técnico de recuperabilidade que
+        leve em consideração o histórico de perdas e os riscos de inadimplência, dentre
+        outros fatores, em relação aos créditos a receber de qualquer natureza e
+        origem para constituir a provisão por um prazo diferente dos previstos no item
+        9.2.3.
+9.2.4 No ativo intangível a operadora deverá analisar o estudo que foi efetuado na data da
+      aquisição do ativo e comparar com a rentabilidade apurada em cada exercício. Se os
+      valores esperados não se realizaram, a operadora deve constituir uma provisão pela
+      parcela não realizada e rever a expectativa de rentabilidade futura, o que poderá
+      ensejar na baixa do ativo, caso se verifique que esse ativo não gera benefício
+      econômico futuro.
+
+9.2.5 A operadora deverá elaborar nota explicativa de acordo com o pronunciamento e a
+      norma da ANS.
+
+9.2.6 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+      critérios estabelecidos no Pronunciamento CPC 01, emitido pelo Comitê de
+      Pronunciamentos Contábeis.
+
+       9.3 – CPC – 02 – Efeitos das Mudanças nas Taxas de Câmbio e Conversão de
+                                   Demonstrações Contábeis
+
+9.3.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+      critérios estabelecidos no Pronunciamento CPC 02, emitido pelo Comitê de
+      Pronunciamentos Contábeis.
+
+                     9.4 - CPC 03 – Demonstração de Fluxo de Caixa
+
+9.4.1 A elaboração do fluxo de caixa será pelo método direto.
+
+9.4.2 Anualmente, por ocasião do balanço patrimonial, a operadora deverá efetuar a
+     conciliação entre o lucro líquido e o fluxo de caixa líquido das atividades
+     operacionais, de acordo com a previsão do pronunciamento.
+
+9.4.2.1 A conciliação deve ser apresentada, separadamente, por categoria, como
+       depreciação, amortização, variação monetária de longo prazo etc.
+
+9.4.3 Para que um investimento seja qualificado como equivalente de caixa, ele precisa ter
+      conversibilidade imediata em montante conhecido de caixa e estar sujeito a um
+      insignificante risco de mudança de valor. Portanto, um investimento normalmente
+      qualifica-se como equivalente de caixa somente quando tem vencimento de curto
+      prazo, por exemplo, três meses ou menos, a contar da data da aquisição. Os
+      investimentos em instrumentos patrimoniais (de patrimônio líquido) não estão
+
+                                                                                        17
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+     contemplados no conceito de equivalentes de caixa, a menos que eles sejam,
+     substancialmente, equivalentes de caixa, como, por exemplo, no caso de ações
+     preferenciais resgatáveis que tenham prazo definido de resgate e cujo prazo atenda à
+     definição de curto prazo.
+
+9.4.4 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 03, emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+
+                            9.5 - CPC 04 – Ativos Intangíveis
+
+9.5.1 Um item será classificado como ativo intangível, apenas quando satisfizer todos os
+      itens:
+
+     (a) for separável, isto é, capaz de ser separado ou dividido da operadora e vendido,
+     transferido, licenciado, alugado ou trocado, seja individualmente ou em conjunto com
+     um contrato, ativo ou passivo relacionado; ou
+
+     (b) resultar de direitos contratuais ou de outros direitos legais, quer esses direitos
+     sejam transferíveis quer sejam separáveis da operadora ou de outros direitos e
+     obrigações.
+     (c) for provável que os benefícios econômicos futuros esperados atribuíveis ao ativo
+     serão gerados em favor da operadora; e
+     (d) o custo do ativo possa ser mensurado com segurança.
+
+9.5.2 Um ativo intangível deve ser mensurado pelo seu custo.
+
+9.5.2.1 O custo de um ativo intangível adquirido separadamente inclui:
+       (a) seu preço de compra, acrescido de impostos de importação e impostos não
+           recuperáveis sobre a compra, após deduzidos os descontos comerciais e
+           abatimentos; e
+
+       (b) qualquer custo diretamente atribuível à preparação do ativo para a finalidade
+           proposta.
+
+9.5.3 Ativo intangível decorrente da marca só poderá ser registrado pelo seu custo inicial,
+      portanto, de nenhuma forma poderá ser reavaliado ou imputado um custo
+      subseqüente.
+
+9.5.4 Valor justo é uma avaliação entre partes independentes.
+
+9.5.5 Não são passíveis de reconhecimento contábil itens como pesquisa desenvolvida pela
+      operadora e ¨goodwill¨ gerado internamente.
+
+
+                                                                                        18
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+
+9.5.6 Desenvolvimento de sistemas deve comprovar a geração de benefício econômico
+      futuro para ser ativado.
+
+9.5.7 Aquisição de Carteira
+9.5.7.1 O valor gasto com aquisição de carteira no mercado de saúde suplementar poderá
+        ser registrado como ativo intangível, desde que cumpra todos requisitos previstos no
+        pronunciamento.
+
+9.5.7.2 Os gastos efetuados nessa aquisição serão amortizados por apropriação como
+       despesas operacionais, no período de tempo em que estiverem contribuindo para a
+       formação do resultado da operadora.
+
+9.5.7.3 O registro contábil de cada aquisição de carteira deve seguir os critérios abaixo
+        identificados:
+
+       I – todos os direitos e obrigações recebidos em função da aquisição de carteira
+           deverão ser registrados em contas destacadas;
+
+       II – o valor da aquisição estabelecido no contrato será lançado no Ativo Intangível,
+           deduzido do salda da conta que registrará a sua amortização.
+
+9.5.7.4 O valor registrado será amortizado mensalmente, à razão de 20% (vinte por cento)
+        ao ano, em prazo não superior a 5 (cinco) anos, a partir da data da aquisição da
+        carteira.
+9.5.7.5 A amortização do valor da carteira adquirida levará em consideração, ao longo do
+        período de amortização, o número de beneficiários existentes na data de aquisição.
+9.5.7.6 O número de beneficiários deverá ser acompanhado mensalmente pela operadora,
+        aplicando-se proporcionalmente ao saldo a ser amortizado. Eventuais reduções
+        ocorridas na população da carteira deverão ser consideradas para uma amortização
+        maior no período em que essas reduções ocorrerem.
+
+9.5.7.7 Para fins de acompanhamento da amortização da carteira, as operadoras deverão
+        enviar nos prazos fixados para o encaminhamento dos quadros econômico-
+        financeiros do DIOPS/ANS, e aos cuidados da Diretoria de Normas e Habilitação
+        das Operadoras – DIOPE, documento contendo as informações do quadro abaixo:
+
+
+
+
+                                                                                         19
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+
+
+
+9.5.7.8 Deverá ser encaminhada à DIOPE, juntamente com as informações solicitadas no
+        formulário acima, a cópia do instrumento de aquisição de cada carteira,
+        devidamente registrado em cartório.
+
+9.5.7.9 As Demonstrações Contábeis deverão ser acompanhadas de notas explicativas
+       necessárias à plena avaliação da situação e evolução de cada carteira adquirida.
+
+9.5.7.10 A nota deverá conter descrição da aquisição, dos ajustes do exercício, do saldo
+       após a data do balanço e demais informações relevantes.
+
+9.5.7.11 A ausência de envio das informações determinadas nos itens anteriores acarretará
+       na imediata baixa do saldo remanescente da carteira.
+
+9.5.7.12 A operadora poderá enviar um estudo a ANS para justificar a amortização por um
+       período maior. Nesse estudo a operadora segregará os beneficiários das carteiras
+       que detém, por tipo de plano, idade, e verificará qual o prazo médio de permanência
+       nas suas carteiras relativo aos beneficiários similares à carteira adquirida.
+
+9.5.7.13 A operadora deverá também apresentar a expectativa de rentabilidade anual da
+       carteira, pelo prazo que ela considera para amortização.
+
+9.5.7.14 A operadora deverá avaliar o estudo referido no item 9.5.7.12 anualmente e deverá
+       constituir uma provisão para perda em cada exercício que essa rentabilidade não for
+       alcançada, verificando a expectativa para a geração de benefícios econômicos
+       futuros.
+
+
+
+
+                                                                                       20
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+9.5.7.15 Caso essa expectativa seja reduzida ou não seja mais esperada, a operadora deve
+       providenciar a constituição de uma provisão pelo valor que ela não espera recuperar
+       ou baixar esse ativo.
+
+9.5.7.16 O estudo referido no item 9.5.7.12 deverá ser detalhado entre receitas de
+       contraprestação, despesas de eventos, administrativas e tributos.
+
+9.5.7.17           O prazo para o estudo referido no item 9.5.7.12, de acordo com o
+       pronunciamento, é preferencialmente por cinco anos. Se o ativo tiver um prazo de
+       amortização maior do que esse período, anualmente a operadora deve atualizar o
+       estudo, de forma que ela sempre esteja com um período estimado de cinco anos.
+9.5.8 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+      critérios estabelecidos no Pronunciamento CPC 04, emitido pelo Comitê de
+      Pronunciamentos Contábeis.
+
+                  9.6 – CPC 05 - Divulgação sobre Partes Relacionadas
+
+9.6.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+      critérios estabelecidos no Pronunciamento CPC 05, emitido pelo Comitê de
+      Pronunciamentos Contábeis.
+
+            9.7 – CPC 06 - Arrendamento Mercantil Operacional e Financeiro
+
+9.7.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+      critérios estabelecidos no Pronunciamento CPC 06, emitido pelo Comitê de
+      Pronunciamentos Contábeis.
+
+                9.8 - CPC 07 – Subvenções e Assistências Governamentais
+
+9.8.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+      critérios estabelecidos no Pronunciamento CPC 07, emitido pelo Comitê de
+      Pronunciamentos Contábeis.
+
+9.9 – CPC 08 - Custos de Transação e Prêmios na Emissão de Títulos e Valores Mobiliários
+
+9.9.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+      critérios estabelecidos no Pronunciamento CPC 08, emitido pelo Comitê de
+      Pronunciamentos Contábeis.
+
+                  9.10 – CPC 09 – Demonstração de Valor Adicionado
+
+9.10.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 09, emitido pelo Comitê de
+     Pronunciamentos Contábeis, sendo que até a ANS elaborar um modelo padrão, as
+     operadoras poderão publicar de forma facultativa essa demonstração.
+
+
+                                                                                       21
+                                   ANEXO
+                         CAPÍTULO I – NORMAS GERAIS
+
+                     9.11 – CPC 10 – Pagamento Baseado em Ações
+
+9.11.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 10, emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+                        9.12 – CPC 12 – Ajuste a Valor Presente
+
+9.12.1 O ajuste a valor presente não é aplicável às operações específicas de saúde
+     suplementar.
+
+9.12.2 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 12, emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+                       9.13 - CPC 15 – Combinação de Negócios
+
+9.13.1 Esse pronunciamento trata da aquisição de controle sobre um negócio que pode ser
+     uma aquisição de carteira ou o próprio controle societário.
+
+9.13.2 O critério de avaliação dessa operação é valor justo e identificação de ativos e
+     passivos adquiridos ainda que não estejam contabilizados na adquirida.
+
+9.13.3 Valor justo só é aplicável entre partes independentes, portanto, se houver uma
+     aquisição de controle e posteriormente uma aquisição de carteira, fusão, cisão ou
+     incorporação não é mais cabível a avaliação pelo valor justo, todas essas operações
+     deverão ser efetuadas por valores patrimoniais, não cabendo mais nenhum efeito no
+     patrimônio líquido dessas investidas.
+
+9.13.4 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 15, emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+                               9.14 – CPC 16 - Estoques
+
+9.14.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 16 (R1), emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+                       9.15 – CPC 17 – Contratos de Construção
+
+9.15.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 17, emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+
+
+                9.16 – CPC 18 – Investimentos em Coligada e Controlada
+
+
+                                                                                     22
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+9.16.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 18, emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+
+       9.17 – CPC 19 – Investimento em Empreendimento Controlado em Conjunto
+                                    (Joint Venture)
+
+9.17.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 19 (R1), emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+
+                         9.18 – CPC 20 - Custo de Empréstimos
+
+9.18.1 As operadoras que planejam construir rede assistencial ou outros ativos imobilizados
+       ou propriedades para investimento, e precisam utilizar recursos de terceiros para
+       financiar esse projeto, devem capitalizar esses custos que incluem, juros, taxas de
+       abertura de crédito etc, no próprio ativo que está sendo construído. Essa
+       possibilidade evita o impacto que a operadora teria ao reconhecer esses custos como
+       despesa do exercício nos seus resultados.
+
+9.18.2 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+       critérios estabelecidos no Pronunciamento CPC 20, emitido pelo Comitê de
+       Pronunciamentos Contábeis.
+                      9.19 – CPC 21 – Demonstração Intermediária
+
+9.19.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+       critérios estabelecidos no Pronunciamento CPC 21, emitido pelo Comitê de
+       Pronunciamentos Contábeis.
+                       9.20 – CPC 22 – Informações por Segmento
+
+9.20.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+       critérios estabelecidos no Pronunciamento CPC 22, emitido pelo Comitê de
+       Pronunciamentos Contábeis.
+
+    9.21 - CPC 23 - Políticas Contábeis, Mudança de Estimativa e Retificação de Erro
+
+9.21.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+       critérios estabelecidos no Pronunciamento CPC 23, emitido pelo Comitê de
+       Pronunciamentos Contábeis.
+
+                          9.22 – CPC 24 – Evento Subsequente
+
+9.22.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+       critérios estabelecidos no Pronunciamento CPC 24, emitido pelo Comitê de
+       Pronunciamentos Contábeis.
+
+
+                                                                                        23
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+
+         9.23 - CPC 25 - Provisões, Passivos Contingentes e Ativos Contingentes
+9.23.1 Uma provisão é um passivo de prazo ou valor incertos.
+
+9.23.2 Obrigação legal é uma obrigação que deriva de:
+
+       (a) contrato (por meio de termos explícitos ou implícitos);
+       (b) legislação; ou
+       (c) outra ação da lei.
+
+9.23.3 Uma provisão deve ser reconhecida quando, e apenas quando:
+
+       (a) uma entidade tem uma obrigação presente (legal ou não-formalizada) como
+       resultado de um evento passado;
+
+       (b) é provável (ou seja, mais provável que sim do que não) que uma saída de
+       recursos que incorporam benefícios econômicos será necessária para liquidar a
+       obrigação; e
+
+       c) possa ser feita uma estimativa confiável do valor da obrigação. Esse
+       Pronunciamento Técnico ressalta que uma estimativa confiável não pode ser feita
+       apenas em casos extremamente raros.
+9.23.4 Em casos raros, não é claro se existe, ou não, uma obrigação presente. Nesses casos,
+       presume-se que um evento passado dá origem a uma obrigação presente se, levando
+       em consideração toda a evidência disponível, é mais provável do que não que existe
+       uma obrigação presente na data do balanço.
+
+9.23.5 Quando uma entidade está sujeita a obrigação legal é improvável que essa obrigação
+       não seja reconhecida nas demonstrações contábeis. Uma obrigação originada em lei
+       só poderá ser tratada como remota ou possível se houver um fato específico que
+       suporte esse julgamento, como uma jurisprudência pacificada ou a própria ação
+       transitada em julgado.
+
+9.23.6 Nenhum item registrado nas demonstrações contábeis como provisões tributárias
+       será passível de baixa, a exceção da ocorrência de um fato novo, como julgamento
+       da ação em transitado em julgado.
+9.23.7 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+       critérios estabelecidos no Pronunciamento CPC 25, emitido pelo Comitê de
+       Pronunciamentos Contábeis.
+
+               9.24 - CPC 26 - Apresentação das Demonstrações Contábeis
+
+
+
+
+                                                                                        24
+                                   ANEXO
+                         CAPÍTULO I – NORMAS GERAIS
+
+9.24.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 26, emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+
+                          9.25 – CPC 27 – Ativo Imobilizado
+
+9.25.1 Não serão admitidas reavaliações ou avaliação a valor justo como critério de
+     avaliação desses ativos.
+
+9.25.2 No que não contrariem esta norma e a Súmula Normativa nº 18, aplicam-se
+     integralmente as disposições e os critérios estabelecidos no Pronunciamento CPC 27,
+     emitido pelo Comitê de Pronunciamentos Contábeis.
+
+                     9.26 – CPC 28 – Propriedade para Investimento
+
+9.26.1 Não serão admitidas reavaliações ou avaliação a valor justo como critério de
+       avaliação desses ativos.
+
+9.26.2 No que não contrariem esta norma e a Súmula Normativa nº 18, aplicam-se
+       integralmente as disposições e os critérios estabelecidos no Pronunciamento CPC
+       28, emitido pelo Comitê de Pronunciamentos Contábeis.
+
+                               9.27 – CPC 30 - Receitas
+
+9.27.1 O montante da receita proveniente de uma transação é geralmente acordado entre a
+       entidade e o comprador ou usuário do ativo e é mensurado pelo valor justo da
+       contraprestação recebida, deduzida de quaisquer descontos comerciais e/ou
+       bonificações concedidos pela entidade ao comprador.
+
+9.27.2 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+       critérios estabelecidos no Pronunciamento CPC 30, emitido pelo Comitê de
+       Pronunciamentos Contábeis.
+
+  9.28 – CPC 31 - Ativo Não Circulante Mantido para Venda e Operação Descontinuada
+
+9.28.1 Não serão admitidas reavaliações ou avaliação a valor justo como critério de
+       avaliação desses ativos.
+
+9.28.2 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+       critérios estabelecidos no Pronunciamento CPC 31, emitido pelo Comitê de
+       Pronunciamentos Contábeis.
+
+                         9.29 – CPC 32 – Tributos sobre Lucro
+
+                                                                                     25
+                                     ANEXO
+                           CAPÍTULO I – NORMAS GERAIS
+
+9.29.1 Os créditos tributários decorrentes de prejuízos fiscais de imposto de renda e/ou de
+       bases negativas de cálculo da contribuição social sobre o lucro, e aqueles
+       decorrentes de diferenças temporárias entre os critérios contábeis e fiscais de
+       apuração de resultados devem ser registrados somente quando atendidas,
+       cumulativamente, as seguintes condições:
+
+       I - apresentarem histórico de lucros ou receitas tributáveis para fins de imposto de
+       renda e contribuição social, conforme o caso, comprovado pela ocorrência destas
+       situações em, pelo menos, 3 (três) dos últimos 5 (cinco) exercícios sociais,
+       incluindo o exercício em referência;
+
+       II - haja expectativa de geração de lucros ou receitas tributáveis, no futuro, para fins
+       de imposto de renda e contribuição social, conforme o caso, em períodos
+       subsequentes, baseada em estudo técnico que demonstre a probabilidade de
+       ocorrência de obrigações futuras com impostos e contribuições que permitam a
+       realização do crédito tributário, no prazo máximo de 10 (dez) anos.
+
+9.29.2 O registro dos créditos tributários da operadora recém constituída que não possua o
+       histórico de lucros poderá ser efetuado apenas quando a mesma possuir expectativa
+       de geração de lucros ou receitas tributáveis baseada em estudo técnico e/ou plano de
+       negócio que tenham sido encaminhados para a ANS, para efeito de obtenção de
+       autorização para o início de suas operações.
+
+9.29.3 Deverão ser observados os critérios descritos abaixo para a constituição dos créditos
+       tributários:
+
+       I - o valor dos créditos deverá ser calculado com base nas alíquotas vigentes à época
+       da elaboração das demonstrações financeiras e ajustado sempre que essas alíquotas
+       sofrerem modificações, devendo ser o registro desse ajuste efetuado no mesmo
+       exercício em que for aprovada a legislação fiscal que as modificou;
+
+       II - o valor dos créditos será calculado pela alíquota básica, a menos que seja
+       elevada a possibilidade de se realizar a recuperação dos créditos por alíquota que
+       inclua o percentual adicional à alíquota básica.
+
+9.29.4 A Administração da operadora é responsável pela avaliação, no mínimo por ocasião
+       do levantamento das demonstrações financeiras, das possibilidades de realização
+       dos créditos.
+
+9.29.5 A avaliação, quando decorrente de prejuízo fiscal e/ou de base negativa de
+       contribuição social, deverá ser formalizada mediante elaboração de projeções de
+       resultados tributáveis que permitam a realização dos créditos tributários, no prazo
+
+                                                                                            26
+                                    ANEXO
+                          CAPÍTULO I – NORMAS GERAIS
+
+       máximo de 10 (dez) anos, devendo ser mantidas à disposição dos auditores
+       independentes e dos acionistas e, sempre que requisitado, encaminhadas para a
+       ANS, no prazo de 5 (cinco) dias úteis, contado da data de recebimento da
+       requisição.
+
+9.29.6 Na hipótese de existência de dúvida razoável em relação às possibilidades de
+       recuperação dos créditos, deverá ser constituída provisão para ajuste aos seus
+       valores prováveis de realização.
+
+9.29.7 A provisão deverá ser constituída pela diferença efetivamente apurada entre o
+       projetado e o ocorrido, na hipótese dos valores efetivamente realizados em dois
+       períodos consecutivos serem inferiores a 50% (cinqüenta por cento) dos valores
+       previstos para igual período nas projeções de resultados tributáveis, salvo caso
+       extraordinário que a operadora não tenha tido condições de estimar essa diferença
+       em suas projeções.
+
+9.29.8 A constituição da provisão pelo valor integral do ativo será obrigatória na hipótese
+       de apuração de prejuízo fiscal ou base negativa de cálculo da contribuição social
+       sobre o lucro por três exercícios consecutivos, incluindo o exercício em referência,
+       exceto com relação às operadoras recém-constituídas ou em processo de
+       reestruturação operacional, ou reorganização societária, cujo histórico de prejuízos
+       tenha sido decorrente de sua fase anterior.
+
+9.29.9 Os créditos tributários e as respectivas provisões deverão ser baixados no período
+       em que ficar evidenciada a impossibilidade de sua recuperação.
+
+No que não contrariem esta norma, aplicam-se integralmente as disposições e os critérios
+    estabelecidos no Pronunciamento CPC 32, emitido pelo Comitê de Pronunciamentos
+    Contábeis.
+
+                        9.30 – CPC 33 – Benefícios a Empregados
+
+9.30.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 33 emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+
+                      9.31 – CPC 36 – Demonstrações Consolidadas
+
+9.31.1        Até que a ANS estabeleça critérios próprios, as operadoras de planos de
+     saúde estarão dispensadas de publicar suas demonstrações consolidadas de acordo
+     com o pronunciamento CPC 36 – Demonstrações Consolidadas, sem prejuízo da
+
+
+                                                                                        27
+                                   ANEXO
+                         CAPÍTULO I – NORMAS GERAIS
+
+     elaboração e publicação das Demonstrações Individuais, salvo casos específicos
+     determinados pela ANS.
+
+9.31.2 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 36, emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+
+       9.32 – CPC 37 – Adoção Inicial das Normas Internacionais de Contabilidade
+
+9.32.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 37 emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+
+       9.33 – CPC 38 – Instrumentos Financeiros – Reconhecimento e Mensuração
+
+9.33.1 O mercado de saúde suplementar necessita de liquidez e gira recursos rapidamente,
+     portanto, a parte relevante dos ativos financeiros deve ser classificada como ativo
+     financeiro mensurado pelo valor justo.
+
+9.33.2 As operadoras que classificarem ativos em mantidos até o vencimento, deverão
+     efetuar um estudo que comprove sua intenção e capacidade de mantê-los até o
+     vencimento, e fazer o relato dessa opção no Relatório de Administração.
+
+9.33.3 Sempre que vendas ou reclassificações de mais de uma quantia insignificante de
+       investimentos mantidos até o vencimento não satisfizerem nenhuma das condições
+       previstas no pronunciamento e elencadas abaixo, qualquer investimento mantido até
+       o vencimento remanescente deve ser reclassificado como disponível para venda.
+
+9.33.4 A operadora não deve classificar nenhum ativo financeiro como mantido até o
+       vencimento se a operadora tiver, durante o exercício social corrente ou durante os
+       dois exercícios sociais precedentes, vendido ou reclassificado mais do que uma
+       quantia insignificante de investimentos mantidos até o vencimento antes do
+       vencimento (mais do que insignificante em relação à quantia total dos
+       investimentos mantidos até o vencimento), que não seja por vendas ou
+       reclassificações que:
+
+       (i) estejam tão próximos do vencimento ou da data de compra do ativo financeiro
+       (por exemplo, menos de três meses antes do vencimento) que as alterações na
+       taxa de juro do mercado não teriam efeito significativo no valor justo do ativo
+       financeiro;
+
+
+
+                                                                                      28
+                                   ANEXO
+                         CAPÍTULO I – NORMAS GERAIS
+
+       (ii) ocorram depois de a operadora ter substancialmente recebido todo o capital
+       original do ativo financeiro por meio de pagamentos programados ou de
+       pagamentos antecipados; ou
+
+       (iii) sejam atribuíveis a um acontecimento isolado que esteja fora do controle da
+       operadora, não seja recorrente e não tenha podido ser razoavelmente previsto pela
+       operadora.
+
+9.33.5 As operadoras que gerenciam suas carteiras próprias devem atentar as divulgações
+       exigidas no pronunciamento, assim como a classificação e o critério para apuração
+       do valor justo.
+
+9.33.6 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+       critérios estabelecidos no Pronunciamento CPC 38 emitido pelo Comitê de
+       Pronunciamentos Contábeis.
+
+               9.34 – CPC 39 – Instrumentos Financeiros – Apresentação
+
+9.34.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+       critérios estabelecidos no Pronunciamento CPC 39 emitido pelo Comitê de
+       Pronunciamentos Contábeis.
+
+                9.35 – CPC 40 – Instrumentos Financeiros – Evidenciação
+
+9.35.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+       critérios estabelecidos no Pronunciamento CPC 40 emitido pelo Comitê de
+       Pronunciamentos Contábeis.
+
+                          9.36 - CPC 41 - Resultado por Ação
+
+9.36.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+       critérios estabelecidos no Pronunciamento CPC 41 emitido pelo Comitê de
+       Pronunciamentos Contábeis.
+
+             9.37 - CPC 43 - Adoção Inicial dos Pronunciamentos Técnicos
+                                    CPC 15 a 41
+
+9.37.1 No que não contrariem esta norma, aplicam-se integralmente as disposições e os
+     critérios estabelecidos no Pronunciamento CPC 43 emitido pelo Comitê de
+     Pronunciamentos Contábeis.
+
+
+
+                                                                                     29
+

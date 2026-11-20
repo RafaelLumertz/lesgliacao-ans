@@ -1,0 +1,485 @@
+                                       ANEXO I
+                           Tabela - VALOR DO FATOR K (%)
+             SEGMENTO                        REGIÃO DE COMERCIALIZAÇÃO
+                                          1       2     3      4      5      6
+Seguradoras Especializadas em Saúde    100,00 100,00 100,00 100,00 100,00 100,00
+Medicina de Grupo/Filantropias – ST    100,00 74,19 48,39 25,81 18,06 10,32
+Cooperativa Médica – ST                 87,10  61,29 37,10 18,06 12,65     7,23
+Medicina de Grupo/Filantropias - SSS    74,39  49,19 27,58 12,65    8,85   5,06
+Cooperativa Médica – SSS                64,52  46,77 29,03 12,90    8,82   4,74
+Autogestão                              61,69  38,39 20,11   8,85   6,20   3,54
+Medicina de Grupo/ Filantropias -SSP    50,04  29,25 19,35   7,10   5,00   2,90
+Cooperativa Médica – SSP                45,81  22,58 15,35   6,68   4,76   2,84
+Medicina de Grupo/Filantropias –SPS     34,19  20,97 14,52   6,26   4,35   2,45
+Cooperativa Médica – SPS                32,58  19,74 12,89   5,85   3,98   2,10
+Medicina de Grupo/Filantropia - SPP e
+                                        20,16  14,31  8,37   4,98   3,37   1,77
+SPP/SUS
+Cooperativa Médica - SPP e SPP/SUS      17,24  11,34  6,67   4,37   2,92   1,47
+Odontologia de Grupo – SOT              3,23    2,58  1,94   0,48   0,41   0,34
+Cooperativa Odontológica – SOT          2,58    2,43  1,79   0,45   0,35   0,25
+Odontologia de Grupo – SOM              2,40    2,03  1,48   0,39   0,30   0,20
+Cooperativa Odontológica – SOM          2,35    1,90  1,21   0,34   0,26   0,19
+Odontologia de Grupo – SOP              2,31    1,76  0,94   0,29   0,23   0,18
+Cooperativa Odontológica – SOP          2,03    1,35  0,61   0,23   0,20   0,16
+Administradora                          2,00    1,30  0,50   0,20   0,18   0,15
+
+Capital base = R$ 5.001.789,60
+
+Para efeito de classificação, as OPS deverão observar sua região de comercialização e,
+também, o disposto na Resolução - RDC nº 39, de 27 de outubro de 2000, e alterações
+posteriores:
+
+      Região 1: em todo o território nacional ou em grupos de pelo menos três estados
+      dentre os seguintes: São Paulo, Rio de Janeiro, Minas Gerais, Rio Grande do Sul,
+      Paraná e Bahia;
+      Região 2: no Estado de São Paulo ou em mais de um estado, excetuando os grupos
+      definidos no critério da região 1;
+      Região 3: em um único estado, qualquer que seja ele, excetuando-se o Estado de
+      São Paulo;
+      Região 4: no Município de São Paulo, do Rio de Janeiro, de Belo Horizonte, de Porto
+      Alegre ou de Curitiba ou de Brasília;
+      Região 5: em grupo de municípios, excetuando os definidos na região 4; e
+      Região 6: em um único município, excetuando os definidos na região 4.
+
+OBS. 1: Para fins de aplicação deste Anexo, considera-se região de comercialização as
+localidades onde as autogestões disponibilizam e as demais OPS comercializam seus Planos
+Privados de Assistência à Saúde.
+
+OBS. 2: Será considerada atuação estadual a operação em mais de 50% dos municípios de
+um estado.
+OBS. 3: Cada OPS só poderá enquadrar-se em uma única região e segmento.
+
+OBS. 4: Brasília não será considerado como estado para fins de enquadramento na região
+de comercialização.
+                                    ANEXO II
+       Aspectos mínimos a serem observados na elaboração das Notas Técnicas
+                              Atuariais de Provisões
+
+                     (Revogado pela RN nº 393, de 09/12/2015)
+
+1.        Os documentos relativos às Provisões Técnicas devem ser encaminhados em
+          versão original, contendo a assinatura do atuário habilitado e seu número de
+          identificação profissional perante o órgão competente, acompanhados por
+          correspondência assinada pelo representante da OPS junto à ANS e apresentar,
+          no mínimo, o item a seguir.
+
+2.        Quanto às Notas Técnicas Atuariais de Provisões – NTAP:
+
+2.1.      O Objetivo da NTAP.
+
+2.2.      Definições Gerais: no que couber, este item deverá incluir a definição de termos
+          técnicos necessária à perfeita compreensão da NTAP.
+
+2.3.      Bases Técnicas:
+
+2.3.1.    Incluir a definição de todos os parâmetros e variáveis utilizados;
+
+2.3.2.    Incluir a especificação do critério técnico adotado na metodologia e a sua
+          respectiva justificativa técnica;
+
+2.3.3.    No caso de utilização de tábuas biométricas, estas deverão ser reconhecidas pelo
+          Instituto Brasileiro de Atuária – IBA e ser especificada na NTAP;
+
+2.3.4.    No caso da utilização de índices financeiros de atualização, especificar o índice, o
+          seu critério de aplicação e a sua referência;
+
+2.3.5.    Quando as bases técnicas contemplarem premissas de qualquer natureza, estas
+          deverão estar fundamentadas tecnicamente pelo atuário responsável.
+
+2.4.      Metodologia de Cálculo:
+
+2.4.1.    Apresentar as formulações utilizadas;
+
+2.4.2.    Apresentar base de dados e estatísticas utilizadas, acompanhadas                 da
+          especificação do período e das fontes, bem como demonstrativo de cálculo;
+
+2.4.3.    Quanto à reavaliação, deverão ser estabelecidos na NTAP a periodicidade, os
+          critérios, o período de referência dos dados a serem utilizados e a sua
+          formulação;
+
+2.4.4.    Definição da periodicidade de cálculo e os critérios de constituição da Provisão,
+          observando a legislação vigente;
+2.4.5.   Quaisquer alterações adotadas na metodologia de cálculo da provisão deverão ser
+         previamente submetidas à análise e aprovação da ANS;
+
+2.4.6.   Quanto à Provisão para Remissão:
+
+2.4.6.1. A metodologia de cálculo referente à Provisão para Remissão deve levar em
+         consideração a expectativa de despesas assistenciais (médico-hospitalares e/ou
+         odontológica) durante o prazo de remissão concedido;
+
+2.4.6.2. No cálculo de apuração da expectativa de despesa assistencial o atuário deverá
+         observar se a base de dados utilizada apresenta consistência estatística
+         suficiente;
+
+2.4.6.3. Caso a apuração da expectativa de despesa assistencial seja feita por faixa
+         etária, estas deverão ser apresentadas;
+
+2.4.6.4. A Provisão para Remissão deverá ser calculada ao fim de cada mês,
+         considerando-se como período inicial o mês do fato gerador do benefício de
+         remissão;
+
+2.4.6.5. Deve ser apresentada a formulação de cálculo da Provisão para Remissão na
+         entrada de gozo do benefício e sua sistemática de cálculo mensal.
+
+2.4.7.   Caso a metodologia adotada na NTAP de PEONA seja a da “Sinistralidade
+         Esperada”, o percentual de sinistralidade considerado deverá ser justificado e vir
+         acompanhado de seu respectivo embasamento técnico.
+
+2.4.8.   As metodologias de cálculo constantes em notas técnicas atuariais aprovadas
+         pela DIOPE só poderão ser modificadas mediante prévia solicitação de alteração a
+         ser encaminhada à DIOPE para nova aprovação, acompanhadas de estudo técnico
+         que a justifique.
+                                     ANEXO III
+      Observações para avaliação das Provisões Técnicas e Margem de Solvência
+
+                     (Revogado pela RN nº 393, de 09/12/2015)
+
+1.        Para fins desta norma, entende-se como teste de consistência a comparação
+          entre os valores de provisão estimados com os valores efetivamente observados
+          a fim de avaliar a adequação da metodologia constante da NTAP.
+
+1.1       O período de escolha das datas-base constantes do teste de consistência deve ser
+          suficiente para a avaliação da adequação da metodologia.
+
+2.        O atuário deve verificar se a metodologia proposta na NTAP de PEONA é
+          adequada à realidade operacional da operadora, em especial nas OPS em início
+          de atividade, considerando a forma de remuneração dos prestadores, justificando
+          a sua adoção;
+
+3.        Para OPS com experiência de no mínimo 12 meses, anexo à NTAP de PEONA
+          deverá ser encaminhado teste de consistência da metodologia.
+
+4.        Quando a metodologia de cálculo de PEONA for obtida com base na diferença
+          entre a estimativa do total de eventos/sinistros ocorridos e não pagos e o total de
+          eventos/sinistros a liquidar, não poderão ser considerados os valores referentes
+          às disputas judiciais e ressarcimentos ao SUS, salvo quando devidamente
+          justificado e autorizado pela ANS.
+
+5.        Para fins de cálculo ou de apuração das contraprestações/prêmios a que se
+          referem os artigos 6º e 16 da presente Resolução, deverão ser observados os
+          montantes reconhecidos como contraprestações líquidas/prêmios retidos.
+
+5.        Para fins de cálculo ou de apuração das contraprestações/ prêmios a que se
+          referem os artigos 6º, 16, 16-A, 16-B e 16-C da presente Resolução, deverão ser
+          observados os montantes reconhecidos como contraprestações líquidas/prêmios
+          retidos. (Redação dada pela RN nº 274, de 20/10/2011)
+
+
+6.        Para fins de cálculo ou de apuração dos eventos/sinistros a que se refere o artigo
+          6º da presente Resolução, deverão ser observados os montantes reconhecidos
+          como eventos indenizáveis líquidos/sinistros retidos.
+
+7.        Para fins de cálculo ou de apuração dos eventos/sinistros a que se refere o artigo
+          16 da presente Resolução, deverão ser observados os montantes reconhecidos
+          como eventos/sinistros conhecidos ou avisados e suas deduções, exceto as
+          variações de PEONA.
+
+7.        Para fins de cálculo ou de apuração dos eventos/sinistros a que se refere o artigo
+          16, 16-A, 16-B e 16-C da presente Resolução, deverão ser observados os
+          montantes reconhecidos como eventos/sinistros conhecidos ou avisados e
+          suas deduções, exceto as variações de PEONA. (Redação dada pela RN nº
+          274, de 20/10/2011)
+                                  ANEXO IV
+Aspectos mínimos a serem observados no Relatório Circunstanciado de Auditores
+ Independentes referente a dados que acompanham as Notas Técnicas Atuariais
+                            de Provisões Técnicas
+
+                  (Revogado pela RN nº 393, de 09/12/2015)
+
+
+1.     Os relatórios circunstanciados que acompanham as bases de dados utilizadas na
+       elaboração das metodologias de cálculo das provisões técnicas consubstanciadas
+       em NTAP, que forem apresentadas à DIOPE para análise e aprovação, deverão
+       obedecer as normas aplicáveis estabelecidas pelo Instituto dos Auditores
+       Independentes do Brasil – IBRACON, visando assegurar a fidedignidade e
+       consistência dos dados apresentados contemplando, no mínimo, os seguintes
+       aspectos:
+
+1.1    Quando os dados forem utilizados para elaboração de estimativa da Provisão de
+       Eventos Ocorridos e Não Avisados – PEONA:
+
+a)     avaliação dos sistemas que geram as informações constantes das bases de
+       dados;
+
+b)     avaliação das informações de datas de ocorrência, datas de registro contábil e
+       valores avisados de eventos/sinistros indenizáveis constante da base de dados e
+       sua fidedignidade em relação aos dispositivos contratuais e/ou lançamentos
+       contábeis (contratos, aditivos, balancetes, notas fiscais, etc) que suportam tais
+       informações;
+
+c)     avaliação das informações de data de pagamento e valores pagos de
+       eventos/sinistros indenizáveis, quando estas informações forem contempladas na
+       base de dados e sua fidedignidade em relação aos dispositivos contratuais e/ou
+       lançamentos contábeis (lançamentos contábeis, notas fiscais, etc) que suportam
+       tais informações;
+
+d)     avaliação do total de valores avisados de eventos/sinistros indenizáveis, por data
+       de registro contábil, em relação aos valores de eventos indenizáveis constantes
+       dos demonstrativos contábeis e das informações encaminhadas à ANS por meio
+       do DIOPS-XML.
+
+
+1.2    Quando os dados forem utilizados para elaboração de estimativa da Provisão para
+       Remissão:
+
+a)     avaliação dos sistemas que geram as informações constantes das bases de
+       dados;
+
+b)     avaliação das informações de datas de início e fim de gozo do benefício, data de
+       nascimento ou idade e sexo do beneficiário remido e valores de despesa
+       assistencial por exposto utilizado no cálculo constante da base de dados e sua
+      fidedignidade em relação aos dispositivos contratuais e/ou lançamentos contábeis
+      (contratos, aditivos, balancetes, etc) que suportam tais informações.
+
+1.3   Quando os dados forem utilizados para elaboração de outra provisão técnica não
+      obrigatória:
+
+a)    avaliação dos sistemas que geram as informações constantes das bases de dados
+      quando estas forem fornecidas pela operadora;
+
+b)    avaliação da suficiência das informações constantes da base de dados para sua
+      utilização na metodologia proposta pelo atuário responsável;
+
+c)    avaliação da compatibilidade das informações constantes das bases de dados em
+      relação aos dispositivos contratuais e/ou lançamentos contábeis, quando
+      aplicável.
+
+2.    As conclusões e procedimentos adotados pelo auditor deverão constar de seus
+      relatórios de forma clara e explícita e deverão se ater às bases de dados
+      auditadas, não expressando opinião quanto à metodologia de cálculo da provisão
+      cuja responsabilidade é do atuário legalmente habilitado.
+                                            ANEXO V
+
+               Bases de Dados referentes às avaliações de Provisões Técnicas
+
+                         (Revogado pela RN nº 393, de 09/12/2015)
+
+
+
+1.            A OPS deverá dispor, a qualquer tempo, em meio digital, dos dados atualizados a
+              que se referem os itens I e II deste Anexo, para envio e/ou verificação da ANS
+              quando solicitados.
+
+
+I)           Formato de base de dados de eventos indenizáveis:
+
+As avaliações da metodologia de cálculo de PEONA deverão vir acompanhadas de base de
+dados, em consonância com os demonstrativos contábeis e o DIOPS, em meio
+digital na formatação .xls, .dbf, .mdb ou .txt e considerando no mínimo as seguintes
+informações :
+
+      ARQUIVO CONTENDO BASE DE DADOS DE EVENTOS INDENIZÁVEIS
+
+                                                                            Tamanh Casas
+      Coluna
+                      Campo                 Descrição              Tipo       o do Decimai
+         s
+                                                                            Campo     s
+                   MÊS/ANO DE     Data de Ocorrência dos
+         1
+                   OCORRÊNCIA       Eventos (mmaaaa)               Data       6
+                                 Data de Aviso dos Eventos
+         2
+                MÊS/ANO DE AVISO        (mmaaaa)                   Data       6
+                                                                  Numéric
+         3
+                 VALOR_AVISADO             Valor Avisado            o         16      2
+                   MÊS/ANO DE         Data do Pagamento dos
+         4
+                   PAGAMENTO            Eventos (mmaaaa)           Data       6
+                                                                  Numéric
+         5
+                   VALOR_PAGO               Valor Pago              o         16      2
+
+      Obs (1): A data de aviso a constar na base de dados deverá ser aquela do
+      reconhecimento contábil;
+
+      Obs (2): Os campos 4 - Mês/Ano de Pagamento e 5 - Valor Pago serão obrigatórios no
+      caso da metodologia definida para o cálculo da PEONA se basear na estimativa dos
+      valores dos eventos ocorridos e não pagos;
+
+      Obs (3): A totalização dos valores avisados deverá ser feita por Mês/Ano de Ocorrência
+      e Mês/Ano de Aviso. Caso a base de dados inclua os valores pagos, a totalização dos
+      valores avisados e dos valores pagos também deverá observar o Mês/Ano de
+      Pagamento.
+
+II)          Formato de base de dados de beneficiários remidos:
+Anexo à NTAP para Remissão, deverá ser encaminhada a base de dados em meio digital,
+contendo a informação do mês de referência dos dados, na formatação .xls, .dbf, .mdb ou
+.txt, considerando as seguintes informações:
+
+                                                                     Tamanho
+                                                                              Casas
+  Colunas        Campo        Descrição                   Tipo          do
+                                                                             Decimais
+                                                                      Campo
+                              Data de nascimento do
+      1         DT_NASC       beneficiário em gozo de       Data        8
+                              benefício (remido)
+                              Data do Início de gozo do
+      2        DT_ BENEF                                    Data        8
+                              benefício
+                              Data do Término do
+                              benefício de remissão
+      3      DT_FIM_BENEF                                   Data        8
+                              contratado. Caso vitalício,
+                              preencher 01010000
+                              Valor da Despesa
+                              Assistencial por Exposto a
+      4        DESP_ASS       ser utilizado no cálculo da Numérico      16      2
+                              Provisão para Remissão
+                              do beneficiário.
+                              Data de Referência das
+      5      DAT_REF_INFO                                   Data        6
+                              Informações (mmaaaa)
+                              Informação do sexo do
+      6           SEXO        beneficiário (F –           Caracter      1
+                              feminino, M – masculino)
+
+   Obs (1): O campo 6 - SEXO deve ser obrigatoriamente preenchido no caso da NTAP
+   definir tábuas biométricas diferenciadas por sexo.
+
+   Obs (2): O campo 5 - DAT_REF_INFO deve contemplar o mês a que se refere o cálculo
+   da provisão, quando aplicável.
+                                 ANEXO VI
+ Documentos e dados mínimos exigidos para análise de Nota Técnica Atuarial de
+                              Provisão – NTAP
+                 (Incluído pela RN nº 246, de 25/02/2011)
+
+                    (Revogado pela RN nº 393, de 09/12/2015)
+
+
+1. Os pedidos de análise e aprovação de metodologia de cálculo de provisão
+consubstanciadas em NTAP que forem enviados à DIOPE devem ser encaminhados por
+meio de correspondência assinada por representante legal junto à ANS, em conjunto com
+os seguintes itens, no mínimo:
+
+- Nota Técnica Atuarial de Provisão assinada por atuário legalmente habilitado, observados
+os aspectos mínimos constantes do Anexo II;
+
+- Teste de consistência da metodologia, observados os aspectos constantes dos itens 1 a
+4 do Anexo III;
+
+- Base de dados utilizada na elaboração e avaliação da metodologia de cálculo da Provisão
+Técnica submetida à análise, observados os formatos mínimos constantes do Anexo V;
+
+- Relatório Circunstanciado de auditor independente, registrado na Comissão de Valores
+Mobiliários – CVM, versando sobre a fidedignidade dos dados utilizados e sua consistência
+com os demonstrativos contábeis e as informações encaminhadas por meio do DIOPS-XML,
+observados os aspectos constantes do Anexo IV;
+
+- Memória de cálculo detalhada da provisão, em meio digital, dos três meses mais
+recentes utilizados na avaliação da metodologia.
+                                   ANEXO VII
+    Regra de transição para Margem de Solvência das Sociedades Seguradoras
+                         Especializadas em Saúde – SES
+
+                     (Incluído pela RN nº 246, de 25/02/2011)
+
+
+1. Até 31 de dezembro de 2017, a Margem de Solvência exigida deverá ser apurada
+mensalmente conforme a seguinte formulação:
+
+MS = A + n x (B-A)/84
+Onde:
+MS: Margem de Solvência exigida
+
+A: Margem de Solvência equivalente ao maior montante entre os seguintes valores:
+
+I - 0,20 (zero vírgula vinte) vezes a média anual dos últimos trinta e seis meses da soma
+de: de 100% (cem por cento) das contraprestações líquidas na modalidade de preço pré-
+estabelecido, e de 50% (cinqüenta por cento) das contraprestações líquidas na modalidade
+de preço pós-estabelecido; ou
+
+II – 0,33 (zero vírgula trinta e três) vezes a média anual dos últimos sessenta meses da
+soma de: 100% (cem por cento) dos eventos indenizáveis líquidos na modalidade de preço
+pré-estabelecido e de 50% (cinqüenta por cento) dos eventos indenizáveis líquidos na
+modalidade de preço pós-estabelecido.
+
+B: Margem de Solvência equivalente ao montante calculado conforme art. 6º desta
+Resolução
+
+n: número correspondente ao mês do período de transição, de forma que o mês de janeiro
+de 2011 corresponde ao número 1 (um), o mês de fevereiro de 2011 corresponde ao
+número 2 (dois), e assim sucessivamente até o mês de dezembro de 2017, que
+corresponde ao número 84 (oitenta e quatro), em um total de 84 meses consecutivos.
+Excepcionalmente em 31 de dezembro de 2010, deve ser assumido o valor igual a 0 (zero).
+                                       Anexo VII
+
+                  (Redação dada pela RN nº 373, de 07/04/2015)
+
+1. Até 31 de dezembro de 2022, a Margem de Solvência para as Seguradoras
+Especializadas em Saúde que iniciaram suas atividades antes de 22 de dezemb
+ro de 2009, poderão observar a seguinte formulação:
+
+                       MS= MAXIMO( (A+50%%(B-A)); X*B)
+
+MS: Margem de Solvência
+
+A: Margem de Solvência equivalente ao maior montante entre os seguintes valores:
+
+I - 0,20 (zero vírgula vinte) vezes a média anual dos últimos trinta e seis meses da soma
+de: de 100% (cem por cento) das contraprestações líquidas na modalidade de preço pré-
+estabelecido, e de 50% (cinquenta por cento) das contraprestações líquidasna modalidade
+de preço pós-estabelecido; ou
+
+II – 0,33 (zero vírgula trinta e três) vezes a média anual dos últimos sessenta meses da
+soma de: 100% (cem por cento) dos eventos indenizáveis líquidos na modalidade de preço
+pré-estabelecido e de 50% (cinquenta por cento) dos eventos indenizáveis líquidos na
+modalidade de preço pós-estabelecido.
+
+B: Margem de Solvência equivalente ao montante calculado conforme art. 6º desta
+Resolução
+
+X: Parcela mínima a ser observada apenas para as Seguradoras Especializadas em Saúde,
+que iniciaram suas atividades antes de 22 de dezembro de 2009. Tal parcela deverá
+obedecer no mínimo os seguintes valores:
+
+I – Em junho/2014: 39,50%
+
+II – Entre julho/2014 e novembro/2014: deverá ser observada a proporção cumulativa
+mínima mensal de 0,25% (zero vírgula vinte e cinco por cento)
+
+III - Em dezembro/2014: 41%
+
+IV - Entre janeiro/2015 e novembro/2022: deverá ser observada a proporção cumulativa
+mínima mensal de 0,615% (zero vírgula seiscentos e quinze por cento)
+
+V- A partir de dezembro/2022: 100% (cem por cento)
+                                      ANEXO VIII
+
+                     (Incluído pela RN nº 313, de 23/11/2012)
+
+Parcela mínima da Margem de Solvência a ser observa da pelas OPS dos
+segmentos primário, secundário, próprio e misto que iniciaram suas operações
+antes de 3 de julho de 2007 e aquelas do segmento terciário que iniciaram suas
+operações antes de 19 de julho de 2001
+
+As OPS dos segmentos primário, secundário, próprio e misto que iniciaram suas operações
+antes de 3 de julho de 2007 e aquelas do
+segmento terciário que iniciaram suas operações antes de 19 de julho de 2001, devem
+observar as seguintes parcelas
+mínimas do valor da Margem de Solvência (MS), calculada nos termos do art. 6º desta
+Resolução:
+
+I – Até dezembro de 2012: 35% do valor da MS, calculada nos termos do art. 6º desta
+Resolução;
+
+II – Entre janeiro de 2013 e novembro de 2014: deve rá ser observada a proporção
+cumulativa mínima mensal de 0,25% (zero vírgula vinte e cinco por cento) do valor da MS,
+calculada nos termos do art. 6º desta Resolução, em adição ao estabelecido no item I
+acima;
+
+III – Em dezembro de 2014: 41% do valor da MS, calculada nos termos do art. 6º desta
+Resolução;
+
+IV - Entre janeiro de 2015 e novembro de 2022: deverá ser observada a proporção
+cumulativa mínima mensal de 0,615% (zero vírgula seiscentos e quinze por cento) do valor
+da MS, calculada nos termos do art. 6º desta Resolução, em adição ao estabelecido no item
+III acima; e
+
+V – A partir de dezembro de 2022: 100% do valor da MS, calculada nos termos do art. 6º
+desta Resolução.
+

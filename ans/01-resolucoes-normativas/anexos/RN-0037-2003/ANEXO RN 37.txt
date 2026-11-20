@@ -1,0 +1,210 @@
+                       ANEXO I a Resolução Normativa nº 37 de 05/ 05/2003
+
+Dados cadastrais de beneficiários das Operadoras de Planos Privados de Assistência à Saúde
+
+    Dados cadastrais (campos)   operadoras que      operadoras que               Crítica do campo
+                                   atuam no              atuam,
+                                   segmento         exclusivamente,
+                                    Médico-          no segmento
+                                  Hospitalar         Odontológico
+•     Código de identificação   Obrigatório         Obrigatório
+      do beneficiário na
+      operadora
+•     Nome do beneficiário      Obrigatório         Obrigatório         Conter caracteres alfanumérico sem
+                                                                        repetição nas 3 primeiras posições.
+•     Data de nascimento        Obrigatório         Obrigatório         Deverá ser menor que a data de
+                                                                        envio do arquivo e que a data de
+                                                                        adesão
+•     Sexo                      Obrigatório         Obrigatório         Validar valores:
+                                                                        1 - masculino ou
+                                                                        3 - feminino
+•     Data de adesão ao plano   Obrigatório         Obrigatório         Deverá ser menor do que a data de
+                                                                        envio do arquivo
+•     Logradouro                Obrigatório         Obrigatório         Aceitar letras, algarismos
+                                                                        numéricos, vírgula, ponto, hífen e
+                                                                        barra
+•     Município                 Obrigatório         Obrigatório         Validar contra a tabela do IBGE
+
+•     Unidade da Federação    Obrigatório           Obrigatório         Validar contra a tabela UF
+•     Código de Endereçamento Obrigatório           Obrigatório         Validar contra a tabela de CEP
+      Postal
+•     Complemento do          Opcional              Opcional
+      endereço de residência;
+•     Número do endereço de     Opcional            Opcional
+      residência
+•     Bairro do endereço de     Obrigatório para    Obrigatório para
+      residência                planos              planos
+                                individuais a       individuais a
+                                partir de outubro   partir de outubro
+                                de 2003             de 2003
+•     Nome da mãe do            Obrigatório a       Opcional            Conter caracteres alfanuméricos,
+      beneficiário              partir de outubro                       sem repetição nas 3 primeiras
+                                de 2003                                 posições .
+
+
+
+
+                                                                                                              1
+•   Segmento assistencial da   Obrigatório a     Não se aplica     Validar valores:
+    cobertura do plano         partir de maio de                   01 – ambulatorial
+                               2003 para planos                    02 – hospitalar com obstetrícia
+                               contratados antes                   03 – hospitalar sem obstetrícia
+                               de 02/01/1999                       04 – odontológico
+                                                                   06 – ambulatorial + hospitalar com
+                                                                   obstetrícia
+                                                                   07 - ambulatorial + hospitalar sem
+                                                                   obstetrícia 08 - ambulatorial +
+                                                                   odontológico
+                                                                   10 - hospitalar com obstetrícia +
+                                                                   odontológico
+                                                                   11– hospitalar sem obstetrícia +
+                                                                   odontológico
+                                                                   13 - ambulatorial + hospitalar com
+                                                                   obstetrícia + odontológico
+                                                                   14 - ambulatorial + hospitalar sem
+                                                                   obstetrícia + odontológico
+•   Abrangência geográfica     Obrigatório a     Obrigatório a     Validar valores:
+    da cobertura do plano      partir de maio de partir de maio de 1 – nacional
+                               2003 para planos 2003 para planos 2 – grupo de estados
+                               contratados antes contratados antes 3 – estadual
+                               de 02/01/1999     de 02/01/1999     4 – grupo de municípios
+                                                                   5 – municipal
+                                                                   6 - outros
+•   Tipo de contratação        Obrigatório a     Obrigatório a     Validar valores:
+                               partir de maio de partir de maio de 1- Individual ou familiar
+                               2003 para planos 2003 para planos 3- Coletivo por adesão com
+                               contratados antes contratados antes patrocínio
+                               de 02/01/1999     de 02/01/1999     4- - Coletivo por adesão sem
+                                                                   patrocínio
+                                                                   5- Coletivo empresarial com
+                                                                   patrocínio
+                                                                   6- Coletivo empresarial sem
+                                                                   patrocínio
+•   Tipo de vínculo do         Obrigatório a     Obrigatório a     Validar valores:
+    beneficiário               partir de maio de partir de maio de 1 – beneficiário titular
+                               2003              2003              2 – beneficiário é vinculado
+                                                                   (dependente, agregado ou outra
+                                                                   forma de vínculo)
+•   Número de registro do      Obrigatório para Obrigatório para Validar contra tabela de planos da
+    plano na ANS               planos            planos            operadora registrados na ANS
+                               registrados junto registrados junto
+                               a ANS após        a ANS após
+                               01/01/1999        01/01/1999
+•   Número de registro do
+    plano na operadora para    Opcional           Opcional
+    planos comercializados
+    antes de 02/01/1999
+•   Data de                    Obrigatório para   Obrigatório para   Deverá ser maior ou igual a data de
+    cancelamento/suspensão     a hipótese         a hipótese         adesão
+    do contrato
+
+
+
+
+                                                                                                           2
+•   Motivo de                    Obrigatório para     Obrigatório para     Validar valores:
+    cancelamento/suspensão       planos               planos               01– Rompimento do contrato por
+    do contrato                  individuais          individuais          iniciativa do Beneficiário
+                                                                           02 – Término da relação de
+                                                                           vinculado a um beneficiário
+                                                                            03 – Desligamento da empresa
+                                                                           (planos coletivos)
+                                                                           04 – Inadimplência
+                                                                           05 – Óbito
+                                                                           06 – Mudança de plano
+                                                                           07 – Exclusão decorrente de
+                                                                           mudança do código do beneficiário,
+                                                                           motivada por adaptação de sistema
+                                                                           da operadora.
+                                                                           08 – Transferência de carteira
+                                                                           99 – Outros
+•   Data de reinclusão de        Obrigatório para     Obrigatório para     Deverá ser maior ou igual a data de
+    contrato suspenso            a hipótese           a hipótese           suspensão
+•   Número do PIS/PASEP          Obrigatório para     Obrigatório para     Se preenchido validar o dígito de
+    ou do Cartão Nacional de     o titular do         o titular do         verificação;
+    Saúde                        plano, a partir de   plano, a partir de
+                                 outubro de 2003,     outubro de 2003,     Se não preenchido validar se o CPF
+                                 em caso de           em caso de           está preenchido.
+                                 Número do CPF        Número do CPF
+                                 do beneficiário      do beneficiário
+                                 não informado        não informado
+•   Número do CPF                Obrigatório para     Obrigatório para     Se preenchido validar o dígito de
+                                 o titular do         o titular do         verificação;
+                                 plano, a partir de   plano, a partir de
+                                 outubro de 2003,     outubro de 2003,     Se não preenchido validar se o
+                                 em caso de           em caso de           Número do PIS/PASEP ou do
+                                 Número do            Número do            Cartão Nacional de Saúde está
+                                 PIS/PASEP ou         PIS/PASEP ou         preenchido.
+                                 do Cartão            do Cartão
+                                 Nacional de          Nacional de
+                                 Saúde do             Saúde do
+                                 beneficiário não     beneficiário não
+                                 informado            informado
+•   Indicação da existência de                                             Validar valores:
+    co-participação do         Opcional               Opcional             1 – existe co-participação do
+    beneficiário nas despesas                                              beneficiário
+    de atendimento ou                                                      2 – não existe co-participação do
+    franquia                                                               beneficiário
+
+•   Indicação de existência de                                             Validar valores:
+    Cobertura Parcial          Opcional               Opcional             1 – existe cobertura parcial
+    Temporária                                                             temporária para o beneficiário
+                                                                           2 – não existe cobertura parcial
+                                                                           temporária para o beneficiário
+
+•   Data de término de                                                     Deverá ser maior que a data de
+    Cobertura Parcial            Opcional             Opcional             adesão do plano
+    Temporária
+•   Indicação dos itens do rol   Opcional             Não se aplica        Validar contra tabela de rol de
+    de procedimentos que são                                               procedimentos da ANS
+    excluídos da cobertura,
+    quando da existência de
+    Cobertura Parcial
+    Temporária.
+•   Indicação dos itens dos      Opcional para                             Validar contra tabela de exclusão de
+
+
+                                                                                                                  3
+   procedimentos que são       planos              Opcional   cobertura:
+   excluídos da cobertura de   contratados antes              1. Ambulatorial
+   plano contratado antes de   de 02/01/1999                  2. Hospitalar
+   02/01/1999                                                 3. Odontologia
+                                                              4. Terapia Renal Substitutiva –
+                                                                  Hemodiálise – CAPD
+                                                              5. Tratamento de Câncer -
+                                                                  Quimioterapia e Radioterapia
+                                                              6. Radiologia - Ressonância
+                                                                  Magnética - Tomografia
+                                                                  Computadorizada e Radiologia
+                                                                  Intervencionista
+                                                              7. Cirurgia Cardíaca-
+                                                                  Hemodinâmica Marca-Passo
+                                                              8. Cirurgia Videolaparoscopicas
+                                                                  ou Guiadas por Videos
+                                                              9. Ortese e Prótese Relacionados
+                                                                  ao Procedimento Cirúrgico
+                                                              10. Saúde Mental - Resolução
+                                                                  CONSU 11
+                                                              11. Transplante Renal e de Córnea
+                                                                  Bb
+                                                              12. Tratamento de Doenças
+                                                                  Infectocontagiosas e Congênitas
+                                                              13. Doenças (qualquer)
+                                                              14. Limite de quantidade
+                                                              15. Outros
+
+
+
+Nota:
+1. Os campos segmento assistencial de cobertura de plano, de abrangência geográfica de
+   cobertura de plano e tipo de contratação, no caso de planos anteriores à 1999, deverão ser
+   enquadrados pelas operadoras, inclusive para fins de cálculo da taxa de saúde
+   suplementar.
+2. É obrigatória a informação de pelo menos um dos seguintes números: do PIS/PASEP, do
+   Cartão Nacional de Saúde ou do CPF.
+
+
+
+
+                                                                                                    4
+

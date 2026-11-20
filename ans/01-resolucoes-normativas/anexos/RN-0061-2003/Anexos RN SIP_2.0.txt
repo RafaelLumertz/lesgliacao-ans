@@ -1,0 +1,1713 @@
+                                                       ANEXO I
+
+                                       Para todas as operadoras
+
+
+
+IDENTIFICAÇÃO E CARACTERIZAÇÃO DA OPERADORA: (para todas as
+operadoras e anexos)
+
+
+1. Código n.º _____________________         2. Razão Social _________________________________________________
+
+
+3. CNPJ: _________________________                  4. Período: _____ de _____           5. N.º de Beneficiários: _____________
+
+
+6. Tipo de comercialização:      Exclusivamente odontológica:       (    ) Sim      (     ) Não
+
+
+7. Tipo de plano:
+
+   7.1 (    ) Individual e familiar         7.2 (     ) Coletivo sem patrocinador        7.3 (    ) Coletivo com patrocinador
+
+  7.1.1 (   ) Beneficiários expostos       7.2.1 (     ) Beneficiários expostos         7.3.1 (   ) Beneficiários expostos
+
+  7.1.2 (   ) Expostos não beneficiários    7.2.2 (     ) Expostos não beneficiários       7.3.2 (   ) Expostos não beneficiários
+
+  7.1.3 (   ) Beneficiários não expostos    7.2.2 (      ) Beneficiários não expostos      7.3.2 (   ) Beneficiários não expostos
+
+
+8. Taxa de Mortalidade Materna: _______________                         9. Coeficiente de Mortalidade Materna:_____________
+
+
+10. Despesas não assistenciais: __________________
+
+
+
+
+1. Código número: número de 6 dígitos que identifica o registro da
+operadora junto à ANS.
+
+2. Razão social: este campo deve ser preenchido com a razão ou
+denominação social da operadora, sem abreviaturas.
+
+3. CNPJ: número de 14 dígitos que identifica o Código Nacional de Pessoa
+Jurídica da operadora, utilizado em seu registro junto a ANS.
+
+4. Período: identificação do trimestre e do ano das informações. São
+registrados por competência contábil e considerados os seguintes meses:
+   1º trimestre – meses de janeiro a março;
+   2º trimestre – meses de abril a junho;
+   3º trimestre – meses de julho a setembro;
+   4º trimestre – meses de outubro a dezembro.
+
+
+
+
+                                                                                                                         1
+5. Número de beneficiários: total de beneficiários da operadora no último
+dia útil do trimestre informado.
+
+Beneficiários: para efeito da RDC 85, consideram-se beneficiários as
+pessoas físicas que contratam o plano privado de assistência à saúde ou
+aderem ao plano coletivo contratado por pessoa jurídica junto à operadora e
+seus dependentes.
+
+6.   Tipo      de   segmentação      dos    planos    comercializados     -
+exclusivamente odontológico:
+
+     q   Sim – a operadora comercializa somente produtos de assistência
+         odontológica;
+
+     q   Não – a operadora comercializa produtos de assistência médico-
+         hospitalar com ou sem assistência odontológica.
+
+7. Tipo de plano:
+
+      7.1. Individual e familiar: contratado por pessoas físicas ou
+      mantido por autogestões não patrocinadas. A contraprestação
+      pecuniária é integralmente paga pelo beneficiário.
+
+            7.1.1 Beneficiários expostos (B.E.): beneficiários da operadora
+            que envia as informações. O serviço de assistência à saúde é
+            prestado majoritariamente por ela.
+
+            7.1.2 Expostos não beneficiários (E.N.B.): beneficiários de
+            outra operadora. O serviço de assistência à saúde é prestado
+            majoritariamente pela operadora que envia as informações.
+
+            7.1.3 Beneficiários não expostos (B.N.E.): beneficiários da
+            operadora que envia as informações. O serviço de assistência à
+            saúde é prestado majoritariamente por outra operadora.
+
+
+
+
+                                                                          2
+     7.2. Coletivo sem patrocinador: contratado por pessoa jurídica. A
+     contraprestação pecuniária é integralmente paga, pelo beneficiário,
+     diretamente à operadora.
+
+         7.2.1.   Beneficiários    expostos   (B.E.):   beneficiários   da
+         operadora que envia as informações. O serviço de assistência à
+         saúde é prestado majoritariamente por ela.
+
+         7.2.2. Expostos não beneficiários (E.N.B.): beneficiários de
+         outra operadora. O serviço de assistência à saúde é prestado
+         majoritariamente pela operadora que envia as informações.
+
+         7.2.3. Beneficiários não expostos (B.N.E.): beneficiários da
+         operadora que envia as informações. O serviço de assistência à
+         saúde é prestado majoritariamente por outra operadora.
+
+    7.3. Coletivo com patrocinador: contratado por pessoa jurídica. A
+    contraprestação pecuniária é, total ou parcialmente paga, pela pessoa
+    jurídica contratante, à operadora.
+
+         7.3.1.   Beneficiários    expostos   (B.E.):   beneficiários   da
+         operadora que envia as informações. O serviço de assistência à
+         saúde é prestado majoritariamente por ela.
+
+         7.3.2. Expostos não beneficiários (E.N.B.): beneficiários de
+         outra operadora. O serviço de assistência à saúde é prestado
+         majoritariamente pela operadora que envia as informações.
+
+         7.3.3. Beneficiários não expostos (B.N.E.): beneficiários da
+         operadora que envia as informações. O serviço de assistência à
+         saúde é prestado majoritariamente por outra operadora.
+
+8. Taxa de mortalidade materna (TMM): Razão entre o número de
+óbitos maternos ocorridos em determinado local e ano e o número de
+mulheres de 15 a 49 anos no mesmo local e ano, multiplicada por 100.000.
+
+
+
+
+                                                                         3
+Óbito materno: Segundo a CID-10, é a morte de uma mulher durante a
+gestação ou dentro de um período de 42 dias após o término da gestação,
+independente da duração ou da localização da gravidez, devida a qualquer
+causa relacionada ou agravada pela gravidez ou por medidas em relação a
+ela, porém não devida a causas acidentais ou incidentais.
+
+TMM = N.º de óbitos maternos em determinado local e ano        x   100.000;
+        N.º de mulheres de 15 a 49 anos no mesmo local e ano
+
+
+9. Coeficiente de mortalidade materna (CMM): Razão entre o número
+de óbitos maternos ocorridos em determinado local e ano e o número de
+nascidos vivos no mesmo local e ano, multiplicada por 100.000.
+
+Óbito materno: Segundo a CID-10, é a morte de uma mulher durante a
+gestação ou dentro de um período de 42 dias após o término da gestação,
+independente da duração ou da localização da gravidez, devida a qualquer
+causa relacionada ou agravada pela gravidez ou por medidas em relação a
+ela, porém não devida a causas acidentais ou incidentais.
+
+CMM = N.º de óbitos maternos, em determinado local e ano x 100.000;
+        N.º de nascidos vivos no mesmo local e ano
+
+10. Despesas não assistenciais: valor total, expresso em Real, das
+despesas administrativas da operadora e outras não relacionadas à
+prestação da assistência direta ao beneficiário.
+
+
+
+
+                                                                              4
+                                                 ANEXO II
+
+
+Para operadoras com até 100.000 beneficiários que operam planos
+de      assistência           médico-hospitalar                  com         ou       sem         assistência
+odontológica.
+
+
+
+1. N.º de beneficiários:
+
+2. Taxa de mortalidade materna:
+
+3. Coeficiente de mortalidade materna:
+                                                                                                           8. Recuperação por
+4. Item de despesa                        5. N.º de expostos 6. N.º de eventos 7. Total de de s p e s a      indenização de
+                                                                                                          despesa assistencial
+4.1 Consultas médicas
+
+4.2 Exames c omplementares
+
+4.3 Terapias
+
+4.4 Outros Atendimentos Ambulatoriais
+
+4.5 Internações
+
+ 4.5.1 Parto normal                                                   *
+
+ 4.5.2 Parto c esáreo                                                 *
+
+ 4.5.3 A tendimento ao RN na sala parto                               *
+
+ 4.5.4 Nascido vivo prematuro                                         *
+
+ 4.5.5 Nascido vivo a termo                                           *
+
+ 4.5.6 Nascido morto                                                  *
+
+4.6 Consultas odontológicas                       **                 **                    **                     **
+
+4.7 Exames odontológicos complementares           **                 **                    **                     **
+
+4.8 Proced. odontológicos preventivos             **                 **                    **                     **
+
+4.9 Outros procedimentos odontológicos            **                 **                    **                     **
+
+4.10 Demais despesas assistenciais                **                 **                    **                     **
+
+ * informação devida a partir do terceiro trimestre de 2002.
+** informação devida a partir do primeiro trimestre de 2004, para as operadoras
+que operam planos de assistência médico-hospitalar com assistência odontológica.
+
+
+1. Número de beneficiários: total de beneficiários da operadora no tipo
+de plano e grupo de beneficiário, no último dia útil do trimestre informado.
+
+Beneficiários: para efeito da RDC 85, consideram-se beneficiários as
+pessoas físicas que contratam o plano privado de assistência à saúde ou
+aderem ao plano coletivo contratado por pessoa jurídica junto à operadora e
+seus dependentes.
+
+
+
+
+                                                                                                                    5
+2. Taxa de mortalidade materna (TMM): Razão entre o número de
+óbitos maternos ocorridos em determinado local e ano e o número de
+mulheres de 15 a 49 anos no mesmo local e ano, multiplicada por 100.000.
+
+Óbito materno: Segundo a CID-10, é a morte de uma mulher durante a
+gestação ou dentro de um período de 42 dias após o término da gestação,
+independente da duração ou da localização da gravidez, devida a qualquer
+causa relacionada ou agravada pela gravidez ou por medidas em relação a
+ela, porém não devida a causas acidentais ou incidentais.
+
+
+TMM = N.º de óbitos maternos em determinado local e ano        x 100.000;
+        N.º de mulheres de 15 a 49 anos no mesmo local e ano
+
+3. Coeficiente de mortalidade materna (CMM): Razão entre o número
+de óbitos maternos ocorridos em determinado local e ano e o número de
+nascidos vivos no mesmo local e ano, multiplicada por 100.000.
+
+Óbito materno: Segundo a CID-10, é a morte de uma mulher durante a
+gestação ou dentro de um período de 42 dias após o término da gestação,
+independente da duração ou da localização da gravidez, devida a qualquer
+causa relacionada ou agravada pela gravidez ou por medidas em relação a
+ela, porém não devida a causas acidentais ou incidentais.
+
+CMM = N.º de óbitos maternos, em determinado local e ano x 100.000;
+           N.º de nascidos vivos no mesmo local e ano
+
+
+
+
+4.Item de despesa: subconjunto das despesas da operadora. Todas as
+despesas assistenciais devem estar incluídas nos itens deste anexo. Elas
+não devem ser informadas em mais de um item, para evitar dupla
+contagem. Caso a operadora negocie suas despesas assistenciais com os
+prestadores   de   serviço   mediante    “pacotes       de   procedimentos”   ou
+“captation”, todos os atendimentos e despesas que os compõem devem ser
+distribuídos nos itens de despesa assistencial estabelecidos neste anexo.
+
+
+
+
+                                                                               6
+Captation: Modalidade de pagamento em que a operadora paga um valor
+pré-acordado 'per capita' pela prestação do serviço de assistência à saúde,
+independente do custo do tratamento.
+
+Os itens de despesa devem ser informados de acordo com as descrições
+definidas abaixo:
+
+     4.1. Consultas médicas: atendimentos/despesas prestados por
+     profissional habilitado pelo Conselho Regional de Medicina, em regime
+     ambulatorial, de caráter eletivo, urgência ou emergência, em que a
+     despesa seja restrita ao ato da consulta.
+
+     4.2 Exames complementares: atendimento/despesas com exames
+     complementares ao diagnóstico realizados em regime ambulatorial,
+     incluindo honorários profissionais, medicamentos, materiais e taxas.
+
+     4.3.     Terapias:       atendimentos/despesas       com    procedimentos
+     terapêuticos realizados em regime ambulatorial, incluindo honorários
+     profissionais, medicamentos, materiais e taxas.
+
+     4.4. Outros Atendimentos Ambulatoriais: atendimentos/despesas
+     com procedimentos (exceto exames complementares, terapias e
+     consultas médicas) realizados em regime ambulatorial (de caráter
+     eletivo, urgência ou emergência), incluindo honorários profissionais,
+     medicamentos, materiais e taxas.
+
+     4.5. Internações: atendimentos/despesas realizados em regime
+     hospitalar.
+
+     Nas colunas “Total de despesas” e “Recuperação por indenização de
+     despesa       assistencial”,   considerar   as   despesas   com   hotelaria,
+     honorários profissionais, medicamentos, materiais, taxas, terapias e
+     exames ocorridos durante a internação, em enfermaria, quarto e
+     unidades de terapia intensiva ou semi-intensiva.
+
+            4.5.1 Parto normal: internações cujo procedimento principal
+            tenha sido parto normal.
+
+                                                                                7
+            4.5.2 Parto cesáreo: internações cujo procedimento principal
+            tenha sido parto cesáreo.
+
+            4.5.3 Atendimento ao RN na sala de parto: internações em
+            que tenha ocorrido atendimento ao recém nascido, na sala de
+            parto, por pediatra, após o parto (normal ou cesáreo).
+
+            4.5.4 Nascido vivo prematuro: produto da concepção, com
+            idade gestacional igual ou inferior a 36 semanas e 6 dias, que,
+            depois da expulsão ou da extração completa do corpo materno,
+            manifesta algum sinal vital.
+
+            4.5.5 Nascido vivo a termo: produto da concepção, com idade
+            gestacional igual ou superior a 37 semanas, que, depois da
+            expulsão ou da extração completa do corpo materno, manifesta
+            algum sinal vital.
+
+            4.5.6 Nascido morto: produto da concepção que, depois da
+            expulsão ou extração completa do corpo materno, não manifesta
+            qualquer sinal vital, tendo o óbito ocorrido a partir do início da
+            28ª semana de gestação.
+
+4.6. Consultas odontológicas: atendimentos/despesas realizados por
+profissional habilitado pelo Conselho Regional de Odontologia (de caráter
+eletivo, urgência ou emergência). Considera-se consulta odontológica
+aquela destinada a exame físico e diagnóstico para a elaboração do plano
+de     tratamento,   incluindo   anamnese, preenchimento de ficha clínica
+odontolegal, diagnóstico das doenças, anomalias bucais e prognóstico.
+
+4.7. Exames odontológicos complementares: atendimentos/despesas
+com exames complementares odontológicos.
+
+4.8.     Procedimentos       odontológicos    preventivos:     atendimentos/
+despesas com os procedimentos de prevenção em saúde bucal.
+
+4.9. Outros procedimentos odontológicos: atendimentos/despesas com
+procedimentos odontológicos não classificáveis nos itens anteriores.
+
+                                                                             8
+4.10.      Demais    despesas       assistenciais:       atendimentos/despesas
+assistenciais não classificáveis nos itens anteriores.
+
+5. Número de expostos: resultado (desprezando-se as casas decimais) do
+somatório de todos os dias de exposição em que cada beneficiário do plano
+teve o direito de usufruir dos serviços de assistência à saúde, calculado para
+cada item de despesa assistencial, durante o período devido, dividido pelo
+número de dias do período devido, conforme ilustra a fórmula a seguir:
+
+Número de expostos = (n.º de dias de exposição do beneficiário 1 durante o
+período devido + n.º de dias de exposição do beneficiário 2 durante o
+período devido + ... + n.º de dias de exposição do beneficiário "n" durante
+o período devido) / (n.º de dias do período devido).
+
+Alternativamente, o número de expostos pode ser calculado como o
+somatório do número de beneficiários expostos existentes em cada um dos
+dias do período devido, dividido pelo número de dias do período devido,
+(desprezando-se as casas decimais). Este cálculo é exemplificado pela
+fórmula a seguir:
+
+N.º de expostos = (n.º de expostos no primeiro dia do período devido + ...
++ n.º de expostos no último dia do período devido) / (n.º de dias do período
+devido).
+
+Dias de exposição: número de dias, durante o período devido, nos quais o
+beneficiário teve o direito de usufruir do serviço de assistência à saúde,
+calculado individualmente para cada item de despesa. O beneficiário que
+estiver cumprindo carência deverá ser excluído do cálculo de exposição do
+item de despesa, pois, durante esse período, ele não tem direito a usufruir
+do serviço.
+
+Exposto: beneficiário com direito a usufruir da assistência à saúde no item
+de despesa assistencial em questão, durante o período devido.
+
+Por exemplo: um beneficiário que tem o direito a consultas médicas é um
+exposto para o item de despesa assistencial “Consultas médicas” e pode
+
+
+                                                                             9
+não ser um exposto para o item de despesa “Exames complementares”,
+caso não tenha cumprido o período de carência estabelecido para exames
+complementares.
+
+Caso haja procedimentos com diferentes prazos de carência dentro de um
+mesmo item de despesa, adotar o de maior prazo. Por exemplo, para o item
+de despesa “Exames complementares”, caso haja prazos de carência
+diferentes para os diversos exames complementares, deverá ser adotado
+como prazo de carência deste item o que tiver o maior prazo. Para
+internações, considerar a maior carência, exceto parto, quando esse
+procedimento tiver período superior ao das demais internações.
+
+6. Número de eventos: somatório das ocorrências de cada item de
+despesa assistencial realiz ada no período.
+
+7. Total da despesa: valor total, expresso em Real, efetivamente pago ao
+prestador pela operadora, nos itens de despesas assistenciais.
+
+Este item deve ser compatibilizado com a estrutura das contas constantes
+do Plano de Contas Padrão definido pela ANS. Para cada um dos itens de
+despesa estão indicadas as contas correspondentes.
+
+Para as Seguradoras especializadas em planos privados de assistência à
+saúde devem ser feitas as seguintes correlações:
+
+1)Preencher    com    valores   de   “Sinistro”   onde   estiver   indicado   o
+preenchimento com valores de “Evento”;
+
+2)Preencher com valores de “Despesas com sinistro” onde estiver indicado o
+preenchimento com valores de “Despesa com evento”.
+
+Para cada um dos itens “Consultas médicas”, “Exames complementares”,
+“Terapias”, “Atendimentos ambulatoriais” e “Internações” devem ser
+consideradas as seguintes contas:
+
+
+
+
+                                                                              10
+- Nos casos de B.E. e E.N.B.:
+
+
+
+                       ITENS DE DESPESA                                       CONTA
+(+) Evento                                                               41111 a 41119
+(-) Glosas                                                               41211 a 41219
+(+) IBNR/Eventos ocorridos e não avisados                                41411 a 41419
+
+
+
+- No caso de B.N.E.:
+
+                       ITENS DE DESPESA                                       CONTA
+(+) Repasse de eventos                                                   41231 a 41238
+
+
+
+
+Para cada um dos itens “Consultas odontológicas”, “Exames odontológicos
+complementares”, “Procedimentos odontológicos preventivos” e “Outros
+procedimentos odontológicos” abaixo, devem ser consideradas as seguintes
+contas:
+
+-   Nos casos de B.E. e E.N.B.:
+
+
+                       ITENS DE DESPESA                                       CONTA
+(+) Evento                                                              41121 a 41129 *
+(-) Glosas                                                              41221 a 41229 *
+
+(+) IBNR/Eventos ocorridos e não avisados                               41421 a 41429 *
+* desde que não lançados nos itens de despesas “Consultas Odontológicas”, “Exames odontológicos
+complementares” e “Procedimentos odontológicos preventivos”.
+
+
+
+
+                                                                                             11
+-   No caso de B.N.E.:
+
+                       ITENS DE DESPESA                                       CONTA
+
+(+) Repasse de eventos                                                41241 a 41248 *
+* desde que não lançados nos itens de despesas “Consultas Odontológicas”, “Exames odontológicos
+complementares” e “Procedimentos odontológicos preventivos”.
+
+
+
+Para o item “Outros procedimentos odontológicos”, devem ser consideradas
+as seguintes contas:
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                       ITENS DE DESPESA                                       CONTA
+(+) Evento                                                              41121 a 41129 *
+(-) Glosas                                                              41221 a 41229 *
+
+(+) IBNR/Eventos ocorridos e não avisados                               41421 a 41429 *
+(+) Demais desp. com eventos                                            41141 a 41148 **
+* desde que não lançados nos itens de despesas “Consultas Odontológicas”, “Exames odontológicos
+complementares” e “Procedimentos odontológicos preventivos”;
+** desde que componham o ato odontológico.
+
+
+
+-   No caso de B.N.E.:
+
+                       ITENS DE DESPESA                                       CONTA
+
+(+) Repasse de eventos                                                41241 a 41248 *
+* desde que não lançados nos itens de despesas “Consultas Odontológicas”, “Exames odontológicos
+complementares” e “Procedimentos odontológicos preventivos”.
+
+
+
+Para o item “Despesas não assistenciais”, devem ser consideradas as
+seguintes contas:
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                       ITENS DE DESPESA                                       CONTA
+(+) Despesas de comercialização                                              Grupo 43
+(+) Despesas administrativas                                                 Grupo 46
+(+) Demais desp. com eventos                                            41141 a 41148 *
+* desde que não lançados nos itens de despesas “Consultas Odontológicas”, “Exames odontológicos
+complementares” e “Procedimentos odontológicos preventivos”.
+
+
+
+                                                                                             12
+Para o item “Demais despesas assistenciais”, devem ser consideradas as
+seguintes contas:
+
+-     Nos casos de B.E. e E.N.B.:
+
+                        ITENS DE DESPESA                                    CONTA
+(+) Eventos / Demais despesas assistenciais                            41116 e 41117**
+(-) Glosas / Demais despesas assistenciais                             41216 e 41217**
+(+) IBNR / Demais despesas assistenciais                               41416 e 41417**
+(+) Demais despesas com eventos                                         41131 a 41138*
+(+) Eventos odontológicos                                               41121 a 41129
+(-) Glosas odontológicas                                                41221 a 41229
+(+) IBNR odont / Eventos ocorridos e não avisados                       41421 a 41429
+(+) Demais despesas com eventos odontológicos                           41141 a 41148
+    * desde que componham o ato de assistência à saúde.
+** desde que não lançadas nos itens de despesa “Consultas Médicas”, “Exames complementares”,
+“Terapias”, “A tendimentos ambulatoriais” e “Internações”.
+
+
+-     No caso de B.N.E.:
+
+                        ITENS DE DESPESA                                    CONTA
+(+) Repasse de eventos odontológicos                                   41241 a 41248
+(+) Demais despesas assistenciais                                      41236 e 41237 *
+* desde que não lançadas nos itens de despesa “Consultas Mé dicas”, “Exames complementares”,
+“Terapias”, “Atendimentos ambulatoriais” e “Internações”.
+
+
+
+Para o item “Despesas não assistenciais” devem ser consideradas as
+seguintes contas:
+
+
+-     Nos casos de B.E. e E.N.B.:
+
+                        ITENS DE DESPESA                                    CONTA
+(+) Demais desp. com eventos                                           41131 a 41138 *
+(+) Demais desp. com eventos odontológicos                             41141 a 41148 *
+(+) Despesas de comercialização                                             Grupo 43
+(+) Despesas administrativas                                                Grupo 46
+* com exceção dos itens já informados em “Demais despesas assistenciais”.
+
+
+
+8. Recuperação por indenização de despesa assistencial: valor total,
+expresso em Real, proveniente de pagamentos realizados à operadora à
+
+                                                                                           13
+título de Recuperação por indenização, pelos seus beneficiários no caso de
+co-participação, ou por terceiros em caso de seguro, resseguro e co-seguro.
+
+Para as Seguradoras especializadas em planos privados de assistência à
+saúde devem ser feitas as seguintes correlações:
+
+Preencher com valores recebidos por "co-obrigações de segurados" e
+"recuperação de sinistros em co-seguro e resseguro" os campos relativos a
+"recuperação por indenização de despesa assistencial".
+
+Para este item devem ser consideradas as seguintes contas:
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                      ITENS DE DESPESA                                      CONTA
+(+) Atendimentos Ambulatoriais
+(+) Exames Complementares
+(+) Terapias                                                            41312 e 41313
+(+) Internações
+(+) Consultas Médicas
+
+(+) Assistência Odontológica                                                 4132
+
+                                                                        41322 e 41323
+(+) Demais despesas assistenciais
+                                                                        41312 e 41313
+* desde que não lançadas nos itens “Consultas Médicas”, “Exames complementares”, “Terapias”,
+“Atendimentos ambulatoriais” e “Internações”.
+
+
+
+
+                                                                                           14
+                                                  ANEXO III
+
+Para operadoras com mais de 100.000 beneficiários que operam
+planos de assistência médico-hospitalar com ou sem assistência
+odontológica.
+
+
+1. N.º de beneficiários:
+
+2. Taxa de mortalidade materna:
+
+3. Coeficiente de mortalidade materna:
+
+
+                                                                                           8. Participação 9. Recuperação
+                                                   5. N.º de   6. N.º de   7. Total de            dos         de eventos
+4. Item de despesa
+                                                   expostos    eventos      de s p e s a    beneficiários    indenizáveis:
+                                                                                             em eventos         s eguros
+                                                                                            indenizáveis:
+                                                                                           c o- participação
+
+
+4.1Consultas médicas
+
+4.2 Exames c omplementares – grupo 1
+
+4.3 Exames c omplementares – grupo 2
+
+4.4 Terapias – grupo 1
+
+4.5 Terapias – grupo 2
+
+4.6 Outros Atendimentos Ambulatoriais
+
+4.7 Internações
+
+ 4.7.1 Diárias em quarto e em e nfermaria                         *
+
+  4.7.2 Diárias em U T I e em unidade s emi-                      *
+intensiva
+
+ 4.7.3 Parto normal                                               *
+
+ 4.7.4 Parto c esáreo                                             *
+
+ 4.7.5 Atendimento ao RN na sala de parto                         *
+
+ 4.7.6 N a s c i d o vivo prematuro                               *
+
+ 4.2.7 Nascido vivo a termo                                       *
+
+ 4.7.8 Nascido morto                                              *
+
+ 4.7.9 UTI e CTI neonatal                                         *
+
+ 4.2.10 Gravidez terminada em aborto                              *
+
+  4.7.11 Transtornos maternos relacionados à                      *
+gravidez
+
+ 4.7.12 Complicações no período de puerpério                      *
+
+4.8 Consultas odontológicas                           **          **           **               **               **
+
+4.9 Exames odontológicos complementares               **          **           **               **               **
+
+4.10 Procedimentos de periodontia                     **          **           **               **               **
+
+4.11 Procedimentos odontológicos preventivos          **          **           **               **               **
+
+4.12 Procedimentos de dentística                      **          **           **               **               **
+
+4.13 Proced. cirurgia odontológica ambulatorial       **          **           **               **               **
+
+4.14 Procedimentos de endodontia                      **          **           **               **               **
+
+4.15 Outros procedimentos odontológicos               **          **           **               **               **
+
+4.16 Demais despesas assistenciais                    **          **           **               **               **
+
+  * informação devida a partir do terceiro trimestre de 2002
+
+
+                                                                                                            15
+** informação devida a partir do primeiro trimestre de 2004, para as operadoras
+que operam planos de assistência médico-hospitalar com assistência odontológica.
+
+
+1. Número de beneficiários: total de beneficiários da operadora no tipo
+de plano e grupo de beneficiário, no último dia útil do trimestre informado.
+
+Beneficiários: para efeito da RDC 85, consideram-se beneficiários as
+pessoas físicas que contratam o plano privado de assistência à saúde ou
+aderem ao plano coletivo contratado por pessoa jurídica junto à operadora e
+seus dependentes.
+
+2. Taxa de mortalidade materna (TMM): razão entre o número de óbitos
+maternos ocorridos em determinado local e ano e o número de mulheres de
+15 a 49 anos no mesmo local e ano, multiplicada por 100.000.
+
+Óbito materno: Segundo a CID-10, é a morte de uma mulher durante a
+gestação ou dentro de um período de 42 dias após o término da gestação,
+independente da duração ou da localização da gravidez, devida a qualquer
+causa relacionada ou agravada pela gravidez ou por medidas em relação a
+ela, porém não devida a causas acidentais ou incidentais.
+
+TMM = N.º de óbitos maternos em determinado local e ano x 100.000;
+          N.º de mulheres de 15 a 49 anos no mesmo local e ano
+
+
+3. Coeficiente de mortalidade materna (CMM): razão entre o número
+de óbitos maternos ocorridos em determinado local e ano e o número de
+nascidos vivos no mesmo local e ano, multiplicada por 100.000.
+
+Óbito materno: Segundo a CID-10, é a morte de uma mulher durante a
+gestação ou dentro de um período de 42 dias após o término da gestação,
+independente da duração ou da localização da gravidez, devida a qualquer
+causa relacionada ou agravada pela gravidez ou por medidas em relação a
+ela, porém não devida a causas acidentais ou incidentais.
+
+
+CMM = N.º de óbitos maternos, em determinado local e ano x 100.000;
+             N.º de nascidos vivos no mesmo local e ano
+
+
+
+
+                                                                               16
+4. Item de despesa: subconjunto das despesas da operadora. Todas as
+despesas assistenciais devem estar incluídas nos itens deste anexo. Elas
+não devem ser informadas em mais de um item, para evitar dupla
+contagem. Caso a operadora negocie suas despesas assistenciais com os
+prestadores     de   serviço    mediante    “pacotes     de    procedimentos”     ou
+“captation”, todos os atendimentos e despesas que os compõem devem ser
+distribuídos nos itens de despesa assistencial estabelecidos neste anexo.
+
+Captation: Modalidade de pagamento em que a operadora paga um valor
+pré-acordado 'per capita' pela prestação do serviço de assistência à saúde,
+independente do custo do tratamento.
+
+Os itens de despesa devem ser informados de acordo com as descrições
+definidas abaixo:
+
+     4.1. Consultas médicas: atendimentos/despesas prestados por
+     profissional habilitado pelo Conselho Regional de Medicina, em regime
+     ambulatorial, de caráter eletivo, urgência ou emergência, em que a
+     despesa seja restrita ao ato da consulta.
+
+     4.2. Exames complementares (grupo 1): atendimentos/despesas
+     com       tomografia      computadorizada,         ressonância       magnética,
+     hemodinâmica e angiografia, realizados em regime ambulatorial,
+     incluindo honorários profissionais, medicamentos, materiais e taxas.
+
+     4.3. Exames complementares (grupo 2): atendimentos/despesas
+     com   exames        não    incluídos   no   item     de   despesa      “Exames
+     complementares (grupo 1)”, realizados em regime ambulatorial,
+     incluindo honorários profissionais, medicamentos, materiais e taxas.
+
+     4.4. Terapias (grupo 1): atendimentos/despesas com radioterapia,
+     terapia    renal    substitutiva,   quimioterapia    do    câncer,    radiologia
+     intervencionista, litotripsia e hemoterapia, realizados em regime
+     ambulatorial,      incluindo   honorários   profissionais,    medicamentos,
+     materiais e taxas.
+
+
+
+                                                                                   17
+4.5. Terapias (grupo 2): atendimentos/despesas com terapias não
+incluídas no item de despesa “Terapias (grupo 1)”, realizados em
+regime ambulatorial, incluindo honorários profissionais, medicamentos,
+materiais e taxas.
+
+4.6. Outros Atendimentos Ambulatoriais: atendimentos/despesas
+com procedimentos (exceto exames complementares, terapias e
+consultas médicas) realizados em regime ambulatorial (de caráter
+eletivo, urgência ou emergência), incluindo honorários profissionais,
+medicamentos, materiais e taxas.
+
+4.7. Internações: atendimentos/despesas realizados em regime
+hospitalar.
+
+Nas colunas “Total de despesa”, “Participação dos beneficiários em
+eventos indenizáveis: co-participação” e “Recuperação de eventos
+indenizáveis:   seguros”,   considerar   as   despesas   com   hotelaria,
+honorários profissionais, medicamentos, materiais, taxas, terapias e
+exames ocorridos durante a internação, em enfermaria, quarto e
+unidades de terapia intensiva ou semi-intensiva.
+
+     4.7.1. Diárias em quarto e em enfermaria: número de diárias
+     de internação nos seguintes tipos de acomodação:
+     Quarto: internação em ambiente exclusivo;
+     Enfermaria: internação em ambiente não exclusivo.
+
+     4.7.2. Diárias em UTI e em unidade semi-intensiva: número
+     de diárias de internação em ambiente definido para cuidados
+     intensivos ou semi-intensivos.
+
+     4.7.3. Parto normal: internações cujo procedimento principal
+     tenha sido parto normal.
+
+     4.7.4. Parto cesáreo: internações cujo procedimento principal
+     tenha sido parto cesáreo.
+
+
+
+
+                                                                       18
+    4.7.5. Atendimento ao RN na sala de parto: internações em
+    que tenha ocorrido atendimento ao recém nascido, na sala de
+    parto, por pediatra, após o parto (normal ou cesáreo).
+
+    4.7.6. Nascido vivo prematuro: produto da concepção, com
+    idade gestacional igual ou inferior a 36 semanas e 6 dias, que,
+    depois da expulsão ou da extração completa do corpo materno,
+    manifesta algum sinal vital.
+
+    4.7.7. Nascido vivo a termo: produto da concepção, com idade
+    gestacional igual ou superior a 37 semanas, que, depois da
+    expulsão ou da extração completa do corpo materno, manifesta
+    algum sinal vital.
+
+    4.7.8. Nascido morto: produto da concepção que, depois da
+    expulsão ou extração completa do corpo materno, não manifesta
+    qualquer sinal vital, tendo o óbito ocorrido a partir do início da
+    28ª semana de gestação.
+
+    4.7.9. UTI e CTI neonatal: internações de crianças com idade
+    inferior a 28 dias em UTI ou CTI neonatal.
+
+    4.7.10.    Gravidez     terminada    em      aborto:   internações
+    determinadas por gravidez terminada em aborto. É assim
+    considerada a perda ou morte fetal ocorrida até o término da 27ª
+    semana de gestação.
+
+    4.7.11. Transtornos maternos relacionados à gravidez:
+    internações determinadas por transtorno materno relacionado a
+    gravidez não interrompida.
+
+    4.7.12. Complicações no período de puerpério: internações
+    determinadas por complicações do puerpério.
+
+4.8. Consultas odontológicas: atendimentos/despesas realizados
+por profissional habilitado pelo Conselho Regional de Odontologia (de
+caráter eletivo, urgência ou emergência). Considera-se consulta
+
+                                                                    19
+     odontológica aquela destinada a exame físico e diagnóstico para a
+     elaboração      do    plano    de    tratamento,       incluindo     anamnese,
+     preenchimento de ficha clínica odontolegal, diagnóstico das doenças,
+     anomalias bucais e prognóstico.
+
+     4.9.           Exames           odontológicos             complementares:
+     atendimentos/despesas com exames complementares odontológicos.
+
+     4.10. Procedimentos de periodontia: atendimentos/despesas com
+     diagnóstico,    terapêutica    e    profilaxia   das    lesões     gengivais   e
+     periodontais.
+
+     4.11. Procedimentos odontológicos preventivos: atendimentos/
+     despesas com os procedimentos de prevenção em saúde bucal.
+
+     4.12. Procedimentos de dentística: atendimentos/despesas para
+     recuperação da estrutura anátomo-funcional de dente afetado por
+     cáries, afecções estruturais ou traumatismos.
+
+     4.13. Procedimentos de cirurgia odontológica ambulatorial:
+     atendimentos/ despesas com intervenções cirúrgicas realizadas em
+     consultório odontológico sob anestesia local, sem sedação.
+
+     4.14. Procedimentos de endodontia: atendimentos/despesas com
+     procedimentos de diagnóstico, terapêutica e profilaxia das lesões de
+     polpa dentária, da raiz dentária e do tecido periapical.
+
+     4.15.           Outros             procedimentos             odontológicos:
+     atendimentos/despesas         com    procedimentos       odontológicos     não
+     classificáveis nos itens anteriores.
+
+     4.16.   Demais       despesas      assistenciais: atendimentos/despesas
+     assistenciais não classificáveis nos itens anteriores.
+
+5. Número de expostos: resultado (desprezando-se as casas decimais) do
+somatório de todos os dias de exposição em que cada beneficiário do plano
+teve o direito de usufruir dos serviços de assistência à saúde, calculado para
+
+
+                                                                                    20
+cada item de despesa assistencial, durante o período devido, dividido pelo
+número de dias do período devido, conforme ilustra a fórmula a seguir:
+
+Número de expostos = (n.º de dias de exposição do beneficiário 1 durante o
+período devido + n.º de dias de exposição do beneficiário 2 durante o
+período devido + ... + n.º de dias de exposição do beneficiário "n" durante
+o período devido) / (n.º de dias do período devido).
+
+Alternativamente, o número de expostos pode ser calculado como o
+somatório do número de beneficiários expostos existentes em cada um dos
+dias do período devido, dividido pelo número de dias do período devido
+(desprezando-se as casas decimais). Este cálculo é exemplificado pela
+fórmula a seguir:
+
+N.º de expostos = (n.º de expostos no primeiro dia do período devido + ...
++ n.º de expostos no último dia do período devido) / (n.º de dias do período
+devido).
+
+Dias de exposição: número de dias, durante o período devido, nos quais o
+beneficiário teve o direito de usufruir do serviço de assistência à saúde,
+calculado individualmente para cada item de despesa. O beneficiário que
+estiver cumprindo carência deverá ser excluído do cálculo de exposição do
+item de despesa, pois, durante esse período, ele não tem direito a usufruir
+do serviço.
+
+Exposto: beneficiário com direito a usufruir da assistência à saúde no item
+de despesa assistencial em questão, durante o período devido.
+
+Por exemplo: um beneficiário que tem o direito a consultas médicas é um
+exposto para o item de despesa assistencial “Consultas médicas” e pode
+não ser um exposto para o item de despesa “Exames complementares”,
+caso não tenha cumprido o período de carência estabelecido para exames
+complementares.
+
+Caso haja procedimentos com diferentes prazos de carência dentro de um
+mesmo item de despesa, adotar o de maior prazo. Por exemplo, para o item
+
+
+                                                                              21
+de despesa “Exames complementares”, caso haja prazos de carência
+diferentes para os diversos exames complementares, deverá ser adotado
+como prazo de carência deste item o que tiver o maior prazo. Para
+internações, considerar a maio r carência, exceto parto, quando esse
+procedimento tiver período superior ao das demais internações.
+
+6. Número de eventos: somatório das ocorrências de cada item de
+despesa assistencial realizada no período.
+
+7. Total de despesa: valor total, expresso em Real, efetivamente pago ao
+prestador pela operadora, nos itens de despesas assistenciais.
+
+Este item deve ser compatibilizado com a estrutura das contas constantes
+do Plano de Contas Padrão definido pela ANS. Para cada um dos itens de
+despesa estão indicadas as contas correspondentes.
+
+Para as Seguradoras especializadas em planos privados de assistência à
+saúde devem ser feitas as seguintes correlações:
+
+1)Preencher   com    valores   de   “Sinistro”   onde   estiver   indicado   o
+preenchimento com valores de “Evento”;
+
+2)Preencher com valores de “Despesas com sinistro” onde estiver indicado o
+preenchimento com valores de “Despesa com evento”.
+
+Para cada um dos itens “Consultas médicas”, “Exames complementares
+(grupo 1)”, “Exames complementares (grupo 2)”, “Terapias (grupo 1)”,
+“Terapias (grupo 2)”, “Atendimentos ambulatoriais” e “Internações” devem
+ser consideradas as seguintes contas:
+
+
+
+
+                                                                             22
+- Nos casos de B.E. e E.N.B.:
+
+
+                       ITENS DE DESPESA                                        CONTA
+(+) Evento                                                                 41111 a 41119
+(-) Glosas                                                                 41211 a 41219
+(+) IBNR/Eventos ocorridos e não avisados                                  41411 a 41419
+
+
+-   No caso de B.N.E.:
+
+                       ITENS DE DESPESA                                        CONTA
+(+) Repasse de eventos                                                     41231 a 41238
+
+
+
+Para o item “Demais despesas assistenciais”, devem ser consideradas as
+seguintes contas:
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                       ITENS DE DESPESA                                        CONTA
+(+) Eventos / Demais despesas assistenciais                              41116 e 41117 **
+(-) Glosas / Demais despesas assistenciais                               41216 e 41217 **
+(+) IBNR / Demais despesas assistenciais                                 41416 e 41417 **
+(+) Demais despesas com eventos                                          41131B a 41138 *
+(+) Eventos odontológicos                                                  41121 a 41129
+(-) Glosas odontológicas                                                   41221 a 41229
+(+) IBNR odont. / Eventos ocorridos e não avisados                         41421 a 41429
+(+) Demais despesas com eventos odontológicos                              41141 a 41148 *
+ * desde que componham o ato de assistência à saúde.
+** desde que não lançadas nos itens de despesa “Consultas médicas”, “Exames complementares –
+grupo 1”, “Exames complementares – grupo 2”, “Terapias – grupo 1”, “Terapias – grupo 2”,
+“Atendimentos ambulatoriais” e “Internações”.
+
+
+-   No caso de B.N.E.:
+
+                       ITENS DE DESPESA                                        CONTA
+(+) Repasse de eventos odontológicos                                     41241 a 41248
+(+) Demais despesas assistenciais                                        41236 e 41237 *
+* desde que não lançadas nos itens de despesa “Consultas médicas”, “Exames complementares – grupo
+1”, “Exames complementares – grupo 2”, “Terapias – grupo 1”, “Terapias – grupo 2”, “Atendimentos
+ambulatoriais” e “Internações”.
+
+
+
+
+                                                                                               23
+Para o item “Despesas não assistenciais”, devem ser consideradas as
+seguintes contas:
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                      ITENS DE DESPESA                                       CONTA
+(+) Demais desp. com eventos                                           41131 a 41138 *
+(+) Despesas de comercialização                                             Grupo 43
+(+) Despesas administrativas                                                Grupo 46
+* com exceção dos itens já informados em “Demais despesas assistenciais”.
+
+
+
+Para cada um dos itens “Consultas odontológicas”, “Exames odontológicos
+complementares”,         “Procedimentos         de    periondontia”,        “Procedimentos
+odontológicos preventivos”, “Procedimentos de dentística”, “Procedimentos
+de cirurgia odontológica ambulatorial” e “Procedimentos de endodontia”,
+devem ser consideradas as seguintes contas:
+
+
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                      ITENS DE DESPESA                                       CONTA
+(+) Evento                                                             41121 a 41129
+(-) Glosas                                                             41221 a 41229
+(+) IBNR/Eventos ocorridos e não avisados                              41421 a 41429
+
+
+-   No caso de B.N.E.:
+
+                      ITENS DE DESPESA                                       CONTA
+(+) Repasse de eventos                                                 41241 a 41248
+
+
+
+
+                                                                                         24
+Para o item “Outros procedimentos odontológicos”, devem ser consideradas
+as seguintes contas:
+
+-   Nos casos de B.E. e E.N.B.:
+
+                        ITENS DE DESPESA                                           CONTA
+(+) Evento                                                                 41121 a 41129 *
+(-) Glosas                                                                 41221 a 41229 *
+(+) IBNR/Eventos ocorridos e não avisados                                  41421 a 41429 *
+(+) Demais desp. com eventos                                               41141 a 41148**
+* desde que não lançadas nos itens de despesas “Consultas odontológicas”, “Exames odontológicos
+complementares”, “Procedimentos de periodontia”, “Procedimentos odontológicos preventivos”,
+“Procedimentos de dentística”, “ Procedimentos de cirurgia odontológica ambulatorial” e “Procedimentos
+de endodontia”.
+** desde que componham o ato odontológico.
+No caso de B.N.E.:
+
+                        ITENS DE DESPESA                                           CONTA
+(+) Repasse de eventos                                              41241 a 41248 *
+* desde que não lançadas nos itens de despesas “Consultas odontológicas”, “Exames odontológicos
+complementares”, “Procedimentos de periodontia”, “Procedimentos odontológicos preventivos”,
+“Procedimentos de dentística”, “Procedimentos de cirurgia odontológica ambulatorial” e “Procedimentos
+de endodontia”.
+
+
+
+Para o item “Despesas não assistenciais”, devem ser consideradas as
+seguintes contas:
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                        ITENS DE DESPESA                                           CONTA
+(+) Despesas de comercialização                                                  Grupo 43
+(+) Despesas administrativas                                                     Grupo 46
+(+) Demais desp. com eventos                                               41141 a 41148 *
+* desde que não lançadas nos itens de despesas “Consultas odontológicas”, “Exames odontológicos
+complementares”, “Procedimentos de periodontia”, “Procedimentos odontológicos preventivos”,
+“Procedimentos de dentística”, “Procedimento s de cirurgia odontológica ambulatorial” e “Procedimentos
+de endodontia”.
+
+
+
+
+8. Participação dos beneficiários em eventos indenizáveis: co-
+participação: valor total, expresso em Real, proveniente de pagamentos
+realizados à operadora pelos seus beneficiário s a título de Recuperação por
+indenização, nos casos de co-participação.
+
+Para as Seguradoras especializadas em planos privados de assistência à
+saúde deve ser feita a seguinte correlação:
+
+
+                                                                                                    25
+Preencher com valores recebidos por "co-obrigações de segurados"                                    o
+campo relativo a "Participação dos beneficiários em eventos indenizáveis".
+
+Para este item devem ser consideradas as seguintes contas:
+
+-   Nos casos de B.E. e E.N.B.:
+
+                        ITENS DE DESPESA                                           CONTA
+(+) Atendimentos Ambulatoriais
+(+) Exames Complementares – grupo 1
+(+) Exames Complementares – grupo 2
+(+) Terapias – grupo 1                                                              41311
+(+) Terapias – grupo 2
+(+) Internações
+(+) Consultas Médicas
+
+(+) Assistência Odontológica                                                        41321
+
+                                                                                   41321*
+(+) Demais despesas assistenciais
+                                                                                   41311**
+* desde que não lançadas em “Consultas odontológicas”, “Exames complementares odontológicos”,
+“Procedimentos de Periondontia”, “ Procedimentos odontológicos preventivos”, “Procedimentos de
+dentística”, “Procedimentos de cirurgia odontológica ambulatorial”, “Procedimentos de endodontia” ou “
+Outros procedimentos odontológicos”.
+** desde que não lançadas nos itens de despesa “Consultas médicas”, “Exames complementares –
+grupo 1”, “Exames complementares – grupo 2”, “Terapias – grupo 1”, “Terapias – grupo 2”,
+“Atendimentos ambulatoriais” e “Internações”.
+
+
+
+9. Recuperação de eventos indenizáveis – seguros: valor total,
+expresso em real, proveniente de pagamentos realizados à operadora por
+terceiros a título de recuperação por indenização de seguros.
+
+Stop Loss - Seguro destinado a cobrir despesas a partir de um determinado
+valor.
+
+Para as Seguradoras especializadas em planos privados de assistência à
+saúde deve ser feita a seguinte correlação:
+
+Preencher com valores recebidos por "Recuperação de sinistros em co-
+seguro e resseguro" o campo relativo a "Recuperação de eventos
+indenizáveis: seguro".
+
+
+
+                                                                                                    26
+Para este item devem ser consideradas as seguintes contas:
+-   No caso de B.E. e E.N.B.:
+
+                        ITENS DE DESPESA                                           CONTA
+(+) Atendimentos Ambulatoriais
+
+(+) Exames Complementares – grupo 1
+(+) Exames Complementares – grupo 2
+(+) Terapias – grupo 1                                                         41312 e 41313
+(+) Terapias – grupo 2
+(+) Internações
+(+) Consultas Médicas
+(+) Assistência Odontológica                                                  41323 e 41322*
+(+) Demais despesas assistenciais                                              41322 e 41323
+                                                                              41312 e 41313**
+* desde que não lançadas em “Consultas odontológicas”, “Exames complementares odontológicos”,
+“Procedimentos de Periondontia”, “ Procedimentos odontológicos preventivos”, “Procedimentos de
+dentística”, “Procedimentos de cirurgia odontológica ambulatorial”, “Procedimentos de endodontia” ou “
+Outros procedimentos odontológicos”.
+ **desde que não lançadas nos itens de despesa “Consultas médicas”, “Exames complementares –
+grupo 1”, “Exames complementares – grupo 2”, “Terapias – grupo 1”, “Terapias – grupo 2”,
+“Atendimentos ambulatoriais” e “Internações”.
+
+
+
+
+                                                                                                    27
+                                              ANEXO IV
+
+Para operadoras:
+1) com até 20.000 beneficiários que operam planos de assistência
+   exclusivamente odontológica; e
+2) com mais de 20.000 beneficiários que operaram planos de
+   assistência exclusivamente odontológica no primeiro e no
+   segundo trimestre de 2002.
+
+
+
+1. N.º de beneficiários:
+
+                   2. Item de despesa               3. N.º de   4. N.º de   5. Total de   6.Recuperação
+                                                    expostos    eventos      despesa      por indenização
+                                                                                            de despesa
+                                                                                           assistencial
+
+2.1 Consultas odontológicas
+
+2.2 Exames odontológicos c omplementares
+
+2.3 Procedimentos odontológicos preventivos
+
+2.4 Outros procedimentos odontológicos
+
+
+
+
+1. Número de beneficiários: total de beneficiários da operadora no tipo
+de plano e grupo de beneficiário, no último dia útil do trimestre informado.
+
+Beneficiários: para efeito da RDC 85, consideram-se beneficiários as
+pessoas físicas que contratam o plano privado de assistência à saúde ou
+aderem ao plano coletivo contratado por pessoa jurídica junto à operadora e
+seus dependentes.
+
+2. Item de despesa: subconjunto das despesas da operadora. Todas as
+despesas assistenciais devem estar incluídas nos itens deste anexo. Elas
+não devem ser informadas em mais de um item, para evitar dupla
+contagem. Caso a operadora negocie suas despesas assistenciais com os
+prestadores          de    serviço       mediante   “pacotes    de     procedimentos”         ou
+“captation”, todos os atendimentos e despesas que os compõem devem ser
+distribuídos nos itens de despesa assistencial estabelecidos neste anexo.
+
+
+
+
+                                                                                               28
+Captation: Modalidade de pagamento em que a operadora paga um valor
+pré-acordado 'per capita' pela prestação do serviço de assistência à saúde,
+independente do custo do tratamento.
+
+Os itens de despesa devem ser informados de acordo com as descrições
+definidas abaixo:
+
+     2.1. Consultas odontológicas: atendim entos/despesas realizados
+     por profissional habilitado pelo Conselho Regional de Odontologia (de
+     caráter eletivo, urgência ou emergência). Considera-se consulta
+     odontológica aquela destinada a exame físico e diagnóstico para a
+     elaboração      do    plano   de   tratamento,    incluindo   anamnese,
+     preenchimento de ficha clínica odontolegal, diagnóstico das doenças,
+     anomalias bucais e prognóstico.
+
+     2.2.           Exames         odontológicos          complementares:
+     atendimentos/despesas com exames complementares odontológicos.
+
+     2.3. Procedimentos odontológicos preventivos: atendimentos/
+     despesas com os procedimentos de prevenção em saúde bucal.
+
+     2.4.   Outros        procedimentos    odontológicos:      atendimentos/
+     despesas com procedimentos odontológicos não classificáveis nos itens
+     anteriores.
+
+3. Número de expostos: resultado (desprezando-se as casas decimais) do
+somatório de todos os dias de exposição em que cada beneficiário do plano
+teve o direito de usufruir dos serviços de assistência à saúde, calculado para
+cada item de despesa assistencial, durante o período devido, dividido pelo
+número de dias do período devido, conforme ilustra a fórmula a seguir:
+
+Número de expostos = (n.º de dias de exposição do beneficiário 1 durante o
+período devido + n.º de dias de exposição do beneficiário 2 durante o
+período devido + ... + n.º de dias de exposição do beneficiário "n" durante
+o período devido) / (n.º de dias do período devido).
+
+
+
+
+                                                                            29
+Alternativamente, o número de expostos pode ser calculado como o
+somatório do número de beneficiários expostos existentes em cada um dos
+dias do período devido, dividido pelo número de dias do período devido
+(desprezando-se as casas decimais). Este cálculo é exemplificado pela
+fórmula a seguir:
+
+N.º de expostos = (n.º de expostos no primeiro dia do período devido + ...
++ n.º de expostos no último dia do período devido) / (n.º de dias do período
+devido).
+
+Dias de exposição: número de dias, durante o período devido, nos quais o
+beneficiário teve o direito de usufruir do serviço de assistência à saúde,
+calculado individualmente para cada item de despesa. O beneficiário que
+estiver cumprindo carência deverá ser excluído do cálculo de exposição do
+item de despesa, pois, durante esse período, ele não tem direito a usufruir
+do serviço.
+
+Exposto: beneficiário com direito a usufruir da assistência à saúde no item
+de despesa assistencial em questão, durante o período devido.
+
+Por exemplo: um beneficiário que tem o direito a consultas odontológicas é
+um exposto para o item de despesa assistencial “Consultas odontológicas” e
+pode   não    ser   um   exposto   para   o   item   de   despesa   “Exames
+complementares”, caso não tenha cumprido o período de carência
+estabelecido para exames complementares.
+
+Caso haja procedimentos com diferentes prazos de carência dentro de um
+mesmo item de despesa, adotar o de maior prazo. Por exemplo, para o item
+de despesa “Exames complementares”, caso haja prazos de carência
+diferentes para os diversos exames complementares, deverá ser adotado
+como prazo de carência deste item o que tiver o maior prazo.
+
+4. Número de eventos: somatório das ocorrências de cada item de
+despesa assistencial realizada no período.
+
+
+
+
+                                                                          30
+5. Total de despesa: valor total, expresso em Real, efetivamente pago aos
+prestadores pela operadora, nos itens de despesas assistenciais.
+
+Este item deve ser compatibilizado com a estrutura das contas constantes
+do Plano de Contas Padrão definido pela ANS. Para cada um dos itens de
+despesa estão indicadas as contas correspondentes.
+
+Para as Seguradoras especializadas em planos privados de assistência à
+saúde devem ser feitas as seguintes correlações:
+
+1)Preencher       com     valores     de     “Sinistro”    onde      estiver    indicado      o
+preenchimento com valores de “Evento”;
+
+2)Preencher com valores de “Despesas com sinistro” onde estiver indicado o
+preenchimento com valores de “Despesa com evento”.
+
+Para cada um dos itens “Consultas odontológicas”, “Exames odontológicos
+complementares”, “Procedimentos odontológicos preventivos” e “Outros
+procedimentos odontológicos” abaixo, devem ser consideradas as seguintes
+contas:
+
+-   Nos casos de B.E. e E.N.B.:
+
+
+                       ITENS DE DESPESA                                        CONTA
+(+) Evento                                                              41121 a 41129 *
+(-) Glosas                                                              41221 a 41229 *
+
+(+) IBNR/Eventos ocorridos e não avisados                               41421 a 41429 *
+* desde que não lançados nos itens de despesas “Consultas Odontológicas”, “Exames odontológicos
+complementares” e “Procedimentos odontológicos preventivos”.
+
+
+
+-   No caso de B.N.E.:
+
+                       ITENS DE DESPESA                                        CONTA
+
+(+) Repasse de eventos                                                41241 a 41248 *
+* desde que não lançados nos itens de despesas “Consultas Odontológicas”, “Exames odontológicos
+complementares” e “Procedimentos odontológicos preventivos”.
+
+
+
+
+                                                                                             31
+Para o item “Outros procedimentos odontológicos”, devem ser consideradas
+as seguintes contas:
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                       ITENS DE DESPESA                                       CONTA
+(+) Evento                                                              41121 a 41129 *
+(-) Glosas                                                              41221 a 41229 *
+
+(+) IBNR/Eventos ocorridos e não avisados                               41421 a 41429 *
+(+) Demais desp. com eventos                                            41141 a 41148 **
+* desde que não lançados nos itens de despesas “Consultas Odontológicas”, “Exames odontológicos
+complementares” e “Procedimentos odontológicos preventivos”;
+** desde que componham o ato odontológico.
+
+
+
+-   No caso de B.N.E.:
+
+                       ITENS DE DESPESA                                       CONTA
+
+(+) Repasse de eventos                                                41241 a 41248 *
+* desde que não lançados nos itens de despesas “Consultas Odontológicas”, “Exames odontológicos
+complementares” e “Procedimentos odontológicos preventivos”.
+
+
+
+Para o item “Despesas não assistenciais”, devem ser consideradas as
+seguintes contas:
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                       ITENS DE DESPESA                                       CONTA
+(+) Despesas de comercialização                                              Grupo 43
+(+) Despesas administrativas                                                 Grupo 46
+(+) Demais desp. com eventos                                            41141 a 41148 *
+* desde que não lançados nos itens de despesas “Consultas Odontológicas”, “Exames odontológicos
+complementares” e “Procedimentos odontológicos preventivos”.
+
+
+
+6. Recuperação por indenização de despesa assistencial: Valor total,
+expresso em Real, proveniente de pagamentos realizados à operadora a
+título de Recuperação por indenização, pelos seus beneficiários no caso de
+co-participação, ou por terceiros em caso de seguro, resseguro e co-seguro.
+
+
+
+                                                                                             32
+Para as Seguradoras especializadas de planos privados de assistência à
+saúde deve ser feita a seguinte correlação:
+
+Preencher com valores recebidos por "co-obrigações de segurados" e
+"recuperação de sinistros em co-seguro e resseguro" os campos relativos a
+"recuperação por indenização de despesa assistencial".
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                   ITENS DE DESPESA                        CONTA
+(+) Assistência Odontológica                                4132
+
+
+
+
+                                                                       33
+                                                   ANEXO V
+
+Para operadoras:
+1) com mais de 20.000 beneficiários que operaram planos de
+   assistência exclusivamente odontológica a partir do 3º trimestre
+   de 2002.
+
+
+
+1. N.º de beneficiário s :
+
+
+                                                                                                    6. Participação
+2. Item de despesa                                          3. N.º de   4. N.º de     5. Total de          dos             7.
+                                                            expostos    eventos        despesa       beneficiários Recuperação
+                                                                                                      em eventos      de eventos
+                                                                                                     indenizáveis: indenizáveis:
+                                                                                                    c o- participação  s eguros
+
+
+2.1 Consultas odontológicas
+
+2.2 Exames odontológicos c omplementares
+
+2.3 Procedimentos de periodontia
+
+2.4 Procedimentos odontológicos preventivos
+
+2.5 Procedimentos de dentística
+
+2.6 Procedimentos de c irurgia odontológica a mbulatorial
+
+2 .7 Procedimentos de endodontia
+
+2.8 Outros procedimentos odontológicos
+
+
+
+
+1. Número de beneficiários: total de beneficiários da operadora no tipo
+de plano e grupo de beneficiário, no último dia útil do trimestre informado.
+
+Beneficiários: para efeito da RDC 85, consideram-se beneficiários as
+pessoas físicas que contratam o plano privado de assistência à saúde ou
+aderem ao plano coletivo contratado por pessoa jurídica junto à operadora e
+seus dependentes.
+
+2. Item de despesa: subconjunto das despesas da operadora. Todas as
+despesas assistenciais devem estar incluídas nos itens deste anexo. Elas
+não devem ser informadas em mais de um item, para evitar dupla
+contagem. Caso a operadora negocie suas despesas assistenciais com os
+prestadores            de    serviço        mediante         “pacotes     de        procedimentos”          ou
+“captation”, todos os atendimentos e despesas que os compõem devem ser
+distribuídos nos itens de despesa assistencial estabelecidos neste anexo.
+
+
+
+                                                                                                             34
+Captation: Modalidade de pagamento em que a operadora paga um valor
+pré-acordado 'per capita' pela prestação do serviço de assistência à saúde,
+independente do custo do tratamento.
+
+Os itens de despesa devem ser informados de acordo com as descrições
+definidas abaixo:
+
+     2.1. Consultas odontológicas: atendimentos/despesas realizados
+     por profissional habilitado pelo Conselho Regional de Odontologia (de
+     caráter eletivo, urgência ou emergência). Considera-se consulta
+     odontológica aquela destinada a exame físico e diagnóstico para a
+     elaboração      do   plano        de     tratamento,      incluindo    anamnese,
+     preenchimento de ficha clínica odontolegal, diagnóstico das doenças,
+     anomalias bucais e prognóstico.
+
+     2.2.           Exames             odontológicos              complementares:
+     atendimentos/despesas com exames complementares odontológicos.
+
+     2.3. Procedimentos de periodontia: atendimentos/despesas com
+     diagnóstico,    terapêutica       e    profilaxia   das    lesões     gengivais   e
+     periodontais.
+
+     2.4. Procedimentos odontológicos preventivos: atendimentos/
+     despesas com os procedimentos de prevenção em saúde bucal.
+
+     2.5. Procedimentos de dentística: atendimentos/despesas para
+     recuperação da estrutura anátomo-funcional de dente afetado por
+     cáries, afecções estruturais ou traumatismos.
+
+     2.6.   Procedimentos         de       cirurgia   odontológica       ambulatorial:
+     atendimentos/ despesas com intervenções cirúrgicas realizadas em
+     consultório odontológico sob anestesia local, sem sedação.
+
+     2.7. Procedimentos de endodontia: atendimentos/despesas com
+     procedimentos de diagnóstico, terapêutica e profilaxia das lesões de
+     polpa dentária, da raiz dentária e do tecido periapical.
+
+
+
+                                                                                       35
+     2.8. Outros procedimentos odontológicos: atendimentos/despesas
+     com      procedimentos   odontológicos   não   classificáveis   nos   itens
+     anteriores.
+
+3. Número de expostos: resultado (desprezando-se as casas decimais) do
+somatório de todos os dias de exposição em que cada beneficiário do plano
+teve o direito de usufruir dos serviços de assistência à saúde, calculado para
+cada item de despesa assistencial, durante o período devido, dividido pelo
+número de dias do período devido, conforme ilustra a fórmula a seguir:
+
+Número de expostos = (n.º de dias de exposição do beneficiário 1 durante o
+período devido + n.º de dias de exposição do beneficiário 2 durante o
+período devido + ... + n.º de dias de exposição do beneficiário "n" durante
+o período devido) / (n.º de dias do período devido).
+
+Alternativamente, o número de expostos pode ser calculado como o
+somatório do número de beneficiários expostos existentes em cada um dos
+dias do período devido, dividido pelo número de dias do período devido
+(desprezando-se as casas decimais). Este cálculo é exemplificado pela
+fórmula a seguir:
+
+N.º de expostos = (n.º de expostos no primeiro dia do período devido + ...
++ n.º de expostos no último dia do período devido) / (n.º de dias do período
+devido).
+
+Dias de exposição: número de dias, durante o período devido, nos quais o
+beneficiário teve o direito de usufruir do serviço de assistência à saúde,
+calculado individualmente para cada item de despesa. O beneficiário que
+estiver cumprindo carência deverá ser excluído do cálculo de exposição do
+item de despesa, pois, durante esse período, ele não tem direito a usufruir
+do serviço.
+
+Exposto: beneficiário com direito a usufruir da assistência à saúde no item
+de despesa assistencial em questão, durante o período devido.
+
+
+
+
+                                                                              36
+Por exemplo: um beneficiário que tem o direito a consultas odontológicas é
+um exposto para o item de despesa assistencial “Consultas odontológicas” e
+pode   não   ser   um   exposto   para      o    item   de   despesa   “Exames
+complementares”, caso não tenha cumprido o período de carência
+estabelecido para exames complementares.
+
+Caso haja procedimentos com diferentes prazos de carência dentro de um
+mesmo item de despesa, adotar o de maior prazo. Por exemplo, para o item
+de despesa “Exames complementares”, caso haja prazos de carência
+diferentes para os diversos exames complementares, deverá ser adotado
+como prazo de carência deste item o que tiver o maior prazo.
+
+4. Número de eventos: somatório das ocorrências de cada item de
+despesa assistencial realizada no período.
+
+5. Total de despesa: valor total, expresso em Real, efetivamente pago ao
+prestador pela operadora, nos itens de despesas assistenciais.
+
+Este item deve ser compatibilizado com a estrutura das contas constantes
+do Plano de Contas Padrão definido pela ANS. Para cada um dos itens de
+despesa estão indicadas as contas correspondentes.
+
+Para as Seguradoras especializadas em planos privados de assistência à
+saúde devem ser feitas as seguintes correlações:
+
+1)Preencher com valores de “Sinistro” onde está indicado o preenchimento
+com valores de “Evento”;
+
+2)Preencher com valores de “despesas com sinistro” onde estiver indicado o
+preenchimento com valores de “Despesa com evento”.
+
+Para cada um dos itens “Consultas odontológicas”, “Exames odontológicos
+complementares”,    “Procedimentos     de       periondontia”,   “Procedimentos
+odontológicos preventivos”, “Procedimentos de dentística”, “Procedimentos
+de cirurgia odontológica ambulatorial” e “Procedimentos de endodontia”,
+devem ser consideradas as seguintes contas:
+
+
+
+                                                                             37
+-   Nos casos de B.E. e E.N.B.:
+
+                        ITENS DE DESPESA                                           CONTA
+(+) Evento                                                                  41121 a 41129
+(-) Glosas                                                                  41221 a 41229
+(+) IBNR/Eventos ocorridos e não avisados                                   41421 a 41429
+
+
+-   No caso de B.N.E.:
+
+                        ITENS DE DESPESA                                           CONTA
+(+) Repasse de eventos                                                      41241 a 41248
+
+
+Para o item “Outros procedimentos odontológicos”, devem ser consideradas
+as seguintes contas:
+
+-   Nos casos de B.E. e E.N.B.:
+
+                        ITENS DE DESPESA                                           CONTA
+(+) Evento                                                                41121 a 41129 *
+(-) Glosas                                                                41221 a 41229 *
+(+) IBNR/Eventos ocorridos e não avisados                                 41421 a 41429 *
+(+) Demais desp. com eventos                                              41141 a 41148**
+* desde que não lançadas nos itens de despesas “Consultas odontológicas”, “Exames odontológicos
+complementares”, “Procedimentos de periodontia”, “Procedimentos odontológicos preventivos”,
+“Procedimentos de dentística”, “Procedimentos de cirurgia odontológica ambulatorial” e “Procedimentos
+de endodontia”.
+** desde que componham o ato odontológico.
+No caso de B.N.E.:
+
+                        ITENS DE DESPESA                                           CONTA
+(+) Repasse de eventos                                             41241 a 41248 *
+* desde que não lançadas nos itens de despesas “Consultas odontológicas”, “Exames odontológicos
+complementares”, “Procedimentos de periodontia”, “Procedimentos odontológicos preventivos”,
+“Procedimentos de dentística”, “Procedimentos de cirurgia odontológica ambulatorial” e “Procedimentos
+de endodontia”.
+
+
+
+
+                                                                                                   38
+Para o item “Despesas não assistenciais”, devem ser consideradas as
+seguintes contas:
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                        ITENS DE DESPESA                                           CONTA
+(+) Despesas de comercialização                                                 Grupo 43
+(+) Despesas administrativas                                                    Grupo 46
+(+) Demais desp. com eventos                                               41141 a 41148 *
+* desde que não lançadas nos itens de despesas “Consultas odontológicas”, “Exames odontológicos
+complementares”, “Procedimentos de periodontia”, “Procedimentos odontológicos preventivos”,
+“Procedimentos de dentística”, “Procedimentos de cirurgia odontológica ambulatorial” e “Procedimentos
+de endodontia”.
+
+
+
+
+6. Participação dos beneficiários em eventos indenizáveis - co-
+participação: valor total, expresso em Real, proveniente de pagamentos
+realizados à operadora pelos seus beneficiários a título de Recuperação por
+indenização, nos casos de co-participação.
+
+Para as Seguradoras especializadas em planos privados de assistência à
+saúde deve ser feita a seguinte correlação:
+
+Preencher com valores recebidos por "co-obrigações de segurados" o campo
+relativo a "Participação dos beneficiários em eventos indenizáveis".
+
+Para este item deve ser considerada a seguinte conta:
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                        ITENS DE DESPESA                                           CONTA
+(+) Assistência Odontológica                                                      41321
+
+
+7. Recuperação de eventos indenizáveis – seguros: valor total,
+expresso em Real, proveniente de outros pagamentos realizados à
+operadora por terceiros, a título de Recuperação de Indenização de
+Seguros.
+
+Stop Loss - Seguro destinado a cobrir despesas a partir de um determinado
+valor.
+
+
+                                                                                                   39
+Para as Seguradoras especializadas em planos privados de assistência à
+saúde deve ser feita a seguinte correlação:
+
+Preencher com valores recebidos por "Recuperação de sinistros em co-
+seguro e resseguro" o campo relativo a "Recuperação de eventos
+indenizáveis: seguro".
+
+
+-   Nos casos de B.E. e E.N.B.:
+
+                  ITENS DE DESPESA                       CONTA
+(+) Assistência Odontológica                        41323 e 41322
+
+
+
+
+                                                                    40
+

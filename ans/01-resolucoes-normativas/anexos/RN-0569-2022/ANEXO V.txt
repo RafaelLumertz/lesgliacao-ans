@@ -1,0 +1,498 @@
+                                        ANEXO V
+
+                 Modelo padrão de capital baseado no risco de crédito
+
+
+
+1. O capital do risco de crédito se aplica a todas as operadoras de planos de assistência à
+saúde e administradoras de benefícios reguladas pela ANS, exceto as operadoras
+excluídas conforme parágrafo único do art. 1º desta RN.
+
+
+
+2. O capital do risco de crédito é composto por duas parcelas e é dado pela fórmula:
+
+
+
+
+Na qual:
+
+
+
+- CRC é o capital baseado no risco de crédito; CRC1 é o capital baseado no risco de crédito
+referente à parcela 1, calculado conforme este Anexo; e CRC 2 é o capital baseado no risco
+de crédito referente à parcela 2, calculado conforme este Anexo.
+
+
+
+- CRC1 é o capital baseado no risco de crédito referente à parcela 1, calculado conforme
+este Anexo; e
+
+
+
+- CRC2 é o capital baseado no risco de crédito referente à parcela 2, calculado conforme
+este Anexo.
+
+
+
+3. Os valores das exposições ao risco de crédito definidas neste Anexo serão equivalentes
+aos valores contabilizados líquidos de qualquer dedução prevista (por exemplo, redução
+de valor recuperável), calculados segundo critérios estabelecidos pela ANS no Plano de
+Contas Padrão da ANS e eventuais orientações complementares fornecidas pela DIOPE.
+3.1 Caso possua estudo técnico de recuperabilidade apresentado à DIOPE na forma
+prevista no Plano de Contas Padrão da ANS, tal metodologia deve ser utilizada para
+apuração das exposições ao risco de crédito tratadas neste Anexo.
+
+
+
+Modelo padrão de capital baseado no risco de crédito – Parcela 1
+
+
+
+4. A parcela 1 do capital de risco de crédito refere-se ao risco de crédito das exposições
+identificadas neste anexo segregado em duas subparcelas:
+
+
+
+(i). parcela 1.1 - operações que tenham como contrapartes outras operadoras de plano
+de assistência à saúde (entre as quais compartilhamento de gestão de riscos, por
+exemplo); e
+
+
+
+(ii). parcela 1.2 - operações de seguro e resseguro.
+
+
+
+5. A parcela 1.1 do capital de risco de crédito será calculada utilizando-se a seguinte
+fórmula:
+
+
+
+
+Onde:
+
+
+
+- CRC1,ops : capital de risco de crédito referente à parcela 1.1;
+
+
+
+- fi: fator de risco correspondente à contraparte “i”;
+- expi: valor da exposição ao risco de crédito da contraparte “i”;
+
+
+
+- Pi,j: coeficiente de correlação entre as exposições às contrapartes “i” e “j”, sendo ρ ij =
+0,75 para todo i ≠ j, e ρij = 1 para i = j;
+
+
+
+- contraparte “i” ou “j”: cada operadora dos créditos objeto de análise de risco; e
+
+
+
+- n: número total de contrapartes.
+
+
+
+5.1 As operadoras deverão utilizar um fator de risco para cada contraparte, obtido em
+função do grau de risco da contraparte, no item 7 deste Anexo.
+
+
+
+6. No cálculo do capital baseado no risco de crédito relativo à parcela 1.1, o valor da
+exposição ao risco de crédito tendo como contraparte outra operadora de plano de
+assistência à saúde será definido segundo a fórmula abaixo:
+
+
+
+
+Na qual:
+
+
+
+- expi: é a exposição líquida com a operadora “i”;
+
+- ECi: é o valor total de exposição credora com a operadora “i”; e
+
+- EDi: é o valor total de exposição devedora com a operadora “i”.
+6.1 Pode ser desconsiderado o total das exposições credoras com contrapartes
+contempladas na parcela 1.1 caracterizado como imaterial. Considera-se imaterial, para
+fins do presente item, o montante de exposições com contrapartes, que em conjunto, no
+total, representem menos de 1% do total das exposições da parcela 1.1.
+
+
+
+7. Os valores dos fatores de risco (f i) obtidos em função do grau de risco da contraparte
+e nível de confiança, são:
+
+
+
+
+7.1 O grau de risco da contraparte, definido conforme tabela abaixo, é calculado por meio
+do índice de capital regulatório definido para cada operadora “i” por:
+
+
+
+
+Na qual:
+
+
+
+ICRi: é o índice de capitalregulatório de dada operadora “i”;
+
+
+
+PLAi: é o valor do patrimônio líquido ajustado da operadora credora “i”; e •
+
+
+
+CRi: é o valor de capital regulatório requerido da operadora credora “i”.
+7.2 O grau de risco de cada operadora de plano de assistência à saúde que atua no setor
+de saúde suplementar será calculado e divulgado anualmente pela DIOPE até o último dia
+útil do mês de abril na seção “Espaço das Operadoras” do sítio institucional da ANS –
+https://www.gov.br/ans/pt-br. Para a mensuração serão utilizadas as informações
+econômico-financeiras apresentadas até a data-base referente ao último trimestre do
+ano anterior ao da divulgação.
+
+
+
+7.3 No procedimento de cálculo da parcela 1.1, deverá ser utilizado o grau de risco da
+operadora com a qual se possui a exposição definido na listagem referenciada no subitem
+7.2.
+
+
+
+7.4 Caso a operadora não possua o grau de risco divulgado para a data estabelecida no
+subitem 7.2, deverá ser adotado o grau de risco mais agravado, isto é, grau de risco 3.
+
+
+
+7.4.1 Excetuam-se as operadoras que obtiveram registro na ANS após a data-base
+utilizada na definição da listagem divulgada pela DIOPE e autogestões classificadas nas
+modalidades de autogestão por departamento de recursos humanos ou de autogestão
+com mantenedor cujos riscos são integralmente garantidos pelo mantenedor; situação
+em que a operadora deverá ser considerada com grau de risco 1.
+
+
+
+7.5 A DIOPE poderá atualizar o grau de risco de uma operadora ao longo do ano nas
+seguintes situações:
+7.5.1 Erro de informações fornecidas à ANS e/ou ressalvas de auditoria independente
+identificados após divulgação da lista de definição dos graus de risco;
+
+
+
+7.5.2 Variação significativa dos indicadores econômico-financeiros ao longo do ano
+subsequente de cálculo; e
+
+
+
+7.5.3 A partir de ações de supervisão direta ou indireta tomadas pelo regulador que
+evidenciem a partir de análises econômico-financeiras a necessidade de readequação em
+diferente grau de risco.
+
+
+
+7.6 Nos casos de compartilhamento da gestão de risco, a operadora de plano de
+assistência à saúde deverá adotar grau de risco mais gravoso caso tenha conhecimento
+de que o grau de risco divulgado pela ANS não reflete adequadamente a situação
+econômico-financeira da operadora cedente, de modo a atuar prudencialmente na
+gestão desse risco.
+
+
+
+8. A parcela 1.2 do capital de risco de crédito será calculada utilizando-se a seguinte
+fórmula:
+
+
+
+
+Na qual:
+
+
+
+- CRC1,seg : cálculo do risco de crédito referente à parcela 1.2; e
+
+
+
+- expseg : o total de exposição com seguradores e resseguradores.
+
+
+
+As exposições com seguradoras especializadas em saúde (SES) consideradas na parcela
+1.1 não devem ser consideradas nessa parcela.
+9. O capital do risco de crédito referente à parcela 1 é dado pela fórmula:
+
+
+
+
+Na qual:
+
+
+
+- CRC1,ops : capital de risco de crédito referente à parcela 1.1, calculado conforme este
+Anexo; e
+
+
+
+- CRC1,seg : cálculo do risco de crédito referente à parcela 1.2, calculado conforme este
+Anexo.
+
+
+
+Modelo padrão de capital baseado no risco de crédito – Parcela 2
+
+
+
+10. A parcela 2 do capital de risco de crédito refere-se ao risco de crédito das exposições
+em operações em que as contrapartes não sejam operadoras de plano de assistência à
+saúde, seguradoras ou resseguradoras, ou seja, aquelas já tratadas na parcela 1 deste
+Anexo.
+
+
+
+11. A parcela 2 do capital de risco de crédito será calculada utilizando-se a seguinte
+fórmula:
+
+
+
+
+Na qual:
+  •   CRC2 : é o capital baseado no risco de crédito referente à parcela 2;
+  •   FPRi: é o fator de ponderação de risco referente à exposição “i”;
+  •   expi: é o valor da exposição ao risco de crédito dos valores, aplicações, créditos,
+      títulos ou direitos “i” registrados pela supervisionada; e
+  •   n: é o total de diferentes exposições conforme segregado na tabela do item 12 deste
+      Anexo.
+
+
+
+12. Deverá ser aplicado fator de ponderação de risco definido na tabela abaixo para os
+tipos de exposição correspondentes.
+
+
+
+                EXPOSIÇÃO AO RISCO DE CRÉDITO (exp;)                         FPRi
+                12.1.1 - aplicações em títulos públicos federais:
+                                                                             0%
+                12.1.2 - exposições relativas a ativos excluídos do PLA;
+
+                12.1.3 - aplicações em ações;
+
+                12.1.4 - aplicações em ouro;
+
+                12.1.5 - demais exposições não mencionadas
+                expressamente neste Anexo.
+                12.2.1 - ativos classificados com disponível no ativo        20%
+                circulante (incluindo depósito bancários, valores em
+                trânsito e investimentos classificados como equivalentes
+                de caixa, excluídos aqueles cujo fator de ponderação de
+                risco é inferior a 20% (vinte por cento);
+
+
+
+                12.2.2 - depósitos judiciais e fiscais
+                12.3.1 - aplicações em certificados ou recibos de depósito
+                                                                             43%
+                bancário (CDB ou RDB)
+                12.4.1 - aplicações em derivativos decorrentes de
+                operações que não sejam liquidadas em sistemas de
+                                                                             50%
+                liquidação de câmaras de compensação e de liquidação
+                autorizadas pelo Banco Central do Brasil, interpondo-se à
+                câmara como contraparte central, nos termos de
+                legislação vigente.
+12.5.1 - aplicações em títulos privados de renda fixa que
+não sejam certificados ou recibos de depósito bancário      62%
+(CDB ou RDB)
+12.6.1 - contraprestações a receber de cobertura            75%
+assistencial com preço preestabelecido
+
+12.6.2 - créditos de operações de administração de
+benefícios
+12.7.1 - aplicações em títulos públicos de renda fixa não
+federais;
+
+12.7.2 - aplicações em quotas de fundos de investimento
+que não se enquadrem nos subitens 12.9.1 e 12.9.2;
+
+12.7.3 - aplicações em títulos de renda variável não
+classificados como ações, derivativos e ouro;               100%
+
+12.7.4 - aplicações não enquadradas como títulos de
+renda fixa, títulos de renda variável ou quotas de fundos
+de investimento;
+
+
+
+12.7.5 - valores a receber referente a contraprestações
+de cobertura assistencial com preço pós-estabelecido;
+
+
+
+12.7.6 - valores a receber de participação dos
+beneficiários em eventos/sinistros indenizados;
+
+
+
+12.7.7 - outros créditos de operações com planos
+privados de assistência à saúde;
+
+12.7.8 - créditos de operações de assistência à saúde não
+relacionados com planos privados de assistência à saúde
+da operadora:
+12.7.9 - créditos referentes a adiantamentos;
+
+
+
+12.7.10 - valores      de   empréstimos     e   depósitos
+compulsórios;
+
+
+
+12.7.11 - conta-corrente com cooperados;
+
+
+
+12.7.12 - outros créditos operacionais;
+
+
+
+12.7.13 - créditos tributários de diferenças temporárias;
+
+
+
+12.7.14 - outros títulos e créditos a receber não listados
+expressamente
+
+
+12.8.1 - créditos tributários e previdenciários.             300%
+12.9.1 - aplicações em quotas de fundos de investimento      Definidos
+não dedicados ao setor de saúde suplementar definidos        conforme
+conforme a RN especifica de aceitação, registro,             item 13
+vinculação, custódia, movimentação e limites de alocação     deste
+e de concentração na aplicação dos ativos garantidores       Anexo.
+das operadoras no âmbito do sistema de saúde
+suplementar, para as operadoras que optem pelo
+previsto no item 13 deste Anexo;
+
+
+
+12.9.2 - aplicações em quotas de investimento dedicados
+ao setor de saúde suplementar definidos conforme a RN
+específica de aceitação, registro, vinculação, custódia,
+movimentação e limites de alocação e de concentração
+na aplicação dos ativos garantidores das operadoras no
+âmbito do sistema de saúde suplementar, que
+               informarem o FPR calculado à ANS no trimestre de
+               cálculo, no âmbito do convênio firmado.
+
+
+
+13. Para as aplicações em quotas de fundos de investimento é facultada a aplicação de
+fator de ponderação de risco equivalente à média dos FPR’s aplicáveis às operações
+integrantes da carteira dos fundos, como se fossem realizadas pelas instituições
+aplicadoras, ponderados pela participação relativa de cada operação no valor total da
+carteira.
+
+
+
+13.1 A operadora que optar por utilizar essa faculdade deverá apresentar à ANS,
+trimestralmente, em quadro auxiliar do DIOPS, o valor total investido em fundos de
+investimento e o FPR médio calculado para o último dia útil do trimestre, excetuando-se
+deste cálculo o total investido em fundos de investimento dedicados ao setor de saúde
+suplementar definidos conforme a Resolução Normativa específica de aceitação, registro,
+vinculação, custódia, movimentação e limites de alocação e de concentração na aplicação
+dos ativos garantidores das operadoras no âmbito do sistema de saúde suplementar, e
+que possuam FPR divulgado no sítio institucional da ANS – www.gov.br/ans/pt-br - para
+a data-base de cálculo.
+
+13.2 O FPR calculado no trimestre deverá ser utilizado, para fins de cálculo mensal da
+exposição ao risco de crédito de fundos, pelas operadoras para os dois meses
+subsequentes ao trimestre de apuração.
+
+13.3 Nas datas-base referentes ao envio do DIOPS, os cálculos trimestrais do FPR deverão
+ser objeto de procedimento previamente acordado (PPA) elaborado por empresa de
+auditoria contábil independente registrada na Comissão de Valores Mobiliários (CVM),
+devendo o relatório resultante ser encaminhado à ANS por meio do DIOPS.
+
+13.3.1. No procedimento de auditoria do FPR deverá ser verificado minimamente:
+
+
+
+a. Para cada fundo de investimento em que a operadora aplique seus recursos, checagem
+do total do valor investido utilizado no cálculo com os respectivos saldos informados
+pelos gestores de fundos;
+b. Checagem do total dos valores investidos em fundo de investimento, conforme
+definido no item (a), com o total informado nas respectivas contas contábeis de ativos
+definidas pelo plano de contas padrão da ANS e respectivos saldos informados no DIOPS
+para a mesma data-base;
+
+
+
+c. Cálculo da exposição proporcional em cada fundo, considerando a participação relativa
+de cada operação no valor total da carteira;
+
+
+
+d. Cálculo do FPR médio para cada fundo de investimento, considerando a exposição
+proporcional aferida no item (c) e os valores de FPR apresentados no item 13.
+
+
+
+e. Cálculo do FPR médio ponderado total, considerando o valor total investido em cada
+fundo, conforme aferido no item (a), e o respectivo FPR médio de cada fundo, conforme
+calculado no item (d).
+
+
+
+f. Caso o fundo de investimento invista em cotas de outros fundos de investimento e a
+operadora opte por calcular o valor do FPR para estes fundos, os procedimentos de
+verificação do cálculo do FPR deverão ser realizados para cada fundo com investimento
+indireto que a operadora opte por calcular o valor de FPR diferente de 100%.
+
+
+
+13.4 Excetua-se a necessidade de auditoria para as exposições aos fundos de
+investimento dedicados ao setor de saúde suplementar definidos conforme a RN
+específica de aceitação, registro, vinculação, custódia, movimentação e limites de
+alocação e de concentração na aplicação dos ativos garantidores das operadoras no
+âmbito do sistema de saúde suplementar, e que informarem o FPR calculado à ANS no
+trimestre de cálculo, no âmbito do convênio firmado. Para esses fundos o cálculo do risco
+de crédito será feito diretamente com o FPR e o total de exposição informado pelo gestor
+do fundo.
+
+
+
+13.5 A ausência da informação do FPR calculado pelo gestor do fundo de investimento
+dedicado ao setor suplementar definidos conforme a RN específica de aceitação, registro,
+vinculação, custódia, movimentação e limites de alocação e de concentração na aplicação
+dos ativos garantidores das operadoras no âmbito do sistema de saúde suplementar
+implicará a necessidade de cálculo pela operadora caso opte pela faculdade prevista
+neste item 13.
+
+
+
+13.6 Os valores de FPR referentes às exposições aos fundos de investimento dedicados
+ao setor de saúde suplementar serão divulgados tempestivamente pela ANS em seu sítio
+institucional – www.gov.br/ans/pt-br - na seção “Espaço da Operadora”.
+
+
+
+13.7 A operadora que optar pela faculdade prevista neste item 13 deverá aplicar em
+substituição aos valores de FPR indicados nos subitens 12.3.1 e 12.5.1 os seguintes
+fatores de ponderação de risco para as exposições em investimentos em títulos de renda
+fixa privados contidos nos fundos de investimentos:
+
+
+
+
+13.8 Aplicam-se os fatores detalhados no subitem 13.7 no cálculo realizado pelos
+gestores dos fundos de investimento dedicados ao setor de saúde suplementar definidos
+conforme a RN específica de aceitação, registro, vinculação, custódia, movimentação e
+limites de alocação e de concentração na aplicação dos ativos garantidores das
+operadoras no âmbito do sistema de saúde suplementar, para fins da apuração a ser
+informada à ANS, conforme definido no subitem 13.4.
+

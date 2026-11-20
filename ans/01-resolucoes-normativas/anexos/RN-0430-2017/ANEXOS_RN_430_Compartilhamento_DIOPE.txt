@@ -1,0 +1,1434 @@
+                                                                               ANEXO I
+
+“                                                                        CAPÍTULO I
+                                                                       NORMAS GERAIS
+
+...............................................................................................................................................................................
+
+2. ASPECTOS GERAIS
+...............................................................................................................................................................................
+2.7 Eventos são todas as despesas incorridas com o beneficiário do plano comercializado ou disponibilizado
+pela operadora, correspondentes a cobertura de riscos relativos a custos médicos, hospitalares e
+odontológicos, bem como todas as despesas incorridas com beneficiários de outras operadoras suportadas
+diretamente pela operadora em função de operações de corresponsabilidade pela gestão dos riscos
+decorrentes do atendimento dos beneficiários.” (NR)
+                                                 ANEXO II
+
+“                            CAPÍTULO IV
+     MANUAL CONTÁBIL DAS OPERAÇÕES DO MERCADO DE SAÚDE SUPLEMENTAR
+
+A Norma Contábil é necessária para padronizar o registro das operações do mercado de saúde suplementar. O
+principal objetivo da padronização é monitorar a solvência desse mercado. Solvência é a capacidade de uma
+operadora de cumprir com seus compromissos.
+
+Monitorar a solvência das operadoras é uma atribuição legal da ANS, cujo objetivo é garantir ao consumidor
+o atendimento por parte das operadoras da cobertura assistencial comercializada nos contratos de planos de
+saúde.
+
+A padronização dos registros contábeis se materializa na elaboração das Demonstrações Financeiras, cujo
+objetivo é fornecer informações econômicas e financeiras para auxiliar a tomada de decisão por vários usuários
+dessas informações.
+
+As Demonstrações Financeiras informam a situação patrimonial da operadora, segregando os elementos
+patrimoniais em Ativo, Passivo e Patrimônio Líquido, além de informações específicas sobre Receitas e
+Despesas, Fluxo de Caixa e Mutações do Patrimônio Líquido.
+
+Ativo é um recurso controlado pela entidade como resultado de eventos passados e do qual se espera que fluam
+futuros benefícios econômicos para a entidade.
+Passivo é uma obrigação presente da entidade, derivada de eventos passados, cuja liquidação se espera que
+resulte na saída de recursos da entidade capazes de gerar benefícios econômicos.
+Patrimônio Líquido é o interesse residual nos ativos da entidade depois de deduzidos todos os seus passivos.
+
+Um item que se enquadre na definição de um elemento deve ser reconhecido se:
+   a) for provável que algum benefício econômico futuro associado ao item flua para a entidade ou flua da
+                                                 entidade; e
+b) o item tiver custo ou valor que possa ser mensurado com confiabilidade
+
+Receitas são aumentos nos benefícios econômicos durante o período contábil, sob a forma da entrada de
+recursos ou do aumento de ativos ou diminuição de passivos, que resultam em aumentos do patrimônio líquido,
+e que não estejam relacionados com a contribuição dos detentores dos instrumentos patrimoniais.
+
+Quando o desfecho de transação que envolva a prestação de serviços puder ser confiavelmente estimado, a
+receita associada à transação deve ser reconhecida tomando por base a proporção dos serviços prestados até a
+data do balanço e balancetes mensais. O desfecho de uma transação pode ser confiavelmente estimado quando
+todas as seguintes condições forem satisfeitas:
+
+a) o valor da receita puder ser confiavelmente mensurado;
+
+b) for provável que os benefícios econômicos associados à transação fluirão para a entidade;
+
+c) a proporção dos serviços executados até a data do balanço e dos balancetes mensais puder ser confiavelmente
+mensurada; e
+d) as despesas incorridas com a transação assim como as despesas para concluí-la possam ser confiavelmente
+mensuradas.
+
+Despesas são decréscimos nos benefícios econômicos durante o período contábil, sob a forma de saída de
+recursos ou da redução de ativos ou assunção de passivos, que resultam em decréscimo do patrimônio líquido
+e que não estejam relacionados com distribuições aos detentores dos instrumentos patrimoniais.
+
+1) FATO GERADOR DA RECEITA DO MERCADO DE SAÚDE SUPLEMENTAR
+
+O mercado de saúde suplementar presta um serviço de cobertura de riscos relacionados à assistência à saúde.
+
+A obrigação de garantir os riscos é contratual, portanto, todas as coberturas que constam no contrato devem
+ser garantidas pela operadora.
+
+Essa obrigação é relacionada a uma vigência contratual, a qual para os contratos coletivos normalmente é anual
+com pagamentos mensais e os contratos individuais tem vigência anual no primeiro ano e, após esse prazo,
+vigência indeterminada, também com pagamentos mensais.
+
+A receita de contraprestação/prêmio no mercado de saúde é reconhecida mensalmente, de acordo com o
+período de vigência decorrido do contrato. Para cada período de risco coberto pela operadora, haverá o
+reconhecimento da receita.
+
+Nos contratos de plano de saúde, a precificação para o período de vigência mensal é reconhecida em uma conta
+de passivo específica, provisão de prêmios e contraprestações não ganhas (PPCNG).
+
+Esse valor deve ser registrado em contrapartida a conta 12311101/12312101– Contraprestação
+Pecuniária/Prêmios a Receber, no primeiro dia de vigência do mês. Ao final de cada mês, o valor reconhecido
+como PPCNG é apropriado ao resultado do período, como Receita de Contraprestação/Prêmio, em função do
+período de cobertura do risco já decorrido naquele mês.
+
+O termo “não ganha” significa que o período de risco de cobertura contratual ainda não decorreu, portanto, a
+operadora ainda não prestou o serviço para o beneficiário do plano, que é a cobertura contratual dentro daquele
+prazo. A operadora não pode registrar esse valor como receita até que haja cobertura contratual decorrida no
+tempo.
+
+Exemplo 1: vigência dentro do mês
+
+Por exemplo, se uma operadora comercializa um contrato coletivo com cobertura contratual para o período de
+01/01/2016 até 31/12/2016, em 01/01/2016 deve registrar o valor mensal do contrato. Supondo que o valor que
+será cobrado pela operadora para assumir esse risco é de R$ 1.000,00 por mês, o lançamento contábil a ser
+efetuado em 01 de janeiro é:
+D – 12311101/12312101 – Contraprestação Pecuniária/Prêmios a receber
+C – 211119011/211129011 – Provisão de Prêmio ou Contraprestação não Ganha.
+                                                                                              R$ 1.000,00
+Obs: O contas a receber é segregado em Plano Individual, Plano Coletivo e Administradora de Benefícios com
+contrato estipulado e com contrato não estipulado. O registro contábil deve ser efetuado identificando com
+quem que a operadora efetuou a operação.
+
+Caso o valor mensal for recebido antes do início de vigência da cobertura, por exemplo, em 20/12/2015, o
+lançamento será:
+ D – Caixa/Bancos
+ C – 2132 – Receita Antecipada de Contraprestações/Prêmios
+                                                                                            R$ 1.000,00
+
+
+No início da cobertura a operadora deve transferir esse valor para a Provisão de Prêmio ou Contraprestação
+não Ganha e a partir desse momento, reconhecer a receita pelo tempo decorrido do contrato.
+
+No dia 01/01/2016, dia em que se inicia a cobertura contratual, o registro contábil deve ser efetuado da seguinte
+forma:
+D – 2132 – Receita Antecipada de Contraprestações/Prêmios
+C –211119011/211129011 - Provisão de Prêmio ou Contraprestação não Ganha
+                                                                                                     R$ 1.000,00
+O regime de competência é mensal, portanto a operadora deve no último dia do mês levantar todas as receitas
+ganhas e todas as despesas incorridas.
+
+OBS: O termo “ganha” significa que o período de cobertura do risco decorreu, ou seja, a operadora garantiu
+um período de cobertura dentro do mês contra qualquer evento previsto no contrato que pudesse ocorrer com
+o beneficiário.
+
+Exemplo 2: apropriação pro-rata
+
+Como exemplo, vamos supor que a cobertura contratual se inicie em 11 de junho e o valor mensal do contrato
+seja de R$ 300,00. O registro contábil a ser efetuado no dia 11 de junho é o seguinte:
+D – 12311101/12312101 – Contraprestação Pecuniária/Prêmios a receber
+C – 211119011/211129011 -Provisão de Prêmio ou Contraprestação não Ganha
+                                                                                                R$ 300,00
+
+  No dia 30 de junho, a operadora terá coberto 20 dias do contrato, portanto, terá uma receita ganha de R$
+            200,00. Nesse caso, a operadora efetuará o seguinte registro contábil (30 de junho):
+             D – 211119011/211129011 - Provisão de Prêmio ou Contraprestação não Ganha
+                             C – 3111 - Receita de Contraprestação ou Prêmio
+                                                                                                   R$ 200,00
+
+Notem que a conta de Provisão de Prêmio ou Contraprestação não Ganha terá um saldo de R$ 100,00. Esse
+valor só poderá ser reconhecido como receita no mês de julho, pois em junho não houve cobertura contratual
+de 30 dias, mas apenas 20 dias.
+
+                                       O contrato se dividiu em:
+                          ____________________________|__________________
+                                    11 a 30 de junho              1 a 10 de julho
+
+Se considerarmos o valor total do contrato (anualizado), teríamos ainda no mês de julho mais 20 dias para
+considerar e assim sucessivamente até o término da vigência contratual. A receita de contraprestação ou prêmio
+deve ser reconhecida de acordo com a execução do serviço, que se dá com o decurso da cobertura assistencial
+no tempo.
+
+                                               OBSERVAÇÕES:
+
+1) A contabilidade registra variação patrimonial. No caso da receita relacionada à operação de planos de saúde,
+a operadora deverá registrar qualquer recebimento antecipado em relação à vigência do contrato na conta 2132
+– Receita Antecipada de Contraprestações/Prêmios.
+
+2) Para as operadoras que oferecem plano de saúde comercializados por elas para os seus funcionários, especial
+atenção quanto ao registro contábil desse benefício. O funcionário nesse caso é tratado como beneficiário do
+plano de saúde comercializado pela operadora. Portanto, todo o custo assistencial desse funcionário será em
+despesas com eventos e deverá haver uma receita de contraprestação associada ao plano de saúde
+comercializado.
+
+A exceção ocorre apenas quando a operadora funciona para seus funcionários tal como uma autogestão por
+RH, inclusive com registro de produto específico na ANS. Nesse caso, não há nenhuma receita de
+contraprestação a ser reconhecida e todas as despesas relacionadas à assistência à saúde dos funcionários serão
+tratadas como despesas administrativas.
+
+2.1) A contabilização deverá ser a seguinte:
+
+Pelo valor referente à participação da operadora no plano de saúde do funcionário, quando houver:
+
+Se iniciada a vigência da cobertura, ou seja, o pagamento for no mesmo mês da cobertura contratual, o
+lançamento será:
+D – 461519011 - Despesas com Assistência Médico/Odontológica
+C – 211119011 / 211129011 - Provisão de Prêmio ou Contraprestação não Ganha.
+
+Se não iniciada a vigência da cobertura, ou seja, o pagamento for efetuado no mês anterior à vigência da
+cobertura contratual. Por exemplo: o salário é apropriado no dia 30 do mês e o início de vigência do plano de
+saúde será no dia 01 do mês seguinte. O lançamento contábil será:
+D – 461519011 - Despesas com Assistência Médico/Odontológica
+C – 2132 – Contraprestação Pecuniária/Prêmios recebidos – AMH ou Odonto.
+
+Pelo valor referente à contribuição do funcionário no plano de saúde contratado por ele dentro da operadora
+que ele trabalha.
+
+Partindo do registro contábil do salário que a operadora deverá pagar ao funcionário:
+
+Pelo valor do salário devido ao funcionário:
+D – 461219011 - Despesas com Salários e Ordenados
+C – 218119011 – Salários a Pagar
+
+Pelo valor do pagamento da parte do funcionário ao plano de saúde. Se o pagamento do salário for efetuado no
+mês de vigência do risco, ou seja, a operadora apropria o salário no dia 30 e paga no próprio dia 30, e a vigência
+do contrato do plano de saúde também é iniciada no dia 30. O lançamento será:
+D – 2118119011 - Salários a Pagar
+C - -211119011/211129011- Provisão de Prêmio ou Contraprestação não Ganha
+
+Se a data de vigência do contrato do plano de saúde é iniciada no mês seguinte, por exemplo, dia 1, dia 5 ou
+dia 10, e o pagamento do salário do funcionário é efetuado no mês anterior. O lançamento será:
+D – 2118119011 - Salários a Pagar
+C – 2132 – Contraprestação Pecuniária/Prêmios recebidos – AMH ou Odonto.
+
+No início de vigência do contrato a operadora irá baixar o valor da conta 2132 e apropriar a Provisão de Prêmio
+ou Contraprestação Não Ganha. Ao final do mês, apropriará a parcela do risco decorrido do plano de saúde em
+receita de contraprestação ou prêmio.
+D – 2132 – Receita Antecipada de Contraprestações/Prêmios
+C –211119011/211129011 - Provisão de Prêmio ou Contraprestação não Ganha
+
+3) Para as operadoras que comercializam planos de assistência a saúde na modalidade de pós-pagamento, a
+taxa de administração cobrada deve ser registrada como Receita de Contraprestação. Esse valor compõe a
+receita da operação principal, que é formada pelo custo do serviço acrescido de uma taxa de carregamento que
+suporte a operacionalização do plano.
+
+3.1) Pelo lançamento da taxa no último dia do mês de cobertura contratual:
+D – 12311/12312 - Contas a Receber
+C – 311112 / 311122 - Receita de Contraprestação
+
+
+2) REGISTRO CONTÁBIL DO CANCELAMENTO
+
+Se o beneficiário do contrato exemplificado no item 1 (exemplo 2) deste manual cancelar o contrato em 20 de
+junho, ele terá tido cobertura contratual por 10 dias e essa cobertura não poderá ser cancelada, porque não se
+cancela serviço prestado. Os 20 dias restantes do período a decorrer deverão ser estornados em contas
+patrimoniais, porque não se traduzirão em nenhum efeito no resultado:
+
+Se o valor já tiver sido recebido:
+D – 211119011/211129011 – Provisão de Prêmios e Contraprestação não Ganha
+C – 213119011/213119012/213129011/213129012 – Contraprestação Pecuniária a Restituir/Prêmios a
+Restituir
+                                                                                          R$ 200,00
+
+Se o valor não tiver sido recebido:
+D – 211119011/211129011 – Provisão de Prêmios e Contraprestação não Ganha
+C –12311101/12312101 – Contraprestação Pecuniária/Prêmios a receber
+                                                                                                   R$ 200,00
+
+Então, ficaremos com um saldo de R$ 100,00 na Provisão de Prêmio ou Contraprestação não Ganha, referente
+ao período de 11 a 20 de junho, período que a operadora prestou o serviço de cobertura do risco contratual.
+Esse valor deverá ser reconhecido como receita, com o seguinte lançamento:
+D – 211119011/211129011 – Provisão de Prêmios ou Contraprestação não Ganha
+C – 31111/31112 - Receita de Contraprestação ou Prêmios
+                                                                                                R$ 100,00
+
+Será reconhecido o valor de R$ 100,00 como receita, independentemente de ter sido recebido ou não.
+
+Se a operadora ainda não recebeu o valor, mas tiver a possibilidade de recebê-lo, esse valor ficará registrado
+no contas a receber até que seja liquidado.
+
+Se o crédito é de difícil recebimento, deverá ser registrada provisão para risco sobre crédito, mas esse valor
+não deverá ser estornado da receita.
+
+Receita de serviço prestado não é passível de estorno.
+
+A receita é registrada pelo regime de competência, o que não tem nenhuma relação com o efetivo recebimento
+de contraprestação ou recebimento do prêmio.
+
+A contraprestação ou o prêmio podem ser recebidos antes, durante ou depois do período de cobertura
+contratual, mas a receita deve ser reconhecida especificamente no período de cobertura, que é a receita
+relacionada ao serviço prestado pelo mercado de saúde suplementar.
+
+EXCEÇÃO:
+
+Nos contratos em pós-pagamento, nos quais a operadora registra as despesas com eventos e no mesmo
+momento registra a receita de contraprestações, pode ocorrer a glosa nas despesas. Para essa operação,
+incluímos na conta de Receita de Contraprestação – Pós Pagamento a conta Ajuste por Glosa.
+
+Essa operação não é um cancelamento de receita, mas um ajuste no valor que é repassado ao beneficiário pelo
+contrato ser de pós-pagamento.
+
+A receita de contraprestação e receita de prêmios só poderá ser cancelada em caso de erro, quando deverá ser
+efetuado um estorno (por exemplo, uma emissão indevida, o que não deverá ser recorrente).
+
+3) REGISTRO DA PROVISÃO DE RISCOS SOBRE CRÉDITOS
+
+Vamos tomar como exemplo um caso em que haja um beneficiário que esteja com duas mensalidades em atraso
+e a operadora julgue que não conseguirá receber esse crédito. Para exemplificar, vamos desconsiderar os
+impostos e vamos supor que o valor mensal seja de R$ 300,00 e o início de vigência do contrato seja
+01/01/2016.
+Ao final do segundo mês, em 28/02/2016, a operadora evidenciará os seguintes saldos, considerando que o
+beneficiário não pagou nenhuma prestação:
+
+Contas a Receber: R$ 600,00
+Provisão de Prêmios e Contraprestação Não Ganha: R$ 600,00
+
+Se o período foi decorrido, uma parte do valor que estava na Provisão de Prêmios e Contraprestação não Ganha
+foi reconhecida como receita, porque independente de ter havido recebimento, o serviço foi prestado (cobertura
+assistencial). Assim, no final de janeiro houve o reconhecimento da receita de contraprestação ou prêmio na
+ordem de R$ 300,00. Em fevereiro, a cobertura contratual de todo o mês de fevereiro, portanto, foi reconhecida
+mais uma parcela de receita no valor de R$ 300,00.
+
+Se, nessa data, a operadora julgar que não receberá esses valores, deverá constituir a provisão para risco sobre
+crédito, efetuando os seguintes lançamentos:
+D – 4419 - Despesa com Provisão para Perdas sobre Créditos
+C – 12311109 ou 12311209/ 12312109 ou 12312209 - Provisão para Perdas sobre Créditos
+                                                                                                      R$ 600,00
+
+O período de risco decorrido que já foi reconhecido como receita, ou seja, o mês todo de janeiro e o mês todo
+de fevereiro, não poderá ser estornado na receita, porque não se cancela serviço prestado e a operadora, de fato,
+cobriu esse risco para o beneficiário.
+
+        OBS: É obrigatória a cobertura do risco, sem o recebimento do prêmio/contraprestação, tal como
+        previsto no inciso II do artigo 13 da Lei 9656/98:
+      “Art. 13. Os contratos de produtos de que tratam o inciso I e o § 1o do art. 1o desta Lei têm renovação
+      automática a partir do vencimento do prazo inicial de vigência, não cabendo a cobrança de taxas ou
+      qualquer outro valor no ato da renovação.
+      Parágrafo único. Os produtos de que trata o caput, contratados individualmente, terão vigência mínima
+      de um ano, sendo vedadas:
+      (...)
+      II - a suspensão ou a rescisão unilateral do contrato, salvo por fraude ou não-pagamento da mensalidade
+      por período superior a sessenta dias, consecutivos ou não, nos últimos doze meses de vigência do
+      contrato, desde que o consumidor seja comprovadamente notificado até o quinquagésimo dia de
+      inadimplência;”
+
+       4) FATO GERADOR DA DESPESA COM EVENTOS
+
+Evento é qualquer despesa que a operadora incorra para a prestação do atendimento referente à cobertura
+contratual do beneficiário do plano de saúde comercializado, inclusive a taxa de intercâmbio eventual que uma
+operadora paga à outra para prestar atendimento ao seu beneficiário.
+
+Também devem ser classificados como eventos as despesas incorridas com beneficiários de outras operadoras
+suportadas diretamente pela operadora, em função de operações de corresponsabilidade pela gestão dos riscos
+decorrentes do atendimento dos beneficiários
+A operadora pode utilizar para prestar essa cobertura rede própria, rede conveniada e outra operadora. Por
+vezes, seu beneficiário pode ter acesso a uma cobertura contratada na rede do SUS (neste caso, a operadora
+está sujeita ao ressarcimento ao SUS).
+
+Critério de rateio
+
+Se uma operadora possuir rede assistencial (ambulatórios, consultórios, hospitais, etc) em sua estrutura
+patrimonial, ou seja, operando no mesmo CNPJ, sem um critério de rateio verificável, deverá efetuar o rateio
+conforme o que segue.
+
+A operadora deverá precificar todos os atendimentos médicos nas redes assistenciais próprias, independente
+de ser beneficiário ou outro paciente. Essa precificação não será registrada contabilmente, sendo realizada
+somente por meio de controles gerenciais.
+
+No final do mês, a operadora terá todo o atendimento precificado nas mesmas bases ou em valores próximos.
+
+A precificação dos beneficiários dos planos comercializados pela operadora deverá ser efetuada pelo valor
+mais recorrente cobrado pela rede assistencial, normalmente, o valor do atendimento prestado a outras
+operadoras. Ou seja, a precificação dos beneficiários e dos outros pacientes deve ser a mais próxima possível.
+
+Com base nesses valores de “faturamento próprio” a operadora irá ratear os custos, registrando contabilmente
+as receitas com atendimentos a pacientes que não sejam seus beneficiários ou beneficiários assumidos em
+corresponsabilidade na conta 332119011 ou 332129011 – Receitas com Prestação de Serviços não
+Relacionadas com Planos de Saúde da Operadora, e os custos referentes aos atendimentos desses pacientes na
+conta 442119019 ou 442129019 – Despesas com Prestação de Serviços não Relacionados com Planos de Saúde
+da Operadora.
+
+Em relação aos seus beneficiários e beneficiários assumidos em corresponsabilidade, a operadora deverá
+registrar como despesas com eventos, no grupo 4111, os custos incorridos para seu atendimento, que será
+apurado pela proporcionalidade das despesas em relação ao “faturamento próprio” dos atendimentos
+relacionados aos seus beneficiários, que a operadora terá precificado em controles gerenciais.
+
+O “faturamento próprio” relacionado a atendimentos a beneficiários não será passível de reconhecimento
+contábil.
+
+O exemplo abaixo ajuda a ilustrar.
+
+Suponhamos que um hospital atenda um parto de uma paciente de outra operadora em intercâmbio eventual e
+cobre por esse procedimento o valor de R$ 3.000,00. Esse valor será registrado em Receita na conta 332119011
+ou 332129011 – Receitas com Prestação de Serviços não Relacionada com Planos de Saúde da Operadora.
+Para esse registro contábil o documento suporte será a nota fiscal emitida para cobrar pelo atendimento.
+
+Suponhamos que esse mesmo hospital atenda dois partos de beneficiárias do plano que tenha exigido os
+mesmos procedimentos do atendimento à paciente externa ao plano de saúde. A operadora deverá emitir um
+documento, que não seja fiscal (apenas de controle), computando também o valor de R$ 3.000,00 para cada
+atendimento. Esse documento não é base para registro contábil, é apenas documento para controle gerencial.
+No final do mês, considerando que tenha havido somente esses três atendimentos, o “faturamento total” do
+hospital terá sido na ordem de R$ 9.000,00, sendo R$ 6.000,00 de atendimentos aos beneficiários do plano
+comercializado pela operadora, e R$ 3.000,00 de atendimentos a outros pacientes. Apenas o valor de 3.000,00
+deve ser reconhecido no grupo 3321.
+
+O valor de R$ 6.000,00 não poderá, em nenhuma hipótese, ser registrado contabilmente, sendo somente
+considerado como base para rateio dos custos da rede própria e alocação das despesas com evento. O
+faturamento referente a esses atendimentos já estará reconhecido na receita de contraprestação referente aos
+planos de saúde contratados por esses beneficiários.
+
+Essa precificação foi efetuada pelo preço que a operadora pratica com outros atendimentos porque esse é um
+preço verificável.
+
+No final do mês, vamos supor que a operadora tenha apurado um custo total do hospital no valor de R$
+4.500,00, então, registrará no grupo 411 – Despesas com Eventos o valor de R$ 3.000,00 e registrará o valor
+de R$ 1.500,00 na conta 442119019 ou 442129011 – Despesas com Prestação de Serviços não Relacionados
+com Planos de Saúde da Operadora
+
+O rateio foi efetuado da seguinte forma: R$ 4.500,00 de custos totais dividido por R$ 9.000,00 de “faturamento
+total” = 0,50
+
+Então a despesa com eventos será da ordem de R$ 6.000,00 x 0,50 = R$ 3.000,00 e a dedução de receitas com
+prestação de serviços não relacionados com planos de saúde da operadora será de R$ R$ 3.000,00 x 0,50 = R$
+1.500,00
+
+A operadora deverá manter controle gerencial dos atendimentos aos seus beneficiários em que conste o CPF
+do beneficiário, o procedimento efetuado, a data e a precificação, de acordo com o preço praticado com
+atendimentos de pacientes que não são beneficiários de seus planos de saúde.
+
+Esse controle deve estar disponível para verificação da auditoria e da ANS, a qualquer tempo.
+
+As operadoras poderão elaborar um critério de rateio próprio de seus custos, porém, as contas contábeis
+envolvidas no lançamento serão somente essas.
+
+É proibido o registro de qualquer despesa do hospital como despesa administrativa, ainda que seja relacionada
+à água, energia elétrica, ou qualquer outro gasto com funcionamento.
+
+Despesas Administrativas registram tão somente os gastos incorridos pela área administrativa da operadora.
+
+As operadoras devem considerar que os custos fixos serão rateados, no mínimo, pela capacidade esperada de
+atendimento e, caso os atendimentos não alcancem esse número, o excesso de custo fixo deve ser tratado como
+442119014 - Custo de ociosidade no sub-grupo 442 - Despesas com Operações de Assistência a Saúde Não
+Relacionadas com Plano de Saúde da Operadora.
+
+Os custos fixos não devem causar uma volatilidade relevante no valor alocado como despesas com eventos.
+  A precificação utilizada pela operadora para o critério de rateio da rede assistencial própria, que opere no
+                            mesmo CNPJ, deve ser divulgada em nota explicativa.
+
+                      Pagamento por Procedimento ou Outras Formas de Pagamento
+
+As despesas com eventos serão segregadas em Pagamento por Procedimento ou Outras Formas de
+Pagamento.
+
+Sempre que a operadora realizar pagamento de despesas com eventos que não seja Pagamento por
+Procedimento, no qual é determinada a identificação do beneficiário que está relacionado ao evento, inclusive
+utilizando-se critério de rateio, a operadora deve registrar essas outras formas (p.ex., capitation) em subgrupo
+específico para cada tipo de contratação.
+
+                            Plano de Saúde para Funcionários e Colaboradores
+
+Quando a operadora contribui para o plano dos funcionários, esse valor é alocado em despesas administrativas
+com assistência médico-odontológica. Todos os valores de atendimentos decorrentes da cobertura contratual
+do plano de saúde devem ser alocados como despesas com eventos.
+
+Quando a operadora oferece aos funcionários cobertura de eventos assistenciais como uma autogestão por RH
+(inclusive com produto registrado na ANS), os valores relacionados aos eventos ocorridos serão registrados
+em sua totalidade como despesas administrativas.
+
+5) REGISTRO DE EVENTOS/SINISTROS
+
+Eventos são todas as despesas incorridas com o beneficiário do plano comercializado ou disponibilizado pela
+operadora para cobertura de riscos que possam comprometer a saúde dos beneficiários.
+
+Também devem ser classificados como eventos as despesas incorridas com beneficiários de outras operadoras
+suportadas diretamente pela operadora, em função de operações de corresponsabilidade pela gestão dos riscos
+decorrentes do atendimento dos beneficiários.
+
+A despesa na contabilidade deve ser registrada quando incorrida, independentemente do pagamento, esse
+momento é o que se denomina registro contábil pelo regime da competência.
+
+Regime de competência contábil prevê o reconhecimento mensal de todas as despesas incorridas no período.
+
+A operadora deve estimar mensalmente o valor dos atendimentos ocorridos e ainda não avisados para constituir
+a Provisão de Eventos Ocorridos e Não Avisados, em obediência ao princípio da competência.
+
+Quanto aos eventos avisados, os lançamentos contábeis devem ser efetuados da forma em que seguem:
+             a) Pelo conhecimento da ocorrência do evento por qualquer meio de informação:
+    D – 41111/41112 - Eventos Conhecidos ou Avisados de Assistência Médico Hospitalar/Odontológico
+C – 21111903/21112903 - Provisão de Eventos/Sinistros a Liquidar
+
+b) Pelo registro da Coparticipação dos beneficiários em Eventos/Sinistros.
+O valor a ser registrado como despesa com eventos é bruto de qualquer recuperação. Após o registro contábil
+do total da conta médica, a operadora irá analisar se detém o direito de recuperação por coparticipação em
+relação a algum beneficiário que tenha utilizado as coberturas contratuais e efetuará o lançamento para ajustar
+o valor das despesas com eventos:
+D - 123311011/123312011 - Participação dos Beneficiários em Eventos/Sinistros Indenizados
+     C – 411111013/411121013 - Recuperação/Ressarcimento por Coparticipação em Eventos/Sinistros
+
+c) Pelo registro da Glosa.
+O valor a ser registrado como Despesa com Eventos é o primeiro valor que a operadora toma conhecimento.
+Após a análise das contas a operadora pode identificar que o valor cobrado não está correto, efetuando
+lançamento para ajustar o valor:
+D – 21111903/21112903 - Provisão de Eventos/Sinistros a Liquidar
+           C – 411111012/411121012 - Recuperação/Ressarcimento por glosa de Eventos/Sinistros
+
+d) Pelo registro da constituição da Provisão de Eventos Ocorridos e Não Avisados
+Suponha que uma operadora comece a comercializar planos e que a estimativa é de sinistralidade a 60% da
+receita de prêmio/contraprestação. Se a receita for de R$ 100,00 no mês de janeiro, o período de cobertura for
+de 1º a 30 desse mês e todos os prestadores fecharem as contas no final do mês para informar a cobrança dos
+eventos à operadora no 3º dia do mês subsequente, teríamos:
+D – 41411/41412 – Variação da Provisão de Eventos/Sinistros ocorridos e não avisados
+C – 21111904/21112904 - Provisão de Eventos/Sinistros ocorridos e não avisados
+                                                                                                    R$ 60,00
+
+Considerando que a estimativa da operadora em relação à sinistralidade se mostre insuficiente, pois a operadora
+recebeu R$ 65,00 de avisos de eventos/sinistros relacionados a janeiro, serão feitos os seguintes lançamentos:
+
+No mês de fevereiro, a operadora deverá reconhecer os eventos avisados relacionados a janeiro:
+D – 411 Eventos/Sinistros conhecidos ou avisados de assistência a saúde
+C – 21111903/21112903 Provisão de Eventos/Sinistros a Liquidar
+                                                                                                     R$ 65,00
+
+Após reconhecer o evento avisado a operadora poderá ajustar a provisão de eventos/sinistros não avisados,
+dependendo da análise do atuário responsável, fazendo o seguinte lançamento:
+D – 41411/41412 – Variação da Provisão de Eventos/Sinistros ocorridos e não avisados
+C – 21111904/21112904 - Provisão de Eventos/Sinistros ocorridos e não avisados
+                                                                                                 R$ 5,00
+
+Como será fevereiro, haverá também novo reconhecimento de receitas de contraprestações.
+
+e) Pelo pagamento ao prestador.
+D – 21111903/21112903 Provisão de Eventos/Sinistros a Liquidar
+C – Caixa/Bancos
+
+f) Pelo pagamento ao SUS
+D – 211119021 Provisão de Eventos/ Sinistros a Liquidar para o SUS
+C – Caixa/Bancos
+
+Ressarcimento ao SUS
+
+As operadoras de planos privados de assistência a saúde devem proceder ao registro contábil relativo ao
+ressarcimento ao SUS, mensalmente, nas contas descritas abaixo, com base nos valores das notificações dos
+Avisos de Beneficiários Identificados (ABI) considerando o percentual histórico de cobrança (%hc), somado
+ao montante total cobrado nas Guias de Recolhimento da União (GRU) emitidas e ao saldo de parcelamento
+aprovado pela ANS.
+
+
+O percentual histórico de cobrança (%hc) será calculado com base no histórico individual das operadoras, pelo
+total dos valores cobrados sobre o total dos valores notificados, com base nos ABIs emitidos até 120 dias
+anteriores ao mês da contabilização.
+
+
+O valor total dos ABIs notificados e ainda sem a emissão das respectivas GRUs pela ANS, multiplicado
+pelo %hc, deverá assim ser contabilizado.
+
+D - 41111107/41111207/41112107/41112207- Sistema Único de saúde
+C – 211119024- Provisão de Eventos/ Sinistros a Liquidar para o SUS
+
+
+No ato da emissão a GRU deve ser registrada contabilmente nas contas acima indicadas.
+
+
+Todos os meses deve ser efetuada a revisão dos valores referentes às ABIs notificadas, registrando-se
+contabilmente o percentual do histórico de cobrança. Se os valores forem menores que os registrados no mês
+anterior, deve ser efetuado lançamento de complementação:
+
+D – 41111107/41111207/41112107/41112207- Sistema Único de saúde
+C – 211119021
+
+Se os valores forem maiores que os registrados no mês anterior, deve ser efetuado lançamento de reversão
+parcial:
+
+D – 211119021
+C – 411111073/411121073/411121071/411121079/411122071/411122079 – Sistema Único de saúde
+
+
+O montante correspondente ao parcelamento do ressarcimento ao SUS, após aprovação da ANS e com
+vencimento em prazo superior a doze meses da data do balanço, considerando que este valor já esteja
+devidamente contabilizado, deverá ser reclassificado do passivo circulante na conta 211119021 Provisão de
+Eventos/Sinistros a Liquidar para 231119022/231129021 – Provisão de Eventos/Sinistros a Liquidar para o
+SUS – Parcelamento.
+Os valores de Ressarcimento ao SUS a serem registrados serão disponibilizados mensalmente na página da
+ANS na Internet (www.ans.gov.br - Espaço da Operadora - Ressarcimento ao SUS - Processos Físicos).
+
+Os valores relacionados a ressarcimento ao SUS que sejam objeto de processo judicial e que tenha sido exigido
+o depósito judicial do valor integral do débito, poderão ser reclassificados para a conta 231119022 – Provisão
+de Eventos/Sinistros a Liquidar para o SUS – Ação Judicial com Depósito Judicial.
+
+As ações judiciais que não tiverem a garantia de depósito judicial integral não poderão ser reclassificadas,
+devendo permanecer na conta 211119021/211129021 – Provisão de Eventos/Sinistros a Liquidar para o SUS
+– GRU.
+
+
+6) OPERAÇÕES DE INTERCÂMBIO EVENTUAL E CORRESPONSABILIDADE PELA GESTÃO
+DOS RISCOS DECORRENTES DO ATENDIMENTO DOS BENEFICIÁRIOS
+
+
+6.1) OPERAÇÃO DE INTERCÂMBIO EVENTUAL
+
+Intercâmbio Eventual ocorre quando um beneficiário de uma operadora, por um motivo não recorrente, é
+atendido em uma localidade diferente da região de operação da operadora contratada e por um acordo entre
+operadoras, a operadora local presta o atendimento e cobra o valor integral da operadora que detém o contrato.
+
+Essa operação não caracteriza receita ou despesa para a operadora que efetua o atendimento em relação ao
+valor que será ressarcido pela operadora que detém o risco, haverá somente a receita relativa à taxa de
+administração cobrada por esse atendimento eventual.
+
+Se a operadora que prestar o atendimento utilizar sua própria rede, que opere no mesmo CNPJ que a operadora,
+deverá considerar a operação como atendimento a outras operadoras e não como intercâmbio, devendo registrar
+a operação de acordo com o item 4 desse manual.
+
+Operadora que detém o risco
+a) Pelo registro do fato gerador da receita pela operadora que detém o risco, considerando Assistência Médico
+Hospitalar na modalidade de pré-pagamento.
+D – 123111011/ 123111012 - Contraprestação Pecuniária/Prêmios a Receber
+C – 311111011/21/31/41/51/61 - Contraprestações Emitidas
+
+b) Registro dos valores informados pela operadora que providenciou o atendimento, inclusive o valor da taxa
+de administração do intercâmbio eventual cobrada no atendimento. Esse registro será suportado por um
+documento que não seja fiscal, na proporção do reembolso, porque não há realização de serviço (cobertura de
+risco), há somente a cobrança de um reembolso baseado na nota fiscal emitida pelo prestador para a operadora
+que prestou o atendimento. Quanto à taxa de administração, a operadora que estiver cobrando deverá emitir
+um documento fiscal para que a operadora que detém o risco possa efetuar o registro contábil suportado por
+um documento hábil.
+
+Essa informação entre as operadoras deve ser tempestiva, ou seja, no momento em que a operadora que prestou
+atendimento identifique o valor que deverá ser repassado pela operadora que detém o contrato, deverá avisar
+imediatamente, para que a operadora detentora do contrato possa efetuar o lançamento contábil da despesa de
+acordo com o princípio da competência.
+
+D – 411111011/21/31/41/51/61 Eventos Conhecidos ou Avisados de Assistência Médico Hospitalar –
+Intercâmbio eventual C – 211119033 Provisão de Eventos/Sinistros a Liquidar – Intercâmbio Eventual
+
+c) Registro do pagamento efetuado a operadora que prestou atendimento.
+D – 211119033 Provisão de Eventos/Sinistros a Liquidar
+C – Caixa e/ou Bancos
+
+Operadora que prestou atendimento
+
+a) Registro dos eventos cobrados pelos atendimentos do Intercâmbio Eventual, no momento do recebimento
+da conta.
+ D – 124119022/124129022 Contas a Receber/Intercâmbio a Receber – Atendimento Eventual - Reembolso
+ C – 214119011 Prestadores de Serviços de Assistência a Saúde – Não relacionados com planos de saúde da
+                                               operadora
+
+b) Pode ocorrer a situação em que a operadora que prestou o atendimento cobre um valor diferente do valor
+que deverá pagar ao prestador. Essa diferença ocorre nas situações em que é utilizada uma tabela específica
+para as operações de intercâmbio que é diferente da tabela utilizada pela operadora que prestou o atendimento
+com os seus prestadores.
+Nessa situação, a operadora que prestou o atendimento apresentará uma variação patrimonial em relação a essa
+diferença, que pode ser a maior ou menor em relação ao valor que efetuará o pagamento ao prestador.
+
+Se a diferença for a maior, a operadora que prestou o atendimento efetuará o seguinte registro contábil, e nesse
+caso, a operadora deverá emitir um documento fiscal, porque de fato está realizando uma receita:
+D – 124119021/124129021 Contas a Receber/Intercâmbio a Receber – Atendimento Eventual – Taxa de
+Administração
+           C – 332179012/332169012 - Receita com Intercâmbio Eventual por Diferença de Tabela.
+
+  Se a diferença for a menor, a operadora que prestou a atendimento efetuará o seguinte registro contábil:
+        D – 442219011/442229011 – Despesas com Intercâmbio Eventual por Diferença de Tabela
+ C – 214119011/214129011 Prestadores de Serviços de Assistência a Saúde – Não relacionados com planos
+                                          de saúde da operadora
+
+b) Registro do fato gerador da receita com a taxa de Intercâmbio Eventual. Com emissão de um documento
+fiscal
+D – 124119021/124129021 Contas a Receber/Intercâmbio a Receber – Atendimento Eventual – Taxa de
+Administração
+C –332169011/332179011 Taxa de Administração - Intercâmbio Eventual
+
+c) Registros dos valores recebidos da Operadora que detém o Risco
+D – Caixa e/ou Bancos
+  C – 124119021/124129021 Contas a Receber/Intercâmbio a Receber – Atendimento Eventual – Taxa de
+                                          Administração
+C - 124119022/124129022 Contas a Receber/Intercâmbio a Receber – Atendimento Eventual - Reembolso
+
+d) Registro do pagamento efetuado ao prestador que atendeu ao beneficiário.
+ D – 214119011/214129011 Prestadores de Serviços de Assistência a Saúde – Não relacionados com planos
+                                          de saúde da operadora
+C – Caixa ou Bancos
+
+6.2) OPERAÇÕES DE CORRESPONSABILIDADE PELA GESTÃO DOS RISCOS DECORRENTES
+DO ATENDIMENTO DOS BENEFICIÁRIOS (Operação de intercâmbio definitivo ou habitual/
+convênios de reciprocidade / aluguel de rede / repasse em pré-pagamento / repasse em pós pagamento ou
+em custo operacional/ risco cedido)
+
+Ocorre quando um beneficiário de uma operadora com a qual mantém vínculo contratual é atendido por outra
+operadora, e por um acordo ou contratação entre as operadoras, o atendimento pode ser feito de forma
+continuada.
+
+Tais operações também são comumente conhecidas como intercâmbio definitivo ou habitual com repasse em
+pré-pagamento ou em custo operacional (entre as cooperativas médicas e odontológicas), reciprocidade (entre
+as autogestões) e contratações de repasse ou de risco cedido em pré ou pós (entre medicinas de grupo e
+odontologia de grupo) e visam a viabilizar a cobertura de assistência à saúde prevista contratualmente nos
+planos comercializados ou disponibilizados em contratos coletivos, em uma região a qual a operadora não
+possui vínculo direto com a rede. Neste caso, a operadora indica uma rede de outra operadora para atendimento
+aos beneficiários, de forma continuada em determinada região.
+
+Se a operadora que prestar o atendimento utilizar sua própria rede, que opere no mesmo CNPJ que a operadora,
+deve registrar a operação observando o item 4 desse manual.
+
+Resumo de operação de corresponsabilidade pela gestão dos riscos decorrentes do atendimento dos
+beneficiários:
+                        Contrato de Assistência                             Há relacionamento entre
+                               à saúde                         operadoras (em pré ou pós) definido em instrumentos
+                                                                               jurídicos específicos
+
+
+                                   PJ
+
+
+        BENEFICIÁRI                         OPERADORA                          OPERADORA
+            O                                   A                                  B
+                                                                                             A relação jurídica e
+                                                                                              financeira entre
+                                                                                               Operadora B e
+                                                                                              Prestador não é
+                                                                                                alterada pela
+                                                                                                relação com a
+                      Beneficiário é atendido pelo Prestador                                     Operadora A
+                              (Rede da Operadora B)
+                                                                               PRESTADOR
+
+Para fins das orientações a seguir, esclareça-se que:
+   a) A operadora que mantém vínculo com beneficiários será denominada Operadora “A” e que operadora
+      que presta atendimento será denominada Operadora “B”;
+
+   b) Embora a relação jurídica entre as operadoras possa se dar por meio de instrumentos jurídicos que não
+      necessariamente recebam a terminologia de contrato, tal relação será representada como uma
+      contratação entre a Operadora “A” e Operadora “B” para fins de ilustração das diversas situações a
+      seguir.
+
+6.2.1) Situação 1: Quando a Pessoa Jurídica contrata a Operadora “A” em preço preestabelecido
+(pagando contraprestação/mensalidade) e a Operadora “A” firma com a Operadora “B” compromisso
+de corresponsabilidade pela gestão dos riscos decorrentes do atendimento dos beneficiários em preço
+preestabelecido (valor fixo per capita), para viabilizar o acesso de (alguns dos) seus beneficiários à rede
+da Operadora “B”, a contabilização deve ser efetuada conforme a seguir:
+
+Operadora A
+
+1º) Pela emissão da contraprestação de contratos de cobertura assistencial de preço preestabelecido com
+    pessoa jurídica:
+D – 1231X101 – Contraprestação Pecuniária/Prêmios a Receber
+C – 2111X9011 – Provisão de Prêmio/Contraprestação Não Ganha - PPCNG
+
+2º) Pela apropriação da contraprestação de contratos de cobertura assistencial de preço preestabelecido com
+    pessoa jurídica:
+D – 2111X9011 – Provisão de Prêmio/Contraprestação Não Ganha - PPCNG
+C – 3111X10XX – Contraprestação Emitida
+
+3º) Pela pactuação com a Operadora B do compromisso de corresponsabilidade pela gestão dos riscos
+    decorrentes do atendimento dos beneficiários em preço preestabelecido:
+D – 3117X10XX (-) Contraprestação de corresponsabilidade transferida/Cobertura Assistencial com Preço
+Pré-estabelecido
+C – 2135X1011 – Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Preestabelecido
+
+4º) Pelo recebimento da contraprestação paga pelo contratante:
+D – 121319011 – Bancos Conta Movimento
+C – 1231X101 – Contraprestação Pecuniária/Prêmios a Receber
+
+5º) Pelo pagamento à Operadora B pela corresponsabilidade cedida:
+D – 2135X1011 – Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Preestabelecido
+C – 121319011 – Bancos Conta Movimento
+
+Operadora B - Para operadora a cobertura deve ser reconhecida como preço preestabelecido (natureza
+da relação jurídica com a Operadora A)
+
+6º) Pela assunção de compromisso de corresponsabilidade pela gestão dos riscos decorrentes do atendimento
+    dos beneficiários (da Operadora A) em preço preestabelecido:
+D – 1234X1011 - Contraprestação Corresponsabilidade Assumida
+C – 2111X9011 – Provisão de Prêmio/Contraprestação Não Ganha - PPCNG
+
+7º) Pelo recebimento da contraprestação da corresponsabilidade assumida:
+D – 121319011 – Bancos Conta Movimento
+C – 1234X1011 – Contraprestação Corresponsabilidade Assumida
+
+8º) Pela apropriação da contraprestação da corresponsabilidade assumida em preço preestabelecido:
+D – 2111X9011 – Provisão de Prêmio/Contraprestação Não Ganha – PPCNG
+C – 3111X10X6 – Corresponsabilidade Assumida
+
+9º) Pela apropriação da despesa dos eventos ocorridos e não avisados de beneficiários da Operadora A
+    decorrentes da corresponsabilidade assumida:
+D – 4141X9011 – Provisão de Eventos/Sinistros Ocorridos e Não Avisados
+C – 2111X9041 – Provisão de Eventos/Sinistros Ocorridos e Não Avisados
+
+10º) Pelo conhecimento dos eventos de beneficiário da Operadora A decorrentes da corresponsabilidade
+     assumida:
+D – 4111X10XX – Despesa com Eventos/Sinistros...
+C – 2111X903X – Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores
+
+11º) Pelo pagamento ao prestador do atendimento assistencial:
+D – 2111X903X – Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores
+C – 121319011 – Bancos Conta Movimento
+
+Operadora A
+
+12º) Pelo recebimento da informação da Operadora B do valor dos atendimentos assistenciais prestados aos
+     beneficiários em corresponsabilidade (apenas para fins de registro do atendimento em
+     corresponsabilidade):
+D - 4111X10XX – Despesa com Eventos/Sinistros
+C - 2111X9033 – Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores
+D - 2111X9033 – Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores
+C - 4111X10XX – Despesa com Eventos/Sinistros
+
+6.2.2) Situação 2: Quando a Pessoa Jurídica contrata a Operadora “A” em preço preestabelecido
+(pagando contraprestação/mensalidade) e a Operadora “A” firma com a Operadora “B” compromisso
+de corresponsabilidade pela gestão dos riscos decorrentes do atendimento dos beneficiários em preço
+pós-estabelecido (atendimento dos beneficiários + taxa de administração), para viabilizar o acesso de
+(alguns dos) seus beneficiários à rede da Operadora “B”, a contabilização deve ser efetuada conforme a
+seguir:
+
+Operadora A
+1º) Pela emissão da contraprestação de contratos de cobertura assistencial de preço preestabelecido com
+    pessoa jurídica:
+
+D – 1231X101 – Contraprestação Pecuniária/Prêmios a Receber
+C – 2111X9011 – Provisão de Prêmio/Contraprestação Não Ganha - PPCNG
+
+2º) Pela apropriação da contraprestação de contratos de cobertura assistencial de preço preestabelecido com
+    pessoa jurídica:
+D – 2111X9011 – Provisão de Prêmio/Contraprestação Não Ganha - PPCNG
+C – 3111X20XX – Contraprestação Emitida
+
+3º) Pela pactuação com a Operadora B do compromisso de corresponsabilidade pela gestão dos riscos
+     decorrentes do atendimento dos beneficiários em preço pós-estabelecido:
+Sem lançamentos neste momento, uma vez que o pagamento à Operadora “B” ocorrerá apenas após
+utilização de seus beneficiários na rede.
+
+4º) Pelo recebimento da contraprestação paga pelo contratante:
+D – 121319011 – Bancos Conta Movimento
+C – 1231X101 – Contraprestação Pecuniária/Prêmios a Receber
+
+5º) Pela apropriação da despesa dos eventos ocorridos e não avisados:
+D – 4141X9011 – Provisão de Eventos/Sinistros Ocorridos e Não Avisados
+C – 2111X9041 – Provisão de Eventos/Sinistros Ocorridos e Não Avisados
+
+Operadora B – Para essa operadora a cobertura deve ser reconhecida como preço pós-estabelecido
+(natureza da relação jurídica com a Operadora A)
+
+6º) Pelo conhecimento dos eventos de beneficiários da Operadora A decorrentes da corresponsabilidade
+    assumida:
+D – 4111X20XX – Despesa com Eventos/Sinistros
+C – 2111X903X – Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores
+
+7º) Pelo pagamento ao prestador do atendimento assistencial:
+D – 2111X903X – Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores
+C – 121319011 – Bancos Conta Movimento
+
+8º) Pela cobrança de contraprestação pela corresponsabilidade assumida de atendimento dos beneficiários (da
+    Operadora A) em preço pós-estabelecido, por conta dos atendimentos realizados:
+D – 1234X2011 – Contraprestação Corresponsabilidade Assumida
+C – 3111X20X6 – Corresponsabilidade Assumida
+
+Operadora A - Deve ser reconhecida como preço preestabelecido (natureza do contrato com a pessoa
+jurídica/beneficiário da Operadora A)
+9º) Pela cobrança da contraprestação (da Operadora B) pela corresponsabilidade pela gestão dos riscos
+    decorrentes do atendimento dos beneficiários:
+D – 3117X10XX (-) Contraprestação de corresponsabilidade transferida/Cobertura Assistencial com Preço
+Pré-estabelecido
+C – 2135X2011 – Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pós -Estabelecido
+
+10º) Pelo pagamento à Operadora B pela corresponsabilidade cedida:
+D – 2135X2011 – Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pós-Estabelecido
+C – 121319011 – Bancos Conta Movimento
+
+Operadora B
+
+11º) Pelo recebimento da contraprestação pela corresponsabilidade assumida:
+D – 121319011 – Bancos Conta Movimento
+C – 1234X2011 – Contraprestação Corresponsabilidade Assumida
+
+6.2.3) Situação 3: Quando a Pessoa Jurídica contrata a Operadora “A” em preço pós-estabelecido
+(pagando contraprestação apenas em função do atendimento dos beneficiários + taxa de administração)
+e a Operadora “A” firma com a Operadora “B” compromisso de corresponsabilidade pela gestão dos
+riscos decorrentes do atendimento dos beneficiários em preço pós-estabelecido (atendimento dos
+beneficiários + taxa de administração), para viabilizar o acesso de (alguns dos) seus beneficiários à rede
+da Operadora “B”, a contabilização deve ser efetuada conforme a seguir:
+
+Operadora A
+
+1º) Pela contratação de cobertura assistencial de preço pós-estabelecido com pessoa jurídica:
+Sem lançamentos neste momento, uma vez que só haverá cobrança caso haja utilização dos beneficiários.
+
+2º) Pela pactuação com a Operadora B do compromisso de corresponsabilidade pela gestão dos riscos
+     decorrentes do atendimento dos beneficiários em preço pós-estabelecido :
+Sem lançamentos neste momento, uma vez que o pagamento à Operadora “B” ocorrerá apenas após
+utilização de seus beneficiários na rede.
+
+Operadora B – Para operadora a cobertura deve ser reconhecida como preço pós-estabelecido (natureza
+da relação jurídica com a Operadora A)
+3º) Pelo conhecimento dos eventos de beneficiários da Operadora A decorrentes da corresponsabilidade
+    assumida:
+D – 4111X20XX – Despesa com Eventos/Sinistros
+C – 2111X903X – Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores
+4º) Pelo pagamento ao prestador do atendimento assistencial:
+D – 2111X903X – Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores
+C – 121319011 – Bancos Conta Movimento
+
+5º) Pela cobrança de contraprestação pela corresponsabilidade assumida de atendimento dos beneficiários (da
+    Operadora A) em preço pós-estabelecido, por conta dos atendimentos realizados::
+D – 1234X2011 – Contraprestação Corresponsabilidade Assumida
+C – 3111X20X6 – Corresponsabilidade Assumida
+Operadora A - Para operadora a cobertura deve ser reconhecida como preço pós-estabelecido (natureza
+do contrato com a pessoa jurídica/beneficiário da Operadora A)
+6º) Pela cobrança da contraprestação (da Operadora B) pela corresponsabilidade pela gestão dos riscos
+    decorrentes do atendimento dos beneficiários:
+D – 3117X20XX (-) Contraprestação de corresponsabilidade transferida/Cobertura Assistencial com Preço
+Pós-estabelecido
+C – 2135X2011 – Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pós-estabelecido
+
+7º) Pelo pagamento à Operadora B pela corresponsabilidade cedida:
+D – 2135X2011 – Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Pós-estabelecido
+C – 121319011 – Bancos Conta Movimento
+
+8º) Pela emissão da contraprestação de contratos de cobertura assistencial de preço pós-estabelecido com
+     pessoa jurídica:
+D – 1231X201 – Contraprestação Pecuniária/Prêmios a Receber
+C - 3111X20XX – Contraprestação Emitida
+
+9º) Pelo recebimento da contraprestação paga pelo contratante:
+D – 121319011 – Bancos Conta Movimento
+C – 1231X201 – Contraprestação Pecuniária/Prêmios a Receber
+
+6.2.4) Situação 4: Quando a Pessoa Jurídica contrata a Operadora “A” em preço pós-estabelecido
+(pagando contraprestação apenas em função do atendimento dos beneficiários + taxa de administração)
+e a Operadora “A” firma com a Operadora “B” compromisso de corresponsabilidade pela gestão dos
+riscos decorrentes do atendimento dos beneficiários em preço preestabelecido (valor fixo per capita),
+para viabilizar o acesso de (alguns dos) seus beneficiários à rede da Operadora “B”, a contabilização
+deve ser efetuada conforme a seguir:
+
+Operadora A
+
+1º) Pela contratação de cobertura assistencial de preço pós-estabelecido com pessoa jurídica:
+Sem lançamentos neste momento, uma vez que só haverá cobrança caso haja utilização dos beneficiários.
+
+2º) Pela pactuação com a Operadora B do compromisso de corresponsabilidade pela gestão dos riscos
+    decorrentes do atendimento dos beneficiários em preço preestabelecido (deve ser reconhecida a natureza
+    do contrato com a pessoa jurídica) :
+D – 3117X20XX (-) Contraprestação de corresponsabilidade transferida/Cobertura Assistencial com Preço
+Pós-estabelecido
+C – 2135X1011 – Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Preestabelecido
+
+3º) Pelo pagamento à Operadora B pela corresponsabilidade cedida:
+D – 2135X1011 – Intercâmbio a Pagar de Corresponsabilidade Transferida - Preço Preestabelecido
+C – 121319011 – Bancos Conta Movimento
+Operadora B - Para operadora a cobertura deve ser reconhecida como preço preestabelecido (natureza
+da relação jurídica com a Operadora A)
+
+4º) Pela assunção de compromisso de corresponsabilidade pela gestão dos riscos decorrentes do atendimento
+    dos beneficiários (da Operadora A) em preço preestabelecido :
+
+D – 1234X1011 - Contraprestação Corresponsabilidade Assumida
+C – 2111X9011 – Provisão de Prêmio/Contraprestação Não Ganha - PPCNG
+
+5º) Pelo recebimento da contraprestação pela corresponsabilidade assumida:
+D – 121319011 – Bancos Conta Movimento
+C – 1234X1011 – Contraprestação Corresponsabilidade Assumida
+
+6º) Pela apropriação da contraprestação pela corresponsabilidade assumida de atendimento aos beneficiários
+    da Operadora A em preço preestabelecido:
+D – 2111X9011 – Provisão de Prêmio/Contraprestação Não Ganha – PPCNG
+C – 3111X10X6 – Corresponsabilidade Assumida
+
+7º) Pela apropriação da despesa dos eventos ocorridos e não avisados de beneficiários da Operadora A
+    decorrentes da corresponsabilidade assumida:
+D – 4141X9011 – Provisão de Eventos/Sinistros Ocorridos e Não Avisados
+C – 2111X9041 – Provisão de Eventos/Sinistros Ocorridos e Não Avisados
+
+8º) Pelo conhecimento dos eventos de beneficiários da Operadora A decorrentes da corresponsabilidade
+    assumida:
+D – 4111X10XX – Despesa com Eventos/Sinistros...
+C – 2111X903X – Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores
+
+9º) Pelo pagamento ao prestador do atendimento assistencial:
+D – 2111X903X – Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores
+C – 121319011 – Bancos Conta Movimento
+
+Operadora A
+
+10º) Pelo recebimento da informação da Operadora B do valor dos atendimentos assistenciais prestados aos
+     beneficiários em corresponsabilidade (para fins de registro do atendimento em corresponsabilidade e para
+     gerar cobrança para contrato em pós):
+D - 4111X20XX – Despesa com Eventos/Sinistros
+C - 2111X9033 – Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores
+D - 2111X9033 – Provisão de Eventos/Sinistros a Liquidar para Outros Prestadores
+C - 4111X20XX – Despesa com Eventos/Sinistros
+
+11º) Pela emissão da contraprestação de contratos de cobertura assistencial de preço pós-estabelecido com
+     pessoa jurídica:
+D – 1231X201 – Contraprestação Pecuniária/Prêmios a Receber
+C – 3111X20XX – Contraprestação Emitida
+
+12º) Pelo recebimento da contraprestação paga pelo contratante:
+D – 121319011 – Bancos Conta Movimento
+C – 1231X201 – Contraprestação Pecuniária/Prêmios a Receber
+
+7) REGISTRO DE PROVISÕES JUDICIAIS
+
+De acordo com o CPC 25 - Provisões, Passivos Contingentes e Ativos Contingentes, uma provisão é um passivo
+de prazo ou valor incertos.
+Uma provisão deve ser reconhecida quando, e apenas quando:
+
+a) uma entidade tem uma obrigação presente (legal ou não formalizada) como resultado de um evento passado;
+b) é provável (ou seja, mais provável que sim do que não) que uma saída de recursos que incorporam benefícios
+econômicos será necessária para liquidar a obrigação; e
+c) possa ser feita uma estimativa confiável do valor da obrigação. Esse Pronunciamento Técnico ressalta que
+uma estimativa confiável não pode ser feita apenas em casos extremamente raros.
+
+Em casos raros, não é claro se existe, ou não, uma obrigação presente. Nesses casos, presume-se que um evento
+passado dá origem a uma obrigação presente se, levando em consideração toda a evidência disponível, é mais
+provável do que não que existe uma obrigação presente na data do balanço.
+
+Quando uma entidade está sujeita à obrigação legal é improvável que essa obrigação não seja reconhecida nas
+demonstrações contábeis. Uma obrigação originada em lei só poderá ser tratada como remota ou possível se
+houver um fato específico que suporte esse julgamento, por exemplo, uma jurisprudência pacificada.
+
+Nenhum item registrado nas demonstrações contábeis como provisões tributárias será passível de baixa, à
+exceção da ocorrência de um fato novo, como julgamento da ação em transitado em julgado.
+
+O lançamento contábil referente a provisões deve ser efetuado pela essência da operação, o fato de a operadora
+ter que liquidar uma obrigação, amigável ou judicialmente, não deve alterar o registro contábil no resultado
+das operadoras, esse conceito é o que preconiza a aplicação da essência econômica sobre a forma jurídica.
+
+Se a operadora estiver discutindo uma ação judicial e o tema for horas-extras, e de acordo com o que prevê o
+CPC 25 essa ação for considerada como perda provável, deverá registrar essa ação como:
+D – 461219015 – Despesas com Empregados – Reclamações Trabalhistas
+C – 215319013/235329013 – Provisões para Ações Judiciais – Ações Trabalhistas.
+
+Se a operadora estiver discutindo uma ação judicial de um imóvel em que seja locatária, cujo tema for, por
+exemplo, reajuste de contrato de locação, e de acordo com o que prevê o CPC 25 essa ação for considerada
+como perda provável, deverá registrar essa ação como:
+
+D – 463119011 – Despesas com Localização e Manutenção – Aluguel
+C – 215319012/235329012/21112902/21112903/23112902/23112903              – Provisões para Ações Judiciais –
+Ações Cíveis
+Se a operadora estiver discutindo uma dívida tributária, deverá registrar essa ação como:
+
+D – 321 Tributos diretos de operações com planos de Assistência à Saúde da Operadora ou 322 Tributos diretos
+de outras atividades de assistência à saúde ou 465 Despesas com Tributos
+C – 215319011/235329011 – Provisões para Ações Judiciais – Ações Tributárias.
+
+Se a operadora estiver discutindo judicialmente o pagamento de um evento, e de acordo com o que prevê o
+CPC 25 essa ação considerada como perda provável, deverá registrar essa ação como:
+
+D – 4111 – Despesas com Eventos ou Sinistros a Liquidar
+C – 21111902/21111903/23111902/23111903 – Provisão para Eventos/Sinistros a Liquidar
+
+Se a operadora estiver discutindo judicialmente o pagamento de danos morais relacionados a um beneficiário
+e de acordo com o que prevê o CPC 25 essa ação for considerada como perda provável, deverá registrar essa
+ação como:
+
+D – 441319016 – Reclamações Judiciais por Danos Morais – Beneficiários de Planos de Saúde
+C – 215319012/235329012 – Provisões para Ações Judiciais – Ações Cíveis
+
+Se a operadora estiver discutindo uma ação judicial e o tema for vínculo com serviços de terceiros, e de acordo
+com o que prevê o CPC 25 essa ação for considerada como perda provável, deverá registrar essa ação como:
+
+D – 462119016 – Remuneração por Serviços de Terceiros - Reclamações Judiciais
+C – 215319012/235329012 – Provisões para Ações Judiciais – Ações Cíveis
+
+Não existem despesas com ações judiciais genéricas, a contabilidade sempre requer uma informação qualitativa
+das despesas incorridas na operadora. Se fosse admitida a expressão genérica e uma operadora discutisse o
+pagamento de todos os seus eventos, a sinistralidade da operadora seria nula, o que não faria nenhum sentido
+em termos de informação econômica.
+
+8) REGISTRO DE IMPOSTO DE RENDA E CONSTRIBUIÇÃO SOCIAL SOBRE LUCRO LÍQUIDO
+
+As operadoras que são tributadas com base no lucro real, antecipam imposto durante o ano par apurar o valor
+real devido na data base de 31/12.
+
+Os valores devidos apurados parcialmente no mês são registrados da seguinte forma:
+
+D – 611119011 - Imposto de Renda da Pessoa Jurídica
+C - 216119011 – Imposto de Renda da Pessoa Jurídica a Pagar
+D – 611219011 - Contribuição Social sobre o Lucro Líquido – CSLL
+C - 216119021 – Contribuição Social sobre o Lucro Líquido a Pagar
+
+Os valores antecipados ao longo do exercício social devem ser registrados da seguinte forma:
+
+D – 216119012 – (-) Antecipação do IRPJ
+C – Banco ou Caixa
+D – 216119022– (-) Antecipação de CSLL
+C – Banco ou Caixa
+
+Essa antecipação deve ser registrada como redutora do passivo até o limite do saldo da conta 216119011 –
+Imposto de Renda da Pessoa Jurídica a Pagar. Se a antecipação ultrapassar o valor do imposto apurado, a
+diferença deve ser registrada na conta 126119013 – Antecipações de Imposto de Renda – Ativo Circulante.
+
+O mesmo raciocínio deve ser utilizado para a Contribuição Social sobre Lucro Líquido, substituindo as contas
+específicas existentes para registrar a operação.
+
+       9) FUNDOS COMUNS PARA CUSTEIO DE DESPESAS DE ASSISTÊNCIA À SAÚDE
+
+Com vistas a mitigar os riscos da operação de planos de saúde, algumas operadoras aderem a fundos que têm
+como objeto o suporte ao custeio de despesas de assistência à saúde.
+
+Esses fundos são formados por várias operadoras que buscam maior liquidez em determinadas situações
+previstas em seus contratos como garantia financeira de remidos, eventos indenizáveis relacionados a
+internações de alto custo ou procedimentos de alta complexidade, etc.
+
+Em síntese, as operadoras contribuem com montantes financeiros prefixados e solicitam
+reembolso/ressarcimento junto ao fundo de eventos de alta severidade, que são efetivados em observância a
+limites e condições pactuadas em regulamento próprio.
+
+Algumas operadoras são administradoras dos recursos financeiros coletados pelas demais junto ao fundo,
+atuando ainda na regulação das contas de forma a reduzi-la a um valor mais adequado, de acordo com conceitos
+ou critérios econômicos e médico-assistenciais.
+
+Na Operadora participante do fundo a contabilização deve ser efetuada conforme a seguir:
+
+1º) Pela cobrança da contribuição mensal do fundo. Deve ser reconhecida na despesa os valores
+    correspondentes à taxa de administração do fundo e no ativo os valores destinados para
+    reembolsos/ressarcimentos de contas:
+
+D – 4413X9019 – Outras Despesas (pelo valor da taxa de administração)
+D – 1239X1088 - Outros Créditos de Operações de Assistência Médico-Hospitalar (pelo valor destinado
+para reembolsos/ressarcimentos de contas)
+C – 2138X9081 – Outros Débitos de Operações com Planos de Assistência
+
+2º) Pelo pagamento da contribuição e taxa de administração ao fundo:
+
+D – 2138X9081 – Outros Débitos de Operações com Planos de Assistência
+C – 121319011 – Bancos Conta Movimento
+3º) Pelo recebimento de reembolso/ressarcimento de contas junto ao fundo:
+
+D – 121319011 – Bancos Conta Movimento
+C – 1239X1088 - Outros Créditos de Operações de Assistência Médico-Hospitalar
+
+Eventual saldo devedor da operadora com o fundo deverá ser reclassificado para a conta 2138X9081 – Outros
+Débitos de Operações de Planos de Assistência, devendo ser imediatamente baixado quando ocorrer novo
+pagamento de contribuição pela operadora ao fundo.
+
+Nas operadoras que atuam na administração desses fundos a contabilização deve ser efetuada conforme a
+seguir:
+
+1º) Pela cobrança da contribuição mensal ao fundo. Deve ser reconhecida na despesa os valores
+    correspondentes à taxa de administração do fundo e no ativo os valores destinados para
+    reembolsos/ressarcimentos de contas:
+
+D – 1241X9088 - Outros Créditos de Operações de Prestação de Serviços Médico-Hospitalar (pelo valor
+destinado para reembolsos/ressarcimentos de contas)
+C – 3321X9011 - Receita com Prestação de Serviços (pelo valor da taxa de administração)
+C – 214889081 – Outros Débitos Não relacionados com Planos de Saúde da Operadora
+
+2º) Pelo recebimento da contribuição e taxa de administração ao fundo:
+
+D – 121319011 – Bancos Conta Movimento
+C – 1241X9088 – Outros Créditos de Operações de Prestação de Serviços Médico Hospitalar
+
+3º) Pelo Pagamento do reembolso/ressarcimento de contas às operadoras:
+
+D – 214889081 – Outros Débitos Não relacionados com Planos de Saúde da Operadora
+C – 121319011 – Bancos Conta Movimento
+
+Eventual saldo credor da operadora administradora do fundo com alguma operadora participante deverá ser
+reclassificado para a conta 1241X9088 – Outros Créditos de Operações de Prestação de Serviços Médico
+Hospitalar, devendo ser imediatamente baixado quando ocorrer novo recebimento de contribuição pela
+operadora devedora ao fundo.
+                                                                                        ” (NR)
+                                                ANEXO III
+
+“                                  ANEXO I
+                  PROCEDIMENTOS PREVIAMENTE ACORDADOS – PPA
+           SOBRE A PROVISÃO DE EVENTOS/SINISTROS A LIQUIDAR - DIOPS/ANS
+
+                             Data-base do DIOPS: ____ trimestre de _______.
+
+1 – DIOPS Financeiro e Balancete
+1.1   - Com base no balancete de verificação devidamente assinado pelo Contabilista e pelo administrador
+      responsável da Operadora, elaborado para a data-base sob exame, preencher o quadro abaixo com o
+      saldo final das classes e grupos de contas identificados, que serão informados no DIOPS:
+                                                 Contas                      Saldo – R$
+            1 – Ativo
+            12 – Ativo Circulante
+            13 – Ativo Não Circulante
+            2 – Passivo
+            21 – Passivo Circulante
+            23 – Passivo Não Circulante
+            25 – Patrimônio Líquido/ Patrimônio Social
+            3 – Receita
+            31 – Receita com Operações de Assistência à Saúde
+            32 – (-) Tributos Diretos de Operações de Assistência à
+            Saúde
+            33 – Outras Receitas Operacionais
+            34 – (-) Tributos Diretos de Outras Atividades de
+            Assistência à Saúde
+            35 – Receitas Financeiras
+            36 – Receitas Patrimoniais
+            4 – Despesa
+            41 – Eventos Indenizáveis Líquidos/Sinistros Retidos
+            43 – Despesas de Comercialização
+            44 – Outras Despesas Operacionais
+            45 – Despesas Financeiras
+            46 – Despesas Administrativas
+            47 – Despesas Patrimoniais
+            61 – Impostos e Participações sobre o Lucro
+            69 – Apuração de Resultado
+
+2    – EVENTOS / SINISTROS A LIQUIDAR
+
+Controle Gerencial (Relatório analítico)
+
+2.1 – A operadora dispõe dos seguintes controles gerenciais obrigatórios para
+comprovar as operações registradas na contabilidade:
+ Registro de Eventos/Sinistros Conhecidos ou Avisados                Sim?      Não?
+                                                                     ()        ()
+ Registro de Eventos/Sinistros Ressarcidos ou Recuperados            Sim?      Não?
+                                                                     ()        ()
+
+2.1.1 - O saldo de Eventos/Sinistros Conhecidos ou Avisados, demonstrado no Controle Gerencial
+(analítico), confere com o saldo apresentado no balancete contábil da data-base analisada?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS, as explicações para as
+referidas divergências.
+
+2.1.2 – Os Eventos/Sinistros Conhecidos ou Avisados referentes a beneficiário assumidos em operações de
+corresponsabilidade no atendimento estão identificados no Controle Gerencial (analítico)?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS, as explicações para as
+referidas divergências.
+( ) A operadora não possui operações de corresponsabilidade de atendimento de beneficiários no período.
+
+2.1.3 – Os Eventos/Sinistros Conhecidos ou Avisados, bem como aqueles ressarcidos ou recuperados,
+demonstrados no Controle Gerencial (analítico), possuem detalhamento que possibilite a identificação da data
+ou mês da ocorrência dos eventos?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS, as explicações para as
+referidas divergências.
+
+2.1.4 A partir dos Controles Gerenciais que dão suporte aos lançamentos contábeis de Eventos Indenizáveis
+Líquidos / Sinistros Retidos apropriados no trimestre, preencher o quadro abaixo:
+                                 Despesas com Eventos/Sinistros        Glosas, Recuperações,
+           Descrição                         Avisados               Variação da PEONA e Outros
+                                             (em R$)                          (em R$)
+ Eventos Indenizáveis
+ Líquidos / Sinistros Retidos
+ referentes aos atendimentos
+ de beneficiários da operadora
+ Eventos Indenizáveis
+ Líquidos / Sinistros Retidos
+ referentes aos beneficiários
+ atendidos por
+ corresponsabilidade assumida
+ Total de Eventos
+ Indenizáveis Líquidos /
+ Sinistros Retidos
+
+Contabilização, Competência e Plano de Contas Padrão
+2.2 – Obter o saldo do Livro Razão e preencher o quadro abaixo com os valores que serão informados no
+DIOPS:
+                                                      Saldo Total
+                                                 Balancete    Registro    Diferença
+ Provisão de Eventos/Sinistros a Liquidar
+                                                 Contábil     Auxiliar        R$
+                                                 R$           R$
+ Provisão de Eventos/Sinistros a Liquidar para
+                                                                              (a)
+ o SUS – Passivo Circulante
+ Provisão de Eventos/Sinistros a Liquidar para
+ Outros Prestadores de Serviços Assistenciais                                 (b)
+ – Passivo Circulante
+ Provisão de Eventos/Sinistros a Liquidar para
+                                                                              (c)
+ o SUS – Passivo Não Circulante
+ Provisão de Eventos/Sinistros a Liquidar para
+ Outros Prestadores de Serviços Assistenciais                                 (d)
+ – Passivo Não Circulante
+
+Obter da Administração da OPS explicação para as eventuais diferenças,
+descrevendo-a de forma sucinta:
+(a) ____________________________________________________________
+___________________________;
+(b) ____________________________________________________________
+_______________________________;
+(c) ____________________________________________________________
+___________________________;
+(d) ____________________________________________________________
+___________________________;
+
+2.2.1 – O saldo total contabilizado na “Provisão de Eventos/Sinistros a Liquidar para o SUS” confere com o
+relatório de Ressarcimento ao SUS disponibilizado pela ANS no site www.ans.gov.br?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS, as explicações para as
+referidas divergências e fundamentação do valor contabilizado.
+
+2.2.2 - Eventos/Sinistros a Liquidar - com base no Controle Gerencial (relatório analítico) de
+Eventos/Sinistros Conhecidos ou Avisados, para a data- base analisada e contabilizados na “Provisão de
+Eventos/Sinistros a Liquidar para Outros Prestadores de Serviços Assistenciais”, selecione, aleatoriamente,
+observando a distribuição abaixo, 15 (quinze) contas de eventos/sinistros médico-hospitalares e 15 (quinze)
+contas de eventos/sinistros odontológicos e aplique os procedimentos 2.2.2.1 a 2.2.2.4.
+
+Distribuição das contas médico-hospitalares
+
+- 10 (dez) contas médico-hospitalares de prestador pessoa física; e
+- 5 (cinco) contas médico-hospitalares de prestador pessoa jurídica.
+
+Distribuição das contas odontológicas
+- 10 (dez) contas odontológicas de prestador pessoa física; e
+- 5 (cinco) contas odontológicas de prestador pessoa jurídica.
+
+2.2.2.1 – Os eventos / sinistros a liquidar estão suportados por documentos referentes à despesa médico-
+hospitalar / odontológica com o beneficiário do plano de saúde da operadora ou assumido em operações de
+corresponsabilidade pela gestão dos riscos decorrentes do atendimento (nota fiscal, fatura ou boleto bancário),
+que fundamentam os valores a pagar ao prestador do serviço assistencial?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS, as explicações para as
+referidas divergências.
+
+2.2.2.2 - Os eventos/sinistros a liquidar foram contabilizados na data da apresentação/aviso, ou seja, na data
+em que a OPS tomou conhecimento do gasto assistencial?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS, as explicações para as
+referidas divergências.
+
+2.2.2.3 - A despesa (evento/sinistro) foi reconhecida pelo valor total da conta médica ou odontológica, sendo
+eventuais glosas ou co-participações, contabilizadas, posteriormente, como recuperação da despesa
+assistencial?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS, as explicações para as
+referidas divergências.
+
+2.2.2.4 - A escrituração contábil, no Livro Razão, está de acordo com o Plano de Contas Padrão da ANS,
+quanto a:
+
+2.2.2.4.1 - Codificação das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS, as explicações para as
+referidas divergências.
+
+2.2.2.4.2 - Descrição das contas
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS, as explicações para as
+referidas divergências.
+
+2.2.2.4.3 - A contabilização do evento/sinistro, na data do aviso, foi a crédito da conta de Provisão de
+Eventos/Sinistros a Liquidar e a débito de Eventos/Sinistros Conhecidos ou Avisados?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS, as explicações para as
+referidas divergências.
+
+2.2.2.4.4 – A contabilização do evento/sinistro, ocorreu conforme padronização disposta no Manual de
+Contabilidade?
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS, as explicações para as
+referidas divergências.
+
+2.2.3 - Eventos Subsequentes - com base no relatório de pagamentos (movimento de caixa, extrato bancário
+ou outro controle que demonstre os pagamentos efetuados) do mês subsequente a data-base analisada,
+selecione, aleatoriamente, 10 (dez) pagamentos de eventos efetuados para prestador pessoa jurídica e 5 (cinco)
+pagamentos de eventos efetuados para prestador
+pessoa física e aplique os procedimentos 2.2.3.1 a 2.2.3.4:
+
+2.2.3.1 – Os pagamentos selecionados referem-se a serviço médico-hospitalar/odontológico prestado a
+beneficiário de plano de saúde da operadora?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.2.3.2 - Os eventos/sinistros que originaram os pagamentos selecionados haviam sido contabilizados na conta
+de Provisão para Eventos/Sinistros a Liquidar na data da apresentação/aviso, ou seja, na data em que a OPS
+tomou conhecimento do custo assistencial?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.2.3.3 - As despesas (eventos/sinistros) referentes aos pagamentos selecionados foram reconhecidas pelo valor
+total da conta médico-hospitalar ou odontológica, sendo eventuais glosas ou co-participações, contabilizadas,
+posteriormente, como recuperação da despesa assistencial?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+2.2.3.4 – Os eventos/sinistros selecionados conforme o item 2.2.3.1 e 2.2.3.2 acima,
+foram escriturados no Registro Auxiliar, mensal, por credor, contendo a data de aviso e o saldo da Provisão
+de Eventos/Sinistros a Liquidar, em atenção a RN n.º 227, de 2010?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS,
+as explicações para as referidas divergências.
+
+3 - SEGREGAÇÃO POR DATA DE AVISO DOS EVENTOS/SINISTROS A
+LIQUIDAR
+
+3.1 – Registro Auxiliar - A OPS dispõe do Registro Auxiliar obrigatório, mensal, por credor, contendo a data
+de aviso e o saldo da Provisão de Eventos/Sinistros a Liquidar, em conformidade com a RN n.º 227, de 2010?
+( ) Sim.
+( ) Não. Solicitar à Administração da OPS as explicações para ausência do referido relatório.
+
+3.1.1 – Foram incorporados ao registro auxiliar, as informações referentes aos avisos de ressarcimento ao SUS,
+desde sua notificação pela ANS?
+( ) Sim.
+( ) Não. Solicitar à Administração da OPS as explicações para ausência do referido relatório.
+
+3.2 – Segregação – Demonstrar, no quadro abaixo, o saldo da Provisão de Eventos/Sinistros a Liquidar a ser
+informado no DIOPS sob análise, em eventos/sinistros avisados nos últimos 30 dias e em eventos/sinistros
+avisados há mais de 30 dias:
+
+                                                  PESL ref.              PESL ref.
+                                              atendimentos dos         beneficiários
+ Descrição                                     beneficiários da        atendidos por
+                                                  operadora         corresponsabilidade
+                                                                         assumida
+ Eventos/sinistros conhecidos ou
+ avisados nos últimos 30/60 dias (*)
+ Eventos/sinistros conhecidos ou
+ avisados há mais de 30/60 dias (*)
+ Total
+   (*) Considerar os 30 dias que antecedem a data-base do último mês do trimestre sob análise (incluindo o
+   último dia). Caso a operadora tenha apurado, em 31 de dezembro do exercício anterior, menos de 100 mil
+   beneficiários, a segregação deverá ser feita em eventos/sinistros avisados nos últimos 60 dias e em
+   eventos/sinistros avisados há mais de 60 dias.
+
+3.2.1 – Teste de segregação do saldo de eventos/sinistros a liquidar
+
+Amostra: Com base no Registro Auxiliar (**) de Eventos/Sinistros a Liquidar do último mês do trimestre sob
+análise, selecione, aleatoriamente, 20 (vinte) contas médico-hospitalares e 20 (vinte) contas odontológicas
+classificadas em ‘avisadas nos últimos 30 dias’, observando a seguinte distribuição:
+(**) Caso a OPS não prepare o Registro Auxiliar obrigatório (RN n.º 227/2010), a seleção das contas deve
+ser com base no Livro Razão.
+
+Contas médico-hospitalares
+
+- 10 (dez) contas médico-hospitalares de prestador pessoa física; e
+- 10 (dez) contas médico-hospitalares de prestador pessoa jurídica.
+
+Contas odontológicas
+- 10 (dez) contas odontológicas de prestador pessoa física; e
+- 10 (dez) contas odontológicas de prestador pessoa jurídica.
+
+Para as contas selecionadas, executar os seguintes procedimentos:
+
+3.2.1.1 – verificar se a obrigação está reconhecida na data de aviso da conta médica /odontológica.
+( ) Sim?
+( ) Não? Descrever as divergências existentes e solicitar à Administração da OPS as explicações para as
+mesmas.
+3.2.1.2 - confirmar se estão corretamente classificadas, de acordo com a data de aviso, em eventos conhecidos
+ou avisados nos últimos 30/60 dias e há mais de 30/60 dias, conforme o porte da operadora?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS as explicações para as
+mesmas.
+
+4 - Garantia de Eventos/Sinistros por Depósito Judicial
+
+4.1 – A OPS possui, para a data-base analisada, eventos/sinistros contabilizados e ainda não pagos
+contabilizados na Provisão de Eventos/Sinistros a Liquidar garantidos por depósito judicial?
+( ) Sim. Neste caso, obter, com a Administração da OPS, as informações e preencher o quadro abaixo.
+
+                                                                           Valor
+                             Descrição
+                                                                            R$
+ Montante de eventos/sinistros a liquidar garantido por depósito
+ judicial
+ Valor do depósito judicial
+
+4.2 – Os depósitos judiciais acima descritos estão contabilizados na rubrica de “Depósitos judiciais -
+Eventos/Sinistros” determinada no plano de contas padrão?
+( ) Sim.
+( ) Não. Descrever as divergências existentes e solicitar à Administração da OPS, as explicações para as
+referidas divergências e justificativa para o procedimento adotado pelo contador.” (NR)
+
