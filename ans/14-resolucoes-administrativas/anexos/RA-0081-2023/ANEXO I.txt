@@ -1,0 +1,411 @@
+                                ANEXO I
+
+         GLOSSÁRIO DE SEGURANÇA DA INFORMAÇÃO DA ANS
+
+
+A
+
+Agentes públicos com dispositivos móveis corporativos: servidores ou
+empregados da Administração Pública Federal, que utilizam dispositivos
+móveis de computação de propriedade dos órgãos ou entidade a que
+pertencem.
+
+Agentes públicos com dispositivos móveis particulares: servidores ou
+empregados da Administração Pública Federal que utilizam dispositivos
+móveis de computação de sua propriedade. Os dispositivos particulares
+utilizados para atividades profissionais e de interesse da ANS que, desta
+maneira, se submetem aos padrões corporativos de software e controles de
+segurança, são considerados como dispositivos corporativos.
+
+Alias: endereço de correio eletrônico cuja função é encaminhar mensagens
+para uma ou mais contas de correio.
+
+Ambiente lógico: ambiente composto por softwares e dados em que estão
+alocadas as informações gerenciadas pela ANS.
+
+Anexo: arquivo em formato digital inserido em uma mensagem eletrônica.
+
+Antimalware: software especializado na prevenção, detecção e remoção de
+códigos maliciosos, baseado em uma lista de assinaturas de códigos
+maliciosos pré-definida.
+
+Antispam: Hardware ou software especializado na prevenção, detecção e
+remoção de spams.
+
+Appliance: equipamento que integra hardware e software customizados e
+configurados de acordo com a função específica que desempenha em um
+sistema ou rede de computadores.
+
+Artefato malicioso: qualquer programa de computador, ou parte de um
+programa, construído com a intenção de provocar danos, obter informações
+não autorizadas ou interromper o funcionamento de sistemas e/ou redes de
+computadores.
+Ativo de informação: Conjunto de recursos físicos (computadores,
+impressoras, documentos impressos, discos rígidos, máquinas em geral e etc)
+e lógicos (softwares, arquivos de texto, planilhas, pdf´s e etc) corporativos
+organizados e gerenciados de forma centralizada pela ANS.
+
+B
+
+Backup anual: backup processado no último dia do ano, com retenção dos
+últimos cinco anos.
+
+Backup Diferencial: cópia dos arquivos criados ou alterados desde o evento
+do último Backup Full. O Backup Diferencial é executado diariamente e
+precisará do último conjunto do Backup Full e do último conjunto de Backup
+Diferencial para executar a restauração.
+
+Backup Full: cópia completa de todo e qualquer dado ou sistema presente no
+servidor em questão, independente de quando e se foram ou não efetuadas
+alterações. Este procedimento é comumente adotado para marcar o início de
+um ciclo de cópias subsequentes, e garante a salvaguarda da totalidade dos
+dados.
+
+Backup Incremental: cópia dos arquivos criados ou alterados desde o evento
+do último Backup, seja ele o Full ou o Incremental anterior. O Backup
+Incremental é executado diariamente e precisará do último conjunto do
+Backup Full e de todos os conjuntos de Backup Incrementais para executar a
+restauração.
+
+C
+
+Cache Proxy: serviço de armazenamento local de páginas web e demais
+conteúdos da Internet pelo servidor proxy. O proxy armazena
+temporariamente conteúdos acessados previamente pelos usuários a fim de
+aumentar a velocidade de acesso aos dados e reduzir o consumo de banda
+de Internet, além de possibilitar também o acesso off-line de determinados
+conteúdos.
+
+Caixa Postal: área destinada ao armazenamento centralizado e exibição de
+mensagens eletrônicas recebidas e enviadas.
+
+Cessão de bases de dados: ato de disponibilizar cópia, total ou parcial, de
+dados da ANS, mediante aprovação do gestor competente.
+Ciclo de vida da informação: compreende as fases de criação, manuseio,
+armazenamento, transporte, consumo e descarte de informações.
+
+Classificação da informação: atribuição, pela autoridade competente, de grau
+de sigilo dado à informação, documento, material, área ou instalação,
+considerando critérios previamente definidos e acordados.
+
+Colaborador: qualquer contratado de empresa terceirizada, ainda que não
+usuário de recursos de TIC.
+
+Concedente: responsável pela autorização de acesso às informações,
+ambientes ou recursos.
+
+Credenciais de acesso: conjunto de informações fornecidas pelo usuário para
+autenticar-se junto a um sistema computacional. Pode ser composta por algo
+que o usuário sabe (login e senha), algo que o usuário possui (token,
+smartcard, certificados digitais) ou quem o usuário é (biometria).
+
+CTIR GOV: Centro de Tratamento e Resposta a Incidentes de Segurança em
+Redes de Computadores da Administração Pública Federal, subordinado ao
+Departamento de Segurança de Informação e Comunicações – DSIC do
+Gabinete de Segurança Institucional da Presidência da República – GSI.
+
+D
+
+Dado: qualquer registro de conteúdo armazenado em meio magnético. Pode
+compreender software, dados propriamente ditos (arquivos, bancos de
+dados), conteúdo multimídia ou qualquer outro passível de armazenamento
+em meio magnético.
+
+Dados confidenciais: dados que contenham informações de natureza restrita.
+São exemplos de dados confidenciais informações que permitam a
+identificação de pessoa, mesmo que por meio de associação entre dados
+diferentes, planejamentos estratégicos, evidências de auditorias, entre
+outros.
+
+Dado estruturado: são os dados que estão armazenados, de maneira
+organizada. Esta organização é geralmente feita por colunas e linhas, mas
+pode variar de acordo com a fonte de dados. Geralmente, são armazenados
+em tabelas componentes de bancos de dados ou arquivos acessados por
+aplicações.
+Dado não estruturado: quando não é possível identificar uma organização
+clara dos dados armazenados. Ex. documentos de texto, mensagens de
+correio eletrônico, conteúdo multimídia (imagem, vídeo, áudio) armazenado
+em formato digital. Em conjunto, têm como características grandes volumes,
+rápido crescimento e dificuldade de manipulação pelas ferramentas de
+gerenciamento de bancos de dados ou aplicações que processam arquivos de
+dados.
+
+Disaster Recovery: conjunto de políticas e procedimentos para permitir a
+recuperação ou continuidade da operação da infraestrutura de tecnologia e
+sistemas vitais na sequência de um desastre natural ou provocado pelo
+homem.
+
+Dump: estrutura de tabela e/ou dados de um banco de dados.
+
+E
+
+Equipe de Tratamento e Resposta a Incidentes em Redes Computacionais –
+ETIR: grupo de pessoas com a responsabilidade de receber, analisar e
+responder às notificações e atividades relacionadas a incidentes de
+segurança em redes de computadores.
+
+Encarregado: pessoa indicada pelo controlador e operador para atuar como
+canal de comunicação entre o controlador, os titulares dos dados e a
+Autoridade Nacional de Proteção de Dados (ANPD).
+
+Estação de trabalho (desktop): computador de mesa do tipo PC (do inglês,
+personal computer ou computador pessoal) de propriedade ou sob tutela da
+ANS, incluindo os softwares e respectivas licenças, disponibilizado a um
+agente público para execução de atividades do interesse da ANS.
+
+Evento de segurança da informação: ocorrência identificada de um sistema,
+serviço ou rede, que indica uma possível violação da política de segurança da
+informação ou falha de controles, ou uma situação previamente
+desconhecida, que possa ser relevante para a segurança da informação.
+
+G
+
+Gestor da informação: servidor público responsável por informações
+produzidas pelos processos de negócio sob sua responsabilidade.
+
+Grau de sigilo: gradação de segurança atribuída a dados e informações em
+decorrência de sua natureza ou conteúdo.
+I
+
+Impacto: efeito negativo oriundo da quebra de um dos princípios da
+segurança da informação (confidencialidade, integridade e disponibilidade).
+No contexto de atuação da ANS, considera-se também autenticidade e a
+legalidade como propriedades da informação a serem resguardadas.
+
+Informação custodiada: informação sob a guarda e responsabilidade de
+pessoa natural ou jurídica.
+
+Internet: rede global de computadores com a finalidade de
+compartilhamento de conteúdo, vendas, propagandas, entretenimento
+entre outros. Considerada um meio de transmissão não seguro, é também
+usada para ataques a instituições, propagação de malwares, fraudes
+bancárias, etc.
+
+IPS: sigla em inglês para Sistema de Prevenção de Intrusão. Uma solução de
+segurança capaz de detectar e bloquear o tráfego de pacotes infectados por
+códigos maliciosos comparando o padrão de tráfego com assinaturas de
+ameaças conhecidas.
+
+J
+
+Janela de Backup: período de tempo requerido para a geração do backup
+(total, diferencial ou incremental).
+
+L
+
+Link de Internet: serviço de capacidade limitada provido por terceiros para
+prover o acesso à Internet.
+
+Log: registro de evento realizado por um usuário, serviço ou sistema
+armazenado em um local específico.
+
+Login: processo de autenticação e autorização ao qual o usuário é submetido
+antes de ter acesso a um sistema computacional.
+
+M
+
+Medida de contenção: controle e/ou ação tomada para evitar que danos
+causados por um determinado incidente continuem aumentando com o
+passar do tempo. Além disso, tais medidas visam o reestabelecimento do
+sistema/serviço afetado, mesmo eu não seja em sua capacidade total.
+
+Medida de solução: controle e/ou ação tomada para sanar vulnerabilidades
+e problemas que sejam a causa-raiz de um ou mais incidentes de segurança
+da informação.
+
+Mensagem eletrônica: informações criadas, enviadas, encaminhadas,
+respondidas, lidas ou impressas através do serviço de correio eletrônico.
+
+Mídia de Backup: fita, cartucho ou outro tipo de suporte físico adotado para
+gravação e recuperação de dados.
+
+N
+
+Nível mínimo de serviço: acordo formal firmado entre a ANS e terceiros, com
+validade e reconhecimento legal que define especificações de serviços,
+prazos, formas de entrega e penalizações, para assegurar o nível apropriado
+de segurança da informação.
+
+Notebook: computador do tipo móvel de propriedade ou sob tutela da ANS,
+incluindo os softwares e respectivas licenças, disponibilizado a um agente
+público para execução de atividades do interesse da ANS.
+
+Nuvem: conceito de computação e processamento de dados que faz uso de
+recursos de computadores e servidores compartilhados e interligados por
+meio da Internet em infraestrutura privada ou pública.
+
+O
+
+OLAP: Online Analytical Processing ou Processamento Analítico em Tempo
+Real.
+
+OLTP: Online Transaction Processing ou Processamento de Transações em
+Tempo Real.
+
+P
+
+Perímetro de Segurança: área de segurança física ou lógica sob controle da
+ANS, com o objetivo de proteger os ativos e informações seja de vazamento
+ou acessos não autorizados.
+Privilégios: conjunto de ações permitidas a um usuário ou grupo de usuários
+em relação a um determinado elemento ou ambiente, como, por exemplo,
+permissão para ler, criar ou excluir arquivos em um determinado diretório.
+
+Princípio da segregação de funções: princípio que determina que funções de
+execução, validação, homologação, aprovação e auditorias não devem ser
+delegadas a um mesmo indivíduo ou grupo.
+
+Princípio do menor privilégio: princípio que determina que os usuários devem
+receber privilégios suficientes somente para execução de suas atividades
+profissionais.
+
+Prova de Conceito: do inglês Proof of Concept (PoC), é um termo utilizado
+para denominar um modelo prático que possa provar o conceito (teórico)
+estabelecido por uma pesquisa ou artigo técnico. Em Tecnologia da
+Informação (TI), o termo pode ser relacionado ao desenvolvimento de um
+protótipo como ferramenta para provar a viabilidade de um projeto de rede
+de computadores.
+
+Proxy: serviço intermediário entre clientes e servidores que possui
+finalidades como: compartilhar a conexão com a Internet, de modo que o
+proxy seja o único ativo realmente conectado à web; melhorar o
+desempenho do acesso a sites através de um cache proxy de páginas;
+bloquear acesso a páginas cujos conteúdos são proibidos pela Política de
+Segurança da Informação.
+
+Q
+
+Quebra de segurança: ação ou omissão, intencional ou acidental, que resulta
+no comprometimento da segurança da informação e da comunicação.
+
+R
+
+Recurso de Litígio: recurso do sistema de correio na nuvem para realização
+de cópias de segurança.
+
+Recursos de Tecnologia da Informação e Comunicação: equipamentos
+utilizados para acesso, gerenciamento, armazenamento, proteção,
+tratamento e interpretação de informações, incluindo servidores de rede,
+serviços de rede, sistemas, estações de trabalho, dispositivos móveis,
+equipamentos de conectividade, link de dados e outros.
+Recursos intangíveis: recursos que não aparecem nos registros contábeis da
+ANS e que não é possível valorá-los nem sequer aproximadamente, tais como
+reputação da ANS, confiança da sociedade, rotinas organizacionais, etc.
+
+Recursos tangíveis: recursos que se pode ver, se pode tocar, se pode valorar,
+tais como equipamentos, prédios e instalações.
+
+Rede interna: infraestrutura de rede sob controle da ANS, incluindo
+cabeamento, ativos de conectividade, servidores, estações de trabalho,
+dispositivos móveis, appliances, hardware e softwares.
+
+Rede local: conjunto de equipamentos interligados localmente com o
+objetivo de disponibilizar serviços aos usuários de rede da ANS.
+
+Rede sem fio: rede que permite a conexão entre computadores e outros
+dispositivos através da transmissão e recepção de sinais de rádio.
+
+Registros de auditoria (logs): evidência gerada automaticamente devido à
+ocorrência de uma ação.
+
+Repositório de informação: Local destinado ao armazenamento de
+informações independente da mídia em que se encontrem.
+
+Restore: procedimento que se utiliza das cópias de segurança produzidas
+durante o procedimento de Backup para promover a recuperação total ou
+parcial do conteúdo de um ou mais servidores.
+
+Risco: é a relação da probabilidade de uma vulnerabilidade ser explorada por
+um agente de ameaça com o respectivo impacto ao negócio.
+
+S
+
+Senha ou palavra-chave: é um conjunto de caracteres previamente
+convencionado entre duas partes como forma de reconhecimento para
+autenticar usuário.
+
+Serviço de correio eletrônico: sistema centralizado de troca de mensagens
+eletrônicas utilizado para criar, enviar, responder, encaminhar, ler, trocar ou
+imprimir informações entre indivíduos e grupos de indivíduos.
+
+Servidores: equipamentos responsáveis por disponibilizar acesso aos
+diversos serviços de rede, sejam eles aplicativos, armazenagem de dados ou
+tráfego.
+SGBD: Sistema gerenciador de banco de dados.
+
+Software: programa de computador desenvolvido para executar um conjunto
+de ações previamente definidas.
+
+Spam: e-mails não solicitados que, geralmente, são enviados para grande
+número de pessoas com conteúdo comerciais, políticos, ideológicos que
+podem conter códigos maliciosos, além de gerar sobrecarga no serviço de
+correio eletrônico.
+
+Storage: dispositivo com a finalidade de armazenamento de dados.
+
+T
+
+Tape Library: dispositivo de armazenamento que contém uma ou mais
+unidades de fita, certa quantidade de nichos para guardar cartuchos de fitas
+magnéticas, um leitor de código de barras para identificar cartuchos de fita e
+um método automatizado para inserir as fitas na unidade de leitura (um
+robô).
+
+Tentativa de invasão: processo de busca e identificação de vulnerabilidades
+em um sistema computacional, aliado a técnicas de obtenção de acesso não
+autorizado ou utilização.
+
+Termo de Responsabilidade e Sigilo: documento formal firmado entre a ANS
+e terceiros, com validade legal, que define questões de sigilo e
+responsabilidades, além das penalidades em casos de violações.
+
+TIC: Tecnologia da Informação e Comunicação.
+
+Tratamento: toda operação realizada com dados pessoais, como as que se
+referem a coleta, produção, recepção, classificação, utilização, acesso,
+reprodução, transmissão, distribuição, processamento, arquivamento,
+armazenamento, eliminação, avaliação ou controle da informação,
+modificação, comunicação, transferência, difusão ou extração; (LGPD, art. 5,
+X).
+
+Tratamento de Incidentes de Segurança em Redes Computacionais: serviço
+que consiste em receber, filtrar, classificar e responder às solicitações e
+alertas e realizar as análises dos incidentes de segurança, procurando extrair
+informações que permitam impedir a continuidade da ação maliciosa e a
+identificação de tendências.
+U
+
+URL: sigla em inglês que significa Universal Resource Locator, em português,
+Alocador Universal de Recursos. É o nome amigável utilizado para localizar
+recursos na Internet.
+
+Usuários: servidores ocupantes de cargo efetivo ou em comissão,
+requisitados e cedidos, desde que previamente autorizados, empregados de
+empresas prestadoras de serviços terceirizados, consultores, estagiários, e
+outras pessoas que se encontrem a serviço da Administração Pública Federal,
+utilizando em caráter temporário os recursos tecnológicos da ANS,
+formalizado por meio da assinatura do Termo de Responsabilidade e Sigilo.
+
+V
+
+VM (Virtual Machine): recurso capaz de utilizar um único hardware para criar
+e executar vários computadores otimizando a utilização dos recursos.
+
+VTL (Virtual Tape Library): equipamento que simula uma tape library através
+da utilização de discos rígidos em lugar de mídias de backup convencionais,
+possibilitando otimização dos processos de backup e restore.
+
+W
+
+Webmail: sistema que permite ao usuário acessar sua caixa postal de e-mail
+a partir de um navegador web.
+
+Wi-Fi: do Inglês, Wireless Fidelity. Termo usado para se referir genericamente
+a redes sem fio que utilizam qualquer um dos padrões 802.11. Vide definição
+de Rede Sem Fio.
+
+Workflow ou fluxo de trabalho: é a sequência de passos necessários para que
+se possa atingir a automação de processos de um negócio, de acordo com um
+conjunto de regras definidas, envolvendo a noção de processo, permitindo
+que este possa ser transmitido de uma pessoa para outra.
+

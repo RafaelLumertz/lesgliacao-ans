@@ -1,0 +1,130 @@
+                                 ANEXO VI
+
+    TERMO DE CONFIDENCIALIDADE PARA EMPRESAS CONTRATADAS
+
+
+
+Eu, [REPRESENTANTE DA EMPRESA], representante da pessoa jurídica
+cadastrada e celebrante do presente Termo pelo presente instrumento,
+declaro perante a Agência Nacional de Saúde Suplementar, doravante
+denominada ANS, na qualidade de representante da empresa [EMPRESA
+CONTRATADA], portadora do CNPJ nº [CNPJ], estar ciente das minhas
+responsabilidades ao utilizar os sistemas e informações de propriedade ou
+custodiados pela Agência Nacional de Saúde Suplementar – ANS, porventura
+utilizados direta ou indiretamente durante o exercício das atividades
+acordadas e me comprometo a cumprir as determinações constantes deste
+Termo, bem como da lei nº 13.709 de 14 de agosto de 2018 - Lei Geral de
+Proteção de Dados Pessoais (LGPD), a saber:
+
+
+
+1. Tratar as informações e os dados pessoais a que tiver acesso somente para
+as finalidades definidas pela ANS e de acordo com a legislação vigente;
+
+2. Tratar a informação como patrimônio e recurso que tem valor para a ANS,
+de modo a não praticar quaisquer atos que possam afetar a confidencialidade
+ou a integridade dessas informações;
+
+3. Entende-se como informações confidenciais quaisquer informações de
+forma escrita ou verbal, física ou digital, patenteada ou não, de qualquer
+natureza, que não seja considerada pública pela ANS;
+
+4. Em provas de conceito, realizar os testes acordados sem a utilização de
+conteúdos sigilosos, restritos ou confidenciais dos bancos de dados da ANS,
+utilizando, para efeito de customização, somente informações referentes a
+estruturas e campos de tabelas para inserção de conteúdo fictício;
+
+5. Em provas de conceito e testes, incluir nos relatórios gerados marca d’água
+ou qualquer outro mecanismo que indique claramente tratar-se de
+documentos de teste sem qualquer validade;
+
+6. Quando inevitável o acesso a informações confidenciais, guardar sigilo e
+zelar pela sua privacidade sem divulgá-las para pessoas não autorizadas;
+7. Em casos em que haja dúvida acerca da natureza confidencial ou não de
+uma informação, sempre tratá-la como sigilosa, até que venha a ser
+expressamente autorizado pelo representante legal da ANS a proceder de
+maneira diferente;
+
+8. Acessar somente as informações disponibilizadas pela ANS às quais estou
+autorizado, podendo responder perante esta Agência, auditorias ou
+autoridades do país, por acessos ou tentativas de acessos indevidos
+realizados com a minha identificação/autenticação e por uso indevido da
+informação;
+
+9. Comprometer-se a excluir de forma segura qualquer informação concedida
+pela ANS, bem como qualquer relatório ou produto criado com bases nestas,
+após o término do serviço prestado;
+
+10. Informar previamente todas as ferramentas, sistemas e softwares
+utilizados no serviço prestado à ANS e que tipo de acesso ou manipulação de
+dados são realizados por esses;
+
+11. Sempre que possível, utilizar os sistemas/produtos cuja propriedade ou
+direito de uso foram adquiridos por esta Agência;
+
+12. Estar ciente de que toda informação armazenada e processada no
+ambiente computacional da ANS pode ser monitorada, registrada e utilizada
+em procedimentos de auditoria;
+
+13. Guardar segredo de minha autenticação de acesso (senha) ao ambiente
+computacional, não cedendo, não transferindo, não divulgando e nem
+permitindo o seu conhecimento por terceiros, sendo responsável por todas
+as ações realizadas através desse acesso;
+
+14. Seguir as orientações da unidade responsável pela gestão de tecnologia
+da informação e comunicação na ANS relativas à instalação, manutenção e
+uso adequado dos equipamentos;
+
+15. Comunicar à gestão da unidade de tecnologia da informação e
+comunicação a ocorrência de qualquer violação às regras acima, ainda que
+de forma não intencional, bem como qualquer evento que implique em
+possível impedimento de cumprir os procedimentos de segurança
+estabelecidos;
+
+16. Garantir que todos os colaboradores da empresa autorizada a prestar
+serviço à ANS que tiverem acesso lógico ou físico aos recursos tecnológicos
+e/ou dependências internas da ANS assinem, individualmente, seus
+respectivos Termos de Responsabilidade e Sigilo disponibilizados por esta
+Agência;
+
+17. Estar ciente de que todas as responsabilidades dispostas neste
+documento se aplicam igualmente a todos os serviços prestados à ANS,
+incluindo aqueles realizados fora de suas dependências por meio de acesso
+remoto à rede desta Agência;
+
+18. Estar ciente de que as ações ou omissões que possam pôr em risco a
+imagem da ANS, comprometer a rede ou causar qualquer prejuízo a esta
+Agência, que sejam decorrentes da não observância das regras impostas
+neste documento, poderão resultar na apuração de responsabilidade
+criminal, civil e administrativa;
+
+19. Estar ciente de que as responsabilidades dispostas neste documento
+perdurarão inclusive após a cessação do serviço prestado à ANS e abrangem
+as atuais informações e as que venham a ser de propriedade desta Agência
+futuramente.
+
+Desta forma, assumo inteira responsabilidade pelas consequências legais,
+inclusive por danos materiais ou financeiros, devidamente comprovados, em
+virtude da não observância do acima exposto.
+
+
+
+O presente termo é firmado em 02 (duas) vias, de igual teor e forma, para um
+só efeito, perante testemunha.
+
+
+
+____________________________________________________________
+
+(local, data e assinatura) CPF: ________________________
+
+
+
+____________________________________________________________
+
+(assinatura da testemunha) CPF: ________________________
+______________________________________________________________
+_________
+
+(testemunha) SIAPE: ________________________
+

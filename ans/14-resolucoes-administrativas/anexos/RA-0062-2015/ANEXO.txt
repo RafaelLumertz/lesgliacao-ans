@@ -1,0 +1,399 @@
+                                      ANEXO
+
+A
+Administradores de recursos de TI: grupo de usuários com privilégios
+suficientes para instalação, controle, manutenção e acesso a todos os
+módulos e informações de alguma solução tecnológica, como sistemas
+operacionais, serviços de rede, sistemas aplicativos, bancos de dados e
+outros.
+
+Acesso físico: possibilidade de aproximar-se de um ativo ou ambiente a
+ponto de interagir fisicamente com estes.
+
+Acesso lógico: possibilidade de interagir logicamente com o ativo, serviço
+ou sistema a fim de acessar, ler, criar, modificar, copiar, excluir ou imprimir
+informações de acordo com o nível de privilégio associado ao usuário.
+
+Agente público: todo aquele que exerce, ainda que transitoriamente ou
+sem remuneração, por eleição, nomeação, designação, contratação ou
+qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego
+ou função em entidades de qualquer dos Poderes da União, dos Estados, do
+Distrito Federal, dos Municípios.
+
+Agentes públicos com dispositivos móveis corporativos: servidores ou
+empregados da Administração Pública Federal, que utilizam dispositivos
+móveis de computação de propriedade dos órgãos ou entidade a que
+pertencem.
+
+Agentes públicos com dispositivos móveis particulares: servidores ou
+empregados da Administração Pública Federal que utilizam dispositivos
+móveis de computação de sua propriedade. Os dispositivos particulares
+utilizados para atividades profissionais e de interesse da ANS que, desta
+maneira, se submetem aos padrões corporativos de software e controles de
+segurança, são considerados como dispositivos corporativos.
+
+Agente Responsável: Servidor Público ocupante de cargo efetivo ou
+entidade da Administração Pública Federal, direta ou indireta, incumbido de
+chefiar e gerenciar o uso de recursos de tecnologia de informação e
+comunicações.
+
+Alias: endereço de correio eletrônico cuja função é encaminhar mensagens
+para uma ou mais contas de correio.
+
+Ameaça: qualquer agente que é capaz de explorar uma vulnerabilidade,
+conhecida ou não, de um ou mais ativos, sendo que dessa exploração
+podem decorrer prejuízos de qualquer natureza.
+
+Anexo: arquivo em formato digital inserido em uma mensagem eletrônica.
+
+Antimalware: Software especializado na prevenção, detecção e remoção
+de códigos maliciosos, baseado em uma lista de assinaturas de códigos
+maliciosos pré-definida.
+
+Antispam: Hardware ou software especializado na prevenção, detecção e
+remoção de spams.
+Ativo: qualquer elemento, tangível ou intangível, que tenha valor ou que
+contribua para as atividades da organização, podendo ser de caráter
+humano, ambiental, documental, tecnológico, de infraestrutura ou qualquer
+outra classificação aplicável.
+
+Ativo de informação e comunicações (TIC): meios de armazenamento,
+transmissão e processamento, sistemas de informação e processos, bem
+como os locais onde se encontram esses meios e as pessoas que a eles têm
+acesso.
+
+Appliance: equipamento que integra hardware e software customizados e
+configurados de acordo com a função específica que desempenha em um
+sistema ou rede de computadores.
+
+Auditoria: atividade com a finalidade de validar registros ou reconstituir
+um evento relacionado à segurança para auxiliar no exame de suas causas
+e efeitos.
+
+Autenticação: processo que busca verificar a identidade de uma pessoa de
+forma inequívoca, com base em informações confiáveis previamente
+coletadas.
+
+Autenticidade: propriedade de que a informação foi produzida, expedida,
+modificada ou destruída por uma determinada pessoa física, ou por um
+determinado sistema, órgão ou entidade.
+
+B
+Backup ou cópia de segurança: cópia periódica de informações com
+intuito de resguardá-las de forma que possam ser recuperadas em caso de
+perda da informação original.
+
+Base de dados: arquivo ou conjunto de arquivos estruturados utilizados
+como fonte de dados.
+
+C
+Cache Proxy: serviço de armazenamento local de páginas web e demais
+conteúdos da Internet pelo servidor proxy. O proxy armazena
+temporariamente conteúdos acessados previamente pelos usuários a fim de
+aumentar a velocidade de acesso aos dados e reduzir o consumo de banda
+de Internet, além de possibilitar também o acesso off-line de determinados
+conteúdos.
+
+Caixa Postal: área destinada ao armazenamento centralizado e exibição de
+mensagens eletrônicas recebidas e enviadas.
+
+Cessão de bases de dados: ato de disponibilizar cópia, total ou parcial, de
+dados da ANS, mediante aprovação do gestor competente.
+
+Ciclo de vida da informação: compreende as fases de criação, manuseio,
+armazenamento, transporte, consumo e descarte de informações.
+
+Classificação da informação: atribuição, pela autoridade competente, de
+grau de sigilo dado à informação, documento, material, área ou instalação,
+considerando critérios previamente definidos e acordados.
+Colaborador: estagiário, fornecedor, prestador de serviço ou agente
+econômico que tenha acesso a informações ou recursos da ANS.
+
+Concedente: responsável pela autorização de acesso à informações,
+ambientes ou recursos.
+
+Confidencialidade: propriedade de que a informação não esteja disponível
+ou revelada à pessoa física, sistema, órgão ou entidade não autorizado e
+credenciado.
+
+Controles de segurança: formas de tratar o risco, incluindo políticas,
+procedimentos, diretrizes, práticas ou estruturas organizacionais, que
+podem ser de natureza administrativa, técnica, de gestão ou legal.
+
+Credenciais de acesso: conjunto de informações fornecidas pelo usuário
+para autenticar-se junto a um sistema computacional. Pode ser composta
+por algo que o usuário sabe (login e senha), algo que o usuário possui
+(token, smartcard, certificados digitais) ou quem o usuário é (biometria).
+
+Custodiante: usuário, setor ou órgão responsável pela guarda adequada
+de informações ou recursos.
+
+D
+Dado: informação preparada para ser processada, operada e transmitida
+por um sistema ou programa de computador.
+
+Dados confidenciais: dados que contenham informações de natureza
+restrita. São exemplos de dados confidenciais informações que permitam a
+identificação de pessoa, mesmo que por meio de associação entre dados
+diferentes, planejamentos estratégicos, evidências de auditorias, entre
+outros.
+
+Dados pessoais: representação de fatos, juízos ou situações referentes a
+uma pessoa física ou jurídica, passível de ser captada, armazenada,
+processada ou transmitida por meios informatizados ou não.
+
+Disponibilidade: qualidade da informação que pode ser conhecida e
+utilizada por indivíduos, equipamentos ou sistemas autorizados.
+
+Dispositivos móveis: consiste em equipamentos portáteis dotados de
+capacidade computacional, e dispositivos removíveis de memória para
+armazenamento, entre os quais se incluem dentre outros: notebooks,
+netbooks, smartphones, tablets, pen drives, USB drives, HDs externos e
+cartões de memória.
+
+Documento confidencial: contém informações que, no interesse da
+Administração Pública e das partes, devam ser de conhecimento restrito e
+cuja revelação não autorizada possa frustrar seus objetivos ou acarretar
+dano à sociedade e/ou ao Estado.
+
+E
+Estação de trabalho (desktop): computador de mesa do tipo PC (do
+inglês, personal computer ou computador pessoal) de propriedade ou sob
+tutela da ANS, incluindo os softwares e respectivas licenças, disponibilizado
+a um agente público para execução de atividades do interesse da ANS.
+
+F
+Firewall: serviço que provê a filtragem de tráfego entre redes distintas,
+possibilitando a criação de uma grande diversidade de regras com a
+finalidade de permitir, negar e controlar o tráfego entre redes baseado em
+características de tráfego (rede de origem e destino, protocolos, portas ou
+aplicações).
+
+G
+Gestão de Segurança da Informação e Comunicações: ações e
+métodos que visam à integração das atividades de gestão de riscos, gestão
+de continuidade do negócio, tratamento de incidentes, tratamento da
+informação,   conformidade,  credenciamento,     segurança    cibernética,
+segurança física, segurança lógica, segurança orgânica e segurança
+organizacional aos processos institucionais estratégicos, operacionais e
+táticos, não se limitando, portanto, à tecnologia da informação e
+comunicações.
+
+Gestor da informação: servidor público responsável por informações
+produzidas pelos processos de negócio sob sua responsabilidade.
+
+Grau de sigilo: gradação de segurança atribuída a dados e informações em
+decorrência de sua natureza ou conteúdo.
+
+I
+Impacto: efeito negativo oriundo da quebra de um dos princípios da
+segurança da informação (confidencialidade, integridade e disponibilidade).
+No contexto de atuação da ANS, considera-se também autenticidade e a
+legalidade como propriedades da informação a serem resguardadas.
+
+Incidente de segurança da informação: todo e qualquer evento
+adverso, indesejado, inesperado, confirmado ou sob suspeita, que tenha
+uma grande probabilidade de comprometer as operações do negócio e
+ameaçar a segurança da informação.
+
+Informação custodiada: informação sob a guarda e responsabilidade de
+pessoa natural ou jurídica.
+
+Integridade: qualidade da informação não modificada, inclusive quanto à
+origem, trânsito e destino.
+
+Internet: rede global de computadores com a finalidade de
+compartilhamento de conteúdo, vendas, propagandas, entretenimento entre
+outros. Considerada um meio de transmissão não seguro, é também usada
+para ataques a instituições, propagação de malwares, fraudes bancárias
+etc.
+
+Invasão: acesso não autorizado a sistema computacional ou ambiente.
+
+IPS: sigla em inglês para Sistema de Prevenção de Intrusão. Uma solução
+de segurança capaz de detectar e bloquear o tráfego de pacotes infectados
+por códigos maliciosos comparando o padrão de tráfego com assinaturas de
+ameaças conhecidas.
+
+L
+Link de Internet: serviço de capacidade limitada provido por terceiros
+para prover o acesso à Internet.
+
+Login: processo de autenticação e autorização ao qual o usuário é
+submetido antes de ter acesso a um sistema computacional.
+
+M
+Malware: software destinado a se infiltrar em um sistema computacional
+de forma ilícita, com o intuito de subtrair informações ou causar outros
+tipos de danos. Vírus, worms, cavalos de Tróia, spywares e phishing são
+considerados tipos de malwares.
+
+Mensagem eletrônica: informações criadas, enviadas, encaminhadas,
+respondidas, lidas ou impressas através do serviço de correio eletrônico.
+
+N
+Nível mínimo de serviço: acordo formal firmado entre a ANS e terceiros,
+com validade e reconhecimento legal que define especificações de serviços,
+prazos, formas de entrega e penalizações, para assegurar o nível
+apropriado de segurança da informação.
+
+Notebook: computador do tipo móvel de propriedade ou sob tutela da
+ANS, incluindo os softwares e respectivas licenças, disponibilizado a um
+agente público para execução de atividades do interesse da ANS.
+
+P
+Perímetro de Segurança: área de segurança física ou lógica sob controle
+da ANS, com o objetivo de proteger os ativos e informações seja de
+vazamento ou acessos não autorizados.
+
+Política de Segurança da Informação: documento aprovado pela
+autoridade responsável pelo órgão ou entidade da Administração Pública
+Federal, direta e indireta, com o objetivo de fornecer diretrizes, critérios e
+suporte administrativos suficientes à implementação da segurança da
+informação e comunicação.
+
+Privilégios: conjunto de ações permitidas a um usuário ou grupo de
+usuários em relação a um determinado elemento ou ambiente, como, por
+exemplo, permissão para ler, criar ou excluir arquivos em um determinado
+diretório.
+
+Princípio da segregação de funções: princípio que determina que
+funções de execução, validação, homologação, aprovação e auditorias não
+devem ser delegadas a um mesmo indivíduo ou grupo.
+
+Princípio do menor privilégio: princípio que determina que os usuários
+devem receber privilégios suficientes somente para execução de suas
+atividades profissionais.
+Proxy: serviço intermediário entre clientes e servidores que possui
+finalidades como: compartilhar a conexão com a Internet, de modo que o
+proxy seja o único ativo realmente conectado à web; melhorar o
+desempenho do acesso a sites através de um cache proxy de páginas;
+bloquear acesso a páginas cujos conteúdos são proibidos pela Política de
+Segurança da Informação.
+
+Q
+Quebra de segurança: ação ou omissão, intencional ou acidental, que
+resulta no comprometimento da segurança da informação e da
+comunicação.
+
+R
+Recursos     de  Tecnologia     da   Informação      e   Comunicações:
+equipamentos utilizados para acesso, gerenciamento, armazenamento,
+proteção, tratamento e interpretação de informações, incluindo servidores
+de rede, serviços de rede, sistemas, estações de trabalho, dispositivos
+móveis, equipamentos de conectividade, link de dados e outros.
+
+Recursos intangíveis: recursos que não aparecem nos registros contábeis
+da ANS e que não é possível valorá-los nem sequer aproximadamente, tais
+como reputação da ANS, confiança da sociedade, rotinas organizacionais,
+etc.
+
+Recursos tangíveis: recursos que se pode ver, se pode tocar, se pode
+valorar, tais como equipamentos, prédios e instalações.
+
+Rede interna: infraestrutura de rede sob controle da ANS, incluindo
+cabeamento, ativos de conectividade, servidores, estações de trabalho,
+dispositivos móveis, appliances, hardware e softwares.
+
+Rede local: conjunto de equipamentos interligados localmente com o
+objetivo de disponibilizar serviços aos usuários de rede da ANS.
+
+Rede sem fio: rede que permite a conexão entre computadores e outros
+dispositivos através da transmissão e recepção de sinais de rádio.
+
+Registros de auditoria (logs): evidência gerada automaticamente devido
+à ocorrência de uma ação.
+
+Repositório de informação: Local destinado ao armazenamento de
+informações independente da mídia em que se encontrem.
+
+Responsáveis por serviços de TI: usuários que exercem atividades
+relacionadas ao suporte e manutenção de serviços de TI, incluindo sua
+operação e processos de apoio.
+
+Risco: é a relação da probabilidade de uma vulnerabilidade ser explorada
+por um agente de ameaça com o respectivo impacto ao negócio.
+
+S
+Segurança da informação: ações que objetivam viabilizar e assegurar a
+disponibilidade, a integridade, a confidencialidade e a autenticidade das
+informações.
+Senha ou palavra-chave: é um conjunto de caracteres previamente
+convencionado entre duas partes como forma de reconhecimento para
+autenticar usuário.
+
+Serviço de correio eletrônico: sistema centralizado de troca de
+mensagens eletrônicas utilizado para criar, enviar, responder, encaminhar,
+ler, trocar ou imprimir informações entre indivíduos e grupos de indivíduos.
+
+Sigilo: segredo de conhecimento restrito a pessoas credenciadas; proteção
+contra revelação não autorizada.
+
+Sistema Gerenciador de Banco de Dados (SGBD): sistema estruturado
+e especializado de gerenciamento, inserção, armazenamento e consulta de
+dados.
+
+Software: programa de computador desenvolvido para executar um
+conjunto de ações previamente definidas.
+
+Spam: e-mails não solicitados que, geralmente, são enviados para um
+grande número de pessoas com conteúdo comerciais, políticos, ideológicos
+que podem conter códigos maliciosos, além de gerar sobrecarga no serviço
+de correio eletrônico.
+
+T
+Tentativa de invasão: processo de busca e identificação de
+vulnerabilidades em um sistema computacional, aliado a técnicas de
+obtenção de acesso não autorizado ou utilização.
+
+Termo de sigilo e responsabilidade: documento formal firmado entre a
+ANS e terceiros, com validade legal, que define questões de sigilo e
+responsabilidades, além das penalidades em casos de violações.
+
+TIC: Tecnologias de Informação e Comunicação.
+
+Tratamento da informação: recepção, produção, reprodução, utilização,
+acesso, transporte, transmissão, distribuição, armazenamento, eliminação e
+controle da informação, inclusive as sigilosas.
+
+U
+URL: sigla em inglês que significa Universal Resource Locator, em
+português, Alocador Universal de Recursos. É o nome amigável utilizado
+para localizar recursos na Internet.
+
+Usuário: servidores, terceirizados, colaboradores, consultores, auditores e
+estagiários que obtiveram autorização do responsável pela área interessada
+para acesso aos ativos de informação de um órgão ou entidade, formalizada
+por meio da assinatura do Termo de Responsabilidade e Sigilo.
+
+V
+VPN (Virtual Private Network): termo usado para se referir a uma rede
+privada utilizando redes públicas (por exemplo, a Internet) como
+infraestrutura. Estes sistemas utilizam criptografia e outros mecanismos de
+segurança com a finalidade de garantir que somente usuários autorizados
+possam ter acesso à rede privada de forma que os dados não sejam
+interceptados ou interpretados por terceiros.
+
+Vulnerabilidade: fragilidade ou a falta de controles de segurança que
+podem ser exploradas por um agente de ameaça.
+
+W
+Webmail: sistema que permite ao usuário acessar sua caixa postal de e-
+mail a partir de um navegador web.
+
+Wi-Fi: do Inglês, Wireless Fidelity. Termo usado para se referir
+genericamente a redes sem fio que utilizam qualquer um dos padrões
+802.11. Vide definição de Rede Sem Fio.
+
+Workflow: ou fluxo de trabalho. É a sequência de passos necessários para
+que se possa atingir a automação de processos de um negócio, de acordo
+com um conjunto de regras definidas, envolvendo a noção de processo,
+permitindo que este possa ser transmitido de uma pessoa para outra.
+
+Worm: programa capaz de se propagar automaticamente através de redes,
+enviando cópias de si mesmo de computador para computador. Diferente do
+vírus, o worm não embute cópias de si mesmo em outros programas ou
+arquivos e não necessita ser explicitamente executado para se propagar.
+Sua propagação se dá através da exploração de vulnerabilidades existentes
+ou falhas na configuração de softwares instalados em computadores.
+

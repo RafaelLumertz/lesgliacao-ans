@@ -1,0 +1,118 @@
+                                  ANEXO II
+
+   TERMO DE RESPONSABILIDADE E SIGILO DA AGÊNCIA NACIONAL DE
+                    SAÚDE SUPLEMENTAR
+
+
+
+Eu, [USUÁRIO], inscrito no CPF/MF nº [CPF/MF], pelo presente instrumento,
+comprometo-me perante a Agência Nacional de Saúde Suplementar,
+doravante denominada ANS, na qualidade de usuário do ambiente
+computacional de propriedade da mesma, ao seguinte:
+
+1. Conhecer e cumprir o disposto na Resolução Administrativa - RA nº 81, de
+13 de março de 2023 que dispõe sobre a Política de Segurança da Informação
+da ANS, em toda a sua abrangência;
+
+2. Conhecer e cumprir o disposto na Lei Geral de Proteção de Dados Pessoais
+– LGPD (Lei nº 13.709, de 14 de agosto de 2018), que dispõe sobre o
+tratamento de dados pessoais com o objetivo de proteger os direitos
+fundamentais de liberdade e de privacidade e o livre desenvolvimento da
+personalidade da pessoa natural;
+
+3. Tratar a informação como patrimônio e recurso que tem valor para a ANS,
+de modo a não praticar quaisquer atos que possam afetar a confidencialidade
+ou a integridade dessas informações;
+
+4. Guardar sigilo e zelar pela privacidade das informações confidenciais a que
+tiver acesso, sem divulgá-las para pessoas não autorizadas;
+
+5. Em casos em que haja dúvida acerca da natureza confidencial ou não de
+uma informação, sempre tratá-la como sigilosa, até que venha a ser
+expressamente autorizado pelo representante legal da ANS a proceder de
+maneira diferente;
+
+6. Utilizar com responsabilidade e devida cautela os dados e informações
+impressas ou nos sistemas informatizados da ANS, certificando-me de
+bloquear minha estação de trabalho e guardar documentos que exigem sigilo
+sempre que me ausentar do local de trabalho, bem como não transferir
+nenhum tipo de arquivo ou dado que pertença à ANS para outro local ou
+mídia, salvo quando expressamente autorizado, de forma a evitar sua
+exposição a pessoas não autorizadas;
+7. Acessar somente as informações disponibilizadas pela ANS às quais estou
+autorizado, podendo responder, perante esta Agência, auditorias ou
+autoridades do país, por acessos ou tentativas de acessos indevidos
+realizados com a minha identificação/autenticação e por uso indevido da
+informação;
+
+8. Utilizar, exclusivamente para o desempenho das minhas atividades
+profissionais junto à ANS, as informações disponibilizadas e os
+sistemas/produtos cuja propriedade ou direito de uso foram adquiridos por
+esta Agência;
+
+9. Estar ciente de que toda informação armazenada e processada no
+ambiente computacional da ANS pode ser monitorada, registrada e utilizada
+em procedimentos de auditoria;
+
+10. Guardar segredo de minha autenticação de acesso (senha) ao ambiente
+computacional, não cedendo, não transferindo, não divulgando e nem
+permitindo o seu conhecimento por terceiros, sendo responsável por todas
+as ações realizadas através desse acesso;
+
+11. Informar à ANS sempre que exista a suposição de revelação da minha
+autenticação de acesso (senha) a terceiros;
+
+12. Utilizar apenas produtos fornecidos pela ANS, com cópias originais e
+contratados/adquiridos oficialmente e autorizados para o meu uso;
+
+13. Seguir as orientações da unidade responsável pela gestão de tecnologia
+da informação e comunicação na ANS relativas à instalação, manutenção e
+uso adequado dos equipamentos;
+
+14. Comunicar ao meu superior hierárquico a ocorrência de qualquer
+violação das regras acima, ainda que não intencional, bem como qualquer
+evento que implique em possível impedimento de cumprir os procedimentos
+de segurança estabelecidos;
+
+15. Estar ciente de que todas as responsabilidades dispostas neste
+documento se aplicam igualmente a todos os recursos providos pela ANS,
+independentemente do local de trabalho, incluindo o trabalho remoto,
+realizado fora das dependências desta Agência. E que a não observância
+dessas regras pode resultar na suspensão dos recursos de acesso remoto à
+rede da ANS de forma temporária ou permanente, sem prejuízo da apuração
+de responsabilidade criminal, civil e administrativa eventualmente existente,
+em decorrência das ações ou omissões que possam pôr em risco ou
+comprometer a rede desta Agência;
+
+16. Tratar as informações pessoais a que tiver acesso no desenvolvimento de
+atividades profissionais de acordo com a legislação vigente e com as
+determinações da ANS;
+
+17. Tratar as informações pessoais somente para as finalidades determinadas
+pela ANS, bem como estar ciente sobre os direitos dos titulares de dados
+pessoais; e
+
+18. Estar ciente de que as responsabilidades dispostas neste documento
+perdurarão inclusive após a cessação do meu vínculo contratual com a ANS e
+abrangem as atuais informações e as que venham a ser de propriedade desta
+Agência futuramente.
+
+Desta forma, assumo inteira responsabilidade pelas consequências legais,
+inclusive por danos materiais ou financeiros, devidamente comprovados, em
+virtude da não observância do acima exposto.
+
+O presente termo é firmado em 02 (duas) vias, de igual teor e forma, para um
+só efeito, perante testemunha.
+
+
+
+____________________________________________________________
+
+(local, data e assinatura) CPF: ________________________
+
+
+
+____________________________________________________________
+
+(assinatura da testemunha) CPF: ________________________
+
