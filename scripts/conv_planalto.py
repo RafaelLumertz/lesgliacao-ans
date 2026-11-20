@@ -27,6 +27,9 @@ for r in rows:
     src = os.path.join(RAW, r['slug'] + '.htm')
     html = decode(open(src, 'rb').read())
     soup = BeautifulSoup(html, 'lxml')
+    alt = BeautifulSoup(html, 'html.parser')
+    if len(soup.get_text()) < 0.8 * len(alt.get_text()):
+        soup = alt  # lxml interrompe em alguns HTMLs malformados do Planalto
     for t in soup(['script', 'style', 'img', 'meta', 'link']): t.decompose()
     for t in soup.find_all(style=re.compile(r'line-through', re.I)): t.name = 'del'
     for t in soup.find_all(['strike', 's']): t.name = 'del'
@@ -50,7 +53,8 @@ for r in rows:
             if new != str(sn): sn.replace_with(new)
     for dd in soup.find_all('del'):
         if not dd.get_text(strip=True): dd.unwrap()
-    body = soup.body or soup
+    if soup.head: soup.head.decompose()
+    body = soup.body if soup.body and len(soup.body.get_text()) > 0.8 * len(soup.get_text()) else soup
     text = md(str(body), heading_style='ATX', strip=['img', 'font', 'span'], escape_underscores=False, escape_asterisks=False)
     text = clean_md(text)
     d = os.path.join(OUT, r['grupo']); os.makedirs(os.path.join(d, 'html-original'), exist_ok=True)

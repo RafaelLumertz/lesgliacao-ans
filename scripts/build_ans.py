@@ -18,7 +18,16 @@ CATS = {
     'Resolução Regimental': ('06-resolucoes-regimentais', 'Resoluções Regimentais (RR)'),
     'Parecer da PROGE': ('07-pareceres-proge', 'Pareceres da Procuradoria Federal junto à ANS (PROGE)'),
     'Entendimento da DIFIS': ('08-entendimentos-difis', 'Entendimentos da Diretoria de Fiscalização (DIFIS)'),
+    'Resolução Operacional': ('09-resolucoes-operacionais', 'Resoluções Operacionais (RO) — atos sobre operadoras específicas'),
+    'Comunicado': ('10-comunicados', 'Comunicados'),
+    'Portaria': ('11-portarias', 'Portarias'),
+    'Despacho': ('12-despachos', 'Despachos'),
+    'Instruções de Serviços': ('13-instrucoes-de-servico', 'Instruções de Serviço'),
+    'Instrução de serviço Conjunta': ('13-instrucoes-de-servico', 'Instruções de Serviço'),
+    'Resoluções Administrativas': ('14-resolucoes-administrativas', 'Resoluções Administrativas'),
+    'Resolução Especial': ('15-resolucoes-especiais', 'Resoluções Especiais'),
 }
+POR_ANO = {'09-resolucoes-operacionais'}
 MESES = {m: i+1 for i, m in enumerate(['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'])}
 
 def load_index():
@@ -133,7 +142,7 @@ def main():
             a['slug'] = f"{a['slug']}-{a['p']['mes']:02d}{a['p']['dia']:02d}"
             if (cat, a['slug']) in seen: a['slug'] += f"-id{a['id']}"
         seen[(cat, a['slug'])] = a
-        a['cat'] = cat
+        a['cat'] = cat + (f"/{a['p']['ano']}" if cat in POR_ANO else '')
         a['relpath'] = f"ans/{cat}/{a['slug']}.md"
     by_title = {}
     for a in acts: by_title.setdefault(a['rec']['titulo'], a)
@@ -299,16 +308,29 @@ def main():
         w = csv.DictWriter(f, fieldnames=list(rows_csv[0].keys())); w.writeheader(); w.writerows(rows_csv)
     json.dump(rows_csv, open(os.path.join(OUT, 'dados', 'atos-ans.json'), 'w'), ensure_ascii=False, indent=1)
     # índice por categoria
+    def tabela(rs, base):
+        t = ['| Ato | DOU | Situação | Ementa |', '| --- | --- | --- | --- |']
+        for x in sorted(rs, key=lambda x: (x['ano'], x['data_dou'][6:] + x['data_dou'][3:5] + x['data_dou'][:2], x['numero']), reverse=True):
+            em = x['ementa'][:220] + ('…' if len(x['ementa']) > 220 else '')
+            t.append(f"| [{x['sigla']} {x['numero']}/{x['ano']}]({os.path.relpath(x['arquivo'], base)}) | {x['data_dou']} | {x['status']} | {esc(em)} |")
+        return t
+    feitos = set()
     for tipo, (cat, nome) in CATS.items():
-        rs = [x for x in rows_csv if x['categoria'] == cat]
+        if cat in feitos: continue
+        feitos.add(cat)
+        rs = [x for x in rows_csv if x['categoria'].split('/')[0] == cat]
         if not rs: continue
         vig = sum(1 for x in rs if x['status'] == 'Vigente')
         lines = [f"# {nome}\n", f"{len(rs)} atos ({vig} vigentes). Ordenados do mais recente para o mais antigo. "
-                 "Clique no número para abrir o texto integral, anexos e histórico.\n",
-                 '| Ato | DOU | Situação | Ementa |', '| --- | --- | --- | --- |']
-        for x in sorted(rs, key=lambda x: (x['ano'], x['data_dou'][6:] + x['data_dou'][3:5] + x['data_dou'][:2], x['numero']), reverse=True):
-            em = x['ementa'][:220] + ('…' if len(x['ementa']) > 220 else '')
-            lines.append(f"| [{x['sigla']} {x['numero']}/{x['ano']}]({os.path.basename(x['arquivo'])}) | {x['data_dou']} | {x['status']} | {esc(em)} |")
+                 "Clique no número para abrir o texto integral, anexos e histórico.\n"]
+        if cat in POR_ANO:
+            anos = collections.Counter(x['ano'] for x in rs)
+            lines += ['| Ano | Atos |', '| --- | ---: |'] + [f"| [{y}]({y}/README.md) | {anos[y]} |" for y in sorted(anos, reverse=True)]
+            for y in anos:
+                ry = [x for x in rs if x['ano'] == y]
+                open(os.path.join(OUT, 'ans', cat, str(y), 'README.md'), 'w').write('\n'.join([f"# {nome} — {y}\n", f"{len(ry)} atos.\n"] + tabela(ry, f'ans/{cat}/{y}')) + '\n')
+        else:
+            lines += tabela(rs, f'ans/{cat}')
         open(os.path.join(OUT, 'ans', cat, 'README.md'), 'w').write('\n'.join(lines) + '\n')
     print('atos', len(rows_csv))
 

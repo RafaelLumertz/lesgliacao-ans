@@ -55,3 +55,36 @@ grupo	slug	path	titulo
 06-legislacao-correlata	lei-13146-2015	_ato2015-2018/2015/lei/l13146.htm	Lei nº 13.146, de 6 de julho de 2015 — Estatuto da Pessoa com Deficiência
 06-legislacao-correlata	lei-13709-2018	_ato2015-2018/2018/lei/l13709.htm	Lei nº 13.709, de 14 de agosto de 2018 — Lei Geral de Proteção de Dados (LGPD)
 06-legislacao-correlata	lei-5764-1971	leis/l5764.htm	Lei nº 5.764, de 16 de dezembro de 1971 — Política Nacional de Cooperativismo
+00-constituicao	constituicao-federal-1988	constituicao/constituicao.htm	Constituição da República Federativa do Brasil de 1988 — arts. 196 a 200 (saúde; assistência à saúde livre à iniciativa privada), 170 e 174 (ordem econômica e regulação)
+04-agencias-reguladoras	lei-13874-2019	_ato2019-2022/2019/lei/l13874.htm	Lei nº 13.874, de 20 de setembro de 2019 — Declaração de Direitos de Liberdade Econômica (análise de impacto regulatório)
+04-agencias-reguladoras	decreto-10411-2020	_ato2019-2022/2020/decreto/d10411.htm	Decreto nº 10.411, de 30 de junho de 2020 — Análise de Impacto Regulatório (AIR)
+04-agencias-reguladoras	decreto-12002-2024	_ato2023-2026/2024/decreto/d12002.htm	Decreto nº 12.002, de 22 de abril de 2024 — Elaboração e revisão de atos normativos
+05-fiscalizacao-regimes-especiais-processo	lei-6830-1980	leis/l6830.htm	Lei nº 6.830, de 22 de setembro de 1980 — Execução fiscal (cobrança de multas, Taxa de Saúde Suplementar e ressarcimento ao SUS)
+05-fiscalizacao-regimes-especiais-processo	lei-7347-1985	leis/l7347orig.htm	Lei nº 7.347, de 24 de julho de 1985 — Ação civil pública
+05-fiscalizacao-regimes-especiais-processo	lei-9613-1998	leis/l9613.htm	Lei nº 9.613, de 3 de março de 1998 — Lavagem de dinheiro (deveres de prevenção)
+05-fiscalizacao-regimes-especiais-processo	lei-12846-2013	_ato2011-2014/2013/lei/l12846.htm	Lei nº 12.846, de 1º de agosto de 2013 — Lei Anticorrupção (responsabilização de pessoas jurídicas)
+07-tributacao	lei-9718-1998	leis/l9718compilada.htm	Lei nº 9.718, de 27 de novembro de 1998 — PIS/Cofins; art. 3º, § 9º (deduções específicas das operadoras de planos de saúde)
+07-tributacao	lei-10637-2002	leis/2002/l10637.htm	Lei nº 10.637, de 30 de dezembro de 2002 — PIS/Pasep não cumulativo
+07-tributacao	lei-10833-2003	leis/2003/l10.833.htm	Lei nº 10.833, de 29 de dezembro de 2003 — Cofins não cumulativa
+07-tributacao	lc-116-2003	leis/lcp/lcp116.htm	Lei Complementar nº 116, de 31 de julho de 2003 — ISS (itens 4.22 e 4.23: planos de medicina de grupo e de saúde)
+07-tributacao	lei-9250-1995	leis/l9250.htm	Lei nº 9.250, de 26 de dezembro de 1995 — IRPF; art. 8º (dedução de pagamentos a planos de saúde)
+08-societario-cooperativas-contratos	lei-10406-2002	leis/2002/l10406compilada.htm	Lei nº 10.406, de 10 de janeiro de 2002 — Código Civil (contratos, contrato de seguro, associações, sociedades e cooperativas)
+08-societario-cooperativas-contratos	lei-6404-1976	leis/l6404consol.htm	Lei nº 6.404, de 15 de dezembro de 1976 — Sociedades por ações
+08-societario-cooperativas-contratos	lc-109-2001	leis/lcp/lcp109.htm	Lei Complementar nº 109, de 29 de maio de 2001 — Previdência complementar (entidades fechadas que operam planos de saúde)
+09-consumidor	decreto-2181-1997	decreto/d2181.htm	Decreto nº 2.181, de 20 de março de 1997 — Sistema Nacional de Defesa do Consumidor e sanções administrativas
+09-consumidor	decreto-11034-2022	_ato2019-2022/2022/decreto/d11034.htm	Decreto nº 11.034, de 5 de abril de 2022 — Serviço de Atendimento ao Consumidor (SAC)
+09-consumidor	lei-8137-1990	leis/l8137.htm	Lei nº 8.137, de 27 de dezembro de 1990 — Crimes contra a ordem tributária, econômica e as relações de consumo
+10-assistencia-coberturas-direitos	lei-9263-1996	leis/l9263.htm	Lei nº 9.263, de 12 de janeiro de 1996 — Planejamento familiar
+10-assistencia-coberturas-direitos	lei-14443-2022	_ato2019-2022/2022/lei/l14443.htm	Lei nº 14.443, de 2 de setembro de 2022 — Altera a Lei do Planejamento Familiar (laqueadura e vasectomia)
+10-assistencia-coberturas-direitos	lei-11108-2005	_ato2004-2006/2005/lei/l11108.htm	Lei nº 11.108, de 7 de abril de 2005 — Acompanhante no trabalho de parto, parto e pós-parto
+10-assistencia-coberturas-direitos	lei-14737-2023	_ato2023-2026/2023/lei/l14737.htm	Lei nº 14.737, de 27 de novembro de 2023 — Acompanhante em consultas, exames e procedimentos
+10-assistencia-coberturas-direitos	lei-8069-1990	leis/l8069.htm	Lei nº 8.069, de 13 de julho de 1990 — Estatuto da Criança e do Adolescente (art. 12: acompanhante em internação)
+10-assistencia-coberturas-direitos	lei-10216-2001	leis/leis_2001/l10216.htm	Lei nº 10.216, de 6 de abril de 2001 — Saúde mental
+10-assistencia-coberturas-direitos	lei-14510-2022	_ato2019-2022/2022/lei/l14510.htm	Lei nº 14.510, de 27 de dezembro de 2022 — Telessaúde
+10-assistencia-coberturas-direitos	lei-13989-2020	_ato2019-2022/2020/lei/l13989.htm	Lei nº 13.989, de 15 de abril de 2020 — Telemedicina durante a pandemia (histórico)
+10-assistencia-coberturas-direitos	lei-12842-2013	_ato2011-2014/2013/lei/l12842.htm	Lei nº 12.842, de 10 de julho de 2013 — Exercício da Medicina (Ato Médico)
+10-assistencia-coberturas-direitos	lei-13787-2018	_ato2015-2018/2018/lei/l13787.htm	Lei nº 13.787, de 27 de dezembro de 2018 — Prontuário eletrônico
+10-assistencia-coberturas-direitos	lei-14289-2022	_ato2019-2022/2022/lei/l14289.htm	Lei nº 14.289, de 3 de janeiro de 2022 — Sigilo sobre condição de pessoa com HIV, hepatites, hanseníase e tuberculose
+10-assistencia-coberturas-direitos	lei-14758-2023	_ato2023-2026/2023/lei/l14758.htm	Lei nº 14.758, de 19 de dezembro de 2023 — Política Nacional de Prevenção e Controle do Câncer
+10-assistencia-coberturas-direitos	lei-9434-1997	leis/l9434.htm	Lei nº 9.434, de 4 de fevereiro de 1997 — Transplantes de órgãos e tecidos
+08-societario-cooperativas-contratos	lei-15040-2024	_ato2023-2026/2024/lei/l15040.htm	Lei nº 15.040, de 9 de dezembro de 2024 — Marco Legal dos Seguros (contrato de seguro; aplica-se às seguradoras especializadas em saúde)

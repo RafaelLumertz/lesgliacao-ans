@@ -12,9 +12,16 @@ Coletados do [Portal de Legislação da ANS](https://componentes-portal.ans.gov.
 | [Resoluções Regimentais (RR)](06-resolucoes-regimentais/README.md) | 39 | 19 |
 | [Pareceres da PROGE](07-pareceres-proge/README.md) | 19 | 19 |
 | [Entendimentos da DIFIS](08-entendimentos-difis/README.md) | 13 | 12 |
-| **Total** | **1196** | **422** |
+| [Resoluções Operacionais (RO) — operadoras específicas](09-resolucoes-operacionais/README.md) | 3176 | 3147 |
+| [Comunicados](10-comunicados/README.md) | 101 | 101 |
+| [Portarias](11-portarias/README.md) | 47 | 46 |
+| [Despachos](12-despachos/README.md) | 5 | 5 |
+| [Instruções de Serviço](13-instrucoes-de-servico/README.md) | 66 | 3 |
+| [Resoluções Administrativas](14-resolucoes-administrativas/README.md) | 89 | 33 |
+| [Resoluções Especiais](15-resolucoes-especiais/README.md) | 22 | 1 |
+| **Total** | **4702** | **3758** |
 
-Anexos baixados: **478** arquivos.
+Anexos baixados: **530** arquivos.
 
 ## Atos com mais alterações
 
@@ -38,6 +45,7 @@ Normas que mais receberam alterações ao longo do tempo (bom ponto de partida p
 | [RN 428/2017](01-resolucoes-normativas/RN-0428-2017.md) | Revogada | 4 | Atualiza o Rol de Procedimentos e Eventos em Saúde, que constitui a referência básica para cobertura assistencial mínima nos planos privados de assistência à sa… |
 | [RN 585/2023](01-resolucoes-normativas/RN-0585-2023.md) | Vigente | 4 | Dispõe sobre os critérios para as alterações na rede assistencial hospitalar no que se refere à substituição de entidade hospitalar e redimensionamento de rede … |
 | [RDC 95/2002](03-resolucoes-diretoria-colegiada/RDC-0095-2002.md) | Vigente | 4 |  |
+| [RA 36/2010](14-resolucoes-administrativas/RA-0036-2010.md) | Revogada | 4 | Estabelece as normas e procedimentos das avaliações de desempenho individual e institucional, para fins de pagamento da Gratificação de Desempenho de Atividade … |
 | [RN 159/2007](01-resolucoes-normativas/RN-0159-2007.md) | Revogada | 3 | Dispõe sobre aceitação, registro, vinculação, custódia, movimentação e diversificação dos ativos garantidores das operadoras e do mantenedor de entidade de auto… |
 | [RN 190/2009](01-resolucoes-normativas/RN-0190-2009.md) | Revogada | 3 | Dispõe sobre a criação obrigatória de portal corporativo na Internet pelas operadoras de planos privados de assistência à saúde, sobre a designação de profissio… |
 | [RN 206/2009](01-resolucoes-normativas/RN-0206-2009.md) | Revogada | 3 | Dispõe sobre a alteração na contabilização das contraprestações e prêmios das operações de planos de assistência à saúde na modalidade de preço pré-estabelecido… |
@@ -46,29 +54,63 @@ Normas que mais receberam alterações ao longo do tempo (bom ponto de partida p
 | [RN 254/2011](01-resolucoes-normativas/RN-0254-2011.md) | Revogada | 3 | Dispõe sobre a adaptação e migração para os contratos celebrados até 1º de janeiro de 1999 e altera as Resoluções Normativas nº 63, de 22 de dezembro de 2003, q… |
 | [RN 259/2011](01-resolucoes-normativas/RN-0259-2011.md) | Revogada | 3 | Dispõe sobre a garantia de atendimento dos beneficiários de plano privado de assistência à saúde e altera a Instrução Normativa – IN nº 23, de 1º de dezembro de… |
 | [RN 301/2012](01-resolucoes-normativas/RN-0301-2012.md) | Vigente | 3 | Altera a Resolução Normativa - RN nº 48, de 19 de setembro de 2003, que dispõe sobre o processo administrativo para apuração de infrações e aplicação de sanções… |
-| [RN 431/2017](01-resolucoes-normativas/RN-0431-2017.md) | Vigente | 3 | Institui o Programa Especial de Escala Adequada - PEA e altera as Resoluções Normativas - RN nº 186, de 14 de janeiro de 2009, que dispõe sobre a regulamentação… |
 
 ## Atos por tema
 
-<details><summary><b>Administração e Gestão da ANS</b> (17 atos vigentes)</summary>
+Atos vigentes de caráter geral (as Resoluções Operacionais, que tratam de operadoras específicas, estão na [pasta própria](09-resolucoes-operacionais/README.md)).
 
+<details><summary><b>Administração e Gestão da ANS</b> (50 atos vigentes)</summary>
+
+- [RA 34/2010](14-resolucoes-administrativas/RA-0034-2010.md) — __ — Estabelece padronização para os procedimentos e processos disciplinares da Corregedoria da Agência Nacional de Saúde Suplementar - ANS.
+- [RA 77/2022](14-resolucoes-administrativas/RA-0077-2022.md) — _Avaliação de Desempenho_ — Estabelece as normas e procedimentos das avaliações de desempenho individual dos contratados temporários, no âmbito da Agência Nacional de S…
+- [RA 78/2022](14-resolucoes-administrativas/RA-0078-2022.md) — _Avaliação de Desempenho_ — Dispõe sobre a avaliação de desempenho para fins de progressão e promoção dos servidores integrantes do quadro efetivo da Agência Nacional d…
+- [RA 72/2021](14-resolucoes-administrativas/RA-0072-2021.md) — _Avaliação de Desempenho_ — Estabelece as normas e procedimentos das avaliações de desempenho individual e institucional, para fins de pagamento da Gratificação de Dese…
+- [RA 38/2010](14-resolucoes-administrativas/RA-0038-2010.md) — _Avaliação de servidores em estágio probatório_ — Dispõe sobre a avaliação de desempenho dos servidores do quadro efetivo para fins de aprovação no estágio probatório e aquisição de estabili…
+- [RA 70/2020](14-resolucoes-administrativas/RA-0070-2020.md) — _Comitês Internos_ — Institui o Comitê de Governança Digital no âmbito da Agência Nacional de Saúde Suplementar - ANS.
+- [RA 67/2017](14-resolucoes-administrativas/RA-0067-2017.md) — _Comitês Internos_ — Dispõe sobre a instituição do Comitê de Governança, Riscos e Controles.
+- [Portaria 2/2022](11-portarias/Portaria-0002-2022.md) — _Contratação de obras, bens e serviços pela ANS_ — Estabelece as regras para implementação e utilização dos modelos padronizados de minutas de editais e anexos, a serem observadas nos procedi…
+- [RA 84/2024](14-resolucoes-administrativas/RA-0084-2024.md) — _Contratação de obras, bens e serviços pela ANS_ — Altera a Resolução Administrativa nº 47, de 19 de dezembro de 2011, que dispõe sobre os procedimentos internos relativos à contratação de ob…
+- [RA 47/2011](14-resolucoes-administrativas/RA-0047-2011.md) — _Contratação de obras, bens e serviços pela ANS_ — Dispõe sobre os procedimentos internos relativos à contratação de obras, bens e serviços da Agência Nacional de Saúde Suplementar – ANS.
 - [RN 548/2022](01-resolucoes-normativas/RN-0548-2022.md) — _Participação da Sociedade Civil_ — Dispõe sobre o processo de Análise de Impacto Regulatório (AIR) e sobre o processo de Participação Social (PS) no âmbito da Agência Nacional…
+- [Portaria-Diretor-Presidente 5/2022](11-portarias/Portaria-Diretor-Presidente-0005-2022.md) — _Plano Diretor de Tecnologia da Informação e Comunicação - PDTIC_ — Aprovação do Plano Diretor de Tecnologia da Informação e Comunicação - PDTIC da ANS, relativo aos anos de 2022 e 2023, apresentado no Comitê…
+- [RA 87/2025](14-resolucoes-administrativas/RA-0087-2025.md) — _Política de Segurança da Informação - PSI_ — Dispõe sobre a Política de Governança de Dados e Informações da Agência Nacional de Saúde Suplementar.
+- [RA 81/2023](14-resolucoes-administrativas/RA-0081-2023.md) — _Política de Segurança da Informação - PSI_ — Dispõe sobre a Política de Segurança da Informação da Agência Nacional de Saúde Suplementar – ANS.
+- [RA 80/2022](14-resolucoes-administrativas/RA-0080-2022.md) — _Política de Segurança da Informação - PSI_ — Dispõe sobre a Política de Proteção de Dados Pessoais no âmbito da Agência Nacional de Saúde Suplementar.
+- [Portaria-DIGES 1/2023](11-portarias/Portaria-DIGES-0001-2023.md) — _Política de capacitação dos servidores da ANS_ — Dispõe sobre a política de capacitação da ANS.
+- [RA 83/2023](14-resolucoes-administrativas/RA-0083-2023.md) — _Política de capacitação dos servidores da ANS_ — Dispõe sobre a Política de Desenvolvimento de Pessoas no âmbito da Agência Nacional de Saúde Suplementar - ANS e estabelece diretrizes, regr…
+- [RA 52/2012](14-resolucoes-administrativas/RA-0052-2012.md) — _Política de capacitação dos servidores da ANS_ — Dispõe sobre os critérios, procedimentos e valores percentuais para concessão e pagamento da Gratificação por Encargo de Curso ou Concurso -…
 - [IN-PROGE 2/2025](02-instrucoes-normativas/IN-PROGE-0002-2025.md) — _Processo Administrativo Normativo_ — Dispõe sobre os critérios e procedimentos para o exercício das atividades de consultoria e assessoramento jurídicos das Gerências de Consult…
+- [RA 66/2017](14-resolucoes-administrativas/RA-0066-2017.md) — _Processo Administrativo Normativo_ — Altera a Resolução Administrativa - RA n° 49, de 13 de abril de 2012, que dispõe sobre o processo administrativo normativo da Agência Nacion…
+- [RA 63/2015](14-resolucoes-administrativas/RA-0063-2015.md) — _Processo Administrativo Normativo_ — Altera o Anexo da Resolução Administrativa - RA nº 49, de 13 de abril de 2012, que dispõe sobre o processo administrativo da Agência Naciona…
+- [RA 49/2012](14-resolucoes-administrativas/RA-0049-2012.md) — _Processo Administrativo Normativo_ — Dispõe sobre o processo administrativo normativo da Agência Nacional de Saúde Suplementar – ANS.
 - [RN 534/2022](01-resolucoes-normativas/RN-0534-2022.md) — _Processo administrativo eletrônico_ — Dispõe sobre os procedimentos para o funcionamento do processo administrativo eletrônico e sobre requerimentos de vista e cópia de documento…
+- [RA 85/2024](14-resolucoes-administrativas/RA-0085-2024.md) — _Programa de Gestão na ANS_ — Dispõe sobre o Programa de Gestão e Desempenho - PGD no âmbito da Agência Nacional de Saúde Suplementar – ANS, e dá outras providências.
+- [RA 44/2011](14-resolucoes-administrativas/RA-0044-2011.md) — _Regimento Interno_ — Regimento Interno da Comissão de Ética da ANS – RICEANS.
+- [RA 25/2008](14-resolucoes-administrativas/RA-0025-2008.md) — _Regimento Interno_ — Dispõe sobre o Código de Ética da Agência Nacional de Saúde Suplementar - ANS.
 - [RN 482/2022](01-resolucoes-normativas/RN-0482-2022.md) — _Regimento Interno_ — Dispõe sobre o Regimento Interno da Câmara de Saúde Suplementar. Processo nº 33910.028555/2021-45
 - [RR 38/2026](06-resolucoes-regimentais/RR-0038-2026.md) — _Regimento Interno_ — Altera os Anexos I e I-d da Resolução Regimental nº 21, de 26 de janeiro de 2022, que dispõe sobre o Regimento Interno da Agência Nacional d…
 - [RR 39/2026](06-resolucoes-regimentais/RR-0039-2026.md) — _Regimento Interno_ — 
 - [RR 21/2022](06-resolucoes-regimentais/RR-0021-2022.md) — _Regimento Interno_ — Dispõe sobre o Regimento Interno da Agência Nacional de Saúde Suplementar - ANS - Processo nº 33910.004161/2021-00
 - [RR-CEANS 1/2021](06-resolucoes-regimentais/RR-CEANS-0001-2021.md) — _Regimento Interno_ — 
+- [RA 79/2022](14-resolucoes-administrativas/RA-0079-2022.md) — _Remoção de servidores da ANS_ — Dispõe sobre a remoção, com ou sem mudança de Município, dos servidores integrantes do quadro de pessoal da Agência Nacional de Saúde Suplem…
+- [RA 88/2025](14-resolucoes-administrativas/RA-0088-2025.md) — _Saúde do trabalhador e qualidade de vida_ — Institui a Política de Prevenção e Enfrentamento à Violência Laboral e ao Assédio Moral e Sexual na Agência Nacional de Saúde Suplementar.
+- [RA 76/2022](14-resolucoes-administrativas/RA-0076-2022.md) — _Saúde do trabalhador e qualidade de vida_ — Dispõe sobre os procedimentos para implantação e controle das ações voltadas à saúde do trabalhador no âmbito da Agência Nacional de Saúde S…
 - [IN 36/2024](02-instrucoes-normativas/IN-0036-2024.md) — _Transparência_ — Altera a Instrução Normativa ANS nº 31, de 19 de dezembro de 2022, que dispõe sobre o acompanhamento e avaliação da garantia de atendimento …
 - [IN 27/2022](02-instrucoes-normativas/IN-0027-2022.md) — _Transparência_ — Declara a revogação expressa de instruções normativas e de instrução de serviço consideradas já revogadas tacitamente ou cujos efeitos tenha…
 - [IN 2/2014](02-instrucoes-normativas/IN-0002-2014.md) — _Transparência_ — Regulamenta o inciso VI e o § 1º do art. 4º da Resolução Normativa - RN nº 323, de 3 de abril de 2013, para dispor sobre o Relatório Estatís…
 - [IN-PRESI 1/2020](02-instrucoes-normativas/IN-PRESI-0001-2020.md) — _Transparência_ — Declara a revogação expressa das instruções normativas consideradas implicitamente revogadas ou cuja eficácia ou validade encontram-se preju…
 - [IN-PROGE 1/2025](02-instrucoes-normativas/IN-PROGE-0001-2025.md) — _Transparência_ — Dispõe sobre a tramitação dos processos no âmbito da Gerência de Consultoria Normativa - GECOS
 - [IN-PROGE 1/2022](02-instrucoes-normativas/IN-PROGE-0001-2022.md) — _Transparência_ — Dispõe sobre os critérios e procedimentos para o exercício das atividades de consultoria e assessoramento jurídicos das Gerências de Consult…
+- [RA 89/2026](14-resolucoes-administrativas/RA-0089-2026.md) — _Transparência_ — 
+- [RA 86/2024](14-resolucoes-administrativas/RA-0086-2024.md) — _Transparência_ — Dispõe sobre a autorização para reprodução e utilização de sigla, logotipo e slogan da Agência Nacional de Saúde Suplementar – ANS.
+- [RA 75/2022](14-resolucoes-administrativas/RA-0075-2022.md) — _Transparência_ — Revoga expressamente atos com conteúdo normativo já tacitamente revogados, cujos efeitos tenham se exaurido no tempo ou cuja necessidade ou …
+- [RA 65/2016](14-resolucoes-administrativas/RA-0065-2016.md) — _Transparência_ — Dispõe sobre as normas e os procedimentos necessários aos trabalhos da Ouvidoria - OUVID.
+- [RA 53/2013](14-resolucoes-administrativas/RA-0053-2013.md) — _Transparência_ — Institui a Política de Comunicação da Agência Nacional de Saúde Suplementar - ANS.
+- [RA 2/2002](14-resolucoes-administrativas/RA-0002-2002.md) — _Transparência_ — Estabelece as normas e diretrizes para estruturação, elaboração, manutenção e administração do sítio na Internet da Agência Nacional de Saúd…
 - [RN 481/2022](01-resolucoes-normativas/RN-0481-2022.md) — _Transparência_ — Dispõe sobre mecanismos de transparência ativa e passiva no âmbito da Agência Nacional de Saúde Suplementar - ANS, institui o Serviço de Inf…
 - [RN 462/2020](01-resolucoes-normativas/RN-0462-2020.md) — _Transparência_ — Revoga expressamente os atos com conteúdo normativo já revogados tacitamente, cujos efeitos tenham se exaurido no tempo ou que se encontrem …
 - [RN 323/2013](01-resolucoes-normativas/RN-0323-2013.md) — _Transparência_ — Dispõe sobre a instituição de unidade organizacional específica de ouvidoria pelas operadoras de planos privados de assistência saúde.
+- [Portaria-PRESI 12/2024](11-portarias/Portaria-PRESI-0012-2024.md) — _e-Agendas_ — Estabelece a obrigatoriedade para servidores públicos em exercício na ANS a preencherem o sistema e-Agendas.
 
 </details>
 
@@ -111,7 +153,21 @@ Normas que mais receberam alterações ao longo do tempo (bom ponto de partida p
 
 </details>
 
-<details><summary><b>Operadoras - Aspecto Econômico-financeiro</b> (22 atos vigentes)</summary>
+<details><summary><b>Governança</b> (2 atos vigentes)</summary>
+
+- [RA 74/2021](14-resolucoes-administrativas/RA-0074-2021.md) — _Gestão de Riscos_ — Dispõe sobre a política de gestão de riscos da Agência Nacional de Saúde Suplementar - ANS. Processo nº 33910.018565/2019-58
+- [RA 71/2021](14-resolucoes-administrativas/RA-0071-2021.md) — _Planejamento Estratégico e Agenda Regulatória_ — Dispõe sobre a sistemática de elaboração e monitoramento do planejamento estratégico, do plano de gestão anual e da agenda regulatória no âm…
+
+</details>
+
+<details><summary><b>Legislações</b> (2 atos vigentes)</summary>
+
+- [Portaria-PRESI 342/2020](11-portarias/Portaria-PRESI-0342-2020.md) — __ — Dispõe sobre a publicação da lista de atos normativos inferiores a decreto e das competências e detalhamento dos procedimentos para os traba…
+- [Portaria-Diretor-Presidente 5/2021](11-portarias/Portaria-Diretor-Presidente-0005-2021.md) — _Legislação Estruturante da Saúde Suplementar_ — Altera a Portaria nº 342, de 28 de setembro de 2020, que dispõe sobre a publicação da lista de atos normativos inferiores a decreto e das co…
+
+</details>
+
+<details><summary><b>Operadoras - Aspecto Econômico-financeiro</b> (23 atos vigentes)</summary>
 
 - [RN 532/2022](01-resolucoes-normativas/RN-0532-2022.md) — _Acompanhamento Econômico-Financeiro Regular_ — Dispõe sobre os parâmetros e procedimentos de acompanhamento econômico-financeiro das operadoras de planos privados de assistência à saúde e…
 - [RN 475/2021](01-resolucoes-normativas/RN-0475-2021.md) — _Aplicação Proporcional da Regulação Prudencial_ — Dispõe sobre a classificação das operadoras de plano de assistência à saúde para fins de aplicação proporcional da regulação prudencial.
@@ -125,6 +181,7 @@ Normas que mais receberam alterações ao longo do tempo (bom ponto de partida p
 - [RN 517/2022](01-resolucoes-normativas/RN-0517-2022.md) — _Compartilhamento da Gestão de Riscos_ — Dispõe sobre as operações de compartilhamento da gestão de riscos envolvendo operadoras de plano de assistência à saúde.
 - [IN 34/2024](02-instrucoes-normativas/IN-0034-2024.md) — _Contratação de Serviços em Liquidações_ — Dispõe sobre processos de contratação de serviços e realização de outras despesas previstas na Resolução Normativa nº 524, de 29 de abril de…
 - [RN 516/2022](01-resolucoes-normativas/RN-0516-2022.md) — _Convênios para Fundos Dedicados_ — Regulamenta os critérios, diretrizes, obrigações e responsabilidades oriundos da formalização do convênio para aceitação de cotas de Fundo D…
+- [RA 20/2007](14-resolucoes-administrativas/RA-0020-2007.md) — _Designação de Diretores Fiscais/Técnicos e de Liquidantes_ — Estabelece procedimentos para prestação de contas dos adiantamentos efetuados no decorrer dos regimes especiais de direção fiscal, técnica e…
 - [RN 524/2022](01-resolucoes-normativas/RN-0524-2022.md) — _Designação de Diretores Fiscais/Técnicos e de Liquidantes_ — Dispõe sobre a designação do Diretor Fiscal ou Técnico e do Liquidante; sobre as despesas com a execução dos regimes de direção fiscal ou té…
 - [RN 522/2022](01-resolucoes-normativas/RN-0522-2022.md) — _Direção Fiscal e Liquidação Extrajudicial_ — Dispõe sobre os regimes de direção fiscal e de liquidação extrajudicial sobre as operadoras de planos de assistência à saúde.
 - [RN 574/2023](01-resolucoes-normativas/RN-0574-2023.md) — _Garantias Financeiras - Margem de Solvência e Provisões Técnicas_ — Dispõe sobre os critérios de constituição de Provisões Técnicas a serem observados pelas operadoras de planos privados de assistência à saúd…
@@ -192,8 +249,9 @@ Normas que mais receberam alterações ao longo do tempo (bom ponto de partida p
 
 </details>
 
-<details><summary><b>Operadoras - Ressarcimento ao SUS</b> (5 atos vigentes)</summary>
+<details><summary><b>Operadoras - Ressarcimento ao SUS</b> (6 atos vigentes)</summary>
 
+- [RE-DIDES 1/2000](15-resolucoes-especiais/RE-DIDES-0001-2000.md) — __ — Procedimentos de ressarcimento ao SUS.
 - [IN 26/2022](02-instrucoes-normativas/IN-0026-2022.md) — _Procedimento Administrativo de Ressarcimento ao SUS_ — Dispõe sobre o protocolo eletrônico de impugnações e recursos de processos administrativos híbridos de ressarcimento ao SUS, previsto no art…
 - [RN 502/2022](01-resolucoes-normativas/RN-0502-2022.md) — _Procedimento Administrativo de Ressarcimento ao SUS_ — Dispõe sobre os procedimentos administrativos físico e híbrido de ressarcimento ao SUS, previsto no art. 32 da Lei n° 9.656, de 3 de junho d…
 - [RN 504/2022](01-resolucoes-normativas/RN-0504-2022.md) — _Procedimento Administrativo de Ressarcimento ao SUS_ — Dispõe sobre o Índice de Valoração do Ressarcimento - IVR.

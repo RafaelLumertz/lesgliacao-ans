@@ -13,8 +13,13 @@ GRUPOS = {
  '03-historico-medidas-provisorias': 'Histórico: reedições de Medidas Provisórias (1998–2003)',
  '04-agencias-reguladoras': 'Agências reguladoras (organização, pessoal, governança)',
  '05-fiscalizacao-regimes-especiais-processo': 'Fiscalização, regimes especiais e processo administrativo',
- '06-legislacao-correlata': 'Legislação correlata',
+ '06-legislacao-correlata': 'Legislação correlata (consumidor, idosos, pessoas com deficiência, SUS, dados pessoais, cooperativas)',
+ '07-tributacao': 'Tributação das operadoras (PIS/Cofins, ISS, dedução no IRPF)',
+ '08-societario-cooperativas-contratos': 'Direito societário, contratos e previdência complementar',
+ '09-consumidor': 'Defesa do consumidor: sanções, SAC e crimes',
+ '10-assistencia-coberturas-direitos': 'Assistência à saúde: coberturas, direitos dos pacientes, telessaúde e exercício profissional',
 }
+GRUPOS = {'00-constituicao': 'Constituição Federal', **GRUPOS}
 CATN = collections.OrderedDict([
  ('01-resolucoes-normativas', 'Resoluções Normativas (RN)'),
  ('02-instrucoes-normativas', 'Instruções Normativas (IN)'),
@@ -24,7 +29,15 @@ CATN = collections.OrderedDict([
  ('06-resolucoes-regimentais', 'Resoluções Regimentais (RR)'),
  ('07-pareceres-proge', 'Pareceres da PROGE'),
  ('08-entendimentos-difis', 'Entendimentos da DIFIS'),
+ ('09-resolucoes-operacionais', 'Resoluções Operacionais (RO) — operadoras específicas'),
+ ('10-comunicados', 'Comunicados'),
+ ('11-portarias', 'Portarias'),
+ ('12-despachos', 'Despachos'),
+ ('13-instrucoes-de-servico', 'Instruções de Serviço'),
+ ('14-resolucoes-administrativas', 'Resoluções Administrativas'),
+ ('15-resolucoes-especiais', 'Resoluções Especiais'),
 ])
+for a in atos: a['categoria'] = a['categoria'].split('/')[0]
 
 # dados/leis.csv + leis/README.md
 with open(os.path.join(R, 'dados', 'leis.csv'), 'w', newline='') as f:
@@ -58,10 +71,10 @@ A.append('| Ato | Situação | Alterações | Ementa |\n| --- | --- | ---: | ---
 for a in sorted(atos, key=lambda a: -int(a['qtd_alteradoras']))[:25]:
     if int(a['qtd_alteradoras']) == 0: break
     A.append(f"| [{a['sigla']} {a['numero']}/{a['ano']}]({a['arquivo'][4:]}) | {a['status']} | {a['qtd_alteradoras']} | {a['ementa'][:160].replace('|', '/')}{'…' if len(a['ementa']) > 160 else ''} |")
-A.append('\n## Atos por tema\n')
+A.append('\n## Atos por tema\n\nAtos vigentes de caráter geral (as Resoluções Operacionais, que tratam de operadoras específicas, estão na [pasta própria](09-resolucoes-operacionais/README.md)).\n')
 temas = collections.defaultdict(list)
 for a in atos:
-    if a['status'] == 'Vigente' and a['tema']: temas[a['tema']].append(a)
+    if a['status'] == 'Vigente' and a['tema'] and a['categoria'] != '09-resolucoes-operacionais': temas[a['tema']].append(a)
 for t in sorted(temas):
     A.append(f'<details><summary><b>{t}</b> ({len(temas[t])} atos vigentes)</summary>\n')
     for a in sorted(temas[t], key=lambda a: (a['assunto'], a['sigla'], -int(a['ano']))):
@@ -72,7 +85,7 @@ open(os.path.join(R, 'ans', 'README.md'), 'w').write('\n'.join(A) + '\n')
 # HISTORICO.md
 por_ano = collections.defaultdict(collections.Counter)
 for a in atos:
-    if a['ano'].isdigit(): por_ano[int(a['ano'])][a['sigla'] if a['sigla'] in ('RN', 'RDC', 'CONSU', 'RR') else ('IN' if a['sigla'].startswith('IN') else 'Outros')] += 1
+    if a['ano'].isdigit(): por_ano[int(a['ano'])][a['sigla'] if a['sigla'] in ('RN', 'RDC', 'CONSU', 'RR', 'RO') else ('IN' if a['sigla'].startswith('IN') else 'Outros')] += 1
 H = ['# Histórico da regulação da saúde suplementar\n',
  'Linha do tempo dos principais marcos legais (com links para os textos neste repositório) e produção normativa da ANS por ano.\n',
  '## Marcos legais\n',
@@ -105,7 +118,7 @@ for ano, m, link in MARCOS:
 H.append('\nA evolução detalhada de cada artigo da Lei nº 9.656/1998 pode ser vista em [leis/01-marco-legal/lei-9656-1998.md](leis/01-marco-legal/lei-9656-1998.md), '
          'que mantém os textos revogados tachados com a indicação da norma que os alterou.\n')
 H.append('## Produção normativa da ANS por ano\n')
-cols = ['CONSU', 'RDC', 'RN', 'IN', 'RR', 'Outros']
+cols = ['CONSU', 'RDC', 'RN', 'IN', 'RR', 'RO', 'Outros']
 H.append('| Ano | ' + ' | '.join(cols) + ' | Total |'); H.append('| --- |' + ' ---: |' * (len(cols) + 1))
 for ano in sorted(por_ano):
     c = por_ano[ano]; H.append(f'| {ano} | ' + ' | '.join(str(c[k] or '') for k in cols) + f' | {sum(c.values())} |')
@@ -115,7 +128,7 @@ open(os.path.join(R, 'HISTORICO.md'), 'w').write('\n'.join(H) + '\n')
 tot_rn = cnt['01-resolucoes-normativas']
 README = f"""# Legislação da Saúde Suplementar — Planos de Saúde e ANS
 
-Acervo organizado da legislação brasileira sobre **regulação, fiscalização e supervisão das operadoras de planos privados de assistência à saúde**: as leis federais (com o histórico de alterações) e os atos normativos da **Agência Nacional de Saúde Suplementar (ANS)** — todas as Resoluções Normativas, Instruções Normativas, RDCs, Resoluções CONSU, Súmulas, Resoluções Regimentais, pareceres e entendimentos — com textos integrais, anexos e histórico normativo.
+Acervo organizado da legislação brasileira que afeta as **operadoras de planos privados de assistência à saúde (OPS)** — regulação, fiscalização, supervisão, tributação, relações de consumo e coberturas: a legislação federal (com o histórico de alterações) e **todos** os atos normativos da **Agência Nacional de Saúde Suplementar (ANS)** — Resoluções Normativas, Instruções Normativas, RDCs, Resoluções CONSU, Súmulas, Resoluções Regimentais, Resoluções Operacionais, pareceres, entendimentos, comunicados, portarias e demais atos — com textos integrais, anexos e histórico normativo.
 
 > Atualizado em {TODAY}. Os textos são reproduções de fontes oficiais e **não substituem a publicação no Diário Oficial da União**.
 
@@ -123,7 +136,7 @@ Acervo organizado da legislação brasileira sobre **regulação, fiscalização
 
 | Pasta | O que tem | Qtde |
 | --- | --- | ---: |
-| [`leis/`](leis/README.md) | Leis, decretos e MPs (Planalto), incluindo a Lei nº 9.656/1998 com histórico de redações e todas as normas que a alteraram | {len(leis)} |
+| [`leis/`](leis/README.md) | Constituição, leis, decretos e MPs (Planalto) que afetam as operadoras: marco legal (Lei nº 9.656/1998 com histórico de redações e todas as normas que a alteraram), agências reguladoras, fiscalização e regimes especiais, tributação, direito societário, consumidor, coberturas assistenciais e direitos dos pacientes | {len(leis)} |
 | [`ans/`](ans/README.md) | Atos normativos da ANS com texto integral, anexos e histórico | {sum(cnt.values())} |
 | [`ans/01-resolucoes-normativas/`](ans/01-resolucoes-normativas/README.md) | Todas as Resoluções Normativas (RN) disponíveis no portal da ANS | {tot_rn} |
 | [`HISTORICO.md`](HISTORICO.md) | Linha do tempo dos marcos legais e produção normativa por ano | |
@@ -153,7 +166,8 @@ Cada ato da ANS é um arquivo Markdown (ex.: [`ans/01-resolucoes-normativas/RN-0
 
 ### Observações
 
-- As Resoluções Operacionais (RO, ~3.200 atos sobre operadoras específicas, como regimes de direção fiscal/técnica, alienação de carteira e portabilidade especial), portarias, comunicados, despachos, instruções de serviço e resoluções administrativas internas **não** foram incluídos, por não serem normas gerais de regulação do setor. Os scripts em `scripts/` permitem incluí-los.
+- O acervo inclui **todos os tipos de ato** do portal de legislação da ANS, inclusive as Resoluções Operacionais (RO), que tratam de operadoras específicas: instauração e encerramento de regimes de direção fiscal e técnica, liquidação extrajudicial, alienação compulsória de carteira, portabilidade especial e extraordinária, suspensão de comercialização etc. Elas estão organizadas por ano.
+- Não estão incluídas normas de outros órgãos que também incidem sobre as operadoras (ex.: instruções normativas da Receita Federal, resoluções do CFM, normas da Anvisa e da SUSEP/CNSP) — apenas as leis e decretos federais correspondentes.
 - As RNs nº 552, 554, 556 e 608 não constam do portal de legislação da ANS.
 - Os vínculos de histórico ("data do vínculo") refletem a data em que a ANS cadastrou a relação no portal, não a data da norma.
 - Atos oficiais não são protegidos por direito autoral (Lei nº 9.610/1998, art. 8º, IV).

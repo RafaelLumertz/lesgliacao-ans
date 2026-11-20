@@ -2,6 +2,10 @@
 
 Textos obtidos no Portal da Legislação do Planalto (www.planalto.gov.br). Cada norma está em Markdown (com dispositivos revogados ~~tachados~~ e as notas "Redação dada por", "Incluído por", "Revogado por") e no HTML original, na subpasta `html-original/` de cada grupo.
 
+## Constituição Federal
+
+- [Constituição da República Federativa do Brasil de 1988 — arts. 196 a 200 (saúde; assistência à saúde livre à iniciativa privada), 170 e 174 (ordem econômica e regulação)](00-constituicao/constituicao-federal-1988.md)
+
 ## Marco legal da saúde suplementar
 
 - [Lei nº 9.656, de 3 de junho de 1998 — Planos e seguros privados de assistência à saúde (texto com histórico de alterações)](01-marco-legal/lei-9656-1998.md)
@@ -56,6 +60,9 @@ Textos obtidos no Portal da Legislação do Planalto (www.planalto.gov.br). Cada
 - [Lei nº 10.871, de 20 de maio de 2004 — Carreiras das agências reguladoras](04-agencias-reguladoras/lei-10871-2004.md)
 - [Decreto nº 4.044, de 6 de dezembro de 2001 — Composição do CONSU](04-agencias-reguladoras/decreto-4044-2001.md)
 - [Lei nº 12.813, de 16 de maio de 2013 — Conflito de interesses](04-agencias-reguladoras/lei-12813-2013.md)
+- [Lei nº 13.874, de 20 de setembro de 2019 — Declaração de Direitos de Liberdade Econômica (análise de impacto regulatório)](04-agencias-reguladoras/lei-13874-2019.md)
+- [Decreto nº 10.411, de 30 de junho de 2020 — Análise de Impacto Regulatório (AIR)](04-agencias-reguladoras/decreto-10411-2020.md)
+- [Decreto nº 12.002, de 22 de abril de 2024 — Elaboração e revisão de atos normativos](04-agencias-reguladoras/decreto-12002-2024.md)
 
 ## Fiscalização, regimes especiais e processo administrativo
 
@@ -65,8 +72,12 @@ Textos obtidos no Portal da Legislação do Planalto (www.planalto.gov.br). Cada
 - [Lei nº 9.784, de 29 de janeiro de 1999 — Processo administrativo federal](05-fiscalizacao-regimes-especiais-processo/lei-9784-1999.md)
 - [Lei nº 9.873, de 23 de novembro de 1999 — Prescrição da ação punitiva da Administração](05-fiscalizacao-regimes-especiais-processo/lei-9873-1999.md)
 - [Lei nº 10.522, de 19 de julho de 2002 — CADIN](05-fiscalizacao-regimes-especiais-processo/lei-10522-2002.md)
+- [Lei nº 6.830, de 22 de setembro de 1980 — Execução fiscal (cobrança de multas, Taxa de Saúde Suplementar e ressarcimento ao SUS)](05-fiscalizacao-regimes-especiais-processo/lei-6830-1980.md)
+- [Lei nº 7.347, de 24 de julho de 1985 — Ação civil pública](05-fiscalizacao-regimes-especiais-processo/lei-7347-1985.md)
+- [Lei nº 9.613, de 3 de março de 1998 — Lavagem de dinheiro (deveres de prevenção)](05-fiscalizacao-regimes-especiais-processo/lei-9613-1998.md)
+- [Lei nº 12.846, de 1º de agosto de 2013 — Lei Anticorrupção (responsabilização de pessoas jurídicas)](05-fiscalizacao-regimes-especiais-processo/lei-12846-2013.md)
 
-## Legislação correlata
+## Legislação correlata (consumidor, idosos, pessoas com deficiência, SUS, dados pessoais, cooperativas)
 
 - [Lei nº 8.078, de 11 de setembro de 1990 — Código de Defesa do Consumidor](06-legislacao-correlata/lei-8078-1990.md)
 - [Lei nº 8.080, de 19 de setembro de 1990 — Lei Orgânica da Saúde (SUS)](06-legislacao-correlata/lei-8080-1990.md)
@@ -75,3 +86,40 @@ Textos obtidos no Portal da Legislação do Planalto (www.planalto.gov.br). Cada
 - [Lei nº 13.146, de 6 de julho de 2015 — Estatuto da Pessoa com Deficiência](06-legislacao-correlata/lei-13146-2015.md)
 - [Lei nº 13.709, de 14 de agosto de 2018 — Lei Geral de Proteção de Dados (LGPD)](06-legislacao-correlata/lei-13709-2018.md)
 - [Lei nº 5.764, de 16 de dezembro de 1971 — Política Nacional de Cooperativismo](06-legislacao-correlata/lei-5764-1971.md)
+
+## Tributação das operadoras (PIS/Cofins, ISS, dedução no IRPF)
+
+- [Lei nº 9.718, de 27 de novembro de 1998 — PIS/Cofins; art. 3º, § 9º (deduções específicas das operadoras de planos de saúde)](07-tributacao/lei-9718-1998.md)
+- [Lei nº 10.637, de 30 de dezembro de 2002 — PIS/Pasep não cumulativo](07-tributacao/lei-10637-2002.md)
+- [Lei nº 10.833, de 29 de dezembro de 2003 — Cofins não cumulativa](07-tributacao/lei-10833-2003.md)
+- [Lei Complementar nº 116, de 31 de julho de 2003 — ISS (itens 4.22 e 4.23: planos de medicina de grupo e de saúde)](07-tributacao/lc-116-2003.md)
+- [Lei nº 9.250, de 26 de dezembro de 1995 — IRPF; art. 8º (dedução de pagamentos a planos de saúde)](07-tributacao/lei-9250-1995.md)
+
+## Direito societário, contratos e previdência complementar
+
+- [Lei nº 10.406, de 10 de janeiro de 2002 — Código Civil (contratos, contrato de seguro, associações, sociedades e cooperativas)](08-societario-cooperativas-contratos/lei-10406-2002.md)
+- [Lei nº 6.404, de 15 de dezembro de 1976 — Sociedades por ações](08-societario-cooperativas-contratos/lei-6404-1976.md)
+- [Lei Complementar nº 109, de 29 de maio de 2001 — Previdência complementar (entidades fechadas que operam planos de saúde)](08-societario-cooperativas-contratos/lc-109-2001.md)
+- [Lei nº 15.040, de 9 de dezembro de 2024 — Marco Legal dos Seguros (contrato de seguro; aplica-se às seguradoras especializadas em saúde)](08-societario-cooperativas-contratos/lei-15040-2024.md)
+
+## Defesa do consumidor: sanções, SAC e crimes
+
+- [Decreto nº 2.181, de 20 de março de 1997 — Sistema Nacional de Defesa do Consumidor e sanções administrativas](09-consumidor/decreto-2181-1997.md)
+- [Decreto nº 11.034, de 5 de abril de 2022 — Serviço de Atendimento ao Consumidor (SAC)](09-consumidor/decreto-11034-2022.md)
+- [Lei nº 8.137, de 27 de dezembro de 1990 — Crimes contra a ordem tributária, econômica e as relações de consumo](09-consumidor/lei-8137-1990.md)
+
+## Assistência à saúde: coberturas, direitos dos pacientes, telessaúde e exercício profissional
+
+- [Lei nº 9.263, de 12 de janeiro de 1996 — Planejamento familiar](10-assistencia-coberturas-direitos/lei-9263-1996.md)
+- [Lei nº 14.443, de 2 de setembro de 2022 — Altera a Lei do Planejamento Familiar (laqueadura e vasectomia)](10-assistencia-coberturas-direitos/lei-14443-2022.md)
+- [Lei nº 11.108, de 7 de abril de 2005 — Acompanhante no trabalho de parto, parto e pós-parto](10-assistencia-coberturas-direitos/lei-11108-2005.md)
+- [Lei nº 14.737, de 27 de novembro de 2023 — Acompanhante em consultas, exames e procedimentos](10-assistencia-coberturas-direitos/lei-14737-2023.md)
+- [Lei nº 8.069, de 13 de julho de 1990 — Estatuto da Criança e do Adolescente (art. 12: acompanhante em internação)](10-assistencia-coberturas-direitos/lei-8069-1990.md)
+- [Lei nº 10.216, de 6 de abril de 2001 — Saúde mental](10-assistencia-coberturas-direitos/lei-10216-2001.md)
+- [Lei nº 14.510, de 27 de dezembro de 2022 — Telessaúde](10-assistencia-coberturas-direitos/lei-14510-2022.md)
+- [Lei nº 13.989, de 15 de abril de 2020 — Telemedicina durante a pandemia (histórico)](10-assistencia-coberturas-direitos/lei-13989-2020.md)
+- [Lei nº 12.842, de 10 de julho de 2013 — Exercício da Medicina (Ato Médico)](10-assistencia-coberturas-direitos/lei-12842-2013.md)
+- [Lei nº 13.787, de 27 de dezembro de 2018 — Prontuário eletrônico](10-assistencia-coberturas-direitos/lei-13787-2018.md)
+- [Lei nº 14.289, de 3 de janeiro de 2022 — Sigilo sobre condição de pessoa com HIV, hepatites, hanseníase e tuberculose](10-assistencia-coberturas-direitos/lei-14289-2022.md)
+- [Lei nº 14.758, de 19 de dezembro de 2023 — Política Nacional de Prevenção e Controle do Câncer](10-assistencia-coberturas-direitos/lei-14758-2023.md)
+- [Lei nº 9.434, de 4 de fevereiro de 1997 — Transplantes de órgãos e tecidos](10-assistencia-coberturas-direitos/lei-9434-1997.md)

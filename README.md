@@ -1,6 +1,6 @@
 # Legislação da Saúde Suplementar — Planos de Saúde e ANS
 
-Acervo organizado da legislação brasileira sobre **regulação, fiscalização e supervisão das operadoras de planos privados de assistência à saúde**: as leis federais (com o histórico de alterações) e os atos normativos da **Agência Nacional de Saúde Suplementar (ANS)** — todas as Resoluções Normativas, Instruções Normativas, RDCs, Resoluções CONSU, Súmulas, Resoluções Regimentais, pareceres e entendimentos — com textos integrais, anexos e histórico normativo.
+Acervo organizado da legislação brasileira que afeta as **operadoras de planos privados de assistência à saúde (OPS)** — regulação, fiscalização, supervisão, tributação, relações de consumo e coberturas: a legislação federal (com o histórico de alterações) e **todos** os atos normativos da **Agência Nacional de Saúde Suplementar (ANS)** — Resoluções Normativas, Instruções Normativas, RDCs, Resoluções CONSU, Súmulas, Resoluções Regimentais, Resoluções Operacionais, pareceres, entendimentos, comunicados, portarias e demais atos — com textos integrais, anexos e histórico normativo.
 
 > Atualizado em 20/11/2026. Os textos são reproduções de fontes oficiais e **não substituem a publicação no Diário Oficial da União**.
 
@@ -8,8 +8,8 @@ Acervo organizado da legislação brasileira sobre **regulação, fiscalização
 
 | Pasta | O que tem | Qtde |
 | --- | --- | ---: |
-| [`leis/`](leis/README.md) | Leis, decretos e MPs (Planalto), incluindo a Lei nº 9.656/1998 com histórico de redações e todas as normas que a alteraram | 56 |
-| [`ans/`](ans/README.md) | Atos normativos da ANS com texto integral, anexos e histórico | 1196 |
+| [`leis/`](leis/README.md) | Constituição, leis, decretos e MPs (Planalto) que afetam as operadoras: marco legal (Lei nº 9.656/1998 com histórico de redações e todas as normas que a alteraram), agências reguladoras, fiscalização e regimes especiais, tributação, direito societário, consumidor, coberturas assistenciais e direitos dos pacientes | 89 |
+| [`ans/`](ans/README.md) | Atos normativos da ANS com texto integral, anexos e histórico | 4702 |
 | [`ans/01-resolucoes-normativas/`](ans/01-resolucoes-normativas/README.md) | Todas as Resoluções Normativas (RN) disponíveis no portal da ANS | 700 |
 | [`HISTORICO.md`](HISTORICO.md) | Linha do tempo dos marcos legais e produção normativa por ano | |
 | [`dados/`](dados/) | Índices em CSV/JSON (para planilhas, buscas e uso em IA/RAG) | |
@@ -27,6 +27,13 @@ Acervo organizado da legislação brasileira sobre **regulação, fiscalização
 | [Resoluções Regimentais (RR)](ans/06-resolucoes-regimentais/README.md) | 39 | 19 |
 | [Pareceres da PROGE](ans/07-pareceres-proge/README.md) | 19 | 19 |
 | [Entendimentos da DIFIS](ans/08-entendimentos-difis/README.md) | 13 | 12 |
+| [Resoluções Operacionais (RO) — operadoras específicas](ans/09-resolucoes-operacionais/README.md) | 3176 | 3147 |
+| [Comunicados](ans/10-comunicados/README.md) | 101 | 101 |
+| [Portarias](ans/11-portarias/README.md) | 47 | 46 |
+| [Despachos](ans/12-despachos/README.md) | 5 | 5 |
+| [Instruções de Serviço](ans/13-instrucoes-de-servico/README.md) | 66 | 3 |
+| [Resoluções Administrativas](ans/14-resolucoes-administrativas/README.md) | 89 | 33 |
+| [Resoluções Especiais](ans/15-resolucoes-especiais/README.md) | 22 | 1 |
 
 ## Como cada ato está organizado
 
@@ -45,7 +52,8 @@ Cada ato da ANS é um arquivo Markdown (ex.: [`ans/01-resolucoes-normativas/RN-0
 
 ### Observações
 
-- As Resoluções Operacionais (RO, ~3.200 atos sobre operadoras específicas, como regimes de direção fiscal/técnica, alienação de carteira e portabilidade especial), portarias, comunicados, despachos, instruções de serviço e resoluções administrativas internas **não** foram incluídos, por não serem normas gerais de regulação do setor. Os scripts em `scripts/` permitem incluí-los.
+- O acervo inclui **todos os tipos de ato** do portal de legislação da ANS, inclusive as Resoluções Operacionais (RO), que tratam de operadoras específicas: instauração e encerramento de regimes de direção fiscal e técnica, liquidação extrajudicial, alienação compulsória de carteira, portabilidade especial e extraordinária, suspensão de comercialização etc. Elas estão organizadas por ano.
+- Não estão incluídas normas de outros órgãos que também incidem sobre as operadoras (ex.: instruções normativas da Receita Federal, resoluções do CFM, normas da Anvisa e da SUSEP/CNSP) — apenas as leis e decretos federais correspondentes.
 - As RNs nº 552, 554, 556 e 608 não constam do portal de legislação da ANS.
 - Os vínculos de histórico ("data do vínculo") refletem a data em que a ANS cadastrou a relação no portal, não a data da norma.
 - Atos oficiais não são protegidos por direito autoral (Lei nº 9.610/1998, art. 8º, IV).
