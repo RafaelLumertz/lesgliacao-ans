@@ -4,7 +4,7 @@
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
-| [CONSU 2/2002](CONSU-0002-2002.md) | 03/04/2002 | Vigente |  |
+| [CONSU 2/2002](CONSU-0002-2002.md) | 03/04/2002 | Vigente | Aprova o Contrato de Gestão a ser celebrado entre o Ministério da Saúde e a Agência Nacional de Saúde Suplementar – ANS . |
 | [CONSU 2/2000](CONSU-0002-2000.md) | 21/12/2000 | Vigente | Aprova o Contrato de Gestão a ser celebrado entre o Ministério da Saúde e a ANS. |
 | [CONSU 1/2000](CONSU-0001-2000.md) | 23/05/2000 | Revogada | Dispõe sobre as sanções aplicáveis aos procedimentos e atividades lesivas a assistência de saúde suplementar, delega competência à ANS para atos que menciona, e dá outras providências. |
 | [CONSU 23/1999](CONSU-0023-1999.md) | 28/10/1999 | Revogada | Dispõe sobre a Tabela Única Nacional de Equivalência de Procedimentos – TUNEP para fins de ressarcimento dos atendimentos prestados aos beneficiários de plano privado de assistência à saúde, por instituições públicas ou … |

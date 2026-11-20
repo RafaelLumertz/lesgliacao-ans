@@ -4,7 +4,7 @@
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
-| [Portaria-PRESI 9/2026](Portaria-PRESI-0009-2026.md) | 03/07/2026 | Vigente |  |
+| [Portaria-PRESI 9/2026](Portaria-PRESI-0009-2026.md) | 03/07/2026 | Vigente | Fica estabelecido o perfil profissional desejável dos cargos comissionados executivos - CCE e funções comissionadas executivas - FCE, de níveis 11 a 17, alocados na estrutura regimental da Agência Nacional de Saúde Suple… |
 | [Portaria-PRESI 10/2026](Portaria-PRESI-0010-2026.md) | 03/07/2026 | Vigente | Tornar pública a aprovação do Plano Diretor de Tecnologia da Informação e Comunicação - PDTIC da ANS, relativo aos anos de 2026 e 2027, apresentado e aprovado pela Diretoria Colegiada no Comitê de Governança, Riscos e Co… |
 | [Portaria-DIGES 1/2026](Portaria-DIGES-0001-2026.md) | 03/07/2026 | Vigente | Dispõe sobre a aprovação do Manual de Utilização da Sala 360 e do Termo de Responsabilidade e Sigilo para uso da Sala 360, no âmbito da Agência Nacional de Saúde Suplementar – ANS. |
 | [Portaria-Diretor-Presidente 2/2025](Portaria-Diretor-Presidente-0002-2025.md) | 24/01/2025 | Vigente | Altera a Portaria nº 20 PRESI-ANS, de 18 de dezembro de 2024, que estabelece regras e procedimentos para a revisão e consolidação dos atos normativos inferiores a Decreto, no âmbito da Agência Nacional de Saúde Suplement… |

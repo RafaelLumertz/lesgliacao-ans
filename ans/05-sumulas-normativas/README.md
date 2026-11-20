@@ -4,7 +4,7 @@
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
-| [Sumula 30/2022](Sumula-0030-2022.md) | 04/05/2022 | Vigente |  |
+| [Sumula 30/2022](Sumula-0030-2022.md) | 04/05/2022 | Vigente | As Caixas de Assistência dos Advogados, quando operarem planos privados de assistência à saúde, devem se submeter à Lei nº 9.656, de 3 de junho de 1998. |
 | [Sumula 29/2015](Sumula-0029-2015.md) | 17/12/2015 | Vigente | Entendimento vinculativo para efeitos da Súmula Normativa n° 25, de 13 de setembro de 2012. |
 | [Sumula 28/2015](Sumula-0028-2015.md) | 01/12/2015 | Revogada | Entendimento vinculativo para fins do cumprimento do disposto no inciso II do parágrafo único do artigo 13 da lei nº 9.656, de 1998. . |
 | [Sumula 27/2015](Sumula-0027-2015.md) | 11/06/2015 | Vigente | Entendimento vinculativo sobre a prática de seleção de riscos pelas operadoras de plano de saúde na contratação de qualquer modalidade de plano privado de assistência à saúde |

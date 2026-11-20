@@ -4,7 +4,7 @@
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
-| [RA 89/2026](RA-0089-2026.md) | 20/05/2026 | Vigente |  |
+| [RA 89/2026](RA-0089-2026.md) | 20/05/2026 | Vigente | Dispõe sobre a instauração, a organização e o processamento da Tomada de Contas Especial - TCE no âmbito da ANS, bem como o seu encaminhamento ao Tribunal de Contas da União - TCU. |
 | [RA 88/2025](RA-0088-2025.md) | 29/04/2025 | Vigente | Institui a Política de Prevenção e Enfrentamento à Violência Laboral e ao Assédio Moral e Sexual na Agência Nacional de Saúde Suplementar. |
 | [RA 87/2025](RA-0087-2025.md) | 14/03/2025 | Vigente | Dispõe sobre a Política de Governança de Dados e Informações da Agência Nacional de Saúde Suplementar. |
 | [RA 86/2024](RA-0086-2024.md) | 08/10/2024 | Vigente | Dispõe sobre a autorização para reprodução e utilização de sigla, logotipo e slogan da Agência Nacional de Saúde Suplementar – ANS. |

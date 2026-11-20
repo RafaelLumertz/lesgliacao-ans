@@ -4,7 +4,7 @@
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
-| [RR 39/2026](RR-0039-2026.md) | 20/10/2026 | Vigente |  |
+| [RR 39/2026](RR-0039-2026.md) | 20/10/2026 | Vigente | Altera a Resolução Regimental nº 21, de 26 de janeiro de 26 de janeiro de 2022 (Regimento Interno da Agência Nacional de Saúde Suplementar – ANS), na parte referente à Diretoria de Normas e Habilitação das Operadoras - D… |
 | [RR 38/2026](RR-0038-2026.md) | 28/08/2026 | Vigente | Altera os Anexos I e I-d da Resolução Regimental nº 21, de 26 de janeiro de 2022, que dispõe sobre o Regimento Interno da Agência Nacional de Saúde Suplementar – ANS, na parte referente aos cargos da Diretoria de Desenvo… |
 | [RR 37/2026](RR-0037-2026.md) | 18/05/2026 | Vigente | Altera o texto principal, substitui o Anexo I e os Anexos I-a, Anexo I-b, Anexo I-c, Anexo I-d, Anexo I-e, Anexo I-f, Anexo I-h, Anexo I-i e o Anexo I-j, todos da Resolução Regimental nº 21, de 26 de janeiro de 2022, que… |
 | [RR 36/2025](RR-0036-2025.md) | 08/12/2025 | Vigente | Altera o Anexo I e o Anexo I-g da Resolução Regimental – RR nº 21, de 26 de janeiro de 2022, que dispõe sobre o Regimento Interno da Agência Nacional de Saúde Suplementar – ANS. |
@@ -22,7 +22,7 @@
 | [RR 24/2023](RR-0024-2023.md) | 20/06/2023 | Vigente | Altera a Resolução Regimental nº 21, de 26 de janeiro de 2022, que dispõe sobre o Regimento Interno da Agência Nacional de Saúde Suplementar – ANS. |
 | [RR 22/2022](RR-0022-2022.md) | 14/02/2022 | Vigente | Suspende o §1º do art. 9º da Resolução Regimental – RR nº 21, de 26 de janeiro de 2022. |
 | [RR 21/2022](RR-0021-2022.md) | 31/01/2022 | Vigente | Dispõe sobre o Regimento Interno da Agência Nacional de Saúde Suplementar - ANS - Processo nº 33910.004161/2021-00 |
-| [RR-CEANS 1/2021](RR-CEANS-0001-2021.md) | 03/01/2022 | Vigente |  |
+| [RR-CEANS 1/2021](RR-CEANS-0001-2021.md) | 03/01/2022 | Vigente | Dispõe sobre o Regimento Interno da Comissão de Ética da ANS – CEANS. |
 | [RR 20/2021](RR-0020-2021.md) | 15/07/2021 | Revogada | Suspende o §1º do art. 26 da Resolução Regimental – RR nº 1, de 17 de março de 2017. |
 | [RR 19/2021](RR-0019-2021.md) | 26/05/2021 | Revogada | Altera a Resolução Regimental – RR nº 1, de 17 de março de 2017, que institui o Regimento Interno da Agência Nacional de Saúde Suplementar - ANS, e os Anexos I, III e V. |
 | [RR 18/2021](RR-0018-2021.md) | 05/05/2021 | Revogada | Altera a Resolução Regimental – RR ANS nº 01, de 17 de março de 2017, para dispor sobre o Estatuto da Unidade de Auditoria Interna da Agência Nacional de Saúde Suplementar – AUDIT/ANS |

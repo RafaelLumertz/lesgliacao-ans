@@ -21,11 +21,12 @@ def clean_md(t):
     t = re.sub(r'~~ +', '~~', t); t = re.sub(r'(\S) +~~(\s|$)', r'\1~~\2', t)
     return t.strip() + '\n'
 
-rows = list(csv.DictReader(open('planalto_list.tsv'), delimiter='\t'))
+rows = list(csv.DictReader(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'planalto_list.tsv')), delimiter='\t'))
 index = []
 for r in rows:
     src = os.path.join(RAW, r['slug'] + '.htm')
     html = decode(open(src, 'rb').read())
+    html = re.sub(r'<script id="f5_cspm">.*?</script>', '', html, flags=re.S)  # script do firewall, muda a cada acesso
     soup = BeautifulSoup(html, 'lxml')
     alt = BeautifulSoup(html, 'html.parser')
     if len(soup.get_text()) < 0.8 * len(alt.get_text()):
@@ -61,8 +62,15 @@ for r in rows:
     header = (f"---\ntitulo: \"{r['titulo']}\"\nfonte: {url}\norgao: Presidência da República — Portal da Legislação (Planalto)\ncoletado_em: {TODAY}\n---\n\n"
               f"> **{r['titulo']}**  \n> Fonte oficial: <{url}>  \n> Trechos ~~tachados~~ correspondem a dispositivos revogados ou com redação alterada, conforme publicado no Planalto. "
               f"Este arquivo é uma conversão para Markdown; prevalece o texto publicado no Diário Oficial da União.\n\n")
-    open(os.path.join(d, r['slug'] + '.md'), 'w').write(header + text)
-    open(os.path.join(d, 'html-original', r['slug'] + '.htm'), 'w').write(html)
+    novo = header + text
+    mdp = os.path.join(d, r['slug'] + '.md')
+    sem_data = lambda t: re.sub(r'(?m)^coletado_em: .*$', '', t)
+    if not (os.path.exists(mdp) and sem_data(open(mdp).read()) == sem_data(novo)):
+        open(mdp, 'w').write(novo)
+        print('alterada:', r['slug'], file=sys.stderr)
+    hp = os.path.join(d, 'html-original', r['slug'] + '.htm')
+    if not (os.path.exists(hp) and open(hp).read() == html):
+        open(hp, 'w').write(html)
     index.append((r['grupo'], r['slug'], r['titulo'], url))
 with open(os.path.join(OUT, '_indice.tsv'), 'w') as f:
     for x in index: f.write('\t'.join(x) + '\n')

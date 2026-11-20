@@ -4,7 +4,7 @@
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
-| [IN-DIPRO 61/2026](IN-DIPRO-0061-2026.md) | 22/07/2026 | Vigente |  |
+| [IN-DIPRO 61/2026](IN-DIPRO-0061-2026.md) | 22/07/2026 | Vigente | Altera a Instrução Normativa ANS nº 28, de 16 de dezembro de 2022, que dispõe sobre os procedimentos do Registro de Produtos. |
 | [IN-DIPRO 60/2026](IN-DIPRO-0060-2026.md) | 27/02/2026 | Vigente | Altera a Instrução Normativa ANS nº 30, de 16 de dezembro de 2022, a fim de excluir a regularidade no envio de informações ao Sistema de Informações de Produtos (SIP) como requisito para a autorização de reajustes das co… |
 | [IN-PROGE 2/2025](IN-PROGE-0002-2025.md) | 01/01/2026 | Vigente | Dispõe sobre os critérios e procedimentos para o exercício das atividades de consultoria e assessoramento jurídicos das Gerências de Consultorias Administrativa e Normativa da Procuradoria Federal junto à Agência Naciona… |
 | [IN-PROGE 1/2025](IN-PROGE-0001-2025.md) | 22/08/2025 | Vigente | Dispõe sobre a tramitação dos processos no âmbito da Gerência de Consultoria Normativa - GECOS |
@@ -54,7 +54,7 @@
 | [IN-DIDES 69/2019](IN-DIDES-0069-2019.md) | 22/07/2019 | Revogada | Altera a Instrução Normativa - IN DIDES nº 50, de 25 de setembro de 2012, que dispõe em especial sobre o formato XML (Extensible Markup Language) para a transmissão das informações para o Sistema de Informações de Benefi… |
 | [IN-DIFIS 16/2019](IN-DIFIS-0016-2019.md) | 03/04/2019 | Revogada | Altera a Instrução Normativa - IN nº 13, de 28 de julho de 2016, da Diretoria de Fiscalização – DIFIS, que dispõe sobre os procedimentos a serem observados para o Ciclo de Fiscalização e para a Intervenção Fiscalizatória… |
 | [IN-DIPRO 56/2018](IN-DIPRO-0056-2018.md) | 05/12/2018 | Vigente | Dispõe sobre as faixas de preço para fins de portabilidade de carências e migração, regulamentados, respectivamente, pela Resolução Normativa - RN nº 438, de 3 de dezembro de 2018 e pela RN nº 254, de 5 de maio de 2011; … |
-| [INC-DIOPE-e-DIPRO 8/2018](INC-DIOPE-e-DIPRO-0008-2018.md) | 27/11/2018 | Revogada |  |
+| [INC-DIOPE-e-DIPRO 8/2018](INC-DIOPE-e-DIPRO-0008-2018.md) | 27/11/2018 | Revogada | Altera a Instrução Normativa Conjunta – INC nº 7, de 23 de novembro de 2012, da Diretoria de Normas e Habilitação das Operadoras - DIOPE e da Diretoria de Normas e Habilitação dos Produtos - DIPRO, que dispõe sobre o cad… |
 | [IN-DIPRO 55/2018](IN-DIPRO-0055-2018.md) | 08/02/2018 | Revogada | Altera as Instruções Normativas - IN nº 49, de 22 de dezembro de 2016, da Diretoria de Normas e Habilitação dos Produtos, que dispõe sobre as medidas administrativas decorrentes da avaliação das operadoras de planos de a… |
 | [IN-DIPRO 54/2018](IN-DIPRO-0054-2018.md) | 07/02/2018 | Revogada | Acrescenta o art. 7º-A na Instrução Normativa – IN nº 46, de 3 de outubro de 2014, da Diretoria de Normas e Habilitação dos Produtos – DIPRO, que dispõe sobre as solicitações de substituição de entidade hospitalar e de r… |
 | [IN-DIPRO 53/2017](IN-DIPRO-0053-2017.md) | 20/07/2017 | Revogada | Regulamenta a visita técnico-assistencial para identificação de anormalidades assistenciais nas operadoras de planos de assistência à saúde. |

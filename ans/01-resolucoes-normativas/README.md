@@ -4,7 +4,7 @@
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
-| [RN 683/2026](RN-0683-2026.md) | 16/11/2026 | Não vigente |  |
+| [RN 683/2026](RN-0683-2026.md) | 16/11/2026 | Não vigente | Altera a Resolução Normativa - RN nº 465, de 24 de fevereiro de 2021, que dispõe sobre o Rol de Procedimentos e Eventos em Saúde no âmbito da Saúde Suplementar, para regulamentar a cobertura obrigatória do procedimento P… |
 | [RN 999/2026](RN-0999-2026.md) | 28/10/2026 | Vigente | Norma teste de links internos |
 | [RN 682/2026](RN-0682-2026.md) | 19/10/2026 | Vigente | Altera a Resolução Normativa - RN nº 465, de 24 de fevereiro de 2021, que dispõe sobre o Rol de Procedimentos e Eventos em Saúde no âmbito da Saúde Suplementar, para regulamentar a cobertura obrigatória do procedimento b… |
 | [RN 681/2026](RN-0681-2026.md) | 06/10/2026 | Vigente | Altera a Resolução Normativa - RN nº 465, de 24 de fevereiro de 2021, que dispõe sobre o Rol de Procedimentos e Eventos em Saúde no âmbito da Saúde Suplementar, para regulamentar a cobertura obrigatória do procedimento C… |

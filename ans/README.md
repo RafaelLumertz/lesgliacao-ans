@@ -44,7 +44,7 @@ Normas que mais receberam alterações ao longo do tempo (bom ponto de partida p
 | [RN 364/2014](01-resolucoes-normativas/RN-0364-2014.md) | Vigente | 4 | Dispõe sobre a definição de índice de reajuste pela Agência Nacional de Saúde Suplementar - ANS - a ser aplicado pelas operadoras de planos de assistência à saú… |
 | [RN 428/2017](01-resolucoes-normativas/RN-0428-2017.md) | Revogada | 4 | Atualiza o Rol de Procedimentos e Eventos em Saúde, que constitui a referência básica para cobertura assistencial mínima nos planos privados de assistência à sa… |
 | [RN 585/2023](01-resolucoes-normativas/RN-0585-2023.md) | Vigente | 4 | Dispõe sobre os critérios para as alterações na rede assistencial hospitalar no que se refere à substituição de entidade hospitalar e redimensionamento de rede … |
-| [RDC 95/2002](03-resolucoes-diretoria-colegiada/RDC-0095-2002.md) | Vigente | 4 |  |
+| [RDC 95/2002](03-resolucoes-diretoria-colegiada/RDC-0095-2002.md) | Vigente | 4 | Altera o Regimento Interno da ANS. |
 | [RA 36/2010](14-resolucoes-administrativas/RA-0036-2010.md) | Revogada | 4 | Estabelece as normas e procedimentos das avaliações de desempenho individual e institucional, para fins de pagamento da Gratificação de Desempenho de Atividade … |
 | [RN 159/2007](01-resolucoes-normativas/RN-0159-2007.md) | Revogada | 3 | Dispõe sobre aceitação, registro, vinculação, custódia, movimentação e diversificação dos ativos garantidores das operadoras e do mantenedor de entidade de auto… |
 | [RN 190/2009](01-resolucoes-normativas/RN-0190-2009.md) | Revogada | 3 | Dispõe sobre a criação obrigatória de portal corporativo na Internet pelas operadoras de planos privados de assistência à saúde, sobre a designação de profissio… |
@@ -89,9 +89,9 @@ Atos vigentes de caráter geral (as Resoluções Operacionais, que tratam de ope
 - [RA 25/2008](14-resolucoes-administrativas/RA-0025-2008.md) — _Regimento Interno_ — Dispõe sobre o Código de Ética da Agência Nacional de Saúde Suplementar - ANS.
 - [RN 482/2022](01-resolucoes-normativas/RN-0482-2022.md) — _Regimento Interno_ — Dispõe sobre o Regimento Interno da Câmara de Saúde Suplementar. Processo nº 33910.028555/2021-45
 - [RR 38/2026](06-resolucoes-regimentais/RR-0038-2026.md) — _Regimento Interno_ — Altera os Anexos I e I-d da Resolução Regimental nº 21, de 26 de janeiro de 2022, que dispõe sobre o Regimento Interno da Agência Nacional d…
-- [RR 39/2026](06-resolucoes-regimentais/RR-0039-2026.md) — _Regimento Interno_ — 
+- [RR 39/2026](06-resolucoes-regimentais/RR-0039-2026.md) — _Regimento Interno_ — Altera a Resolução Regimental nº 21, de 26 de janeiro de 26 de janeiro de 2022 (Regimento Interno da Agência Nacional de Saúde Suplementar –…
 - [RR 21/2022](06-resolucoes-regimentais/RR-0021-2022.md) — _Regimento Interno_ — Dispõe sobre o Regimento Interno da Agência Nacional de Saúde Suplementar - ANS - Processo nº 33910.004161/2021-00
-- [RR-CEANS 1/2021](06-resolucoes-regimentais/RR-CEANS-0001-2021.md) — _Regimento Interno_ — 
+- [RR-CEANS 1/2021](06-resolucoes-regimentais/RR-CEANS-0001-2021.md) — _Regimento Interno_ — Dispõe sobre o Regimento Interno da Comissão de Ética da ANS – CEANS.
 - [RA 79/2022](14-resolucoes-administrativas/RA-0079-2022.md) — _Remoção de servidores da ANS_ — Dispõe sobre a remoção, com ou sem mudança de Município, dos servidores integrantes do quadro de pessoal da Agência Nacional de Saúde Suplem…
 - [RA 88/2025](14-resolucoes-administrativas/RA-0088-2025.md) — _Saúde do trabalhador e qualidade de vida_ — Institui a Política de Prevenção e Enfrentamento à Violência Laboral e ao Assédio Moral e Sexual na Agência Nacional de Saúde Suplementar.
 - [RA 76/2022](14-resolucoes-administrativas/RA-0076-2022.md) — _Saúde do trabalhador e qualidade de vida_ — Dispõe sobre os procedimentos para implantação e controle das ações voltadas à saúde do trabalhador no âmbito da Agência Nacional de Saúde S…
@@ -101,7 +101,7 @@ Atos vigentes de caráter geral (as Resoluções Operacionais, que tratam de ope
 - [IN-PRESI 1/2020](02-instrucoes-normativas/IN-PRESI-0001-2020.md) — _Transparência_ — Declara a revogação expressa das instruções normativas consideradas implicitamente revogadas ou cuja eficácia ou validade encontram-se preju…
 - [IN-PROGE 1/2025](02-instrucoes-normativas/IN-PROGE-0001-2025.md) — _Transparência_ — Dispõe sobre a tramitação dos processos no âmbito da Gerência de Consultoria Normativa - GECOS
 - [IN-PROGE 1/2022](02-instrucoes-normativas/IN-PROGE-0001-2022.md) — _Transparência_ — Dispõe sobre os critérios e procedimentos para o exercício das atividades de consultoria e assessoramento jurídicos das Gerências de Consult…
-- [RA 89/2026](14-resolucoes-administrativas/RA-0089-2026.md) — _Transparência_ — 
+- [RA 89/2026](14-resolucoes-administrativas/RA-0089-2026.md) — _Transparência_ — Dispõe sobre a instauração, a organização e o processamento da Tomada de Contas Especial - TCE no âmbito da ANS, bem como o seu encaminhamen…
 - [RA 86/2024](14-resolucoes-administrativas/RA-0086-2024.md) — _Transparência_ — Dispõe sobre a autorização para reprodução e utilização de sigla, logotipo e slogan da Agência Nacional de Saúde Suplementar – ANS.
 - [RA 75/2022](14-resolucoes-administrativas/RA-0075-2022.md) — _Transparência_ — Revoga expressamente atos com conteúdo normativo já tacitamente revogados, cujos efeitos tenham se exaurido no tempo ou cuja necessidade ou …
 - [RA 65/2016](14-resolucoes-administrativas/RA-0065-2016.md) — _Transparência_ — Dispõe sobre as normas e os procedimentos necessários aos trabalhos da Ouvidoria - OUVID.
@@ -116,7 +116,7 @@ Atos vigentes de caráter geral (as Resoluções Operacionais, que tratam de ope
 
 <details><summary><b>Agência Nacional de Saúde Suplementar</b> (21 atos vigentes)</summary>
 
-- [CONSU 2/2002](04-resolucoes-consu/CONSU-0002-2002.md) — __ — 
+- [CONSU 2/2002](04-resolucoes-consu/CONSU-0002-2002.md) — __ — Aprova o Contrato de Gestão a ser celebrado entre o Ministério da Saúde e a Agência Nacional de Saúde Suplementar – ANS .
 - [CONSU 2/2000](04-resolucoes-consu/CONSU-0002-2000.md) — __ — Aprova o Contrato de Gestão a ser celebrado entre o Ministério da Saúde e a ANS.
 - [CONSU 15/1999](04-resolucoes-consu/CONSU-0015-1999.md) — __ — Dispõe sobre as alterações nas Resoluções CONSU, publicadas no D.O.U de 04 de Novembro de 1998.
 - [RDC 50/2001](03-resolucoes-diretoria-colegiada/RDC-0050-2001.md) — __ — Resolução Administrativa.
@@ -135,7 +135,7 @@ Atos vigentes de caráter geral (as Resoluções Operacionais, que tratam de ope
 - [RN 65/2003](01-resolucoes-normativas/RN-0065-2003.md) — __ — Define o Diretor responsável pela Diretoria de Normas e Habilitação dos Produtos.
 - [RN 139/2006](01-resolucoes-normativas/RN-0139-2006.md) — _Qualidade na Saúde Suplementar_ — Institui o Programa de Qualificação da Saúde Suplementar.
 - [CONSU 1/1998](04-resolucoes-consu/CONSU-0001-1998.md) — _Regimento Interno_ — Regimento Interno do CONSU.
-- [RDC 95/2002](03-resolucoes-diretoria-colegiada/RDC-0095-2002.md) — _Regimento Interno_ — 
+- [RDC 95/2002](03-resolucoes-diretoria-colegiada/RDC-0095-2002.md) — _Regimento Interno_ — Altera o Regimento Interno da ANS.
 - [RN 77/2004](01-resolucoes-normativas/RN-0077-2004.md) — _Regimento Interno_ — Define o Diretor responsável pela Diretoria de Gestão
 
 </details>
@@ -217,7 +217,7 @@ Atos vigentes de caráter geral (as Resoluções Operacionais, que tratam de ope
 - [RN 547/2022](01-resolucoes-normativas/RN-0547-2022.md) — _Regimes Especiais e Planos de Recuperação_ — Dispõe Sobre a Prestação de Contas Final do Liquidante que Deixar Suas Funções.
 - [RN 276/2011](01-resolucoes-normativas/RN-0276-2011.md) — _Regimes Especiais e Planos de Recuperação_ — Estabelece procedimentos a serem observados nos inquéritos administrativos aplicados à liquidação extrajudicial das Operadoras de Planos de …
 - [IN 28/2022](02-instrucoes-normativas/IN-0028-2022.md) — _Registro_ — Dispõe sobre os procedimentos do Registro de Produtos.
-- [IN-DIPRO 61/2026](02-instrucoes-normativas/IN-DIPRO-0061-2026.md) — _Registro_ — 
+- [IN-DIPRO 61/2026](02-instrucoes-normativas/IN-DIPRO-0061-2026.md) — _Registro_ — Altera a Instrução Normativa ANS nº 28, de 16 de dezembro de 2022, que dispõe sobre os procedimentos do Registro de Produtos.
 - [RN 620/2024](01-resolucoes-normativas/RN-0620-2024.md) — _Registro_ — Altera a Resolução Normativa ANS nº 585, de 18 de agosto de 2023 e revoga a Resolução Normativa ANS nº 568, de 19 de dezembro de 2022. Proce…
 - [RN 585/2023](01-resolucoes-normativas/RN-0585-2023.md) — _Registro_ — Dispõe sobre os critérios para as alterações na rede assistencial hospitalar no que se refere à substituição de entidade hospitalar e redime…
 - [RN 543/2022](01-resolucoes-normativas/RN-0543-2022.md) — _Registro_ — Dispõe sobre a concessão de Autorização de Funcionamento das Operadoras de Planos de Assistência à Saúde e sobre o Registro de Produtos.
@@ -231,7 +231,7 @@ Atos vigentes de caráter geral (as Resoluções Operacionais, que tratam de ope
 - [RN 520/2022](01-resolucoes-normativas/RN-0520-2022.md) — _Administradores_ — Estabelece critérios mínimos para o exercício de cargo de administrador de operadora de planos privados de assistência à saúde, disciplina o…
 - [RN 137/2006](01-resolucoes-normativas/RN-0137-2006.md) — _Autogestões_ — Dispõe sobre as entidades de autogestão no âmbito do sistema de saúde suplementar.
 - [IN 19/2022](02-instrucoes-normativas/IN-0019-2022.md) — _Autorização de Funcionamento de Administradoras de Benefícios_ — Estabelece os requisitos e procedimentos para a concessão da autorização de funcionamento das Administradoras de Benefícios e revoga a Instr…
-- [Sumula 30/2022](05-sumulas-normativas/Sumula-0030-2022.md) — _Caixas de Assistência de Advogados_ — 
+- [Sumula 30/2022](05-sumulas-normativas/Sumula-0030-2022.md) — _Caixas de Assistência de Advogados_ — As Caixas de Assistência dos Advogados, quando operarem planos privados de assistência à saúde, devem se submeter à Lei nº 9.656, de 3 de ju…
 - [RN 531/2022](01-resolucoes-normativas/RN-0531-2022.md) — _Classificação e Segmentação das Operadoras_ — Dispõe sobre a definição, a segmentação e a classificação das Operadoras de Planos de Assistência à Saúde e revoga a Resolução de Diretoria …
 - [IN 21/2022](02-instrucoes-normativas/IN-0021-2022.md) — _Controle Societário e Operações Societárias_ — Regulamenta a Resolução Normativa nº 525, de 29 de abril de 2022, que dispõe, em especial, sobre o procedimento e os requisitos mínimos para…
 - [RN 525/2022](01-resolucoes-normativas/RN-0525-2022.md) — _Controle Societário e Operações Societárias_ — Dispõe sobre o procedimento e os requisitos mínimos para autorização pela ANS dos atos que disponham sobre alteração ou transferência de con…

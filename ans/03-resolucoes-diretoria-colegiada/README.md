@@ -4,7 +4,7 @@
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
-| [RDC 95/2002](RDC-0095-2002.md) | 05/02/2002 | Vigente |  |
+| [RDC 95/2002](RDC-0095-2002.md) | 05/02/2002 | Vigente | Altera o Regimento Interno da ANS. |
 | [RDC 94/2002](RDC-0094-2002.md) | 17/01/2002 | Vigente | Direção Fiscal da UNIMED DE SÃO PAULO COOPERATIVA DE TRABALHO MÉDICO S/C Ltda. e nomeia Diretor Fiscal. |
 | [RDC 93/2001](RDC-0093-2001.md) | 17/12/2001 | Vigente | Direção Fiscal na PRÓ-SAÚDE ASSISTÊNCIA MÉDICA S/C Ltda. e nomeia Diretor Fiscal. |
 | [RDC 92/2001](RDC-0092-2001.md) | 17/12/2001 | Vigente | Direção Fiscal na SAÚDE ASSISTÊNCIA MÉDICA DO ABC S/C Ltda. e nomeação do Diretor Fiscal. |
@@ -22,7 +22,7 @@
 | [RDC 80/2001](RDC-0080-2001.md) | 10/08/2001 | Vigente | Liquidação Extrajudicial na CLIMOJ - ASSISTÊNCIA MÉDICA DE JACAREPAGUÁ Ltda e nomeação do Liquidante. |
 | [RDC 79/2001](RDC-0079-2001.md) | 10/08/2001 | Revogada | Normas para exercício do cargo de administrador das operadoras. |
 | [RDC 78/2001](RDC-0078-2001.md) | 23/07/2001 | Vigente | Prorroga o prazo da RDC 64. |
-| [RDC 77/2001](RDC-0077-2001.md) | 19/07/2001 | Revogada |  |
+| [RDC 77/2001](RDC-0077-2001.md) | 19/07/2001 | Revogada | Critérios de constituição de garantias financeiras a serem observados pelas operadoras. Alterada pela RN 14. |
 | [RDC 76/2001](RDC-0076-2001.md) | 29/06/2001 | Vigente | Direção Fiscal na SERVI SAÚDE ASSISTÊNCIA MÉDICA Ltda. e nomeação do Diretor-Fiscal. |
 | [RDC 75/2001](RDC-0075-2001.md) | 13/06/2001 | Vigente | Direção Fiscal na SERVI SAÚDE ASSISTÊNCIA MÉDICA Ltda. e nomeação do Diretor-Fiscal. |
 | [RDC 74/2001](RDC-0074-2001.md) | 13/06/2001 | Vigente | Direção Fiscal na SAMP ESPÍRITO SANTO - ASSISTÊNCIA MÉDICA S/C Ltda. e nomeação do Diretor-Fiscal. |

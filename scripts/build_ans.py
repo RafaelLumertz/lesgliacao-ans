@@ -86,6 +86,8 @@ LABELS = ['Data de vigência', 'Tipo de reunião', 'Número', 'Data da reunião 
 def parse_page(txt):
     lines = [l.strip() for l in txt.split('\n')]
     info = {}
+    if len(lines) > 3 and lines[3] and not lines[3].startswith(('Publicado em', 'Compartilhe', 'Esta norma')) and len(lines[3]) < 30:
+        info['status_pagina'] = lines[3]
     for i, l in enumerate(lines):
         if l in LABELS and l not in info:
             for v in lines[i+1:i+3]:
@@ -118,8 +120,21 @@ def pdf_text(src, dst):
 
 def esc(s): return (s or '').replace('|', '\\|').replace('\n', ' ')
 
+INCREMENTAL = '--incremental' in sys.argv
+
+def rec_from_row(r):
+    return {k: r[k] for k in ('tipo', 'titulo', 'data_dou', 'ementa', 'tema', 'assunto', 'status')} | {'id': r['id_ans']}
+
 def main():
     recs = load_index()
+    existing = {}
+    csvp = os.path.join(OUT, 'dados', 'atos-ans.csv')
+    if INCREMENTAL and os.path.exists(csvp):
+        for r in csv.DictReader(open(csvp)):
+            r['ano'] = int(r['ano']) if str(r['ano']).isdigit() else 0
+            existing[r['id_ans']] = r
+        for id_ in os.listdir(RAW):
+            if id_ in existing and id_ not in recs: recs[id_] = rec_from_row(existing[id_])
     acts = []
     for id_, r in recs.items():
         mp = os.path.join(RAW, id_, 'meta.json')
@@ -130,8 +145,16 @@ def main():
         acts.append(dict(id=id_, rec=r, meta=meta, p=p, slug=slug_for(p)))
     # slugs únicos
     seen = {}
+    for r in existing.values():
+        parts = r['arquivo'].split('/')
+        seen[('/'.join(parts[1:-1]), parts[-1][:-3])] = r
+        seen[(parts[1], parts[-1][:-3])] = r
     for a in sorted(acts, key=lambda a: int(a['id'])):
         cat = CATS[a['rec']['tipo']][0]
+        if a['id'] in existing:
+            parts = existing[a['id']]['arquivo'].split('/')
+            a['cat'], a['slug'], a['relpath'] = '/'.join(parts[1:-1]), parts[-1][:-3], existing[a['id']]['arquivo']
+            continue
         key = (cat, a['slug'])
         a['base_slug'] = a['slug']
         manx = re.search(r'ANEXO\s+([IVXLC]+)\b', a['rec'].get('ementa', '')[:120])
@@ -146,6 +169,7 @@ def main():
         a['relpath'] = f"ans/{cat}/{a['slug']}.md"
     by_title = {}
     for a in acts: by_title.setdefault(a['rec']['titulo'], a)
+    for r in existing.values(): by_title.setdefault(r['titulo'], {'relpath': r['arquivo']})
 
     def link_from(a_from, title):
         b = by_title.get(title)
@@ -167,6 +191,9 @@ def main():
         texto_md = html_to_md(ck[ti]) if ck else ''
         fund_md = html_to_md(ck[ti+1]) if ck and ti is not None and ti+1 < len(ck) else ''
         extra = [html_to_md(c) for k, c in enumerate(ck) if k not in (0, ti, (ti or 0)+1)]
+        ementa_txt = re.sub(r'\s+', ' ', r.get('ementa') or '').strip()
+        if not ementa_txt and ck and ti != 0:
+            ementa_txt = re.sub(r'\s+', ' ', BeautifulSoup(ck[0], 'lxml').get_text(' ')).strip()
         # anexos
         cat_dir = os.path.join(OUT, 'ans', a['cat'])
         os.makedirs(cat_dir, exist_ok=True)
@@ -222,7 +249,7 @@ def main():
                     lst.append((v['arquivo'], v['norma'], v['data'], href))
                 versoes.append(lst)
         # markdown
-        status = r.get('status', '')
+        status = info.get('status_pagina') or r.get('status', '')
         fm = {
             'titulo': r['titulo'], 'tipo': r['tipo'], 'sigla': p['sigla'], 'numero': p['numero'], 'ano': p['ano'],
             'status': status, 'data_dou': r.get('data_dou', ''),
@@ -299,11 +326,16 @@ def main():
         open(os.path.join(cat_dir, a['slug'] + '.md'), 'w').write('\n'.join(out).rstrip() + '\n')
         n_alt = sum(len(rows) for h, rows in relac if 'alteradoras' in h)
         rows_csv.append(dict(categoria=a['cat'], arquivo=a['relpath'], id_ans=a['id'], tipo=r['tipo'], sigla=p['sigla'], numero=p['numero'], ano=p['ano'],
-                             data_dou=r.get('data_dou', ''), status=status, titulo=r['titulo'], ementa=re.sub(r'\s+', ' ', r.get('ementa', '')),
+                             data_dou=r.get('data_dou', ''), status=status, titulo=r['titulo'], ementa=ementa_txt,
                              tema=r.get('tema', ''), assunto=r.get('assunto', ''), revogada_por=info.get('revogada_por', ''),
                              qtd_alteradoras=n_alt, qtd_anexos=len(anexos), fonte=fm['fonte']))
     os.makedirs(os.path.join(OUT, 'dados'), exist_ok=True)
-    rows_csv.sort(key=lambda x: (x['categoria'], x['sigla'], x['ano'], int(re.match(r'\d+', x['numero']).group()) if re.match(r'\d+', x['numero']) else 0))
+    feitos_ids = {x['id_ans'] for x in rows_csv}
+    rows_csv += [r for i, r in existing.items() if i not in feitos_ids]
+    rows_csv.sort(key=lambda x: (x['categoria'], x['sigla'], int(x['ano'] or 0), int(re.match(r'\d+', x['numero']).group()) if re.match(r'\d+', x['numero']) else 0))
+    for x in rows_csv:
+        for k in ('ano', 'qtd_alteradoras', 'qtd_anexos'):
+            x[k] = int(x[k]) if str(x[k]).lstrip('-').isdigit() else x[k]
     with open(os.path.join(OUT, 'dados', 'atos-ans.csv'), 'w', newline='') as f:
         w = csv.DictWriter(f, fieldnames=list(rows_csv[0].keys())); w.writeheader(); w.writerows(rows_csv)
     json.dump(rows_csv, open(os.path.join(OUT, 'dados', 'atos-ans.json'), 'w'), ensure_ascii=False, indent=1)
@@ -332,6 +364,6 @@ def main():
         else:
             lines += tabela(rs, f'ans/{cat}')
         open(os.path.join(OUT, 'ans', cat, 'README.md'), 'w').write('\n'.join(lines) + '\n')
-    print('atos', len(rows_csv))
+    print('atos', len(rows_csv), 'processados', len(acts))
 
 main()

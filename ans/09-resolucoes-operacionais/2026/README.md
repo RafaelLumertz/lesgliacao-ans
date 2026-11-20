@@ -12,7 +12,7 @@
 | [RO 3184/2026](../RO-3184-2026.md) | 05/11/2026 | Vigente | Dispõe sobre o encerramento do regime especial de direção técnica na operadora UNIMED MARANHÃO DO SUL - COOPERATIVA DE TRABALHO MÉDICO. |
 | [RO 3183/2026](../RO-3183-2026.md) | 05/11/2026 | Vigente | Dispõe sobre a instauração do regime especial de Direção Técnica na operadora OPERADORA UNICENTRAL DE PLANOS DE SAÚDE LTDA. |
 | [RO 3182/2026](../RO-3182-2026.md) | 05/11/2026 | Vigente | Dispõe sobre a instauração do regime especial de Direção Técnica na operadora ASSOCIAÇÃO ASSISTENCIAL DE SAÚDE SUPLEMENTAR CRUZ AZUL SAÚDE. |
-| [RO 3181/2026](../RO-3181-2026.md) | 05/11/2026 | Vigente |  |
+| [RO 3181/2026](../RO-3181-2026.md) | 05/11/2026 | Vigente | Dispõe sobre a instauração do regime especial de Direção Técnica na operadora SANTA CASA DE MAUÁ SAÚDE. |
 | [RO 3180/2026](../RO-3180-2026.md) | 03/11/2026 | Vigente | Dispõe sobre a suspensão da alienação da carteira da INTEGRA ASSISTENCIA MEDICA S.A. |
 | [RO 3179/2026](../RO-3179-2026.md) | 14/10/2026 | Vigente | Dispõe sobre a instauração do regime especial de Direção Técnica na operadora SAÚDE BRASIL ASSISTÊNCIA MÉDICA LTDA. |
 | [RO 3178/2026](../RO-3178-2026.md) | 14/10/2026 | Vigente | Dispõe sobre a determinação da alienação da carteira da operadora NOVA SAÚDE OPERADORA INTEGRADA DE SAÚDE LTDA. |

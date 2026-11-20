@@ -11,6 +11,7 @@ Acervo organizado da legislação brasileira que afeta as **operadoras de planos
 | [`leis/`](leis/README.md) | Constituição, leis, decretos e MPs (Planalto) que afetam as operadoras: marco legal (Lei nº 9.656/1998 com histórico de redações e todas as normas que a alteraram), agências reguladoras, fiscalização e regimes especiais, tributação, direito societário, consumidor, coberturas assistenciais e direitos dos pacientes | 89 |
 | [`ans/`](ans/README.md) | Atos normativos da ANS com texto integral, anexos e histórico | 4702 |
 | [`ans/01-resolucoes-normativas/`](ans/01-resolucoes-normativas/README.md) | Todas as Resoluções Normativas (RN) disponíveis no portal da ANS | 700 |
+| [`NOVIDADES.md`](NOVIDADES.md) | Registro das atualizações automáticas: atos novos, normas alteradas e leis novas | |
 | [`HISTORICO.md`](HISTORICO.md) | Linha do tempo dos marcos legais e produção normativa por ano | |
 | [`dados/`](dados/) | Índices em CSV/JSON (para planilhas, buscas e uso em IA/RAG) | |
 | [`scripts/`](scripts/README.md) | Programas usados na coleta, para atualizar o acervo | |
@@ -34,6 +35,17 @@ Acervo organizado da legislação brasileira que afeta as **operadoras de planos
 | [Instruções de Serviço](ans/13-instrucoes-de-servico/README.md) | 66 | 3 |
 | [Resoluções Administrativas](ans/14-resolucoes-administrativas/README.md) | 89 | 33 |
 | [Resoluções Especiais](ans/15-resolucoes-especiais/README.md) | 22 | 1 |
+
+## Atualização automática
+
+O acervo se atualiza sozinho todos os dias (por volta das 6h40, horário de Brasília) por meio do GitHub Actions ([`.github/workflows/atualizar-acervo.yml`](.github/workflows/atualizar-acervo.yml)):
+
+- **Atos novos da ANS** são baixados com texto, anexos e histórico, e as normas que eles alteram ou revogam são atualizadas;
+- **Leis do Planalto** são conferidas; se o texto de alguma mudou, o arquivo é atualizado, e **leis novas que alterem a Lei nº 9.656/1998, a Lei nº 9.961/2000, a Lei nº 10.185/2001 ou a MP nº 2.177-44/2001 são incluídas automaticamente**;
+- Aos domingos, uma varredura completa da lista da ANS detecta mudanças de situação (por exemplo, revogações) em atos antigos;
+- Cada atualização fica registrada em [`NOVIDADES.md`](NOVIDADES.md). Se não houver novidade, nada é alterado.
+
+Para rodar na hora: aba **Actions** → **Atualizar acervo** → **Run workflow**. Leis novas que afetem as operadoras sem alterar as leis acima (ex.: uma nova lei tributária) precisam ser acrescentadas em [`scripts/planalto_list.tsv`](scripts/planalto_list.tsv).
 
 ## Como cada ato está organizado
 

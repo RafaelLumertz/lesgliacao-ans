@@ -5,7 +5,7 @@
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
 | [RE-DIDES 1/2012](RE-DIDES-0001-2012.md) | 05/04/2000 | Revogada | Procedimentos de ressarcimento ao SUS. |
-| [RE 3/2001](RE-0003-2001.md) | 21/12/2001 | Revogada |  |
+| [RE 3/2001](RE-0003-2001.md) | 21/12/2001 | Revogada | Modelo de Auto de Infração. |
 | [RE-DIOPE 6/2001](RE-DIOPE-0006-2001.md) | 14/12/2001 | Revogada | Solicitação de autorização de funcionamento para Sociedade Seguradora Especializada em Saúde. |
 | [RE-DIDES 7/2001](RE-DIDES-0007-2001.md) | 11/10/2001 | Revogada | Norma para avaliação em última instância dos pedidos de impugnação dos avisos de beneficiários identificados no processo de ressarcimento ao SUS durante a vigência da RE 05 e para comunicação ao DATASUS do Ministério da … |
 | [RE-DIOPE 5/2001](RE-DIOPE-0005-2001.md) | 30/08/2001 | Revogada | Solicitação de autorização de funcionamento para Sociedade Seguradora Especializada em Saúde. |

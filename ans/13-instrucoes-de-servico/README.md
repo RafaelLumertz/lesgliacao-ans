@@ -4,10 +4,10 @@
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
-| [IS-DIFIS 18/2019](IS-DIFIS-0018-2019.md) | 02/04/2019 | Revogada |  |
+| [IS-DIFIS 18/2019](IS-DIFIS-0018-2019.md) | 02/04/2019 | Revogada | Altera a Instrução de Serviço – IS nº 16, de 25 de janeiro de 2016, da Diretoria de Fiscalização – DIFIS, que estabelece os procedimentos a serem observados na condução dos processos administrativos sancionadores em trâm… |
 | [IS-DIFIS 17/2016](IS-DIFIS-0017-2016.md) | 26/01/2016 | Revogada | Dispõe sobre a instituição do manual de orientação para análise fiscalizatória das demandas de natureza assistencial e não assistencial no âmbito da Notificação de Intermediação Preliminar -NIP e estabelece regras para a… |
 | [IS-DIFIS 16/2016](IS-DIFIS-0016-2016.md) | 26/01/2016 | Revogada | Estabelece os procedimentos a serem observados na condução dos processos administrativos sancionadores em trâmite na Diretoria de Fiscalização – DIFIS. |
-| [ISC-PROGE-e-DIGES 2/2015](ISC-PROGE-e-DIGES-0002-2015.md) | 19/02/2015 | Revogada |  |
+| [ISC-PROGE-e-DIGES 2/2015](ISC-PROGE-e-DIGES-0002-2015.md) | 19/02/2015 | Revogada | Altera a Instrução de Serviço – IS Conjunta no 1, de 26 de junho de 2013, da Procuradoria Federal junto à ANS – PROGE e da Diretoria de Gestão – DIGES, que estabelece as regras para implementação e utilização dos modelos… |
 | [IS-DIGES 15/2014](IS-DIGES-0015-2014.md) | 18/04/2014 | Revogada | Dispõe sobre as regras, os critérios e os procedimentos para utilização das vagas de estacionamento destinadas à Agência Nacional de Saúde Suplementar – ANS. |
 | [IS-DIGES 14/2014](IS-DIGES-0014-2014.md) | 07/03/2014 | Revogada | Estabelece os procedimentos para participações em eventos externos de capacitação de curta duração, dentro do território nacional, pelos servidores em efetivo exercício na Agência Nacional de Saúde Suplementar, e revoga … |
 | [IS-PROGE 9/2013](IS-PROGE-0009-2013.md) | 16/12/2013 | Revogada | Dispõe sobre os critérios e procedimentos para o exercício das atividades de consultoria e assessoramento jurídicos no âmbito da Procuradoria Federal junto à Agência Nacional de Saúde Suplementar - PROGE/ANS. |

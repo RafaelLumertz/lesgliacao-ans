@@ -4,7 +4,7 @@
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
-| [PP-PROGE 62/2012](PP-PROGE-0062-2012.md) | 09/03/2012 | Vigente |  |
+| [PP-PROGE 62/2012](PP-PROGE-0062-2012.md) | 09/03/2012 | Vigente | Assunto: Aplicação de penalidade em infração administrativa continuada. |
 | [PP-PROGE 1076/2012](PP-PROGE-1076-2012.md) | 04/12/2011 | Vigente | Extensão de indisponibilidade de bens de ex-administrador. Procurador e administrador de fato da Operadora. Incidência do disposto no art. 24 – A, caput e § 1º, da Lei 9.656/98 e art. 8o. da Resolução da Diretoria Colegi… |
 | [PP-PROGE 327/2012](PP-PROGE-0327-2012.md) | 01/09/2010 | Vigente | PARECER Nº 327 /2010/GEADM/PROGE-ANS/PGF [Número do Processo] Interessado: Diretoria Colegiada. Assunto: Prescrição Administrativa. |
 | [PP-PROGE 256/2012](PP-PROGE-0256-2012.md) | 07/07/2010 | Vigente | I – Consulta da Diretoria de Normas e Habilitação das Operadoras – DIOPE a respeito do critério a ser utilizado para estabelecimento de valor de multa. II – O número de beneficiários a ser considerado para aplicação dos … |
