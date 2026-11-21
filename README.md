@@ -2,7 +2,7 @@
 
 Acervo organizado da legislação brasileira que afeta as **operadoras de planos privados de assistência à saúde (OPS)** — regulação, fiscalização, supervisão, tributação, relações de consumo e coberturas: a legislação federal (com o histórico de alterações) e **todos** os atos normativos da **Agência Nacional de Saúde Suplementar (ANS)** — Resoluções Normativas, Instruções Normativas, RDCs, Resoluções CONSU, Súmulas, Resoluções Regimentais, Resoluções Operacionais, pareceres, entendimentos, comunicados, portarias e demais atos — com textos integrais, anexos e histórico normativo.
 
-> Atualizado em 20/11/2026. Os textos são reproduções de fontes oficiais e **não substituem a publicação no Diário Oficial da União**.
+> Atualizado em 21/11/2026. Os textos são reproduções de fontes oficiais e **não substituem a publicação no Diário Oficial da União**.
 
 ## Conteúdo
 
