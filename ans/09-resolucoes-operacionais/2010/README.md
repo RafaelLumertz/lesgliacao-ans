@@ -1,6 +1,6 @@
 # Resoluções Operacionais (RO) — atos sobre operadoras específicas — 2010
 
-226 atos.
+227 atos.
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
@@ -94,6 +94,7 @@
 | [RO 886/2010](../RO-0886-2010.md) | 15/09/2010 | Vigente | Dispõe sobre a instauração do Regime de Direção Fiscal na operadora Medical Health Operadora de Planos de Assistência Médica e Odontológica Ltda. |
 | [RO 885/2010](../RO-0885-2010.md) | 15/09/2010 | Vigente | Dispõe sobre a determinação da alienação da carteira da operadora Medical Health Operadora de Planos de Assistência Médica e Odontológica Ltda. |
 | [RO 884/2010](../RO-0884-2010.md) | 15/09/2010 | Vigente | Dispõe sobre a instauração do Regime de Direção Fiscal na operadora Vida & Vida Operadora de Planos de Saúde Ltda. |
+| [RO 883/2010](../RO-0883-2010.md) | 15/09/2010 | Vigente | Dispõe sobre o encerramento do regime especial de Direção Fiscal e cancelamento do registro provisório da operadora Profidente Ltda. |
 | [RO 882/2010](../RO-0882-2010.md) | 15/09/2010 | Vigente | Dispõe sobre a instauração do Regime de Direção Fiscal na operadora Associação dos Servidores da Secretaria de Educação do Distrito Federal - ASSEDF. |
 | [RO 881/2010](../RO-0881-2010.md) | 15/09/2010 | Vigente | Dispõe sobre a instauração do Regime de Direção Fiscal na operadora VITA SAÚDE Administração Hospitalar de Sistemas de Saúde Ltda. |
 | [RO 880/2010](../RO-0880-2010.md) | 15/09/2010 | Vigente | Dispõe sobre a instauração do Regime de Direção Fiscal na operadora AMENO Assistência Médica S/S Ltda. |

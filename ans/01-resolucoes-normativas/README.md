@@ -1,6 +1,6 @@
 # Resoluções Normativas (RN)
 
-700 atos (265 vigentes). Ordenados do mais recente para o mais antigo. Clique no número para abrir o texto integral, anexos e histórico.
+700 atos (264 vigentes). Ordenados do mais recente para o mais antigo. Clique no número para abrir o texto integral, anexos e histórico.
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
@@ -352,12 +352,12 @@
 | [RN 100/2014](RN-0100-2014-anexo-IV.md) | 06/06/2005 | Vigente | RN Nº 100 - ANEXO IV - CONDIÇÕES GERAIS PARA A CONCESSÃO DA AUTORIZAÇÃO DE FUNCIONAMENTO ÀS OPERADORAS COM REGISTRO PROVISÓRIO |
 | [RN 100/2014](RN-0100-2014-anexo-III.md) | 06/06/2005 | Vigente | RN Nº 100 - ANEXO III – DO PLANO DE NEGÓCIOS |
 | [RN 100/2014](RN-0100-2014-anexo-I.md) | 03/06/2005 | Vigente | RN Nº 100 - ANEXO I - CONDIÇÕES GERAIS PARA CONCESSÃO DA AUTORIZAÇÃO DE FUNCIONAMENTO ÀS PESSOAS JURÍDICAS PRETENDENTES |
+| [RN 85/2014](RN-0085-2014.md) | 09/12/2004 | Revogada | RN Nº 85 - ANEXO III – DO PLANO DE NEGÓCIOS |
 | [RN 85/2014](RN-0085-2014-anexo-V.md) | 09/12/2004 | Vigente | RN Nº 85 - ANEXO V - DECLARAÇÃO DE SUFICIÊNCIA DA REDE DE SERVIÇOS |
 | [RN 85/2014](RN-0085-2014-anexo-II.md) | 09/12/2004 | Vigente | RN Nº 85 - ANEXO II – DO REGISTRO DE PRODUTO |
 | [RN 85/2014](RN-0085-2014-anexo-IV.md) | 09/12/2004 | Vigente | RN Nº 85 - ANEXO IV - CONDIÇÕES GERAIS PARA A CONCESSÃO DA AUTORIZAÇÃO DE FUNCIONAMENTO ÀS OPERADORAS COM REGISTRO PROVISÓRIO |
 | [RN 85/2014](RN-0085-2014-anexo-III.md) | 09/12/2004 | Revogada | RN Nº 85 - ANEXO III – DO PLANO DE NEGÓCIOS |
 | [RN 85/2014](RN-0085-2014-anexo-I.md) | 09/12/2004 | Vigente | RN Nº 85 - ANEXO I - CONDIÇÕES GERAIS PARA CONCESSÃO DA AUTORIZAÇÃO DE UNCIONAMENTO ÀS PESSOAS JURÍDICAS PRETENDENTES |
-| [RN 85/2014](RN-0085-2014.md) | 09/12/2004 | Vigente | Dispõe sobre a concessão de Autorização de Funcionamento das Operadoras de Planos de Assistência à Saúde, e dá outras providências. |
 | [RN 344/2013](RN-0344-2013.md) | 23/12/2013 | Revogada | Altera a Resolução Normativa – RN nº 290, de 27 de fevereiro de 2012, que dispõe sobre o Plano de Contas Padrão da ANS para as operadoras de planos de assistência à saúde. |
 | [RN 343/2013](RN-0343-2013.md) | 19/12/2013 | Revogada | Regulamenta a forma de processamento das demandas de reclamação; o procedimento de Notificação de Intermediação Preliminar - NIP; altera a Resolução Normativa - RN nº 48, de 19 de setembro de 2003; e revoga a RN nº 226, … |
 | [RN 342/2013](RN-0342-2013.md) | 06/12/2013 | Revogada | Altera o Regimento Interno da Agência Nacional de Saúde Suplementar - ANS, instituído pela Resolução Normativa - RN nº 197, de 16 de julho de 2009, e a RN nº 198, de 16 de julho de 2009, que define o quadro de cargos com… |

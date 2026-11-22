@@ -4,7 +4,7 @@ Coletados do [Portal de Legislação da ANS](https://componentes-portal.ans.gov.
 
 | Categoria | Atos | Vigentes |
 | --- | ---: | ---: |
-| [Resoluções Normativas (RN)](01-resolucoes-normativas/README.md) | 700 | 265 |
+| [Resoluções Normativas (RN)](01-resolucoes-normativas/README.md) | 700 | 264 |
 | [Instruções Normativas (IN)](02-instrucoes-normativas/README.md) | 272 | 42 |
 | [Resoluções de Diretoria Colegiada (RDC) — 2000 a 2002](03-resolucoes-diretoria-colegiada/README.md) | 95 | 38 |
 | [Resoluções do CONSU — 1998 a 2000](04-resolucoes-consu/README.md) | 26 | 8 |
@@ -12,14 +12,14 @@ Coletados do [Portal de Legislação da ANS](https://componentes-portal.ans.gov.
 | [Resoluções Regimentais (RR)](06-resolucoes-regimentais/README.md) | 39 | 19 |
 | [Pareceres da PROGE](07-pareceres-proge/README.md) | 19 | 19 |
 | [Entendimentos da DIFIS](08-entendimentos-difis/README.md) | 13 | 12 |
-| [Resoluções Operacionais (RO) — operadoras específicas](09-resolucoes-operacionais/README.md) | 3176 | 3147 |
+| [Resoluções Operacionais (RO) — operadoras específicas](09-resolucoes-operacionais/README.md) | 3177 | 3148 |
 | [Comunicados](10-comunicados/README.md) | 101 | 101 |
 | [Portarias](11-portarias/README.md) | 47 | 46 |
 | [Despachos](12-despachos/README.md) | 5 | 5 |
 | [Instruções de Serviço](13-instrucoes-de-servico/README.md) | 66 | 3 |
 | [Resoluções Administrativas](14-resolucoes-administrativas/README.md) | 89 | 33 |
 | [Resoluções Especiais](15-resolucoes-especiais/README.md) | 22 | 1 |
-| **Total** | **4702** | **3758** |
+| **Total** | **4703** | **3758** |
 
 Anexos baixados: **530** arquivos.
 

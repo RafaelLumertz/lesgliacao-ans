@@ -2,14 +2,14 @@
 
 Acervo organizado da legislação brasileira que afeta as **operadoras de planos privados de assistência à saúde (OPS)** — regulação, fiscalização, supervisão, tributação, relações de consumo e coberturas: a legislação federal (com o histórico de alterações) e **todos** os atos normativos da **Agência Nacional de Saúde Suplementar (ANS)** — Resoluções Normativas, Instruções Normativas, RDCs, Resoluções CONSU, Súmulas, Resoluções Regimentais, Resoluções Operacionais, pareceres, entendimentos, comunicados, portarias e demais atos — com textos integrais, anexos e histórico normativo.
 
-> Atualizado em 21/11/2026. Os textos são reproduções de fontes oficiais e **não substituem a publicação no Diário Oficial da União**.
+> Atualizado em 22/11/2026. Os textos são reproduções de fontes oficiais e **não substituem a publicação no Diário Oficial da União**.
 
 ## Conteúdo
 
 | Pasta | O que tem | Qtde |
 | --- | --- | ---: |
 | [`leis/`](leis/README.md) | Constituição, leis, decretos e MPs (Planalto) que afetam as operadoras: marco legal (Lei nº 9.656/1998 com histórico de redações e todas as normas que a alteraram), agências reguladoras, fiscalização e regimes especiais, tributação, direito societário, consumidor, coberturas assistenciais e direitos dos pacientes | 89 |
-| [`ans/`](ans/README.md) | Atos normativos da ANS com texto integral, anexos e histórico | 4702 |
+| [`ans/`](ans/README.md) | Atos normativos da ANS com texto integral, anexos e histórico | 4703 |
 | [`ans/01-resolucoes-normativas/`](ans/01-resolucoes-normativas/README.md) | Todas as Resoluções Normativas (RN) disponíveis no portal da ANS | 700 |
 | [`NOVIDADES.md`](NOVIDADES.md) | Registro das atualizações automáticas: atos novos, normas alteradas e leis novas | |
 | [`HISTORICO.md`](HISTORICO.md) | Linha do tempo dos marcos legais e produção normativa por ano | |
@@ -20,7 +20,7 @@ Acervo organizado da legislação brasileira que afeta as **operadoras de planos
 
 | Categoria | Atos | Vigentes |
 | --- | ---: | ---: |
-| [Resoluções Normativas (RN)](ans/01-resolucoes-normativas/README.md) | 700 | 265 |
+| [Resoluções Normativas (RN)](ans/01-resolucoes-normativas/README.md) | 700 | 264 |
 | [Instruções Normativas (IN)](ans/02-instrucoes-normativas/README.md) | 272 | 42 |
 | [Resoluções de Diretoria Colegiada (RDC) — 2000 a 2002](ans/03-resolucoes-diretoria-colegiada/README.md) | 95 | 38 |
 | [Resoluções do CONSU — 1998 a 2000](ans/04-resolucoes-consu/README.md) | 26 | 8 |
@@ -28,7 +28,7 @@ Acervo organizado da legislação brasileira que afeta as **operadoras de planos
 | [Resoluções Regimentais (RR)](ans/06-resolucoes-regimentais/README.md) | 39 | 19 |
 | [Pareceres da PROGE](ans/07-pareceres-proge/README.md) | 19 | 19 |
 | [Entendimentos da DIFIS](ans/08-entendimentos-difis/README.md) | 13 | 12 |
-| [Resoluções Operacionais (RO) — operadoras específicas](ans/09-resolucoes-operacionais/README.md) | 3176 | 3147 |
+| [Resoluções Operacionais (RO) — operadoras específicas](ans/09-resolucoes-operacionais/README.md) | 3177 | 3148 |
 | [Comunicados](ans/10-comunicados/README.md) | 101 | 101 |
 | [Portarias](ans/11-portarias/README.md) | 47 | 46 |
 | [Despachos](ans/12-despachos/README.md) | 5 | 5 |

@@ -1,6 +1,6 @@
 # Resoluções Operacionais (RO) — atos sobre operadoras específicas
 
-3176 atos (3147 vigentes). Ordenados do mais recente para o mais antigo. Clique no número para abrir o texto integral, anexos e histórico.
+3177 atos (3148 vigentes). Ordenados do mais recente para o mais antigo. Clique no número para abrir o texto integral, anexos e histórico.
 
 | Ano | Atos |
 | --- | ---: |
@@ -20,7 +20,7 @@
 | [2013](2013/README.md) | 259 |
 | [2012](2012/README.md) | 220 |
 | [2011](2011/README.md) | 160 |
-| [2010](2010/README.md) | 226 |
+| [2010](2010/README.md) | 227 |
 | [2009](2009/README.md) | 159 |
 | [2008](2008/README.md) | 96 |
 | [2007](2007/README.md) | 61 |
