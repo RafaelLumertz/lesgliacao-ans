@@ -22,6 +22,8 @@ TIPOS = {'Resolução Normativa', 'Instrução Normativa', 'Instrução Normativ
          'Resolução Operacional', 'Comunicado', 'Portaria', 'Despacho', 'Instruções de Serviços',
          'Instrução de serviço Conjunta', 'Resoluções Administrativas', 'Resolução Especial'}
 
+ACOMPANHAR = ['24989']  # RN nº 465/2021 — Rol de Procedimentos
+
 def log(*a): print('[atualizar]', *a, flush=True)
 
 def run(cmd, stdin=None):
@@ -51,8 +53,10 @@ def atualizar_ans():
     with open(os.path.join(W, 'index', 'atualizacao.jsonl'), 'w') as f:
         for r in novos + mudados: f.write(json.dumps(r, ensure_ascii=False) + '\n')
     baixar = [r['id'] for r in novos + mudados]
-    if baixar:
-        run(['node', 'fetch_detail.js', os.path.join(W, 'raw')], stdin=' '.join(baixar))
+    # atos acompanhados diariamente mesmo sem ato novo (ex.: RN 465/2021, o Rol de Procedimentos)
+    acompanhar = [i for i in ACOMPANHAR if i in por_id and i not in baixar]
+    if baixar or acompanhar:
+        run(['node', 'fetch_detail.js', os.path.join(W, 'raw')], stdin=' '.join(baixar + acompanhar))
     # normas alteradas/revogadas pelos atos novos também são atualizadas
     afetados = set()
     for r in novos:
@@ -73,6 +77,12 @@ def atualizar_ans():
                                       for g in json.load(open(mp)).get('grids', [])):
             com_versoes.append(i)
     if com_versoes:
+        existentes = {}
+        for i in com_versoes:
+            if i in por_id:
+                arq = por_id[i]['arquivo']
+                existentes[i] = os.path.join(REPO, os.path.dirname(arq), 'anexos', os.path.basename(arq)[:-3], 'versoes-anteriores')
+        os.environ['VERSOES_EXISTENTES'] = json.dumps(existentes)
         run(['node', 'fetch_versions.js', os.path.join(W, 'raw')] + com_versoes)
     if os.listdir(os.path.join(W, 'raw')):
         run(['python3', 'build_ans.py', os.path.join(W, 'index'), os.path.join(W, 'raw'), REPO, '--incremental'])
@@ -151,6 +161,15 @@ def main():
     log('diretório de trabalho:', W, '| varredura completa' if VARREDURA else '| modo diário')
     novos, atualizados = atualizar_ans()
     leis_novas, leis_alteradas = atualizar_leis()
+    # Rol de Procedimentos: regenera a pasta a partir dos anexos da RN 465/2021
+    rol_alterado = None
+    p = subprocess.run(['python3', 'build_rol.py', REPO], cwd=AQUI)
+    if p.returncode != 0:
+        log('falha ao gerar a pasta do Rol (a pasta anterior foi mantida)')
+        subprocess.run(['git', 'checkout', '--', 'rol-de-procedimentos'], cwd=REPO)
+    elif any('rol-de-procedimentos/' in l for l in git_mudancas()):
+        ua = os.path.join(REPO, 'rol-de-procedimentos', 'historico', '.ultima-alteracao')
+        rol_alterado = open(ua).read().strip() if os.path.exists(ua) else 'anexos atualizados'
     if not git_mudancas():
         idx = os.path.join(REPO, 'leis', '_indice.tsv')
         if os.path.exists(idx): os.remove(idx)
@@ -159,6 +178,7 @@ def main():
     blocos = []
     if novos: blocos.append(f'### Novos atos da ANS ({len(novos)})\n\n' + '\n'.join(novos))
     if atualizados: blocos.append(f'### Atos da ANS atualizados ({len(atualizados)})\n\nSituação alterada ou novas alterações/revogações registradas.\n\n' + '\n'.join(atualizados))
+    if rol_alterado: blocos.append(f'### Rol de Procedimentos atualizado\n\n- {rol_alterado}\n- Detalhes: [histórico do Rol](rol-de-procedimentos/historico/README.md)')
     if leis_novas: blocos.append(f'### Leis novas incluídas ({len(leis_novas)})\n\n' + '\n'.join(leis_novas))
     if leis_alteradas: blocos.append(f'### Leis com texto atualizado no Planalto ({len(leis_alteradas)})\n\n' + '\n'.join(leis_alteradas))
     if not blocos: blocos.append('Ajustes nos índices.')
@@ -166,7 +186,7 @@ def main():
     cab = '# Novidades\n\nRegistro automático das atualizações do acervo (mais recentes primeiro).\n'
     antigo = open(nov).read()[len(cab):] if os.path.exists(nov) else ''
     open(nov, 'w').write(cab + f"\n## {HOJE.strftime('%d/%m/%Y')}\n\n" + '\n\n'.join(blocos) + '\n' + antigo)
-    resumo = f"{len(novos)} atos novos, {len(atualizados)} atualizados, {len(leis_novas)} leis novas, {len(leis_alteradas)} leis alteradas"
+    resumo = f"{len(novos)} atos novos, {len(atualizados)} atualizados, {len(leis_novas)} leis novas, {len(leis_alteradas)} leis alteradas" + (', Rol atualizado' if rol_alterado else '')
     open(os.path.join(W, 'resumo.txt'), 'w').write(resumo)
     log('concluído:', resumo)
 

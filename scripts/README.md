@@ -16,6 +16,7 @@ Programas usados para montar e atualizar este acervo.
 | `build_docs.py` | Gera os READMEs, `HISTORICO.md` e `dados/leis.csv`. |
 | `novidades.js` | Lê a lista geral do portal da ANS (mais recentes primeiro) e identifica atos que ainda não estão no acervo. |
 | `fetch_versions.js` | Baixa as versões anteriores dos anexos alterados ao longo do tempo. |
+| `build_rol.py` | Gera a pasta `rol-de-procedimentos/`: lê o Anexo I como tabela (pdfplumber), divide o Anexo II por DUT e compara cada versão dos anexos com a seguinte para montar o histórico (resultados em `rol-de-procedimentos/historico/cache.json`). |
 | `atualizar_incremental.py` | Orquestra a atualização diária: atos novos, normas afetadas, leis do Planalto, índices e `NOVIDADES.md`. |
 | `harvest_index2.js` / `harvest_index3.js` | Variações do indexador (chave de duplicidade mais precisa; ordem crescente). |
 

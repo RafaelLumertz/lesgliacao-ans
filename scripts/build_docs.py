@@ -139,6 +139,7 @@ Acervo organizado da legislação brasileira que afeta as **operadoras de planos
 | [`leis/`](leis/README.md) | Constituição, leis, decretos e MPs (Planalto) que afetam as operadoras: marco legal (Lei nº 9.656/1998 com histórico de redações e todas as normas que a alteraram), agências reguladoras, fiscalização e regimes especiais, tributação, direito societário, consumidor, coberturas assistenciais e direitos dos pacientes | {len(leis)} |
 | [`ans/`](ans/README.md) | Atos normativos da ANS com texto integral, anexos e histórico | {sum(cnt.values())} |
 | [`ans/01-resolucoes-normativas/`](ans/01-resolucoes-normativas/README.md) | Todas as Resoluções Normativas (RN) disponíveis no portal da ANS | {tot_rn} |
+| [`rol-de-procedimentos/`](rol-de-procedimentos/README.md) | **Rol de Procedimentos e Eventos em Saúde**: anexos vigentes, lista de procedimentos (tabelas e planilha), Diretrizes de Utilização separadas por DUT e histórico de tudo o que cada norma incluiu, excluiu ou alterou — atualizado automaticamente | |
 | [`NOVIDADES.md`](NOVIDADES.md) | Registro das atualizações automáticas: atos novos, normas alteradas e leis novas | |
 | [`HISTORICO.md`](HISTORICO.md) | Linha do tempo dos marcos legais e produção normativa por ano | |
 | [`dados/`](dados/) | Índices em CSV/JSON (para planilhas, buscas e uso em IA/RAG) | |
@@ -157,6 +158,7 @@ O acervo se atualiza sozinho todos os dias (por volta das 6h40, horário de Bras
 - **Atos novos da ANS** são baixados com texto, anexos e histórico, e as normas que eles alteram ou revogam são atualizadas;
 - **Leis do Planalto** são conferidas; se o texto de alguma mudou, o arquivo é atualizado, e **leis novas que alterem a Lei nº 9.656/1998, a Lei nº 9.961/2000, a Lei nº 10.185/2001 ou a MP nº 2.177-44/2001 são incluídas automaticamente**;
 - Aos domingos, uma varredura completa da lista da ANS detecta mudanças de situação (por exemplo, revogações) em atos antigos;
+- O **Rol de Procedimentos** (RN nº 465/2021) é conferido todos os dias; quando a ANS publica nova versão dos anexos, a pasta [`rol-de-procedimentos/`](rol-de-procedimentos/README.md) é regenerada, com o registro do que mudou;
 - Cada atualização fica registrada em [`NOVIDADES.md`](NOVIDADES.md). Se não houver novidade, nada é alterado.
 
 Para rodar na hora: aba **Actions** → **Atualizar acervo** → **Run workflow**. Leis novas que afetem as operadoras sem alterar as leis acima (ex.: uma nova lei tributária) precisam ser acrescentadas em [`scripts/planalto_list.tsv`](scripts/planalto_list.tsv).

@@ -2,6 +2,18 @@
 
 Registro automático das atualizações do acervo (mais recentes primeiro).
 
+## 24/11/2026
+
+### Nova pasta: Rol de Procedimentos
+
+Criada a pasta [`rol-de-procedimentos/`](rol-de-procedimentos/README.md), atualizada automaticamente sempre que a ANS publica nova versão dos anexos da RN nº 465/2021:
+
+- anexos vigentes (I a IV) em PDF e texto;
+- lista de 3.402 procedimentos do Anexo I em [tabelas por capítulo](rol-de-procedimentos/procedimentos/README.md) e em [planilha](rol-de-procedimentos/procedimentos.csv);
+- [177 Diretrizes de Utilização](rol-de-procedimentos/diretrizes-de-utilizacao/README.md), uma por arquivo, com procedimentos vinculados e histórico;
+- [histórico](rol-de-procedimentos/historico/README.md) do que cada uma das 84 normas incluiu, excluiu ou alterou desde 2021;
+- [linha do tempo](rol-de-procedimentos/historico/normas-anteriores.md) de todas as normas sobre o Rol desde 1998.
+
 ## 22/11/2026
 
 ### Novos atos da ANS (1)

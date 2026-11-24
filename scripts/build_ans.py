@@ -240,14 +240,21 @@ def main():
                 lst = []
                 for v in vs:
                     href = None
-                    if v.get('file') and os.path.exists(os.path.join(raw, 'versions', v['file'])):
-                        os.makedirs(vdir, exist_ok=True)
+                    if v.get('file'):
                         src = os.path.join(raw, 'versions', v['file'])
-                        if os.path.getsize(src) <= 95 * 1024 * 1024:
+                        if os.path.exists(src) and os.path.getsize(src) <= 95 * 1024 * 1024:
+                            os.makedirs(vdir, exist_ok=True)
                             shutil.copyfile(src, os.path.join(vdir, v['file']))
+                        if os.path.exists(os.path.join(vdir, v['file'])):
                             href = f"anexos/{a['slug']}/versoes-anteriores/{v['file']}".replace(' ', '%20')
                     lst.append((v['arquivo'], v['norma'], v['data'], href))
                 versoes.append(lst)
+            if os.path.isdir(vdir):
+                json.dump([{'anexo': g + 1, 'arquivo': v['arquivo'], 'versao_atual': bool(v.get('atual')),
+                            'substituida_por': '' if v.get('atual') else v['norma'], 'data_vinculo': v['data'],
+                            'arquivo_local': v.get('file') if not v.get('atual') and os.path.exists(os.path.join(vdir, v.get('file') or '-')) else None}
+                           for g, vs in grids_v.items() for v in vs],
+                          open(os.path.join(vdir, 'versoes.json'), 'w'), ensure_ascii=False, indent=1)
         # markdown
         status = info.get('status_pagina') or r.get('status', '')
         fm = {
@@ -323,7 +330,11 @@ def main():
             out.append('## Fundamentação legal\n\n' + fund_md + '\n')
         if info.get('participacao_social'):
             out.append('## Participação social\n\n' + '\n'.join(f"- {x}" for x in info['participacao_social']) + '\n')
-        open(os.path.join(cat_dir, a['slug'] + '.md'), 'w').write('\n'.join(out).rstrip() + '\n')
+        novo = '\n'.join(out).rstrip() + '\n'
+        mdp = os.path.join(cat_dir, a['slug'] + '.md')
+        sem_data = lambda t: re.sub(r'(?m)^coletado_em: .*$', '', t)
+        if not (os.path.exists(mdp) and sem_data(open(mdp).read()) == sem_data(novo)):
+            open(mdp, 'w').write(novo)
         n_alt = sum(len(rows) for h, rows in relac if 'alteradoras' in h)
         rows_csv.append(dict(categoria=a['cat'], arquivo=a['relpath'], id_ans=a['id'], tipo=r['tipo'], sigla=p['sigla'], numero=p['numero'], ano=p['ano'],
                              data_dou=r.get('data_dou', ''), status=status, titulo=r['titulo'], ementa=ementa_txt,

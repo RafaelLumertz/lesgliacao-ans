@@ -1,0 +1,18 @@
+[
+ {
+  "anexo": 1,
+  "arquivo": "ANEXOS.pdf",
+  "versao_atual": true,
+  "substituida_por": "",
+  "data_vinculo": "22/09/2026",
+  "arquivo_local": null
+ },
+ {
+  "anexo": 1,
+  "arquivo": "ANEXO.pdf",
+  "versao_atual": false,
+  "substituida_por": "Instrução Normativa - IN DIFIS nº 16, de 01 abril 2019",
+  "data_vinculo": "03/04/2019",
+  "arquivo_local": "1-ANEXO.pdf"
+ }
+]

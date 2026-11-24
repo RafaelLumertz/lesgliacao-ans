@@ -2,6 +2,8 @@
 const { chromium } = require('playwright');
 const fs = require('fs'), path = require('path');
 const [rawdir, ...ids] = process.argv.slice(2);
+// VERSOES_EXISTENTES: JSON {id: pasta} com versões já salvas no repositório (não são baixadas de novo)
+const EXISTENTES = JSON.parse(process.env.VERSOES_EXISTENTES || '{}');
 (async () => {
   const b = await chromium.launch();
   const ctx = await b.newContext({viewport:{width:1400,height:900}, acceptDownloads:true});
@@ -25,9 +27,15 @@ const [rawdir, ...ids] = process.argv.slice(2);
             const row = rows.nth(i);
             const cells = await row.locator('[role=gridcell]').evaluateAll(cs => cs.map(c => c.textContent.replace(/\s+/g,' ').trim()));
             if (cells[1] === 'Versão atual' || /Versão atual$/.test(cells[0])) { res.push({grid:g, arquivo:cells[0].replace(/\s*Versão atual$/,''), norma:'Versão atual', data:cells[2], atual:true}); continue; }
+            let name = `${g+1}-` + cells[0].replace(/[\/\\:*?"<>|]/g,'_');
+            if (res.some(r => r.file === name)) {
+              const base = name; let k = 1;
+              do { name = base.replace(/(\.[^.]+)?$/, ` (${cells[2].replace(/\//g,'-')}${k > 1 ? ' ' + k : ''})$1`); k++; } while (res.some(r => r.file === name));
+            }
+            const existente = EXISTENTES[id] && fs.existsSync(path.join(EXISTENTES[id], name));
+            if (existente) { res.push({grid:g, arquivo:cells[0], norma:cells[1], data:cells[2], file:name, existente:true}); continue; }
             try {
               const [d] = await Promise.all([p.waitForEvent('download',{timeout:60000}), row.locator('img[src*="download"]').first().evaluate(el => el.click())]);
-              const name = `${g+1}-${String(res.length+1).padStart(3,'0')}-` + cells[0].replace(/[\/\\:*?"<>|]/g,'_');
               await d.saveAs(path.join(out, name));
               res.push({grid:g, arquivo:cells[0], norma:cells[1], data:cells[2], file:name});
             } catch(e) { res.push({grid:g, arquivo:cells[0], norma:cells[1], data:cells[2], error:e.message.split('\n')[0]}); }

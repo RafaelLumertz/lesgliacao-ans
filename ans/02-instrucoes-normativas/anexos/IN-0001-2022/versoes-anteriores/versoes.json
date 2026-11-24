@@ -1,0 +1,18 @@
+[
+ {
+  "anexo": 1,
+  "arquivo": "ANEXO.pdf",
+  "versao_atual": true,
+  "substituida_por": "",
+  "data_vinculo": "22/09/2026",
+  "arquivo_local": null
+ },
+ {
+  "anexo": 1,
+  "arquivo": "IN 1 - ANEXO I.pdf",
+  "versao_atual": false,
+  "substituida_por": "Instrução Normativa - IN ANS nº 32, de 22 junho 2023",
+  "data_vinculo": "03/07/2023",
+  "arquivo_local": "1-IN 1 - ANEXO I.pdf"
+ }
+]
