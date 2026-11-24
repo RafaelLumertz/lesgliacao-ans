@@ -4,7 +4,7 @@ Coletados do [Portal de Legislação da ANS](https://componentes-portal.ans.gov.
 
 | Categoria | Atos | Vigentes |
 | --- | ---: | ---: |
-| [Resoluções Normativas (RN)](01-resolucoes-normativas/README.md) | 700 | 264 |
+| [Resoluções Normativas (RN)](01-resolucoes-normativas/README.md) | 700 | 265 |
 | [Instruções Normativas (IN)](02-instrucoes-normativas/README.md) | 272 | 42 |
 | [Resoluções de Diretoria Colegiada (RDC) — 2000 a 2002](03-resolucoes-diretoria-colegiada/README.md) | 95 | 38 |
 | [Resoluções do CONSU — 1998 a 2000](04-resolucoes-consu/README.md) | 26 | 8 |
@@ -19,7 +19,7 @@ Coletados do [Portal de Legislação da ANS](https://componentes-portal.ans.gov.
 | [Instruções de Serviço](13-instrucoes-de-servico/README.md) | 66 | 3 |
 | [Resoluções Administrativas](14-resolucoes-administrativas/README.md) | 89 | 33 |
 | [Resoluções Especiais](15-resolucoes-especiais/README.md) | 22 | 1 |
-| **Total** | **4703** | **3758** |
+| **Total** | **4703** | **3759** |
 
 Anexos baixados: **530** arquivos.
 

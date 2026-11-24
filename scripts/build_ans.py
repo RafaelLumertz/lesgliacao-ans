@@ -166,7 +166,7 @@ def main():
             if (cat, a['slug']) in seen: a['slug'] += f"-id{a['id']}"
         seen[(cat, a['slug'])] = a
         a['cat'] = cat + (f"/{a['p']['ano']}" if cat in POR_ANO else '')
-        a['relpath'] = f"ans/{cat}/{a['slug']}.md"
+        a['relpath'] = f"ans/{a['cat']}/{a['slug']}.md"
     by_title = {}
     for a in acts: by_title.setdefault(a['rec']['titulo'], a)
     for r in existing.values(): by_title.setdefault(r['titulo'], {'relpath': r['arquivo']})
@@ -256,7 +256,7 @@ def main():
             'data_vigencia': info.get('Data de vigência', ''), 'data_alteracao': info.get('Data da Alteração', ''),
             'data_revogacao': info.get('Data da Revogação', ''), 'revogada_por': info.get('revogada_por', ''),
             'tema': r.get('tema', ''), 'assunto': r.get('assunto', ''),
-            'fonte': f"https://componentes-portal.ans.gov.br/link/legislacao/{a['id']}", 'id_ans': a['id'], 'coletado_em': TODAY,
+            'fonte': f"https://componentes-portal.ans.gov.br/link/legislacao/{a['id']}", 'id_ans': a['id'], 'coletado_em': (meta.get('fetched') or TODAY)[:10],
         }
         out = ['---'] + [f"{k}: {json.dumps(v, ensure_ascii=False)}" for k, v in fm.items()] + ['---', '']
         out.append(f"# {r['titulo']}\n")
