@@ -1,9 +1,10 @@
 # Resoluções Normativas (RN)
 
-700 atos (265 vigentes). Ordenados do mais recente para o mais antigo. Clique no número para abrir o texto integral, anexos e histórico.
+701 atos (265 vigentes). Ordenados do mais recente para o mais antigo. Clique no número para abrir o texto integral, anexos e histórico.
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
+| [RN 684/2026](RN-0684-2026.md) | 25/11/2026 | Não vigente | Altera o Anexo I da Resolução Normativa - RN nº 465, de 24 de fevereiro de 2021, para atualizar a descrição do procedimento "CIRURGIA ANTIGLAUCOMATOSA VIA ANGULAR COM IMPLANTE DE STENT DE DRENAGEM POR TÉCNICA MINIMAMENTE… |
 | [RN 683/2026](RN-0683-2026.md) | 16/11/2026 | Não vigente | Altera a Resolução Normativa - RN nº 465, de 24 de fevereiro de 2021, que dispõe sobre o Rol de Procedimentos e Eventos em Saúde no âmbito da Saúde Suplementar, para regulamentar a cobertura obrigatória do procedimento P… |
 | [RN 999/2026](RN-0999-2026.md) | 28/10/2026 | Vigente | Norma teste de links internos |
 | [RN 682/2026](RN-0682-2026.md) | 19/10/2026 | Vigente | Altera a Resolução Normativa - RN nº 465, de 24 de fevereiro de 2021, que dispõe sobre o Rol de Procedimentos e Eventos em Saúde no âmbito da Saúde Suplementar, para regulamentar a cobertura obrigatória do procedimento b… |

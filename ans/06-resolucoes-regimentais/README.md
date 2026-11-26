@@ -1,9 +1,10 @@
 # Resoluções Regimentais (RR)
 
-39 atos (19 vigentes). Ordenados do mais recente para o mais antigo. Clique no número para abrir o texto integral, anexos e histórico.
+40 atos (19 vigentes). Ordenados do mais recente para o mais antigo. Clique no número para abrir o texto integral, anexos e histórico.
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
+| [RR 40/2026](RR-0040-2026.md) | 25/11/2026 | Não vigente | Altera o texto principal, o Anexo I, Anexo I-d, Anexo I-e Anexo I-f, e Anexo I-h, todos da Resolução Regimental nº 21, de 26 de janeiro de 2022, que dispõe sobre o Regimento Interno da Agência Nacional de Saúde Suplement… |
 | [RR 39/2026](RR-0039-2026.md) | 20/10/2026 | Vigente | Altera a Resolução Regimental nº 21, de 26 de janeiro de 26 de janeiro de 2022 (Regimento Interno da Agência Nacional de Saúde Suplementar – ANS), na parte referente à Diretoria de Normas e Habilitação das Operadoras - D… |
 | [RR 38/2026](RR-0038-2026.md) | 28/08/2026 | Vigente | Altera os Anexos I e I-d da Resolução Regimental nº 21, de 26 de janeiro de 2022, que dispõe sobre o Regimento Interno da Agência Nacional de Saúde Suplementar – ANS, na parte referente aos cargos da Diretoria de Desenvo… |
 | [RR 37/2026](RR-0037-2026.md) | 18/05/2026 | Vigente | Altera o texto principal, substitui o Anexo I e os Anexos I-a, Anexo I-b, Anexo I-c, Anexo I-d, Anexo I-e, Anexo I-f, Anexo I-h, Anexo I-i e o Anexo I-j, todos da Resolução Regimental nº 21, de 26 de janeiro de 2022, que… |

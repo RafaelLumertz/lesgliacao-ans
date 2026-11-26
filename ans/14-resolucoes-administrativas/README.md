@@ -1,9 +1,10 @@
 # Resoluções Administrativas
 
-89 atos (33 vigentes). Ordenados do mais recente para o mais antigo. Clique no número para abrir o texto integral, anexos e histórico.
+90 atos (34 vigentes). Ordenados do mais recente para o mais antigo. Clique no número para abrir o texto integral, anexos e histórico.
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
+| [RA 90/2026](RA-0090-2026.md) | 25/11/2026 | Vigente | Dispõe sobre os critérios e procedimentos a serem observados para avaliação de desempenho de servidores ocupantes de cargo público efetivo durante o estágio probatório no âmbito da Agência Nacional de Saúde Suplementar –… |
 | [RA 89/2026](RA-0089-2026.md) | 20/05/2026 | Vigente | Dispõe sobre a instauração, a organização e o processamento da Tomada de Contas Especial - TCE no âmbito da ANS, bem como o seu encaminhamento ao Tribunal de Contas da União - TCU. |
 | [RA 88/2025](RA-0088-2025.md) | 29/04/2025 | Vigente | Institui a Política de Prevenção e Enfrentamento à Violência Laboral e ao Assédio Moral e Sexual na Agência Nacional de Saúde Suplementar. |
 | [RA 87/2025](RA-0087-2025.md) | 14/03/2025 | Vigente | Dispõe sobre a Política de Governança de Dados e Informações da Agência Nacional de Saúde Suplementar. |

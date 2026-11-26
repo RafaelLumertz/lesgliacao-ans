@@ -1,9 +1,12 @@
 # Resoluções Operacionais (RO) — atos sobre operadoras específicas — 2026
 
-103 atos.
+106 atos.
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
+| [RO 3192/2026](RO-3192-2026.md) | 25/11/2026 | Vigente | Dispõe sobre a instauração do regime de direção fiscal na operadora SANTO ANDRÉ PLANOS DE ASSISTÊNCIA MÉDICA LTDA. |
+| [RO 3191/2026](RO-3191-2026.md) | 25/11/2026 | Vigente | Dispõe sobre a instauração do regime de direção fiscal na IBBCA 2008 GESTÃO EM SAÚDE LTDA. |
+| [RO 3.190/2026](RO-0003-190-2026.md) | 25/11/2026 | Vigente | Dispõe sobre o encerramento do regime de direção fiscal da operadora UNIMED FRUTAL COOPERATIVA DE TRABALHO MÉDICO LTDA. |
 | [RO 3189/2026](RO-3189-2026.md) | 05/11/2026 | Vigente | Dispõe sobre a instauração do regime de direção fiscal na operadora ASSOCIAÇÃO ASSISTENCIAL DE SAÚDE SUPLEMENTAR CRUZ AZUL SAÚDE. |
 | [RO 3188/2026](RO-3188-2026.md) | 05/11/2026 | Vigente | Dispõe sobre a comercialização de planos ou produtos da operadora VALE PLANOS DE SAÚDE LTDA. |
 | [RO 3187/2026](RO-3187-2026.md) | 05/11/2026 | Vigente | Dispõe sobre a concessão da portabilidade especial de carências aos beneficiários da operadora CEAM BRASIL - PLANOS DE SAÚDE LTDA, Registro ANS nº 31.147-2. |

@@ -2,6 +2,17 @@
 
 Registro automático das atualizações do acervo (mais recentes primeiro).
 
+## 26/11/2026
+
+### Novos atos da ANS (6)
+
+- [RO 3192/2026](ans/09-resolucoes-operacionais/2026/RO-3192-2026.md) — Vigente — Dispõe sobre a instauração do regime de direção fiscal na operadora SANTO ANDRÉ PLANOS DE ASSISTÊNCIA MÉDICA LTDA.
+- [RO 3191/2026](ans/09-resolucoes-operacionais/2026/RO-3191-2026.md) — Vigente — Dispõe sobre a instauração do regime de direção fiscal na IBBCA 2008 GESTÃO EM SAÚDE LTDA.
+- [RO 3.190/2026](ans/09-resolucoes-operacionais/2026/RO-0003-190-2026.md) — Vigente — Dispõe sobre o encerramento do regime de direção fiscal da operadora UNIMED FRUTAL COOPERATIVA DE TRABALHO MÉDICO LTDA.
+- [RR 40/2026](ans/06-resolucoes-regimentais/RR-0040-2026.md) — Não vigente — Altera o texto principal, o Anexo I, Anexo I-d, Anexo I-e Anexo I-f, e Anexo I-h, todos da Resolução Regimental nº 21, de 26 de janeiro de 2022, que dispõe sobre o Regimento Interno da Agência Naciona
+- [RN 684/2026](ans/01-resolucoes-normativas/RN-0684-2026.md) — Não vigente — Altera o Anexo I da Resolução Normativa - RN nº 465, de 24 de fevereiro de 2021, para atualizar a descrição do procedimento "CIRURGIA ANTIGLAUCOMATOSA VIA ANGULAR COM IMPLANTE DE STENT DE DRENAGEM POR
+- [RA 90/2026](ans/14-resolucoes-administrativas/RA-0090-2026.md) — Vigente — Dispõe sobre os critérios e procedimentos a serem observados para avaliação de desempenho de servidores ocupantes de cargo público efetivo durante o estágio probatório no âmbito da Agência Nacional de
+
 ## 24/11/2026
 
 ### Nova pasta: Rol de Procedimentos
