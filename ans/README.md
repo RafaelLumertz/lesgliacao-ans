@@ -13,15 +13,15 @@ Coletados do [Portal de Legislação da ANS](https://componentes-portal.ans.gov.
 | [Pareceres da PROGE](07-pareceres-proge/README.md) | 19 | 19 |
 | [Entendimentos da DIFIS](08-entendimentos-difis/README.md) | 13 | 12 |
 | [Resoluções Operacionais (RO) — operadoras específicas](09-resolucoes-operacionais/README.md) | 3180 | 3151 |
-| [Comunicados](10-comunicados/README.md) | 101 | 101 |
+| [Comunicados](10-comunicados/README.md) | 102 | 102 |
 | [Portarias](11-portarias/README.md) | 47 | 46 |
 | [Despachos](12-despachos/README.md) | 5 | 5 |
 | [Instruções de Serviço](13-instrucoes-de-servico/README.md) | 66 | 3 |
 | [Resoluções Administrativas](14-resolucoes-administrativas/README.md) | 90 | 34 |
 | [Resoluções Especiais](15-resolucoes-especiais/README.md) | 22 | 1 |
-| **Total** | **4709** | **3763** |
+| **Total** | **4710** | **3764** |
 
-Anexos baixados: **539** arquivos.
+Anexos baixados: **541** arquivos.
 
 ## Atos com mais alterações
 

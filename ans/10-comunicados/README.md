@@ -1,9 +1,10 @@
 # Comunicados
 
-101 atos (101 vigentes). Ordenados do mais recente para o mais antigo. Clique no número para abrir o texto integral, anexos e histórico.
+102 atos (102 vigentes). Ordenados do mais recente para o mais antigo. Clique no número para abrir o texto integral, anexos e histórico.
 
 | Ato | DOU | Situação | Ementa |
 | --- | --- | --- | --- |
+| [Comunicado 000/2026](Comunicado-0000-2026.md) | 27/11/2026 | Vigente | Norma de links da RN 465 |
 | [Comunicado 100/2024](Comunicado-0100-2024.md) | 16/05/2024 | Vigente | COMUNICA que, ad referendum da Diretoria Colegiada, decidiu prorrogar o prazo para envio do Documento de Informações Periódicas das Operadoras de Planos de Assistência à Saúde - DIOPS/ANS referente ao 1º trimestre de 202… |
 | [Comunicado 99/2023](Comunicado-0099-2023.md) | 15/05/2023 | Vigente | COMUNICA que, ad referendum da Diretoria Colegiada, decidiu prorrogar o prazo para envio do Documento de Informações Periódicas das Operadoras de Planos de Assistência à Saúde - DIOPS/ANS referente ao 1º trimestre de 202… |
 | [Comunicado 98/2022](Comunicado-0098-2022.md) | 16/12/2022 | Vigente | Esclarecimentos sobre o uso da telessaúde no âmbito da saúde suplementar. |

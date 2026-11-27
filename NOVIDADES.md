@@ -2,6 +2,16 @@
 
 Registro automático das atualizações do acervo (mais recentes primeiro).
 
+## 27/11/2026
+
+### Novos atos da ANS (1)
+
+- [Comunicado 000/2026](ans/10-comunicados/Comunicado-0000-2026.md) — Vigente — Norma de links da RN 465
+
+### Leis com texto atualizado no Planalto (1)
+
+- [Lei nº 8.069, de 13 de julho de 1990 — Estatuto da Criança e do Adolescente (art. 12: acompanhante em internação)](leis/10-assistencia-coberturas-direitos/lei-8069-1990.md)
+
 ## 26/11/2026
 
 ### Novos atos da ANS (6)

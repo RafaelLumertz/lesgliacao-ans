@@ -2,14 +2,14 @@
 
 Acervo organizado da legislação brasileira que afeta as **operadoras de planos privados de assistência à saúde (OPS)** — regulação, fiscalização, supervisão, tributação, relações de consumo e coberturas: a legislação federal (com o histórico de alterações) e **todos** os atos normativos da **Agência Nacional de Saúde Suplementar (ANS)** — Resoluções Normativas, Instruções Normativas, RDCs, Resoluções CONSU, Súmulas, Resoluções Regimentais, Resoluções Operacionais, pareceres, entendimentos, comunicados, portarias e demais atos — com textos integrais, anexos e histórico normativo.
 
-> Atualizado em 26/11/2026. Os textos são reproduções de fontes oficiais e **não substituem a publicação no Diário Oficial da União**.
+> Atualizado em 27/11/2026. Os textos são reproduções de fontes oficiais e **não substituem a publicação no Diário Oficial da União**.
 
 ## Conteúdo
 
 | Pasta | O que tem | Qtde |
 | --- | --- | ---: |
 | [`leis/`](leis/README.md) | Constituição, leis, decretos e MPs (Planalto) que afetam as operadoras: marco legal (Lei nº 9.656/1998 com histórico de redações e todas as normas que a alteraram), agências reguladoras, fiscalização e regimes especiais, tributação, direito societário, consumidor, coberturas assistenciais e direitos dos pacientes | 89 |
-| [`ans/`](ans/README.md) | Atos normativos da ANS com texto integral, anexos e histórico | 4709 |
+| [`ans/`](ans/README.md) | Atos normativos da ANS com texto integral, anexos e histórico | 4710 |
 | [`ans/01-resolucoes-normativas/`](ans/01-resolucoes-normativas/README.md) | Todas as Resoluções Normativas (RN) disponíveis no portal da ANS | 701 |
 | [`rol-de-procedimentos/`](rol-de-procedimentos/README.md) | **Rol de Procedimentos e Eventos em Saúde**: anexos vigentes, lista de procedimentos (tabelas e planilha), Diretrizes de Utilização separadas por DUT e histórico de tudo o que cada norma incluiu, excluiu ou alterou — atualizado automaticamente | |
 | [`NOVIDADES.md`](NOVIDADES.md) | Registro das atualizações automáticas: atos novos, normas alteradas e leis novas | |
@@ -30,7 +30,7 @@ Acervo organizado da legislação brasileira que afeta as **operadoras de planos
 | [Pareceres da PROGE](ans/07-pareceres-proge/README.md) | 19 | 19 |
 | [Entendimentos da DIFIS](ans/08-entendimentos-difis/README.md) | 13 | 12 |
 | [Resoluções Operacionais (RO) — operadoras específicas](ans/09-resolucoes-operacionais/README.md) | 3180 | 3151 |
-| [Comunicados](ans/10-comunicados/README.md) | 101 | 101 |
+| [Comunicados](ans/10-comunicados/README.md) | 102 | 102 |
 | [Portarias](ans/11-portarias/README.md) | 47 | 46 |
 | [Despachos](ans/12-despachos/README.md) | 5 | 5 |
 | [Instruções de Serviço](ans/13-instrucoes-de-servico/README.md) | 66 | 3 |
